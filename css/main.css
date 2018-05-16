@@ -8,6 +8,11 @@
   padding-bottom: 5vh;
   margin-bottom: 5vh;
 }
+.img {
+  width: 30%;
+  margin: auto;
+}
+
 nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
