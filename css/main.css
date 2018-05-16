@@ -5,6 +5,7 @@
   width: 100vw;
   padding-left: 10vw;
   padding-right: 5vw;
+  padding-bottom: 5vh;
 }
 nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
