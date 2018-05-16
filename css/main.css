@@ -33,13 +33,12 @@ p {
   line-height: 1.4em;
   color: #333;
 }
-header {
+.header {
   color: orange;
   font-size: 1em;
   background-color: #859;
 }
-footer {
-  
+.footer {
   font-size: 1.5em;
   color: orange;
   width: 100%;
