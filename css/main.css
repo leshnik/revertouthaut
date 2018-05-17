@@ -3,11 +3,11 @@
   overflow: scroll;
   height: 150vh;
   width: 100vw;
-  max-width: 950px;
+  
   padding-left: 5vw;
   padding-right: 5vw;
   padding-bottom: 10vh;
-  margin-right: 3em;
+  
   text-align: justify;
   background-color: #d6dcd9;
   font-family: 'Raleway', serif;
@@ -56,7 +56,7 @@ p {
 .footer {
   font-size: 1.2em;
   color: orange;
-  width: 100%;
+  width: 108vw;
   padding: 2vh 0 2vh;
   position: fixed;
   bottom: 0;
