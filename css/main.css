@@ -10,6 +10,7 @@
   margin-right: 3em;
   text-align: justify;
   background-color: #989;
+  font-family: 'Raleway', serif;
 }
 .img {
   float: left;
@@ -49,7 +50,7 @@ p {
   font-size: 2.5em;
   background-color: #859;
   position: static;
-  margin-left: -2vh;
+  margin: 0 -4vh;
   padding-left: 3vh;
 }
 .footer {
