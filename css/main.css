@@ -1,13 +1,15 @@
 
 .content-container {
   overflow: scroll;
-  height: 100vh;
+  height: 150vh;
   width: 100vw;
-  max-width: 900px;
+  max-width: 950px;
   padding-left: 5vw;
   padding-right: 5vw;
-  padding-bottom: 5vh;
-  margin-bottom: 5vh;
+  padding-bottom: 10vh;
+  margin-right: 3em;
+  text-align: justify;
+  background-color: #989;
 }
 .img {
   float: left;
@@ -21,7 +23,7 @@ nav ul, footer ul {
   list-style: none;
   font-weight: bold;
 }
-nav ul li, foot ul li {
+nav ul li, footer ul li {
   display: inline;
   margin-right: 1em;
   margin-left: 1em;
@@ -44,9 +46,11 @@ p {
 }
 .header {
   color: orange;
-  font-size: .8em;
+  font-size: 2.5em;
   background-color: #859;
   position: static;
+  margin-left: -2vh;
+  padding-left: 3vh;
 }
 .footer {
   font-size: 1.2em;
@@ -59,11 +63,4 @@ p {
 }
 .footer .nav-links a {
   color: #a6a2a2;
-}
-ul.posts {
-  margin: 20px auto 40px;
-  font-size: 1.5em;
-}
-ul.posts li {
-  list-style: none;
 }
