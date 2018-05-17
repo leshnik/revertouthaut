@@ -1,13 +1,11 @@
 
 .content-container {
-  overflow-y: scroll;
-  height: 150vh;
+  overflow: scroll;
+  height: auto;
   width: auto;
-  
   padding-left: 3em;
   padding-right: 3em;
-  padding-bottom: 10vh;
-  
+  padding-bottom: 5em;
   text-align: justify;
   background-color: #d6dcd9;
   font-family: 'Raleway', serif;
@@ -61,6 +59,7 @@ p {
   position: fixed;
   bottom: 0;
   background-color: #859;
+  
 }
 .footer .nav-links a {
   color: #a6a2a2;
