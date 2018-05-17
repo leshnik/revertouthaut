@@ -9,8 +9,9 @@
   margin-bottom: 5vh;
 }
 .img {
-  width: 30%;
-  margin: auto;
+  float: left;
+  width: 25vw;
+  padding-left: 5vw;
 }
 
 nav ul, footer ul {
