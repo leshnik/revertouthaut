@@ -17,7 +17,7 @@
   padding-bottom: 6em;
   text-align: justify;
   background-color: #d6dcd9;
-  font-family: 'Raleway', serif;
+  font-family: 'Libre Baskerville, serif';
 }
 .img {
   float: left;
@@ -29,11 +29,17 @@
   margin-left: 1em;
 }
 
+.rever-typog {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 900;
+  font-size: 1.2em;
+  display: inline;
+}
 nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
   list-style: none;
-  font-weight: bold;
+  font-weight: normal;
 }
 nav ul li, footer ul li {
   display: inline;
@@ -59,6 +65,7 @@ p {
 .header {
   color: orange;
   font-size: 2.5em;
+  font-family: "Amatic SC";
   background-color: #859;
   position: static;
   margin: 0 -4vh;
