@@ -1,11 +1,20 @@
+:root {
+  box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+  box-sizing: inherit;
+}
 
 .content-container {
-  overflow: scroll;
+  overflow: auto;
   height: auto;
   width: auto;
   padding-left: 3em;
   padding-right: 3em;
-  padding-bottom: 5em;
+  padding-bottom: 6em;
   text-align: justify;
   background-color: #d6dcd9;
   font-family: 'Raleway', serif;
@@ -13,7 +22,11 @@
 .img {
   float: left;
   width: 25vw;
-  padding-left: 5vw;
+ 
+}
+.img-right {
+  float: right;
+  margin-left: 1em;
 }
 
 nav ul, footer ul {
