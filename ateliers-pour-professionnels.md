@@ -14,18 +14,17 @@ Alors, que proposer, à partir de toutes ces données, pour que l’accompagneme
 
 Voici un exemple de texte témoignant d’une rencontre et d’un accompagnement vécus dans le cadre du travail social :
 
-Le terrier 
-
-« Il sort de son garage, de son terrier de mégots et de merdes séchées
-Il sourit
-Il s’accroupit, il ne peut pas rester ni debout ni assis
-Debout, c’est pour ceux qui savent se présenter, dire bonjour, parler d’eux, serrer les mains des autres, même de leurs ennemis
-Assis, c’est pour ceux qui savent manger à table, compter, écrire, multiplier
-Il se met en position d’attente, les fesses posées sur ses talons, toujours prêt à filer, à aller se cacher comme les millions de souris qui vivent avec lui dans son abri anti-aérien
-Le monde est plein de prédateurs, de crocs et de portes contre lesquelles on n’a pas le droit de s’adosser
-Peut-être a-t-il peur de la guerre, celle que chaque jour il perd un peu plus et qu’il ne gagnera pas contre ses mains vides, contre son foie, contre ses cicatrices, contre 6 milliards d’humains et contre sa mère invisible, et éternellement fâchée
-Je ne pense pas qu’il ait été un jour enfant, je pense qu’il est né ainsi, 1 mètre 80, de corps presque liquide, de corps sans maintien.
-Mais ce matin il sourit. Un répit. De trois minutes et demi. 
+## Le terrier 
+>« Il sort de son garage, de son terrier de mégots et de merdes séchées  
+Il sourit  
+Il s’accroupit, il ne peut pas rester ni debout ni assis  
+Debout, c’est pour ceux qui savent se présenter, dire bonjour, parler d’eux, serrer les mains des autres, même de leurs ennemis  
+Assis, c’est pour ceux qui savent manger à table, compter, écrire, multiplier  
+Il se met en position d’attente, les fesses posées sur ses talons, toujours prêt à filer, à aller se cacher comme les millions de souris qui vivent avec lui dans son abri anti-aérien  
+Le monde est plein de prédateurs, de crocs et de portes contre lesquelles on n’a pas le droit de s’adosser  
+Peut-être a-t-il peur de la guerre, celle que chaque jour il perd un peu plus et qu’il ne gagnera pas contre ses mains vides, contre son foie, contre ses cicatrices, contre 6 milliards d’humains et contre sa mère invisible, et éternellement fâchée  
+Je ne pense pas qu’il ait été un jour enfant, je pense qu’il est né ainsi, 1 mètre 80, de corps presque liquide, de corps sans maintien.  
+Mais ce matin il sourit. Un répit. De trois minutes et demi.   
 Car il n’est pas mort cette nuit. Ni de froid, ni d’ennui, ni de souterrain, ni  de coup de pelle, ni de mauvais vin »
 
 *Rêver tout haut*{:.rever-typog}  est donc un lieu où les travailleurs sociaux et leurs institutions peuvent trouver un accompagnement qui leur permette d’élaborer et de transformer leurs expériences, leur charge de travail, les liens à leurs usagers, le regard qu’ils portent sur eux (et réciproquement) au quotidien. 
