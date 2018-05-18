@@ -1,4 +1,4 @@
-# Travail social
+# Ateliers à destination des professionnels
 
 *Rêver tout haut*{:.rever-typog} s’intéresse à ce qui fonde le travail social et crée spécialement pour  les professionnels œuvrant dans ce domaine des ateliers qui leur sont destinés. En effet, il nous parait important que les travailleurs sociaux, les enseignants, les soignants, les personnes qui sont le plus en contact avec des problématiques parfois lourdes puissent elles aussi déposer et transformer quelque chose de leur vécu professionnel et personnel. Et en effet, ce vécu et ses ressentis peuvent être compliqués et il est bon qu’il soit parfois partagé et matière à élaboration.
 

@@ -74,8 +74,8 @@ p {
 .footer {
   font-size: 1.2em;
   color: orange;
-  width: auto;
-  padding: 2vh 0 2vh;
+  width: 100vw;
+  /*padding: 2vh 0 2vh; */
   position: fixed;
   bottom: 0;
   background-color: #859;
