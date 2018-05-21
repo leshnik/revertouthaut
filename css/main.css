@@ -63,6 +63,8 @@ p {
   color: #333;
 }
 .header {
+  display: inline;
+  width: auto;
   color: orange;
   font-size: 2.5em;
   font-family: "Amatic SC";
