@@ -63,15 +63,26 @@ p {
   color: #333;
 }
 .header {
-  display: inline;
-  width: auto;
   color: orange;
   font-size: 2.5em;
   font-family: "Amatic SC";
   background-color: #859;
   position: static;
-  margin: 0 -4vh;
-  padding-left: 3vh;
+  margin: auto;
+  padding: 0;
+}
+.masks {
+  display: flex;
+  list-style-type: none;
+  padding-left: .5em;
+  margin: auto;
+  
+}
+.masks > li {
+  margin-top: 0;
+}
+.masks > li > {
+  display: block;
 }
 .footer {
   font-size: 1.2em;
