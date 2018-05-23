@@ -28,3 +28,5 @@ Ce qui se passe à l’intérieur d’un atelier reste confidentiel, et les œuv
 >*« Il s’agit en quelque sorte de créer des « mises en forme imaginaires de soi-même », des déclinaisons de son identité à travers des formes artistiques dans un parcours de créations qui provoquent peu à peu la transformation du sujet créateur, qui lui indiquent un sens, partent de ses douleurs et de ses violences, de ses folies, de ses joies aussi, de toutes ses intensités, de ses idéaux comme des forces obscures, pour le faire le matériau d’un cheminement personnel. En bref, comme on l’a parfois dit, « transformer la merde en engrais ».* 
 
 > -- <cite>Jean-Pierre Klein "L'art-thérapie", PUF, 1997, p.42
+  
+<br>

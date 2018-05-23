@@ -31,4 +31,4 @@ Mais ce matin il sourit. Un répit. De trois minutes et demi.
 Car il n’est pas mort cette nuit. Ni de froid, ni d’ennui, ni de souterrain, ni  de coup de pelle, ni de mauvais vin* »
 
 *Rêver tout haut*{:.rever-typog}  est donc un lieu où les travailleurs sociaux et leurs institutions peuvent trouver un accompagnement qui leur permette d’élaborer et de transformer leurs expériences, leur charge de travail, les liens à leurs usagers, le regard qu’ils portent sur eux (et réciproquement) au quotidien. 
-
+<br>

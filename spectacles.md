@@ -105,6 +105,6 @@ Y’avait du vent. Le bébé me regardait et je me suis dit : la seule chose qu
 
 *L’hibernance des bêtes*, lectures mises en musique de textes écrits lors d’ateliers d’écriture organisés dans le cadre de travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour 2019. 
 
-
+<br>
 
 
