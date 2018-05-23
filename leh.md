@@ -1,3 +1,8 @@
+---
+layout: default
+title: Les Êtres Humaines
+---
+
 # Les êtres humaines
 ![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1526489757/êtres_humaines_flyer_tournee2013_pzhlxa.jpg)
 {: .img} 
