@@ -123,9 +123,10 @@ p {
 .dropbtn {
   background-color: #4CAF50;
   color: white;
-  padding: 16px;
+  padding: .5em;
   border: none;
   cursor: pointer;
+  font-size: .8em;
 }
 .dropdown {
   position: relative;

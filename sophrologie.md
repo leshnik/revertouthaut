@@ -14,4 +14,4 @@ La sophrologie travaille avec les ressources et les valeurs de chacun, en prenan
 
 
 Lors d'une séance, ce temps dédié à la sophronisation est précédé et suivi d'un dialogue avec le sophronisant pour formuler son objectif, évaluer son état du moment, et revenir sur ses ressentis après la séance.
->>>>>>> gh-pages
+
