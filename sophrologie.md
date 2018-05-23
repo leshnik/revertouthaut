@@ -1,6 +1,13 @@
 ---
 layout: default
-title: a propos
+title: sophrologie
 ---
-# test h1 line
-## test h2 line
+# sophrologie
+
+## test h2 section1
+
+general description of sophrologie
+
+## test h2 section2
+
+workshops... etc etc
