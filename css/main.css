@@ -35,6 +35,11 @@
   font-size: 1.2em;
   display: inline;
 }
+.rever-list {
+  list-style: none;
+  background-color: #6f6;
+  padding-left: .3em;
+}
 nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
