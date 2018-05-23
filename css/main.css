@@ -69,6 +69,10 @@ p {
   line-height: 1.4em;
   color: #333;
 }
+.cite {
+  font-size: .7em;
+  margin-top: -2em;
+}
 
 .header {
   color: orange;
