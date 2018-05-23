@@ -37,8 +37,9 @@
 }
 .rever-list {
   list-style: none;
-  background-color: #6f6;
+  background-color: #b3ffb3;
   padding-left: .3em;
+  font-size: 1.5em;
 }
 nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
