@@ -4,7 +4,7 @@
 
 > « *Le travailleur social se veut et se pense médiateur. C’est l’auto-définition qu’on rencontre le plus souvent dans tous les points du champ. Mais l’impossible et l’intenable de cette position font qu’elle se maintient toujours dans l’incertitude de ne pouvoir poursuivre jusqu’au bout son geste. Il ne peut pas complètement prendre le parti des personnes marginalisées par le fonctionnement de la machine sociale, au risque d’apparaître irresponsable et de se discréditer. Mais il ne peut pas non plus se ranger complètement du côté des mandataires de la société qui commanditent son action, au risque de la rendre inefficace auprès de ceux qui sont ses publics. Il est ainsi tenu d’osciller sans cesse entre les deux positions.*» 
 
->> Michel Autès dans « *Les paradoxes du travail social* ».
+Michel Autès dans « *Les paradoxes du travail social* »
 {:.cite}
 
 Au-delà cette complexité des liens à créer et à maintenir avec les usagers, le travail social et le travail soignant s’inscrivent et sont les témoins de leur époque. Et la nôtre n’est pas particulièrement tendre avec le monde du travail en général et encore moins avec le travail soignant et social : politique du management qui remplace petit à petit des relations dites « plus humaines », plus souples et plus proches des attentes et des missions pour lesquelles le professionnel s’était engagé dans ce métier. Burn out, stress, conflits et souffrances au travail sont une réalité à prendre en compte aujourd’hui. 

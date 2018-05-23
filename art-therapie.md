@@ -11,9 +11,11 @@ L’art-thérapie fait partie des méthodes centrées sur le soin à la personne
 L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier et met en travail, par le biais des médiations créatives, les problématiques psychiques, physiques et sociales des personnes. En ce sens, la production d’œuvres, leur achèvement, leur « réussite » voire leur rendu public  y sont beaucoup moins urgents, essentiels que le processus lui-même. 
 
 L’art-thérapie permet de travailler le dialogue que les personnes entretiennent avec leur monde intérieur, leur espace de pensées ou leurs difficultés à penser et permet aussi de travailler le liens aux autres, sa place parmi le groupe lorsque l’atelier est collectif.  L’art-thérapie s’intéresse donc à l’énigme que chacun de nous porte en soi et à tout ce qui peut se symboliser dans un travail créatif comme symptôme, angoisse, non-dits, blocages, souffrances.  
->*« Son itinéraire aventureux va de l’inconnu à soi que l’on est vers l’inconnu de soi que l’on crée. »* 
 
->>Jean-Pierre Klein, « *L'art-thérapie : de l'inconnu à soi que l'on est vers l'inconnu de soi que l'on crée* », Cahiers jungiens de psychanalyse 2012/1 (N° 135), p. 75-96.
+> « *Son itinéraire aventureux va de l’inconnu à soi que l’on est vers l’inconnu de soi que l’on crée.* »
+
+Jean-Pierre Klein,  
+Cahiers jungiens de psychanalyse 2012/1 (N° 135), p. 75-96.
 {:.cite}
 
 
@@ -27,9 +29,8 @@ Les séances sont régulières ou ponctuelles, individuelles ou groupales. Leur 
 
 Ce qui se passe à l’intérieur d’un atelier reste confidentiel, et les œuvres créées, les traces laissées restent la propriété des personnes participantes. 
 
->*« Il s’agit en quelque sorte de créer des « mises en forme imaginaires de soi-même », des déclinaisons de son identité à travers des formes artistiques dans un parcours de créations qui provoquent peu à peu la transformation du sujet créateur, qui lui indiquent un sens, partent de ses douleurs et de ses violences, de ses folies, de ses joies aussi, de toutes ses intensités, de ses idéaux comme des forces obscures, pour le faire le matériau d’un cheminement personnel. En bref, comme on l’a parfois dit, « transformer la merde en engrais ».* 
+> « *Il s’agit en quelque sorte de créer des « mises en forme imaginaires de soi-même », des déclinaisons de son identité à travers des formes artistiques dans un parcours de créations qui provoquent peu à peu la transformation du sujet créateur, qui lui indiquent un sens, partent de ses douleurs et de ses violences, de ses folies, de ses joies aussi, de toutes ses intensités, de ses idéaux comme des forces obscures, pour le faire le matériau d’un cheminement personnel. En bref, comme on l’a parfois dit, « transformer la merde en engrais* ».
 
->>Jean-Pierre Klein, « *L'art-thérapie* », PUF, 1997, p.42.
+Jean-Pierre Klein, « *L'art-thérapie* », PUF, 1997, p 42.
 {:.cite}
-  
 <br>
