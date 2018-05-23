@@ -112,7 +112,7 @@ p {
   
 }
 .footer .nav-links a {
-  color: #a6a2a2;
+  color: black;
 }
 .footer .nav-links a:hover {
   color: orange;
@@ -149,7 +149,7 @@ p {
 }
 
 .dropdown-content a:hover {
-  background-color: #f1f1f1
+  background-color: black;
 }
 .dropdown:hover .dropdown-content {
   display: block;
