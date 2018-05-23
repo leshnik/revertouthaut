@@ -112,7 +112,10 @@ p {
   
 }
 .footer .nav-links a {
-  color: black;
+  color: white;
+  background-color: #4CAF50;
+  font-size: .8em;
+  padding: .5em;
 }
 .footer .nav-links a:hover {
   color: orange;
