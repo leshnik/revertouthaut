@@ -58,6 +58,7 @@ a {
 }
 a:hover {
   text-decoration: underline;
+  color: orange;
 }
 h1 {
   font-size: 3em;
@@ -73,7 +74,7 @@ p {
   color: orange;
   font-size: 2.5em;
   font-family: "Amatic SC";
-  background-color: #859;
+  background-color: #b5fa9e;
   position: static;
   margin: auto;
   padding: 0;
@@ -96,16 +97,18 @@ p {
 }*/
 .footer {
   font-size: 1.2em;
-  color: orange;
   width: 100vw;
   /*padding: 2vh 0 2vh; */
   position: fixed;
   bottom: 0;
-  background-color: #859;
+  background-color: #b5fa9e;
   
 }
 .footer .nav-links a {
   color: #a6a2a2;
+}
+.footer .nav-links a:hover {
+  color: orange;
 }
 .teal {
   color: teal;
