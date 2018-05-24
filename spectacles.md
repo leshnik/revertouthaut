@@ -9,7 +9,7 @@ title: Spectacles Vivants
 
 <a href="leh">Les Étres Humaines</a>
 
-<a href="blem">Bercer l'infant manquant</a>
+<a href="blem">Bercer l'enfant manquant</a>
 
 <a href="lhdb">L'hibernance des bêtes</a>
 
