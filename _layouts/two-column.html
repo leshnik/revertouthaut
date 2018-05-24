@@ -1,17 +1,18 @@
 <!DOCTYPE html>
   <html>
-    {% include head.html %}
+    {% include head2.html %}
     <body>
       
-      
+    <div class="outmost">
+      <div class="left-container">
+        {% include nav-links2.html %}
+      </div>
       <div class="content-container">
         {% include header.html %}
         {{ content }}
       </div><!-- /.container -->
-      <div class="left-container">
-        {% include nav-links.html %}
-      </div>
-       
+      
+    </div>   
       
     </body>
   </html>

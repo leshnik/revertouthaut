@@ -8,6 +8,11 @@
   box-sizing: inherit;
 }
 
+.outmost {
+  max-width: 1050px;
+  margin: 0 auto;
+  display: flex;
+}
 .content-container {
   overflow: auto;
   height: auto;
@@ -41,6 +46,11 @@
   padding-left: .3em;
   font-size: 1.5em;
 }
+
+.2col-ul {
+  text-decoration: none;
+}
+
 nav ul, footer ul {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   padding: 0px;
@@ -102,6 +112,11 @@ p {
 /*.masks > li > {
   display: inline;
 }*/
+
+
+
+
+
 .footer {
   font-size: 1.2em;
   width: 100vw;

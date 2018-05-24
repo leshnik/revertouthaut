@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: two-column
 title: rêver tout haut
 ---
 ## Créativité, soin, lien social et spectacles vivants
