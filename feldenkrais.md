@@ -1,3 +1,9 @@
+---
+layout: two-column
+title: La Méthode Feldenkrais
+---
+
+
 # la méthode feldenkrais
 
 La méthode Feldenkrais s'appuie sur le mouvement, considéré comme le meilleur révélateur de notre façon d'être et d'agir. Pratiquée en groupe, elle se base ...

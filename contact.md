@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: two-column
 title: contacts
 ---
 ## valérie

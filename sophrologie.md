@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: two-column
 title: sophrologie
 ---
-# LA SOPHROLOGIE
+# SOPHROLOGIE
 
 La sophrologie est une méthode élaborée par le neuropsychiatre Alfonso Caycedo en 1960. Elle travaille essentiellement sur la respiration, la prise de conscience du corps, le mouvement, la relaxation corporelle et la conscience. La détente corporelle est une étape importante mais le but de la sophrologie est l'accès au travail sur la conscience.
 
