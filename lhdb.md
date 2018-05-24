@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: two-column
 title: L'hibernance des bêtes
 ---
 

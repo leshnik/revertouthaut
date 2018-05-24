@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: two-column
 title: Valérie Gaudissart
 ---
-## Valérie Gaudissart
+# Valérie Gaudissart
 
-### Art-thérapeute
+## Art-thérapeute
 
 Après des études théâtrales à Paris III, Valérie se forme, en étudiant les films des autres, au scénario et à la réalisation audiovisuelle. Elle réalise une huitaine de courts-métrages, tous primés en festival et un long-métrage de fiction, sorti en 2012. Ayant toujours ressenti la nécessité d’allier son travail fictionnel à un travail plus relié au monde social et à ses problématiques, elle monte à Chalon sur Saône un long projet de médiations théâtrales pour femmes victimes de violences conjugales. Elle crée la pièce « les êtres humaines »  qui traite de l’intimité de ces violences, et qui tournera trois ans en Saône et Loire. Cette expérience riche et fondatrice lui a donné le désir de se former à l’art-thérapie. Elle est depuis 2017, diplômée de l’Institut de Psychologie de Lyon II et est titulaire du Diplôme Universitaire « Soins Psychiques, créativité et expression artistique ». Elle prépare actuellement un nouveau spectacle « Bercer l’enfant manquant », qui traite de la complexité des liens mère/enfant et qui partira en tournée en Saône et Loire en 2019. Valérie a toujours considéré les rencontres comme étant les moteurs et les prétextes de ses créations, et toujours pensé que son travail devait être pluri-disciplinaire. Elle intervient en tant qu’art-thérapeute, anime des ateliers, adore trouver des nouvelles idées de médiations et continue de suivre des études de psychologie à Lyon II en Formation Par la Pratique. Elle vit depuis une quinzaine d’années dans un petit village de Saône et Loire.

@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: two-column
 title: Isis Philippe-Janon
 ---
 
-## Isis Philippe-Janon
+# Isis Philippe-Janon
 
-### Sophrologue
+## Sophrologue
 
 De formation initiale littéraire et théâtrale (Master 1 de Lettres Modernes, et Formation de comédienne sur Paris), Isis a toujours eu à cœur de transmettre quelque chose : d'une émotion à la passion pour un texte, en passant par la découverte d'une nouvelle facette de soi, et par tous les possibles auxquels il est permis de rêver... L'autre est au cœur de ses préoccupations.
 Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découverte de ses ressources pour traverser au mieux tous les moments de vie.

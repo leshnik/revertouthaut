@@ -1,4 +1,9 @@
-## Bercer l'enfant manquant
+---
+layout: two-column
+title: Bercer l'enfant manquant
+---
+
+# Bercer l'enfant manquant
 ![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1526489491/affiche_enfant_manquant_ytzq2e.jpg)
 {: .img} 
 *Bercer l’enfant manquant* est une pièce en création en 2018 et qui partira en tournée en Saône et Loire en 2019  en partenariat avec l’Association Ils Scenent et de multiples structures d’accueil des problématiques de parentalité. La pièce, basée sur des témoignages de mères et de soignantes récoltés lors d’ateliers à médiation qui utilisaient la musique, les berceuses du monde, la composition de chansons, et la parole, traite de la complexité des liens mère/enfant et aborde une vaste étendue de sujets : l’accouchement, la césarienne, la naissance de jumeaux, la prématurité, la PMA, l’adoption, la mort in-utero, la dépression post-partum, l’émerveillement...
