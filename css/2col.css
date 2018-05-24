@@ -1,0 +1,170 @@
+:root {
+  box-sizing: border-box;
+}
+
+*,
+::before,
+::after {
+  box-sizing: inherit;
+}
+
+.outmost {
+  max-width: 1050px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.left-container {
+  flex: 1;
+  margin-top: 2em;
+}
+.inside-left {
+  position: fixed;
+}
+
+.left-container li {
+  text-decoration: none;
+  list-style-type: none;
+}
+.left-container a {
+  color: black;
+  font-family: "Amatic SC";
+  font-weight: bold;
+  font-size: 1.5em;
+}
+.content-container {
+  flex: 7;
+  overflow: auto;
+  height: auto;
+  /* width: auto; */
+  padding-left: 3em;
+  padding-right: 3em;
+  /* padding-bottom: 6em; */
+  text-align: justify;
+  background-color: white;
+  font-family: 'Libre Baskerville, serif';
+}
+.img {
+  float: left;
+  width: 25vw;
+ 
+}
+.img-right {
+  float: right;
+  margin-left: 1em;
+}
+
+.rever-typog {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 900;
+  font-size: 1.2em;
+  display: inline;
+}
+.rever-list {
+  list-style: none;
+  background-color: #c9d4c4;
+  padding-left: .3em;
+  font-size: 1.5em;
+}
+
+
+
+
+a {
+  text-decoration: none;
+  list-style: none;
+}
+a:hover {
+  text-decoration: none;
+  color: orange;
+  font-size: 1.8em;
+}
+h1 {
+  font-size: 3em;
+  font-family: "Amatic SC";
+  color: #C4389A;
+}
+h2 {
+  font-family: "Amatic SC";
+  color: #c4389a;
+}
+p {
+  font-size: 1.5em;
+  line-height: 1.4em;
+  color: #333;
+}
+.cite {
+  font-size: 1.3em;
+  margin-top: -1em;
+  text-align: right;
+}
+
+.header {
+  color: orange;
+  font-size: 4em;
+  font-family: "Amatic SC";
+  background-color: #94CDDB;
+  /* position: static; */
+  margin: auto;
+  padding: 0;
+}
+
+.masks {
+  display: flex;
+  list-style-type: none;
+  padding-left: .2em;
+  padding-right: .2em;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+  
+}
+.masks > li {
+  margin-top: .3em;
+  margin-bottom: 0;
+}
+/*.masks > li > {
+  display: inline;
+}*/
+
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: .5em;
+  border: none;
+  cursor: pointer;
+  font-size: .8em;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  top: -4em;
+  background-color: #f9f9f9;
+  min-width: 15em;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: .2em .5em;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: white;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+.dropdown:hover .dropbtn {
+  background-color: #3e8e41;
+}
+
+
