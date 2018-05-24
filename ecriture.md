@@ -2,7 +2,7 @@
 layout: two-column
 title: Ateliers d'écriture
 ---
-#Ateliers d’écriture pour travailleurs sociaux et soignants
+# Ateliers d’écriture pour travailleurs sociaux et soignants
 
 
 *Rêver tout haut*{:.rever-typog} s’intéresse au monde du travail, et plus particulièrement au travail social, au travail soignant, à tout travail où l’accompagnement des personnes est fondateur et au cœur des missions.  L’association crée spécialement pour  les professionnels et leurs institutions d’accompagnement social ou de soin des ateliers de création qui leur sont destinés. En effet, il nous parait important que les travailleurs sociaux, les enseignants, les soignants, les personnes qui sont le plus en contact avec des problématiques parfois lourdes puissent elles aussi déposer et transformer quelque chose de leur vécu professionnel et personnel. Et en effet, ce vécu et ses ressentis peuvent être compliqués et il est bon qu’il soit parfois partagé et matière à élaboration. Il faut en effet pouvoir prendre soin de soi pour pouvoir prendre soin des autres. 
