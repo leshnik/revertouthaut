@@ -73,6 +73,8 @@
 a {
   text-decoration: none;
   list-style: none;
+  font-family: "Amatic SC";
+  font-size: 1.5em;
 }
 a:hover {
   text-decoration: none;
