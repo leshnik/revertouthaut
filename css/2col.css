@@ -162,7 +162,9 @@ ul  li {
   margin: auto;
   padding: 0;
 }
-
+.head-list {
+  font-size: 4em;
+}
 .masks {
   display: flex;
   list-style-type: none;
