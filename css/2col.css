@@ -162,8 +162,14 @@ ul  li {
   margin: auto;
   padding: 0;
 }
-.head-list {
+.head-list1 {
   font-size: 4em;
+}
+.head-list2 {
+  font-size: 5em;
+}
+.head-list3 {
+  font-size: 6em;
 }
 .masks {
   display: flex;
