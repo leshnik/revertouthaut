@@ -62,6 +62,7 @@ Enfin- comme nous travaillons aussi pour différentes structures- voici une list
     - des personnes en recherche d’emploi
     - des personnes précaires et exclues des relations sociales
     - des personnes suivies par les services judiciaires
+    - du passage à la retraite
   - Lieux d’accueil des questions de parentalité (LAEP)
   - Education Nationale
   - Missions d’accueil des réfugiés et demandeurs d’asile
@@ -72,3 +73,6 @@ Enfin- comme nous travaillons aussi pour différentes structures- voici une list
   - Foyers d’hébergement
   - Service d’accompagnement de personnes victimes de violence
   - Médiations familiales
+  - Mutuelle Sociale Agricole  
+  - Caisses de retraite
+

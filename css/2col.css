@@ -118,9 +118,10 @@ a {
   font-size: 1.5em;
 }
 a:hover {
-  text-decoration: none;
-  color: orange;
-  font-size: 1.8em;
+  text-decoration: underline overline;
+  color: #ff5300;
+  font-size: 1.9em;
+  font-style: bold;
 }
 h1 {
   font-size: 3em;
@@ -130,6 +131,7 @@ h1 {
 h2 {
   font-family: "Amatic SC";
   color: #c4389a;
+  font-size: 2.3em;
 }
 p {
   font-size: 1.5em;
