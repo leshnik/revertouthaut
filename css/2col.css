@@ -32,6 +32,47 @@
   font-weight: bold;
   font-size: 1.5em;
 }
+
+.color01 a {
+  color: #984A4B;
+}
+.color02 a {
+  color: #7C984A;
+}
+.color03 a {
+  color: #07237D;
+}
+.color04 a {
+  color: #0EA37F;
+}
+.color05 a {
+  color: #31A30E;
+}
+.color06 a {
+  color: #9FA30E;
+}
+.color07 a {
+  color: #A3610E;
+}
+.color08 a {
+  color: #A30E0F;
+}
+.color09 a {
+  color: #A30E45;
+}
+.color10 a {
+  color: #980EA3;
+}
+.color11 a {
+  color: #0E1DA3;
+}
+.color12 a {
+  color: #0E68A3;
+}
+.color13 a{
+  color: #0E95A3;
+}
+
 .content-container {
   flex: 7;
   overflow: auto;
