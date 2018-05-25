@@ -138,6 +138,15 @@ p {
   line-height: 1.4em;
   color: #333;
 }
+ul {
+  font-size: 1.3em;
+  list-style-type: square;
+}
+
+ul  li {
+  font-size: 1.2rem;
+}
+
 .cite {
   font-size: 1.3em;
   margin-top: -1em;
