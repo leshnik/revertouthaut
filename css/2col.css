@@ -154,7 +154,7 @@ ul  li {
   margin-top: -1em;
   text-align: right;
 }
-
+/* header section */
 .header {
   color: orange;
   font-size: 4em;
@@ -168,10 +168,13 @@ ul  li {
   font-size: 4em;
 }
 .head-list2 {
-  font-size: 5em;
+  font-size: 4.5em;
 }
 .head-list3 {
-  font-size: 6em;
+  font-size: 5em;
+}
+.invisible {
+  opacity: 0;
 }
 .masks {
   display: flex;
@@ -231,4 +234,6 @@ ul  li {
   background-color: #3e8e41;
 }
 
-
+.top-line {
+  background-color: white;
+}

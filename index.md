@@ -3,6 +3,7 @@ layout: two-column
 title: rêver tout haut
 ---
 # Créativité, soin, lien social et spectacles vivants
+{:.top-line}
 
 ### Médiations et accompagnements thérapeutiques et créatifs adaptés aux personnes et aux institutions
 
