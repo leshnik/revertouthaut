@@ -10,6 +10,4 @@ title: Équipe
 
 <a href="morton">Morton Potash</a>
 
-<a href="brice">Brice Notin</a>
-
 
