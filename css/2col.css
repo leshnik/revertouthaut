@@ -123,7 +123,7 @@ a {
   font-size: 1.5em;
 }
 a:hover {
-  text-decoration: underline overline;
+  text-decoration: none;
   color: #ff5300;
   font-size: 1.9em;
   font-style: bold;
