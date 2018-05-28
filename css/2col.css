@@ -125,6 +125,7 @@ a {
   list-style: none;
   font-family: "Amatic SC";
   font-size: 1.5em;
+  color: #cc667a;
 }
 a:hover {
   text-decoration: none;
