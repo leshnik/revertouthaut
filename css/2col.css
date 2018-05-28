@@ -17,6 +17,8 @@
 .left-container {
   flex: 1;
   margin-top: 2em;
+  padding-left: 1em;
+  
 }
 .inside-left {
   position: fixed;
