@@ -5,13 +5,15 @@ title: Tarifs
 
 # Tarifs
 
-Les tarifs des séances dépendent du nombre de personnes, de la préparation qu’elles demandent, des matériaux utilisés et des déplacements. 
+Les tarifs des séances dépendent de la durée, du nombre de personnes, de la préparation qu’elles demandent, des matériaux utilisés et des déplacements.
 
-Séance individuelle : 	de 25 à 45 euros
 
-Séance de groupe : 		de 40 à 65 euros
-​​
+Pour les **particuliers** :    
+en séance individuelle : de 30 à 50 euros  
+en séance de groupe : de 15 à 25 euros
 
-Forfaits possibles
+Possibilités d’ajuster le tarif à vos ressources  
+Forfaits possibles  
+
+Pour les **institutions** :  
 Devis sur demande
-
