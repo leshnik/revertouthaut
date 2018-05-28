@@ -159,8 +159,9 @@ ul  li {
   color: orange;
   font-size: 4em;
   font-family: "Amatic SC";
-  background-color: #94CDDB;
+  /* background-color: #94CDDB; */
   /* position: static; */
+  background: linear-gradient(#B7EFEF, #94cddb);
   margin: auto;
   padding: 0;
 }
