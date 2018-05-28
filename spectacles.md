@@ -13,11 +13,11 @@ Notre second spectacle, « Bercer l’enfant manquant » qui traite de la comple
 « L’hibernance des bêtes » est un projet pour 2020, il sera le résultat d’un atelier d’écriture mené après de travailleurs sociaux qui témoignent de leur vécu et des rencontres qu’ils ont faites dans le cadre de leurs missions d’accompagnement.  
 
 
-<a href="leh">Les Étres Humaines</a>
+<div class="proposition"><a href="leh">Les Étres Humaines</a></div>
 
-<a href="blem">Bercer l'enfant manquant</a>
+<div class= "proposition"><a href="blem">Bercer l'enfant manquant</a></div>
 
-<a href="lhdb">L'hibernance des bêtes</a>
+<div class="proposition"><a href="lhdb">L'hibernance des bêtes</a></div>
 
 
 
