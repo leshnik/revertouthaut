@@ -17,7 +17,7 @@
 .left-container {
   flex: 1;
   margin-top: 2em;
-  padding-left: 1em;
+  padding-left: 1em; /* what fixes left spacing on iPad*/
   
 }
 .inside-left {
@@ -182,7 +182,7 @@ ul  li {
   font-family: "Amatic SC";
   /* background-color: #94CDDB; */
   /* position: static; */
-  background: linear-gradient(#B7EFEF, #94cddb);
+  background: linear-gradient(#885156, #1d3920);
   margin: auto;
   padding: 0;
 }
