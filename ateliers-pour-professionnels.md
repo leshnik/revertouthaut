@@ -17,10 +17,10 @@ Au-delà cette complexité des liens à créer et à maintenir avec les usagers,
 Rêver tout haut est un lieu où les professionnels du lien et du soin et leurs institutions peuvent trouver un accompagnement qui leur permette d’élaborer et de transformer leurs expériences, leur charge de travail, les relations à leurs usagers, le regard qu’ils portent sur eux (et réciproquement) au quotidien. ​​Ces ateliers que nous proposons peuvent être un complément aux séances d’analyse de la pratique organisées par les institutions elles-mêmes.
 
 Voici donc une proposition d’atelier d’écriture ainsi que deux ateliers de sophrologie:  
-<ul>
-  <li><a href="ecriture">Atelier d'écriture pour travailleurs sociaux et soignants</a></li>
-  <li><a href="ateliers-et-formation-en-sophrologie-pour-professionels">Atelier et formation en sophrologie pour professionels</a></li>
-</ul>
+
+  <div class="proposition"><a href="ecriture">● Atelier d'écriture pour travailleurs sociaux et soignants</a></div>
+  <div class="proposition"><a href="ateliers-et-formation-en-sophrologie-pour-professionels">● Atelier et formation en sophrologie pour professionels</a></div>
+
 
 
 
