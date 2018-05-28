@@ -38,10 +38,10 @@
 .grouper {
   font-family: "Amatic SC";
   font-size: 1.5em;
-  color: #C4389A;
+  color: #a43740;
 }
 .color01 a {
-  color: #C4389A;
+  color: #a43740;
 }
 .color02 a {
   color: #7C984A;
@@ -135,11 +135,11 @@ a:hover {
 h1 {
   font-size: 3em;
   font-family: "Amatic SC";
-  color: #C4389A;
+  color: #a43740;
 }
 h2 {
   font-family: "Amatic SC";
-  color: #c4389a;
+  color: #a43740;
   font-size: 2.3em;
 }
 p {
@@ -182,7 +182,7 @@ ul  li {
   font-family: "Amatic SC";
   /* background-color: #94CDDB; */
   /* position: static; */
-  background: linear-gradient(#885156, #1d3920);
+  background: linear-gradient(#885156, #2d4f2a); 
   margin: auto;
   padding: 0;
 }
@@ -193,7 +193,7 @@ ul  li {
   font-size: 4.3em;
 }
 .head-list3 {
-  font-size: 4.7em;
+  font-size: 4.8em;
 }
 .invisible {
   opacity: 0;
