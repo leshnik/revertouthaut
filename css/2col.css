@@ -47,13 +47,13 @@
   color: #7C984A;
 }
 .color03 a {
-  color: #4DA0F3;
+  color: #f25f5f;
 }
 .color04 a {
   color: #0EA37F;
 }
 .color05 a {
-  color: #31A30E;
+  color: #ffc9c5;
 }
 .color06 a {
   color: #9FA30E;
@@ -128,9 +128,10 @@ a {
 }
 a:hover {
   text-decoration: none;
-  color: #ff5300;
+  color: white;
   font-size: 1.9em;
   font-style: bold;
+  background-color: #ff5300;
 }
 h1 {
   font-size: 3em;
@@ -177,7 +178,7 @@ ul  li {
 
 /* header section */
 .header {
-  color: orange;
+  color: #f9d0a2;
   font-size: 4em;
   font-family: "Amatic SC";
   /* background-color: #94CDDB; */
@@ -185,6 +186,8 @@ ul  li {
   background: linear-gradient(#885156, #2d4f2a); 
   margin: auto;
   padding: 0;
+  border-bottom-left-radius: .2em;
+  border-bottom-right-radius: .2em;
 }
 .head-list1 {
   font-size: 4em;
