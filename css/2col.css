@@ -110,13 +110,19 @@
   font-size: 1.2em;
   display: inline;
 }
+.tab-content > p > .rever-typog {
+  font-family: 'Amatic SC', cursive;
+  font-weight: 900;
+  font-size: 1.2em;
+  display: inline;
+}
 .rever-list {
   list-style: none;
   background-color: #c9d4c4;
   padding-left padding-right: .3em;
   font-size: 1.4em;
   border-radius: .5em;
-  text-align: center;
+  text-align: left;
 }
 
 /* Acordeon styles */
@@ -160,7 +166,7 @@ label {
 }
 /* :checked */
 input:checked ~ .tab-content {
-  max-height: 10em;
+  max-height: 200em;
 }
 /* Icon */
 label::after {
@@ -202,7 +208,7 @@ a:hover {
   color: white;
   font-size: 1.9em;
   font-style: bold;
-  background-color: #ff5300;
+  background-color: #964230;
 }
 h1 {
   font-size: 3em;
