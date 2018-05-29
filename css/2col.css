@@ -15,7 +15,7 @@
 }
 /* nav section */
 .left-container {
-  flex: 1;
+  flex: 2;
   margin-top: 2em;
   padding-left: 1em; /* what fixes left spacing on iPad*/
   
@@ -91,7 +91,7 @@
   padding-right: 3em;
   /* padding-bottom: 6em; */
   text-align: justify;
-  background-color: white;
+  /* background-color: #ffffe6; */
   font-family: 'Libre Baskerville, serif';
 }
 .img {
@@ -118,8 +118,8 @@
 }
 .rever-list {
   list-style: none;
-  background-color: #c9d4c4;
-  padding-left padding-right: .3em;
+  background-color: #d4f4ff;
+  padding: 1em;
   font-size: 1.4em;
   border-radius: .5em;
   text-align: left;
@@ -252,15 +252,22 @@ ul  li {
   font-size: 1.1em;
   padding-bottom: 1em;
 }
+.registered {
+  font-size: .5em;
+  font-family: sans-serif;
+  vertical-align: top;
+}
 
 /* header section */
 .header {
-  color: #f9d0a2;
+  /* color: #f9d0a2; */
+    color: #a43740;
+  /* color: #964230; */
   font-size: 4em;
   font-family: "Amatic SC";
   /* background-color: #94CDDB; */
   /* position: static; */
-  background: linear-gradient(#885156, #2d4f2a); 
+  /* background: linear-gradient(#885156, #2d4f2a); */ 
   margin: auto;
   padding: 0;
   border-bottom-left-radius: .2em;

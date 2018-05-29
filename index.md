@@ -5,7 +5,7 @@ title: rêver tout haut
 # Créativité, soin, lien social et spectacles vivants
 {:.top-line}
 
-### Médiations et accompagnements thérapeutiques et créatifs adaptés aux personnes et aux institutions
+<!-- ### Médiations et accompagnements thérapeutiques et créatifs adaptés aux personnes et aux institutions -->
 
 
 
@@ -14,8 +14,7 @@ title: rêver tout haut
 *rêver tout haut*{:.rever-typog} vous invite à  dire par la création ce que l’on parle tout bas  
 *rêver tout haut*{:.rever-typog} imagine un accompagnement adapté à chacun  
 *rêver tout haut*{:.rever-typog} permet d’exprimer, de transformer ce qu’il est difficile de dire, et d’élaborer  
-*rêver tout haut*{:.rever-typog} œuvre pour que l’imaginaire reprenne sens et vigueur dans le quotidien,  
-et que se remette en mouvement la pensée, qu’il s’agisse de celle des personnes ou de celle des institutions  
+*rêver tout haut*{:.rever-typog} œuvre pour que l’imaginaire reprenne sens et vigueur dans le quotidien, et que se remette en mouvement la pensée, qu’il s’agisse de celle des personnes ou de celle des institutions  
 {:.rever-list}
 
 <!-- <div class="tab">
