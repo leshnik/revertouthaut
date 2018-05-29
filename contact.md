@@ -2,12 +2,13 @@
 layout: two-column
 title: contacts
 ---
-revertouthaut@gmail.com
+Rêver tout haut  
 
-## valérie
+adresse postale :  
 
-valerie.revertouthaut@gmail.com
+route de la Croix Montchanin
+71250 Buffières
 
-## isis
+téléphone: 06 13 50 45 54
 
-isis.revertouthaut@gmail.com
+mail : revertouthaut@gmail.com
