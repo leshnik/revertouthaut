@@ -12,12 +12,16 @@ Les ateliers artistiques à la différence des ateliers d’art-thérapie, ne re
 Relier un travail d’écriture de textes poétiques, dans un premier temps, à un  travail de rythme, de composition musicale dans un deuxième temps, puis à un travail d’interprétation. Afin que les textes prennent et transmettent toute leur force émotionnelle.
 
 ## Selfie
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_10/v1527691924/photo_coquelicot_lbt5y3.jpg" class="img-right"/>Travailler à partir de photographies  et de textes sur la construction de l’image de soi, et cheminer d’une image de soi « réelle » à une image fictionnelle.<br>
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_10/v1527691924/photo_coquelicot_lbt5y3.jpg" class="img-right"/>Travailler à partir de photographies  et de textes sur la construction de l’image de soi, et cheminer d’une image de soi « réelle » à une image fictionnelle.<br><br><br>
 
 
 ## A quatre mains
 Apprentissage du piano et des percussions pour parent et enfant ensemble, dans l’idée que puissent se jouer entre eux au-delà de la musique, de la complémentarité ludique.
 
 ## Couture et ficelle
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_10/v1527691919/boite_à_petites_tisss_gg9wjl.jpg" class="img"/> A partir de bouts de tissus et de ficelles et de rubans, fabrication de petits objets évocateurs de l’enfance, et travail d’écriture sur les souvenirs plus ou moins reconstitués et plus ou moins inventés de notre enfance.
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_350,r_10/v1527691919/boite_à_petites_tisss_gg9wjl.jpg" class="img"/> A partir de bouts de tissus et de ficelles et de rubans, fabrication de petits objets évocateurs de l’enfance, et travail d’écriture sur les souvenirs plus ou moins reconstitués et plus ou moins inventés de notre enfance.
 <br>
+<br>
+<br>
+<br>
+
