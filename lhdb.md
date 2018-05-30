@@ -5,13 +5,20 @@ title: L'hibernance des bêtes
 
 # L'hibernance des bêtes
 
-*L’hibernance des bêtes*{:.rever-typog}, mettra en musique et en scène des textes écrits lors d’ateliers d’écriture organisés dans le cadre du travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour fin 2019.
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_350,r_10/v1527697622/chien_de_neige_pd86r5.jpg" class="img"/> *L’hibernance des bêtes*{:.rever-typog}, mettra en musique et en scène des textes écrits lors d’ateliers d’écriture organisés dans le cadre du travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour fin 2019.
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+
 
 Voici des exemples de ces premiers textes : 
 
-### L’impératrice
+## L’impératrice
 
- 
 > *Elle porte un nom d’empereur.  
 Sur sa photo encadrée, un beau visage de femme rousse, jeune, diaphane, rêveur  
 Dans son frigo, deux yaourts périmés  
@@ -42,7 +49,7 @@ et la laissons, seule, souveraine, encore vivante,
 Elle, l’impératrice de son supermarché, rayon bouteilles de rosé*  
 
 
-### Soustraction 
+## Soustraction 
 
 > *Elle est amoureuse de son cousin  
 Depuis six mois deux semaines et trois jours  
