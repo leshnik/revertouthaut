@@ -12,7 +12,7 @@ Nous nous adaptons à vos besoins et pouvons penser des protocoles pour chacune 
 
 Voici une liste non exhaustive des institutions avec lesquelles nous pouvons collaborer : 
 
-- Institutions médicales : 
+## Institutions médicales : 
   - Centre Médico-Psychologique 
   - Centre de Santé Mentale 
   - Hôpital de jour 
@@ -28,7 +28,7 @@ Voici une liste non exhaustive des institutions avec lesquelles nous pouvons col
   - Centre de Dialyse 
   - Maisons de Santé 
 
-- Institutions médico-sociales : 
+## Institutions médico-sociales : 
   - Instituts Médico-Educatifs 
   - Institut Thérapeutique Educatif et Pédagogique 
   - Service d’Education Spéciale et de Soins à Domicile 
@@ -39,11 +39,12 @@ Voici une liste non exhaustive des institutions avec lesquelles nous pouvons col
   - Maisons Départementales des Personnes Handicapées 
   - Les services et associations de soins et d’aide à domicile 
   - Comité Local de Santé Mentale
-​​
+​
 
-- Institutions sociales :
+## Institutions sociales :
   - Service des Aides Sociales à l’Enfance
   - Protection Judiciaire de la Jeunesse
+  - Centre Pénitentiaire
   - Maison des Solidarités
   - Associations et services d’accompagnement 
     - des bénéficiaires du RSA 
