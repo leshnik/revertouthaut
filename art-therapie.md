@@ -12,7 +12,7 @@ L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se
 
 <div class="image-text-container">
   <div class="left-flex">
-  <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250,r_10/v1526489453/décapsulette_gxq8bb.jpg">
+  <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250,r_10/v1526489453/décapsulette_gxq8bb.jpg" class="w3-image">
   </div>
   <div class="right-flex">
     <a href="art-therapie-plus">● en savoir plus sur l'art-thérapie</a><br>
