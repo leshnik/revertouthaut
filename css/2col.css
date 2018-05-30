@@ -97,13 +97,25 @@
 .img {
   float: left;
   width: 25vw;
+  vertical-align: top;
  
 }
 .img-right {
   float: right;
   margin-left: 1em;
 }
-
+.image-text-container {
+  display: flex;
+}
+.left-flex {
+  flex: 3;
+}
+.right-flex {
+  flex: 3;
+  text-align: right;
+  padding: 1em;
+  font-size: 1.2em;
+}
 .rever-typog {
   font-family: 'Amatic SC', cursive;
   font-weight: 900;
@@ -148,11 +160,11 @@ label {
   position: relative;
   display: block;
   padding: 0 0 0 1em;
-  background: #16a085;
+  background: #80dfff;
   font-weight: bold;
   line-height: 3;
   cursor: pointer;
-  border-radius: .5em;
+  border-radius: .2em;
 }
 .blue label {
   background: #2980b9;
@@ -160,8 +172,8 @@ label {
 .tab-content {
   max-height: 0;
   overflow: hidden;
-  background: #1abc9c;
-  border-radius: 2em;
+  background: #80dfff;
+  border-radius: .2em;
   padding-right: 2em;
   -webkit-transition: max-height .35s;
   -o-transition: max-height .35s;
@@ -240,7 +252,7 @@ ul {
 }
 
 ul  li {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 .accroche {
   background-color: #c4389a;
@@ -252,7 +264,7 @@ ul  li {
 }
 .savoir-plus {
   text-align: right;
-  padding-bottom: 1em;
+  padding: 1em;
   font-size: 1.2em;
   
 }
