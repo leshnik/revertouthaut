@@ -9,7 +9,7 @@ title: rêver tout haut
 
 
 
-*Rêver tout haut*{:.rever-typog}  est une association d’art-thérapeutes et de sophrologues diplomé.es et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins.
+*Rêver tout haut*{:.rever-typog}  est une association d’art-thérapeutes, de sophrologues, et de praticiens Feldenkrais diplomé.es, et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins.
 
 *rêver tout haut*{:.rever-typog} vous invite à  dire par la création ce que l’on parle tout bas  
 *rêver tout haut*{:.rever-typog} imagine un accompagnement adapté à chacun  
