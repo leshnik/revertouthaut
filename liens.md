@@ -19,3 +19,5 @@ title: Sites Amis
 
 <a href="https://psycho.univ-lyon2.fr/le-site-de-l-institut-de-psychologie-530186.kjsp" target="_blank">Institut de psychologie - Lyon2</a>
 
+<a href="https://www.lelientheatre.com/" target="_blank">Théâtre du lien</a>
+

@@ -10,9 +10,9 @@ Les tarifs des séances dépendent de la durée, du nombre de personnes, de la p
 
 Pour les **particuliers** :    
 en séance individuelle : de 30 à 50 euros  
-en séance de groupe : de 15 à 25 euros
+en séance de groupe : de 15 à 25 euros (par personne)
 
-Possibilités d’ajuster le tarif à vos ressources  
+Possibilité d’ajuster le tarif à vos ressources  
 Forfaits possibles  
 
 Pour les **institutions** :  

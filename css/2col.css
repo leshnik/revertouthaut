@@ -262,13 +262,13 @@ p {
   color: #333;
 }
 ul {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   list-style-type: square;
 }
 
-ul  li {
+/* ul  li {
   font-size: 1rem;
-}
+} */
 .accroche {
   background-color: #c4389a;
 }

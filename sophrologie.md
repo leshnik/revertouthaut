@@ -17,3 +17,7 @@ Lors d'une séance, ce temps dédié à la sophronisation et précédé est suiv
 
 
 Une séance de sophrologie dure environ 1h. Le sophrologue se positionne comme un accompagnant dans une relation sujet à sujet. (La Sophrologie n’est pas une médecine, elle ne se substitue pas à un traitement médical ou à un avis médical. Elle peut être utilisée en complément. )
+
+<div class="savoir-plus"><a href="sophrologie-plus">● en savoir plus sur la sophrologie</a></div>
+<div class="savoir-plus"><a href="contenu-des-seances-sophrologie">● contenu et déroulé des séances</a>
+</div>

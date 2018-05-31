@@ -6,7 +6,7 @@ title: contacts
 
 &nbsp;
 
-![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_550,r_10/v1527698358/frizouille_casquette_et_fleurs_lfh3yz.jpg)
+<!-- ![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_550,r_10/v1527698358/frizouille_casquette_et_fleurs_lfh3yz.jpg) -->
 
 Rêver Tout Haut <br>
 580, route de la Croix Montchanin<br>
@@ -15,3 +15,4 @@ tél&nbsp;: 06 13 50 45 54<br>
 revertouthaut@gmail.com
 {:.rever-list-narrow}
 
+![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_15/v1527764491/bureau-val_pzj61u.jpg)
