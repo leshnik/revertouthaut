@@ -243,12 +243,17 @@ a:hover {
 h1 {
   font-size: 3em;
   font-family: "Amatic SC";
-  color: #a43740;
+  color: #c6564d;
 }
 h2 {
   font-family: "Amatic SC";
-  color: #a43740;
+  color: #c6564d;
   font-size: 2.3em;
+}
+h3 {
+  font-family: "Amatic SC";
+  color: #c6564d;
+  font-size: 1.9em;
 }
 p {
   font-size: 1.5em;
@@ -291,7 +296,7 @@ ul  li {
 /* header section */
 .header {
   /* color: #f9d0a2; */
-    color: #a43740;
+    color: #c6564d;
   /* color: #964230; */
   font-size: 4em;
   font-family: "Amatic SC";
