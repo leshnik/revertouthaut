@@ -3,3 +3,17 @@ layout: two-column
 title: Cassandra Lorimy Jackson
 ---
 # Cassandre Lorimy Jackson
+
+Artiste chorégraphique, plasticienne, et praticienne Feldenkrais depuis 1986, Cassandre s’emploie à vivre, questionner et représenter le mouvement sous de multiples formes.
+
+Formée à l‘école du cirque d’Annie Fratellini, elle danse avec plusieurs compagnies : Lucien Pintillé, Philippe Découflé, Jérome Thomas. Elle obtient son Diplôme d’Etat en danse contemporaine et intervient dans de nombreuses structures : conservatoire,  hôpital, Education Nationale, Maison de la Culture,  mutuelle, en groupe et en individuel.
+
+Cassandre s'intéresse à la relation entre acte de vie et acte artistique, et comment poser la proposition artistique dans un espace de vie et développe un travail de composition chorégraphique en temps réel proposé dans l'espace public. 
+
+Elle participe à plusieurs projets pluridisciplinaires dans le cadre de "Culture et santé à l'hôpital" à Bourg en Bresse, et imagine "les Mues" un projet qui mêle le Feldenkrais et l'installation plastique. Il s'agissait  de crée sa mue, la mue comme la trace de l'apparence éphémère d'un être humain, comme la révélation d'une transformation, d’un mouvement, et de créer une passerelle entre le monde de l'hôpital et le monde extérieur, en déplaçant les créations réalisées dans l'espace de l'hôpital vers l'espace public.
+
+Elle développe sa recherche artistique en explorant la circulation entre la danse et la peinture, "l'espace toile / le corps pinceau », « Peindre la sensation visitée du corps", et expose à Paris, Lyon, Cluny, Mâcon.
+
+Actuellement elle s'oriente de plus en plus vers la pratique du Fedenkrais enrichie de ses expériences artistiques au service d'un public aux besoins spécifiques.
+
+Elle vit en Saône et Loire.
