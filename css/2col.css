@@ -278,10 +278,12 @@ ul {
   text-align: right;
 }
 .media-outer {
-  
+  margin: 4em;
+  padding-bottom: 2em;
 }
 .media-image {
   float: left;
+  padding-bottom: 2em;
 }
 .media-text {
   
