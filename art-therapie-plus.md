@@ -21,3 +21,6 @@ L’art-thérapeute n’est là ni pour juger de la qualité d’une œuvre ni p
 
 Jean-Pierre Klein, « *L'art-thérapie* », PUF, 1997, p 42.
 {:.cite}
+
+<div class="savoir-plus"><a href="contenu-des-seances-art-therapie">● contenu et déroulé des séances</a>
+</div>

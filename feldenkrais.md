@@ -22,8 +22,13 @@ Moshé Feldenkrais
 
 <div class="media-outer">
   <div class="media-image">
-    <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300,r_15/v1527780128/cassandre_ompoisson_2_vfpcl7.jpg"/>
+   <figure>
+    <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_15/v1527780128/cassandre_ompoisson_2_vfpcl7.jpg"/>
+   <figcaption>Cassandre Lorimy Jackson</figcaption>
+   </figure>
   </div>
+ 
+ 
 <div class="savoir-plus">
   <a href="feldenkrais-plus">● en savoir plus sur la méthode</a></div>
 <div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">● contenu et déroulé des séances</a></div>

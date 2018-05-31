@@ -278,7 +278,7 @@ ul {
   text-align: right;
 }
 .media-outer {
-  margin: 4em;
+  margin: 1em;
   padding-bottom: 2em;
 }
 .media-image {
@@ -286,7 +286,7 @@ ul {
   padding-bottom: 2em;
 }
 .media-text {
-  
+  padding-left: 2em;
 }
 .savoir-plus {
   text-align: right;
