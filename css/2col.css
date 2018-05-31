@@ -277,6 +277,15 @@ ul {
   margin-top: -1em;
   text-align: right;
 }
+.media-outer {
+  
+}
+.media-image {
+  float: left;
+}
+.media-text {
+  
+}
 .savoir-plus {
   text-align: right;
   padding: 1em;

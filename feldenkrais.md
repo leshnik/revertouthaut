@@ -19,5 +19,12 @@ Elle met en jeu la plasticité du cerveau et l’importance de la perception dan
 Moshé Feldenkrais
 {:.cite}
 
-<div class="savoir-plus"><a href="feldenkrais-plus">● en savoir plus sur la méthode</a></div>
+
+<div class="media-outer">
+  <div class="media-image">
+    <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300,r_15/v1527780128/cassandre_ompoisson_2_vfpcl7.jpg"/>
+  </div>
+<div class="savoir-plus">
+  <a href="feldenkrais-plus">● en savoir plus sur la méthode</a></div>
 <div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">● contenu et déroulé des séances</a></div>
+</div>
