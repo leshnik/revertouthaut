@@ -339,6 +339,16 @@ ul  li {
   display: inline;
 }*/
 
+/* header-patch section*/
+.head-rever {
+  color: white;
+  font-family: "Amatic SC";
+  background-image: url("http://res.cloudinary.com/dnxcesebo/image/upload/c_fit,h_128,w_1000/v1527756846/patch02_veff1q.png");
+  border: 1px solid #999;
+}
+
+
+
 
 .dropbtn {
   background-color: #4CAF50;
