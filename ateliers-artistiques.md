@@ -9,7 +9,7 @@ Les ateliers artistiques à la différence des ateliers d’art-thérapie, ne re
 *Rêver tout haut*{:.rever-typog} propose ainsi les ateliers suivants, tout en continuant d’en élaborer de nouveaux. 
 
 ## Ecriture et slam
-<!-- <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_10/v1527763107/partitions-pleyel_msan2h.jpg" class="img"/> --> Relier un travail d’écriture de textes poétiques, dans un premier temps, à un  travail de rythme, de composition musicale dans un deuxième temps, puis à un travail d’interprétation. Afin que les textes prennent et transmettent toute leur force émotionnelle.
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_15/v1527765636/partoche-quand-j_ai-accouche_ret1mu.png" class="img"/> Relier un travail d’écriture de textes poétiques, dans un premier temps, à un  travail de rythme, de composition musicale dans un deuxième temps, puis à un travail d’interprétation. Afin que les textes prennent et transmettent toute leur force émotionnelle.
 
 ## Selfie
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_10/v1527691924/photo_coquelicot_lbt5y3.jpg" class="img-right"/>Travailler à partir de photographies  et de textes sur la construction de l’image de soi, et cheminer d’une image de soi « réelle » à une image fictionnelle.<br><br><br>
