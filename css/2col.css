@@ -8,6 +8,7 @@
   box-sizing: inherit;
 }
 
+
 .outmost {
   max-width: 1050px;
   margin: 0 auto;
@@ -153,6 +154,26 @@
   margin: 1em 3em 0 0;
   max-width: 400px;
 }
+/* Flex pages */
+.pairs {
+  display: flex;
+}
+.three {
+  flex: 3;
+}
+.four {
+  flex: 4;
+}
+.five {
+  flex: 5;
+}
+.six {
+  flex: 6;
+}
+.seven {
+  flex: 7;
+}
+
 
 /* Acordeon styles */
 .tab {
