@@ -354,6 +354,11 @@ ul {
 .invisible {
   opacity: 0;
 }
+
+.mascot :hover {
+  transform: rotate(10deg);
+}
+
 .masks {
   display: flex;
   list-style-type: none;
