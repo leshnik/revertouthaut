@@ -1,6 +1,7 @@
 ---
 layout: two-column
-title: Ateliers à destination des professsionnels
+title: Ateliers destinés au monde complexe du travail social et soignant
+summary: Le travail social et soignant demandant de la part des professionnels un fort engagement dans les liens humains et un réel accompagnement de problématiques parfois lourdes, il est souhaitable pour ses professionnels et leurs institutions, de pouvoir déposer leurs expériences et de pouvoir les transformer dans le cadre d’ateliers créatifs.
 ---
 
 # Ateliers à destination des professionnels
@@ -22,7 +23,7 @@ Michel Autès dans « *Les paradoxes du travail social* »
 
 Voici donc une proposition d’atelier d’écriture ainsi que deux ateliers de sophrologie:  
 
-  <div class="proposition"><a href="ecriture">● Atelier d'écriture pour travailleurs sociaux et soignants</a></div>
+  <div class="proposition"><a href="ateliers-d'ecriture-pour-travailleurs-sociaux">● Ateliers d'écriture pour travailleurs sociaux et soignants</a></div>
   <div class="proposition"><a href="atelier-et-formation-en-sophrologie-pour-professionnels">● Atelier et formation en sophrologie pour professionnels</a></div>
 
 

@@ -1,13 +1,16 @@
 ---
 layout: two-column
-title: Équipe
+title:  les membres de notre équipe
+summary: Valérie Gaudissart, Cassandre Lorimy-Jackson, Isis-Philippe-Jenon, Morton Potash.
 ---
-<a href="valerie">Valérie Gaudissart</a>
+## les membres de notre équipe
 
-<a href="cassandre">Cassandre Lorimy Jackson</a>
+<li class="color03"><a href="valerie">Valérie Gaudissart</a></li>
 
-<a href="isis">Isis Philippe-Janon</a>
+<li class="color04"><a href="cassandre">Cassandre Lorimy Jackson</a></li>
 
-<a href="morton">Morton Potash</a>
+<li class="color02"><a href="isis">Isis Philippe-Janon</a></li>
+
+<li class="color11"><a href="morton">Morton Potash</a></li>
 
 

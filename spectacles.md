@@ -1,8 +1,9 @@
 ---
 layout: two-column
-title: Spectacles Vivants
+title: Des spectacles vivants, dans la continuité de nos ateliers
+summary: Basés sur des témoignages et des traces laissées par les vécus, nos spectacles sont un prolongement de nos ateliers de création et traitent à leur manière théâtrale et musicale de thématiques contemporaines et de problématiques sociales et intimes.
 ---
-# Spectacles Vivants    
+# Des spectacles vivants dans la continuité de nos ateliers   
 
 *Rêver tout haut*{:.rever-typog} propose en parallèle et en suivi de ses ateliers à médiations la possibilité d’aller plus loin vers la création et notamment vers le spectacle vivant qui soit basé sur des témoignages et des traces d’expériences vécues. En effet, certains sujets, certains ateliers ou dispositifs peuvent se déployer, sortir de l’atelier et de l’institution, prendre une autre forme, et trouver un public en allant jusqu’à la création théâtrale et ses représentations. Le spectacle vivant peut en effet être un aboutissement à des ateliers particulièrement riches et la représentation publique peut faire partie de la démarche thérapeutique, aussi bien pour les participants que pour des spectateurs concernés par les thématiques abordées.
 
@@ -17,11 +18,11 @@ Notre second spectacle, « Bercer l’enfant manquant » qui traite de la comple
 « L’hibernance des bêtes » est un projet pour 2020, il sera le résultat d’un atelier d’écriture mené après de travailleurs sociaux qui témoignent de leur vécu et des rencontres qu’ils ont faites dans le cadre de leurs missions d’accompagnement.  
 
 
-<div class="savoir-plus"><a href="leh">● en savoir plus sur Les Étres Humaines</a></div>
+<div class="savoir-plus"><a href="les-etres-humaines">● en savoir plus sur Les Étres Humaines</a></div>
 
-<div class= "savoir-plus"><a href="blem">● en savoir plus sur Bercer l'enfant manquant</a></div>
+<div class= "savoir-plus"><a href="bercer-l'enfant-manquant">● en savoir plus sur Bercer l'enfant manquant</a></div>
 
-<div class="savoir-plus"><a href="lhdb">● en savoir plus sur L'hibernance des bêtes</a></div>
+<div class="savoir-plus"><a href="l'hibernance-des-betes">● en savoir plus sur L'hibernance des bêtes</a></div>
 
 
 
