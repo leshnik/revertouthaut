@@ -1,6 +1,7 @@
 ---
 layout: two-column
-title: Nos Activités
+title: Médiations artistiques et thérapeutiques, individuelles et groupales
+summary: Rêver tout haut invente et anime des médiations artistiques et thérapeutiques, individuelles et groupales, croisées et autonomes les unes des autres,  qui utilise le collage, la peinture, l’écriture, le théâtre, la musique, la fabrication d’objets, la sophrologie et la méthode Feldenkrais.
 ---
 *Rêver tout haut*{:.rever-typog} accompagne des personnes à domicile ou en cabinet, intervient dans le cadre de structures médico-sociales, et conçoit et anime des médiations adaptées aux spécificités institutionnelles, aux problématiques qu’elles accompagnent et aux nécessités du territoire sur lequel elles sont installées.
 

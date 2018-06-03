@@ -1,6 +1,8 @@
 ---
 layout: two-column
-title: En savoir plus sur l'art-thérapie
+title: Le rôle et la position de l’art-thérapeute
+summary: L’art-thérapeute, formée à des méthodes d’écoute et d’analyse bienveillantes,  accompagne le cheminement des personnes, leur offre un cadre rassurant, et des dispositifs créatifs favorables à l’imaginaire et à la transformation de soi.
+tags: [dialogue,angoisse,nondits,blocages,souffrances,monde,intérieur]
 ---
 # En savoir plus sur l'art-thérapie
 L’art-thérapie permet de travailler le dialogue que les personnes entretiennent avec leur monde intérieur, leur espace de pensées ou leurs difficultés à penser et permet aussi de travailler le liens aux autres, sa place parmi le groupe lorsque l’atelier est collectif.  L’art-thérapie s’intéresse donc à l’énigme que chacun de nous porte en soi et à tout ce qui peut se symboliser dans un travail créatif comme symptôme, angoisse, non-dits, blocages, souffrances.  

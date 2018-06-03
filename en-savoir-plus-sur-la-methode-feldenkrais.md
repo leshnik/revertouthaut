@@ -1,6 +1,7 @@
 ---
 layout: two-column
-title: En savoir plus sur la Méthode Feldenkrais&reg;
+title: Créer un dialogue sensori-moteur pour accorder action et sensation
+summary: 
 ---
 # En savoir plus sur la méthode feldenkrais<span class="registered">&reg;</span>
 
