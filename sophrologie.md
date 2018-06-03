@@ -1,6 +1,7 @@
 ---
 layout: two-column
-title: sophrologie
+title: La sophrologie, une méthode  de détente corporelle et d’accès la conscience
+summary: 
 ---
 # SOPHROLOGIE
 

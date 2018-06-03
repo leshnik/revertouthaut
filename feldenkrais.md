@@ -1,6 +1,7 @@
 ---
 layout: two-column
-title: La Méthode Feldenkrais
+title: La Méthode Feldenkrais, une relation entre le corps et l’esprit
+summary: La Méthode Feldenkrais utilise le mouvement corporel pour améliorer la qualité et l’efficacité du fonctionnement de la personne et invite chacun.e à une attitude d’exploration.
 ---
 
 
@@ -30,6 +31,6 @@ Moshé Feldenkrais
  
  
 <div class="savoir-plus">
-  <a href="feldenkrais-plus">● en savoir plus sur la méthode</a></div>
+  <a href="en-savoir-plus-sur-la-methode-feldenkrais">● en savoir plus sur la méthode</a></div>
 <div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">● contenu et déroulé des séances</a></div>
 </div>

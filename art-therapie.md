@@ -1,6 +1,7 @@
 ---
 layout: two-column
-title: Art-thérapie
+title:  l’Art-thérapie, le soin par la création
+summary: L’art-thérapie est un soin apporté à la personne qui lui permet d’avoir accès à son monde intérieur, de l’exprimer et de le transformer, et s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier.  
 ---
 # Art-thérapie  
 
@@ -14,7 +15,7 @@ L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_10/v1526489453/décapsulette_gxq8bb.jpg">
 </div>
 
-<div class="savoir-plus"><a href="art-therapie-plus">● en savoir plus sur l'art-thérapie</a></div>
+<div class="savoir-plus"><a href="en-savoir-plus-sur-l'art-therapie">● en savoir plus sur l'art-thérapie</a></div>
 <div class="savoir-plus"><a href="contenu-des-seances-art-therapie">● contenu et déroulé des séances</a>
 </div>
 

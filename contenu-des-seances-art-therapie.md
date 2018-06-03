@@ -1,5 +1,7 @@
 ---
 layout: two-column
+title: Contenu et déroulé d’une séance d’art-thérapie
+summary: Les séances d’art-thérapie peuvent avoir lieu à domicile, en institution médicale ou sociale, et en cabinet, et utilisent des médiations et des matériaux, qui soient adaptées aux problématiques des groupes et des personnes. 
 ---
 # Contenu et déroulé des séances
 En fonction des problématiques à traiter, des diagnostics, et du désir exprimé par les personnes, *Rêver tout haut*{:.rever-typog} propose des accompagnements qui incluent de manière croisée ou non, le collage, l’écriture, le modelage, la peinture, la musique, le théâtre, la fabrication d’objets, la vidéo et la photographie. 

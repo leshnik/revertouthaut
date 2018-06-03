@@ -1,5 +1,7 @@
 ---
 layout: two-column
+title: Contenu et déroulé d’une séance de Feldenkrais
+summary: Les séances de Prise de Conscience par le Mouvement se déroulent en groupe et sont guidées par la voix de la praticienne tandis que les séances d’Intégration Fonctionnelle sont individuelles et guidées par les mains de la praticienne.
 ---
 # Contenu et déroulé des séances
 
