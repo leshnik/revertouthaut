@@ -327,8 +327,11 @@ ul {
   text-align: right;
   padding: 1em;
   font-size: 1.2em;
+  line-height: 1.5em;
+  list-style-type: none;
   
 }
+
 .proposition {
   text-align: center;
   font-size: 1.1em;
@@ -372,7 +375,7 @@ ul {
   margin-right: 1.5em;
 }
 .mascot :hover {
-  transform: rotate(10deg);
+  transform: rotate(-2deg);
 }
 
 .masks {
