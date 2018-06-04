@@ -368,6 +368,9 @@ ul {
   opacity: 0;
 }
 
+.mascot {
+  margin-right: 1.5em;
+}
 .mascot :hover {
   transform: rotate(10deg);
 }
@@ -386,6 +389,7 @@ ul {
 .masks > li {
   margin-top: 0em;
   margin-bottom: 0;
+  
 }
 /*.masks > li > {
   display: inline;
