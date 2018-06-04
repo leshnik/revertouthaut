@@ -17,6 +17,7 @@ En effet, il nous parait important que les travailleurs sociaux, les enseignants
 Michel Autès dans « *Les paradoxes du travail social* »
 {:.cite}
 
+## Complexité de l'accompagnement
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300,r_10/v1526489452/collage_Valérie_2_d4onec.jpg" class="img"/> Au-delà cette complexité des liens à créer et à maintenir avec les usagers, le travail social et le travail soignant s’inscrivent et sont les témoins de leur époque. Et la nôtre n’est pas particulièrement tendre avec le monde du travail en général et encore moins avec le travail soignant et social : politique du management qui remplace petit à petit des relations dites « plus humaines », plus souples et plus proches des attentes et des missions pour lesquelles le professionnel s’était engagé dans ce métier. Burn out, stress, conflits et souffrances au travail sont une réalité à prendre en compte aujourd’hui. 
 
 *Rêver tout haut*{:.rever-typog} est un lieu où les professionnels du lien et du soin et leurs institutions peuvent trouver un accompagnement qui leur permette d’élaborer et de transformer leurs expériences, leur charge de travail, les relations à leurs usagers, le regard qu’ils portent sur eux (et réciproquement) au quotidien. ​​Ces ateliers que nous proposons peuvent être un complément aux séances d’analyse de la pratique organisées par les institutions elles-mêmes.
