@@ -18,9 +18,22 @@ Ce qui se passe à l’intérieur d’un atelier reste confidentiel, et les œuv
 Henri Michaux, « Passages »
 {:.cite}
 
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_360,r_10/v1527689691/coeur_suspendu_gmu84u.jpg" class="img" /> *Rêver tout haut*{:.rever-typog} propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de « classique »  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...
-
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_230,r_10/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg" class="img-right"/>L’association propose aussi des médiations plus originales comme par exemple, un atelier pour mères et bébés en problématiques de liens, qui leur permet  de découvrir de petites percussions, de jouer avec des rythmes, de remettre le corps en mouvement et de composer des berceuses, écrites à partir des mouvements de l’enfant, et de ce que la mère peut dire de lui. 
+<pairs class="pairs">
+  <left class="three">
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_360,r_10/v1527689691/coeur_suspendu_gmu84u.jpg" class="img"/> 
+</left>
+<right class="three">
+<p><span class="rever-typog">Rêver tout haut</span> propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de « classique »  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...</p>
+</right>
+</pairs>
+<pairs class="pairs">
+  <left class="five">
+    <p>L’association propose aussi des médiations plus originales comme par exemple, un atelier pour mères et bébés en problématiques de liens, qui leur permet  de découvrir de petites percussions, de jouer avec des rythmes, de remettre le corps en mouvement et de composer des berceuses, écrites à partir des mouvements de l’enfant, et de ce que la mère peut dire de lui.</p>
+  </left>
+  <right class="three">
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_230,r_10/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg" class="img-right"> 
+</right>
+</pairs>
 
 L’association anime aussi un atelier de fabrication d’objets à partir d’objets récupérés dans les déchetteries ou les greniers.  Le glanage faisant partie de la séance d’art-thérapie et permettant de sortir de l’atelier, ce qui parfois donne un mouvement bienvenu. Cet atelier permet notamment de travailler sur la notion de « mise au rebut ». 
 
