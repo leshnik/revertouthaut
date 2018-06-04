@@ -372,10 +372,11 @@ ul {
   margin: auto;
   align-items: center;
   justify-content: space-between;
+  background-image: url("http://res.cloudinary.com/dnxcesebo/image/upload/v1528121310/light-grey-sky_zvhusk.png");
   
 }
 .masks > li {
-  margin-top: .3em;
+  margin-top: 0em;
   margin-bottom: 0;
 }
 /*.masks > li > {
