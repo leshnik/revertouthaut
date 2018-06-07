@@ -183,80 +183,6 @@
 }
 
 
-/* Acordeon styles */
-.tab {
-  position: relative;
-  margin-bottom: 1px;
-  width: 100%;
-  color: #fff;
-  overflow: hidden;
-}
-input {
-  position: absolute;
-  opacity: 0;
-  z-index: -1;
-}
-label {
-  position: relative;
-  display: block;
-  padding: 0 0 0 1em;
-  background: #80dfff;
-  font-weight: bold;
-  line-height: 3;
-  cursor: pointer;
-  border-radius: .2em;
-}
-.blue label {
-  background: #2980b9;
-}
-.tab-content {
-  max-height: 0;
-  overflow: hidden;
-  background: #80dfff;
-  border-radius: .2em;
-  padding-right: 2em;
-  -webkit-transition: max-height .35s;
-  -o-transition: max-height .35s;
-  transition: max-height .35s;
-}
-.blue .tab-content {
-  background: #3498db;
-}
-.tab-content p {
-  margin: 1em;
-}
-/* :checked */
-input:checked ~ .tab-content {
-  max-height: 200em;
-}
-/* Icon */
-label::after {
-  position: absolute;
-  right: 0;
-  top: 0;
-  display: block;
-  width: 3em;
-  height: 3em;
-  line-height: 3;
-  text-align: center;
-  -webkit-transition: all .35s;
-  -o-transition: all .35s;
-  transition: all .35s;
-}
-input[type=checkbox] + label::after {
-  content: "+";
-}
-input[type=radio] + label::after {
-  content: "\25BC";
-}
-input[type=checkbox]:checked + label::after {
-  transform: rotate(315deg);
-}
-input[type=radio]:checked + label::after {
-  transform: rotateX(180deg);
-}
-
-
 a {
   text-decoration: none;
   list-style: none;
@@ -345,109 +271,60 @@ ul {
 
 /* header section */
 .header {
-  /* color: #f9d0a2; */
-    color: #c6564d;
-  /* color: #964230; */
-  font-size: 4em;
-  font-family: "Amatic SC";
-  /* background-color: #94CDDB; */
-  /* position: static; */
-  /* background: linear-gradient(#885156, #2d4f2a); */ 
-  margin: auto;
-  padding: 0;
-  border-bottom-left-radius: .2em;
-  border-bottom-right-radius: .2em;
-}
-.head-list1 {
-  font-size: 4em;
-}
-.head-list2 {
-  font-size: 4.4em;
-}
-.head-list3 {
-  font-size: 4.9em;
-}
-.invisible {
-  opacity: 0;
-}
-
-.mascot {
-  margin-right: 1.5em;
-}
-.mascot :hover {
-  transform: rotate(-2deg);
-}
-
-.masks {
-  display: flex;
-  list-style-type: none;
-  padding-left: .2em;
-  padding-right: .2em;
-  margin: auto;
-  align-items: center;
-  justify-content: space-between;
-  background-image: url("http://res.cloudinary.com/dnxcesebo/image/upload/v1528121310/light-grey-sky_zvhusk.png");
-  
-}
-.masks > li {
-  margin-top: 0em;
-  margin-bottom: 0;
-  
-}
-/*.masks > li > {
+ color: #f9d0a2;
+   color: #c6564d;
+ color: #964230;
+ font-size: 4em;
+ font-family: "Amatic SC";
+ background-color: #94CDDB;
+ position: static;
+ background: linear-gradient(#885156, #2d4f2a); 
+ margin: auto;
+ padding: 0;
+ border-bottom-left-radius: .2em;
+ border-bottom-right-radius: .2em;
+ }
+ .head-list1 {
+ font-size: 4em;
+ }
+ .head-list2 {
+ font-size: 4.4em;
+ }
+ .head-list3 {
+ font-size: 4.9em;
+ }
+ .invisible {
+ opacity: 0;
+ }
+ 
+ .mascot {
+ margin-right: 1.5em;
+ }
+ .mascot :hover {
+ transform: rotate(-2deg);
+ }
+ 
+ .masks {
+ display: flex;
+ list-style-type: none;
+ padding-left: .2em;
+ padding-right: .2em;
+ margin: auto;
+ align-items: center;
+ justify-content: space-between;
+ background-image: url("http://res.cloudinary.com/dnxcesebo/image/upload/v1528121310/light-grey-sky_zvhusk.png");
+ 
+ }
+ .masks > li {
+ margin-top: 0em;
+ margin-bottom: 0;
+ 
+ }
+.masks > li > {
   display: inline;
-}*/
-
-/* header-patch section*/
-.head-rever {
-  color: white;
-  font-family: "Amatic SC";
-  background-image: url("http://res.cloudinary.com/dnxcesebo/image/upload/c_fit,h_128,w_1000/v1527756846/patch02_veff1q.png");
-  border: 1px solid #999;
 }
 
 
 
 
-.dropbtn {
-  background-color: #4CAF50;
-  color: white;
-  padding: .5em;
-  border: none;
-  cursor: pointer;
-  font-size: .8em;
-}
-.dropdown {
-  position: relative;
-  display: inline-block;
-}
 
-.dropdown-content {
-  display: none;
-  position: absolute;
-  top: -4em;
-  background-color: #f9f9f9;
-  min-width: 15em;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,.2);
-  z-index: 1;
-}
-.dropdown-content a {
-  color: black;
-  padding: .2em .5em;
-  text-decoration: none;
-  display: block;
-}
-
-.dropdown-content a:hover {
-  background-color: white;
-}
-.dropdown:hover .dropdown-content {
-  display: block;
-}
-.dropdown:hover .dropbtn {
-  background-color: #3e8e41;
-}
-
-.top-line {
-  background-color: white;
-}
