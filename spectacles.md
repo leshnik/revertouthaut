@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Des spectacles vivants, dans la continuité de nos ateliers
 summary: Basés sur des témoignages et des traces laissées par les vécus, nos spectacles sont un prolongement de nos ateliers de création et traitent à leur manière théâtrale et musicale de thématiques contemporaines et de problématiques sociales et intimes.
 ---
@@ -9,27 +9,22 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
 
 ## les êtres humaines
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_10/v1527696915/Danse_Mireille_Etres_Humaines_zow12o.jpg" class="img"/><br>
-Notre spectacle, « les êtres humaines » qui est le résultat d’une longue résidence de création et d’ateliers au sein d’un foyer accueillant des mères et leurs enfants victimes de violence conjugale, a été joué pendant trois ans. 
+Notre spectacle, «&nbsp;les êtres humaines&nbsp;» qui est le résultat d’une longue résidence de création et d’ateliers au sein d’un foyer accueillant des mères et leurs enfants victimes de violence conjugale, a été joué pendant trois ans. 
 
 ## Bercer l’enfant manquant
-Notre second spectacle, « Bercer l’enfant manquant » qui traite de la complexité des liens entre les mères et leurs enfants sera joué à partir de 2019. Il est lui aussi issu d’ateliers de création et de paroles animées auprès de mères et de soignantes.  
+Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de la complexité des liens entre les mères et leurs enfants sera joué à partir de 2019. Il est lui aussi issu d’ateliers de création et de paroles animées auprès de mères et de soignantes.  
 
 ## L’hibernance des bêtes
-« L’hibernance des bêtes » est un projet pour 2020, il sera le résultat d’un atelier d’écriture mené après de travailleurs sociaux qui témoignent de leur vécu et des rencontres qu’ils ont faites dans le cadre de leurs missions d’accompagnement.  
+«&nbsp;L’hibernance des bêtes&nbsp;» est un projet pour 2020, il sera le résultat d’un atelier d’écriture mené après de travailleurs sociaux qui témoignent de leur vécu et des rencontres qu’ils ont faites dans le cadre de leurs missions d’accompagnement.  
 
 
   <ul class="savoir-plus">
-    <li><a href="les-etres-humaines">● en savoir plus sur Les Étres Humaines</a></li>
+    <li><a href="les-etres-humaines">●&nbsp;en savoir plus sur Les&nbsp;Étres&nbsp;Humaines</a></li>
   
-  <li><a href="bercer-l'enfant-manquant">● en savoir plus sur Bercer l'enfant manquant</a></li>
+    <li><a href="bercer-l'enfant-manquant">●&nbsp;en savoir plus sur Bercer&nbsp;l'enfant&nbsp;manquant</a></li>
   
-  <li><a href="l'hibernance-des-betes">● en savoir plus sur L'hibernance des bêtes</a></li>
+    <li><a href="l'hibernance-des-betes">●&nbsp;en savoir plus sur L'hibernance&nbsp;des&nbsp;bêtes</a></li>
 </ul>
-
-
-<!-- <div class= "savoir-plus"><a href="bercer-l'enfant-manquant">● en savoir plus sur Bercer l'enfant manquant</a></div>
-
-<div class="savoir-plus"><a href="l'hibernance-des-betes">● en savoir plus sur L'hibernance des bêtes</a></div> -->
 
 
 

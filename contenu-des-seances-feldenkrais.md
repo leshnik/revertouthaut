@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Contenu et déroulé d’une séance de Feldenkrais
 summary: Les séances de Prise de Conscience par le Mouvement se déroulent en groupe et sont guidées par la voix de la praticienne tandis que les séances d’Intégration Fonctionnelle sont individuelles et guidées par les mains de la praticienne.
 ---
@@ -20,9 +20,9 @@ Une séance individuelle dure environ une heure.
 
 
 La Prise de Conscience par le Mouvement comme l’Intégration Fonctionnelle, s’adresse à l’ensemble du système nerveux, donc à l’ensemble de la personne tant au plan sensoriel qu’émotif et intellectuel.
-> « *Le véritable lieu de naissance est celui où l'on a porté pour la première fois un regard intelligent sur soi-même...* »
+> «&nbsp;*Le véritable lieu de naissance est celui où l'on a porté pour la première fois un regard intelligent sur soi-même...*&nbsp;»
 
-Marguerite Yourcenar, « *Mémoires d'Hadrien* »
+Marguerite Yourcenar, «&nbsp;*Mémoires d'Hadrien*&nbsp;»
 {:.cite}
 
 ## La Méthode Feldenkrais<span class="registered">&reg;</span> s'adresse à tous
@@ -32,18 +32,5 @@ Parce que le mouvement est une clef pour la vie, la Méthode Feldenkrais<span cl
 - bébés, enfants, ados, adultes et seniors
 - personnes à mobilité réduite, personnes en prise avec des difficultés survenues à la suite d'un stress, d’un accident, d’une opération, personnes en souffrances psychologiques
 - sportifs, artistes, formateurs, professionnels de santé
-
-<!-- <div class="tab">
-      <input id="tab-two" type="checkbox" name="tabs">
-      <label for="tab-two">A qui s’adresse la Méthode Feldenkrais&reg;&nbsp;?</label>
-      <div class="tab-content">
-        <p>Parce que le mouvement est une clef pour la vie, la Méthode Feldenkrais<span class="registered">&reg;</span> s'adresse à tous :</p>
-<ul>
-<li>Bébés, enfants, ados, adultes et seniors.</li>
-<li>Personnes à mobilité réduite, personnes en prise avec des difficultés survenues à la suite d'un stress, d’un accident, d’une opération, personnes en souffrances psychologiques.</li>
-<li>Sportifs, artistes, formateurs, professionnels de santé.</li>
-</ul>
-      </div>
-</div> -->
 <br>
     

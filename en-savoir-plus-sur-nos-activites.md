@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Médiations artistiques et thérapeutiques, individuelles et groupales
 summary: Rêver tout haut invente et anime des médiations artistiques et thérapeutiques, individuelles et groupales, croisées et autonomes les unes des autres,  qui utilise le collage, la peinture, l’écriture, le théâtre, la musique, la fabrication d’objets, la sophrologie et la méthode Feldenkrais.
 ---
@@ -18,6 +18,6 @@ Individuelles ou groupales, en séances ponctuelles, régulières ou sous forme 
 <div class="middle">
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600,r_10/v1527699743/Klee_-_copie_hg2owd.jpg">
 </div>
-Paul Klee, « *Der Ballon im Fenster* »
+Paul Klee, «&nbsp;*Der Ballon im Fenster*&nbsp;»
 {:.cite}
 

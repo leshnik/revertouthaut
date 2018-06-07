@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Comment nous contacter ?
 summary: Pour joindre Rêver tout haut, tél 06 13 50 45 54, revertouthaut@gmail.com
 
@@ -11,10 +11,10 @@ summary: Pour joindre Rêver tout haut, tél 06 13 50 45 54, revertouthaut@gmail
 
 <!-- ![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_550,r_10/v1527698358/frizouille_casquette_et_fleurs_lfh3yz.jpg) -->
 
-Rêver Tout Haut <br>
-580, route de la Croix Montchanin<br>
-71250 Buffières<br>
-tél&nbsp;: 06 13 50 45 54<br>
+Rêver&nbsp;Tout&nbsp;Haut<br>
+580,&nbsp;route&nbsp;de&nbsp;la&nbsp;Croix&nbsp;Montchanin<br>
+71250&nbsp;Buffières<br>
+tél&nbsp;: 06&nbsp;13&nbsp;50&nbsp;45&nbsp;54<br>
 revertouthaut@gmail.com
 {:.rever-list-narrow}
 

@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Créer un dialogue sensori-moteur pour accorder action et sensation
 summary: 
 ---
@@ -24,7 +24,7 @@ Il s'agit par cette pratique de:
 
 
 
-> « *Rien, à propos de nos schémas de comportement, n’est permanent, si ce n’est notre conviction qu’ils le sont.* »
+> «&nbsp;*Rien, à propos de nos schémas de comportement, n’est permanent, si ce n’est notre conviction qu’ils le sont.*&nbsp;»
 
 Moshé Feldenkrais
 {:.cite}
@@ -36,7 +36,7 @@ Moshé Feldenkrais
    <figcaption>Cassandre Lorimy Jackson</figcaption>
    </figure>
   </div>
- <div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">● contenu et déroulé des séances</a>
+ <div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">●&nbsp;contenu et déroulé des séances</a>
  </div>
 </div>
 

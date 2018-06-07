@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Ateliers à domicile
 ---
 # Ateliers à domicile

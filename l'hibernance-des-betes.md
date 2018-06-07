@@ -1,7 +1,7 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: L’hibernance des bêtes, spectacle qui témoigne du travail social
-summary: Spectacle à venir, « l’hibernance des bêtes » est le résultat d’ateliers d’écriture menés auprès de travailleurs sociaux qui témoignent de rencontres marquantes avec certains de leurs usagers et qui leur ont fait vivre quelque chose de puissant, de troublant, et de difficilement communicable.
+summary: Spectacle à venir, «&nbsp;l’hibernance des bêtes&nbsp;» est le résultat d’ateliers d’écriture menés auprès de travailleurs sociaux qui témoignent de rencontres marquantes avec certains de leurs usagers et qui leur ont fait vivre quelque chose de puissant, de troublant, et de difficilement communicable.
 ---
 
 # L'hibernance des bêtes, spectacle qui témoigne du travail social
@@ -20,7 +20,7 @@ Voici des exemples de ces premiers textes :
 
 ## L’impératrice
 
-> *Elle porte un nom d’empereur.  
+>*Elle porte un nom d’empereur.  
 Sur sa photo encadrée, un beau visage de femme rousse, jeune, diaphane, rêveur  
 Dans son frigo, deux yaourts périmés  
 Dans le cendrier, un mégot à peine éteint  
@@ -43,11 +43,11 @@ La couleur absente de sa peau, la fureur de ses os
 Des organes miraculés  
 Une canne qui aurait envie de nous fouetter  
 et deux yeux noirs qui hurlent de loin  
-«  Pas maintenant, foutez-moi le camp »  
+«&nbsp;Pas maintenant, foutez-moi le camp&nbsp;»  
 Nous remballons nos bonjours, nos mains tendues
 nous lui souhaitons une bonne journée, rassurées de la voir debout malgré tout  
 et la laissons, seule, souveraine, encore vivante,  
-Elle, l’impératrice de son supermarché, rayon bouteilles de rosé*  
+Elle, l’impératrice de son supermarché, rayon bouteilles de rosé.*  
 
 
 ## Soustraction 

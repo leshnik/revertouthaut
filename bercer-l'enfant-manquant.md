@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Bercer l’enfant manquant, spectacle autour des liens mère/enfant
 summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---
@@ -12,7 +12,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
 ### Extraits : 
 
->*« J’étais bien motivée
+>*«&nbsp;J’étais bien motivée
 J’ai dit « non non je veux pas de péridurale »
 Et puis à un moment donné
 Tout le monde a paniqué
@@ -45,15 +45,15 @@ T’es nulle comme mère »*
 
 ----
 
->*« On a eu de la chance parce qu’on a attendu que 2 ans. J’étais à la maison, j’étais toute seule, j’ai reçu un coup de téléphone. J’ai compris tout de suite car la dame de la ddass qui m’a appelée mettait des phrases qui n’avaient aucune importance, et j’ai compris qu’elle me préparait à quelque chose d’important. Elle m’a dit : un bébé vous attend. Je suis allée à un temps de rencontre à la ddass où on m’a montré des photos du bébé.  
+>*«&nbsp;On a eu de la chance parce qu’on a attendu que 2 ans. J’étais à la maison, j’étais toute seule, j’ai reçu un coup de téléphone. J’ai compris tout de suite car la dame de la ddass qui m’a appelée mettait des phrases qui n’avaient aucune importance, et j’ai compris qu’elle me préparait à quelque chose d’important. Elle m’a dit : un bébé vous attend. Je suis allée à un temps de rencontre à la ddass où on m’a montré des photos du bébé.  
 Et puis après on m’a accompagnée chez sa nourrice. Qui était une femme extraordinaire. Quand je suis arrivée, le bébé était posé dans un petit cosy dans la cuisine et il y avait un escalier et y’avait plein d’enfants, qui me regardaient avancer. Je me rappelle que j’étais très calme, je lui ai dit bonjour, j’étais très calme.   
 Après pendant une semaine, on venait tous les jours donner le bain, changer, donner le biberon, un vrai passage. Elle nous l’a passé cette femme. Un beau mouvement.   
 Le lien il a commencé  à se faire quand on était ensemble à la maison tous les trois.  
-On a passé une semaine ici, dehors il neigeait, Théo était dans un petit hamac, là près du feu, et nous on a passé une semaine à le regarder. On s’est fait comme une grossesse en accéléré. Dans un espèce de cocon. On faisait rien, il neigeait et on le regardait. »*
+On a passé une semaine ici, dehors il neigeait, Théo était dans un petit hamac, là près du feu, et nous on a passé une semaine à le regarder. On s’est fait comme une grossesse en accéléré. Dans un espèce de cocon. On faisait rien, il neigeait et on le regardait.&nbsp;»*
 
 ----
 
->*« Je n’arrivais plus à croire à l’existence de ce bébé  
+>*«&nbsp;Je n’arrivais plus à croire à l’existence de ce bébé  
 Ce bébé n’existait plus  
 Et je voyais le gouffre qui se trouvait devant moi  
 J’arrivais pas à rester seule  
@@ -67,10 +67,10 @@ J’étais complètement vide, vide de sentiment
 C’était mon enfant, je le savais, mais je le savais intellectuellement   
 Mais je ne ressentais rien  
 Un jour, je le promenais au parc dans sa poussette, 
-Y’avait du vent. Le bébé me regardait et je me suis dit : la seule chose que je suis capable de ressentir, c’est le souffle de vent dans mes cheveux. »*
+Y’avait du vent. Le bébé me regardait et je me suis dit : la seule chose que je suis capable de ressentir, c’est le souffle de vent dans mes cheveux.&nbsp;»*
 
 ----
->*« Ce qui m’étonne toujours, c’est que le bébé soit tout bien fini, tout bien fait, il a déjà une histoire, donc on se demande d’où il vient cet enfant. Parce que bon, deux cellules qui font deux quatre huit, oui d’accord mais il vient d’où ? L’impression qu’il vient d’un autre monde, tu vois, qu’il porte en lui quelque chose de mystérieux, par son regard, un peu perdu, un peu vague, qu’est-ce qu’il y a dans ce cerveau ? qu’est-ce qu’il élabore ? Qu’est-ce qu’il ressent ? est-ce qu’il pense à des choses ? est-ce qu’il rêve ? Quand il dort mais qu’il fait des sourires, qu’est-ce qui se passe pour qu’il sourit, y’a des images dans sa tête ? En fait, je me dis qu’un bébé, c’est comme un livre qu’on ouvre, comme un livre qu’on déplie. »*
+>*«&nbsp;Ce qui m’étonne toujours, c’est que le bébé soit tout bien fini, tout bien fait, il a déjà une histoire, donc on se demande d’où il vient cet enfant. Parce que bon, deux cellules qui font deux quatre huit, oui d’accord mais il vient d’où ? L’impression qu’il vient d’un autre monde, tu vois, qu’il porte en lui quelque chose de mystérieux, par son regard, un peu perdu, un peu vague, qu’est-ce qu’il y a dans ce cerveau ? qu’est-ce qu’il élabore ? Qu’est-ce qu’il ressent ? est-ce qu’il pense à des choses ? est-ce qu’il rêve ? Quand il dort mais qu’il fait des sourires, qu’est-ce qui se passe pour qu’il sourit, y’a des images dans sa tête ? En fait, je me dis qu’un bébé, c’est comme un livre qu’on ouvre, comme un livre qu’on déplie.&nbsp;»*
 
 [Télécharger le dossier l'enfant manquant](Bercer-l’enfant-manquant-dossier.pdf)
 

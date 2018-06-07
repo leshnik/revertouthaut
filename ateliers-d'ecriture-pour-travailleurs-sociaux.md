@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Ateliers d’écriture pour travailleurs sociaux
 summary: Comment rendre compte de rencontres marquantes, troublantes, parfois envahissantes, voire culpablisantes, que l’on peut faire dans le cadre de son travail d’accompagnement social ou soignant ? En écrivant, en transformant par des textes et des chansons ce vécu parfois complexe à transmettre.
 ---
@@ -18,7 +18,7 @@ Voici un exemple de texte témoignant d’une rencontre et d’un accompagnement
 
 ### Le terrier 
 
->« *Il sort de son garage, de son terrier de mégots et de merdes séchées  
+>«&nbsp;*Il sort de son garage, de son terrier de mégots et de merdes séchées  
 Il sourit  
 Il s’accroupit, il ne peut pas rester ni debout ni assis  
 Debout, c’est pour ceux qui savent se présenter, dire bonjour, parler d’eux, serrer les mains des autres, même de leurs ennemis  
@@ -28,7 +28,7 @@ Le monde est plein de prédateurs, de crocs et de portes contre lesquelles on n�
 Peut-être a-t-il peur de la guerre, celle que chaque jour il perd un peu plus et qu’il ne gagnera pas contre ses mains vides, contre son foie, contre ses cicatrices, contre 6 milliards d’humains et contre sa mère invisible, et éternellement fâchée  
 Je ne pense pas qu’il ait été un jour enfant, je pense qu’il est né ainsi, 1 mètre 80, de corps presque liquide, de corps sans maintien.  
 Mais ce matin il sourit. Un répit. De trois minutes et demi. 
-Car il n’est pas mort cette nuit. Ni de froid, ni d’ennui, ni de souterrain, ni  de coup de pelle, ni de mauvais vin* »
+Car il n’est pas mort cette nuit. Ni de froid, ni d’ennui, ni de souterrain, ni  de coup de pelle, ni de mauvais vin.*&nbsp;»
 
  
 ​​

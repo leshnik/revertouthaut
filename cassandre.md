@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Cassandre Lorimy-Jackson, praticienne Feldenkrais et peintre
 summary: Peintre, danseuse contemporaine et formée à l’école de Cirque Annie Fratellini, Cassandre Lorimy-Jackson s’intéresse au corps en mouvement et est praticienne Feldenkrais depuis 1986. Grâce à sa formation et son parcours, elle imagine des ateliers qui mêlent installation plastique et Feldenkrais, et réunissent mouvement et peinture.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Contenu et déroulé d’une séance d’art-thérapie
 summary: Les séances d’art-thérapie peuvent avoir lieu à domicile, en institution médicale ou sociale, et en cabinet, et utilisent des médiations et des matériaux, qui soient adaptées aux problématiques des groupes et des personnes. 
 ---
@@ -13,9 +13,9 @@ Leur bonne durée se situe entre 1 heure et 2 heures et se passe en trois temps�
 
 Ce qui se passe à l’intérieur d’un atelier reste confidentiel, et les œuvres créées, les traces laissées restent la propriété des personnes participantes. 
 
->« *A peine une aquarelle est-elle faite (en dix à quinze minutes), voilà que j’étale une nouvelle feuille de papier sur ma planche, et avec beaucoup d’eau, les couleurs, les rouges surtout, pour crier, crier malheur, crier détresse, crier délire, crier tout ce qui crie à ce moment et veut se jeter au-dehors (qui n’est pas nécessairement à moi...) Ce que c’est ? Eh, cela vient en criant, voilà ce qui m’importe. Comme j’ai le cœur léger après tout cela, malgré l’épuisement ! Quel bien je me suis fait ! Si je pouvais faire à d’autres seulement la moitié du bien que je me fais, je n’aurais pas de gêne à aller fréquenter le monde. Qui peut donner cela ne peut être mal reçu.* »
+>«&nbsp;*A peine une aquarelle est-elle faite (en dix à quinze minutes), voilà que j’étale une nouvelle feuille de papier sur ma planche, et avec beaucoup d’eau, les couleurs, les rouges surtout, pour crier, crier malheur, crier détresse, crier délire, crier tout ce qui crie à ce moment et veut se jeter au-dehors (qui n’est pas nécessairement à moi...) Ce que c’est ? Eh, cela vient en criant, voilà ce qui m’importe. Comme j’ai le cœur léger après tout cela, malgré l’épuisement ! Quel bien je me suis fait ! Si je pouvais faire à d’autres seulement la moitié du bien que je me fais, je n’aurais pas de gêne à aller fréquenter le monde. Qui peut donner cela ne peut être mal reçu.*&nbsp;»
  
-Henri Michaux, « Passages »
+Henri Michaux, «&nbsp;Passages&nbsp;»
 {:.cite}
 
 <pairs class="pairs">
@@ -23,7 +23,7 @@ Henri Michaux, « Passages »
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_360,r_10/v1527689691/coeur_suspendu_gmu84u.jpg" class="img"/> 
 </left>
 <right class="three">
-<p><span class="rever-typog">Rêver tout haut</span> propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de « classique »  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...</p>
+<p><span class="rever-typog">Rêver tout haut</span> propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de «&nbsp;classique&nbsp;»  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...</p>
 </right>
 </pairs>
 <pairs class="pairs">
@@ -35,7 +35,7 @@ Henri Michaux, « Passages »
 </right>
 </pairs>
 
-L’association anime aussi un atelier de fabrication d’objets à partir d’objets récupérés dans les déchetteries ou les greniers.  Le glanage faisant partie de la séance d’art-thérapie et permettant de sortir de l’atelier, ce qui parfois donne un mouvement bienvenu. Cet atelier permet notamment de travailler sur la notion de « mise au rebut ». 
+L’association anime aussi un atelier de fabrication d’objets à partir d’objets récupérés dans les déchetteries ou les greniers.  Le glanage faisant partie de la séance d’art-thérapie et permettant de sortir de l’atelier, ce qui parfois donne un mouvement bienvenu. Cet atelier permet notamment de travailler sur la notion de «&nbsp;mise au rebut&nbsp;». 
 
 
 *Rêver tout haut*{:.rever-typog} anime aussi des ateliers en extérieur et propose de fabriquer des objets, des tableaux à partir de matières organiques ramassées dans les jardins ou les forêts, ce qui permet de mettre au travail tout ce qui concerne le monde sensoriel.

@@ -1,5 +1,5 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: La Méthode Feldenkrais, une relation entre le corps et l’esprit
 summary: La Méthode Feldenkrais utilise le mouvement corporel pour améliorer la qualité et l’efficacité du fonctionnement de la personne et invite chacun.e à une attitude d’exploration.
 ---
@@ -15,7 +15,7 @@ Elle aiguise la curiosité et invite chacun.e à une attitude d’exploration.
 Elle repose sur des notions fondamentales,  telles que : la représentation du corps et son orientation dans l'espace, les appuis, la transmission de la force à travers le squelette.
 Elle met en jeu la plasticité du cerveau et l’importance de la perception dans l’action.  
 
-> « *Tout être humain règle ses comportements et agit selon l'image de soi en mouvement.* » 
+> «&nbsp;*Tout être humain règle ses comportements et agit selon l'image de soi en mouvement.*&nbsp;» 
 
 Moshé Feldenkrais
 {:.cite}
@@ -31,6 +31,6 @@ Moshé Feldenkrais
  
  
 <div class="savoir-plus">
-  <a href="en-savoir-plus-sur-la-methode-feldenkrais">● en savoir plus sur la méthode</a></div>
-<div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">● contenu et déroulé des séances</a></div>
+  <a href="en-savoir-plus-sur-la-methode-feldenkrais">●&nbsp;en savoir plus sur la méthode</a></div>
+<div class="savoir-plus"><a href="contenu-des-seances-feldenkrais">●&nbsp;contenu et déroulé des séances</a></div>
 </div>
