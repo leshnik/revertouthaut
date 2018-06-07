@@ -1,11 +1,11 @@
 ---
-layout: two-column
+layout: two-column-banner
 title: Art-thérapie, sophrologie, Feldenkrais, en Saône et Loire (71)
 summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, praticiens Feldenkrais qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
 tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques]
 ---
-# Créativité, soin, lien social et spectacles vivants
-{:.top-line}
+<!-- # Créativité, soin, lien social et spectacles vivants
+{:.top-line} -->
 
 <!-- ### Médiations et accompagnements thérapeutiques et créatifs adaptés aux personnes et aux institutions -->
 
