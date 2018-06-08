@@ -19,7 +19,7 @@
   flex: 2;
   margin-top: 2em;
   padding-left: 1em; /* what fixes left spacing on iPad*/
-  
+
 }
 .inside-left {
   position: fixed;
@@ -101,7 +101,7 @@
   vertical-align: top;
   padding-right: 1em;
   padding-bottom: 1em;
- 
+
 }
 .img-right {
   float: right;
@@ -110,9 +110,8 @@
 }
 .middle {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+  margin: auto;
+  width: 80%;
   margin-bottom: 2em;
 }
 .image-text-container {
@@ -255,7 +254,7 @@ ul {
   font-size: 1.2em;
   line-height: 1.5em;
   list-style-type: none;
-  
+
 }
 
 .proposition {
@@ -278,7 +277,7 @@ ul {
  font-family: "Amatic SC";
  background-color: #94CDDB;
  position: static;
- background: linear-gradient(#885156, #2d4f2a); 
+ background: linear-gradient(#885156, #2d4f2a);
  margin: auto;
  padding: 0;
  border-bottom-left-radius: .2em;
@@ -296,14 +295,14 @@ ul {
  .invisible {
  opacity: 0;
  }
- 
+
  .mascot {
  margin-right: 1.5em;
  }
  .mascot :hover {
  transform: rotate(-2deg);
  }
- 
+
  .masks {
  display: flex;
  list-style-type: none;
@@ -313,18 +312,13 @@ ul {
  align-items: center;
  justify-content: space-between;
  background-image: url("http://res.cloudinary.com/dnxcesebo/image/upload/v1528121310/light-grey-sky_zvhusk.png");
- 
+
  }
  .masks > li {
  margin-top: 0em;
  margin-bottom: 0;
- 
+
  }
 .masks > li > {
   display: inline;
 }
-
-
-
-
-

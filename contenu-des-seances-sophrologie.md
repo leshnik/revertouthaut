@@ -2,6 +2,8 @@
 layout: two-column-banner
 title: séances de sophrologie
 ---
+## Contenu et déroulé des séances
+
 Une séance de sophrologie dure environ 1h. Le sophrologue se positionne comme un accompagnant dans une relation sujet à sujet.
 
 

@@ -4,13 +4,14 @@ title: Bercer l’enfant manquant, spectacle autour des liens mère/enfant
 summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---
 
-# Bercer l'enfant manquant, spectacle autour des liens mère/enfant
+# Bercer l'enfant manquant  
+## spectacle autour des liens mère/enfant
 ![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1526489491/affiche_enfant_manquant_ytzq2e.jpg)
-{: .img} 
+{: .img}
 *Bercer l’enfant manquant* est une pièce en création en 2018 et qui partira en tournée en Saône et Loire en 2019  en partenariat avec l’Association Ils Scenent et de multiples structures d’accueil des problématiques de parentalité. La pièce, basée sur des témoignages de mères et de soignantes récoltés lors d’ateliers à médiation qui utilisaient la musique, les berceuses du monde, la composition de chansons, et la parole, traite de la complexité des liens mère/enfant et aborde une vaste étendue de sujets : l’accouchement, la césarienne, la naissance de jumeaux, la prématurité, la PMA, l’adoption, la mort in-utero, la dépression post-partum, l’émerveillement...
- 
 
-### Extraits : 
+
+### Extraits :
 
 >*«&nbsp;J’étais bien motivée
 J’ai dit « non non je veux pas de péridurale »
@@ -27,19 +28,19 @@ Mais j’ai dormi
 Je me suis rendu compte de rien
 Et quand je me suis réveillée
 La sage-femme, elle me tenait la main et elle m’a dit  « c’est bon tout s’est bien passé »
-Je la regarde, je lui dis : qu’est-ce qui s’est passé ? 
-Ben, le bébé, le bébé va bien. 
+Je la regarde, je lui dis : qu’est-ce qui s’est passé ?
+Ben, le bébé, le bébé va bien.
 J’étais complètement perdue, j’avais complètement oublié
 Le néant
 Je me suis mise à chialer
-On m’a dit vous voulez le toucher ? 
+On m’a dit vous voulez le toucher ?
 Il était dans une couveuse
 Et moi j’étais reliée de partout
 J’ai pas pu le tenir dans mes bras
 Je l’ai pas entendu crier quand il est né
-Je me suis dit 
+Je me suis dit
 T’as pas été capable d’accoucher normalement
-T’es nulle comme mère »* 
+T’es nulle comme mère »*
 {:.teal}
 
 
@@ -66,7 +67,7 @@ Mais je ne ressentais rien pour lui
 J’étais complètement vide, vide de sentiment  
 C’était mon enfant, je le savais, mais je le savais intellectuellement   
 Mais je ne ressentais rien  
-Un jour, je le promenais au parc dans sa poussette, 
+Un jour, je le promenais au parc dans sa poussette,
 Y’avait du vent. Le bébé me regardait et je me suis dit : la seule chose que je suis capable de ressentir, c’est le souffle de vent dans mes cheveux.&nbsp;»*
 
 ----

@@ -13,8 +13,8 @@ La sophrologie travaille avec les ressources et les valeurs de chacun, en prenan
 Alexandre Jollien, "Petit traité de l’abandon"
 {:.cite}  
 
-![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_350/v1528465785/etoile-degas_jbw6ru.jpg)
-
+<div class="middle"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_450/v1528465785/etoile-degas_jbw6ru.jpg">
+</div>
 Edgar Degas, "L’étoile - ou Danseuse sur scène", 1876-77
 {:.cite}
 

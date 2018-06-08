@@ -3,6 +3,18 @@ layout: two-column-banner
 title: En savoir plus sur la sophrologie
 summary:
 ---
-Concrètement, la séance de sophrologie se passe en posture assise et/ ou debout, plus rarement allongée, et le patient (sophronisant) écoute le sophrologue qui le guide avec la voix. Les yeux fermés, il va peu à peu reprendre contact avec son corps qu’il relâche au mieux de ce qui est possible pour atteindre un état de conscience dit « sophronique » dans lequel il est lucide, avec une conscience beaucoup plus ouverte, beaucoup plus plastique. Dans cet état, il peut avoir plus facilement accès à ses ressources. On travaille d’abord avec le moment présent, puis sur l’avenir et sur le passé parfois. Le travail s’appuie sur les 5 sens pour être plus présent à l’instant et aussi développer la conscience de son corps et de son être au monde. On passe donc aussi par un travail sur la mémoire sensorielle. Mémoire qui permet à travers nos 5 sens d’ancrer les événements vécus dans le corps, de les retrouver donc à travers un parfum, un son, une sensation… S’appuyer sur ses 5 sens pour travailler permet donc de sortir d’une simple visualisation pour expérimenter les choses dans le corps avec plus d’intensité.  
+## En savoir plus sur la sophrologie
+Concrètement, la séance de sophrologie se passe en posture assise et/ ou debout, plus rarement allongée, et le patient (sophronisant) écoute le sophrologue qui le guide avec la voix. Les yeux fermés, il va peu à peu reprendre contact avec son corps qu’il relâche au mieux de ce qui est possible pour atteindre un état de conscience dit « sophronique » dans lequel il est lucide, avec une conscience beaucoup plus ouverte, beaucoup plus plastique. Dans cet état, il peut avoir plus facilement accès à ses ressources.
 
-![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400/v1528465557/klimt-sophro_xn2d2s.png)
+On travaille d’abord avec le moment présent, puis sur l’avenir et sur le passé parfois. Le travail s’appuie sur les 5 sens pour être plus présent à l’instant et aussi développer la conscience de son corps et de son être au monde. On passe donc aussi par un travail sur la mémoire sensorielle. Mémoire qui permet à travers nos 5 sens d’ancrer les événements vécus dans le corps, de les retrouver donc à travers un parfum, un son, une sensation… S’appuyer sur ses 5 sens pour travailler permet donc de sortir d’une simple visualisation pour expérimenter les choses dans le corps avec plus d’intensité.  
+
+
+
+<div class="middle">
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
+</div>
+Gustav Klimt, *L'Arbre de Vie*, Fresque du palais Stoclet (1905-1909)
+{:.cite}
+
+<div class="savoir-plus"><a href="contenu-des-seances-sophrologie">● contenu et déroulé des séances</a>
+</div>

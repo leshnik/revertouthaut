@@ -15,9 +15,9 @@ Individuelles ou groupales, en séances ponctuelles, régulières ou sous forme 
 
 *Rêver tout haut*{:.rever-typog} se rêve, se projette et se pense comme un laboratoire d’idées nouvelles, d’expériences artistiques et thérapeutiques transversales, une mise en commun de pratiques toujours en mouvement et en questionnement, une entreprise concrète de transformation des personnes et des institutions, animée par la conscience des problématiques humaines contemporaines. Enfin, *Rêver tout haut*{:.rever-typog} mise sur l’imaginaire fécond des individus, des institutions, et des professionnels du soin.
 
+
 <div class="middle">
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600,r_10/v1527699743/Klee_-_copie_hg2owd.jpg">
 </div>
 Paul Klee, «&nbsp;*Der Ballon im Fenster*&nbsp;»
 {:.cite}
-
