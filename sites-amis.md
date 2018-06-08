@@ -31,5 +31,6 @@ title: Sites Amis
 
 #### Sophrologie
 - [Isis Philippe-Janon - Sophrologue](http://isispjsophro.com/){:target="_blank"}
+- [Académie de sophrologie de Paris](http://academie-sophrologie.fr/){:target="_blank"}
+- [Le magazine de la sophrologie](https://www.sophrologie-actualite.fr/){:target="_blank"}
 {:.color02}
-
