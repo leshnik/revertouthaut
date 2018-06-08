@@ -11,10 +11,11 @@ On travaille d’abord avec le moment présent, puis sur l’avenir et sur le pa
 
 
 <div class="middle">
+<figure>
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
+<figcaption>Gustav Klimt, <em>L'Arbre de Vie</em>, Fresque du palais Stoclet (1905-1909)</figcaption>
+</figure>
 </div>
-Gustav Klimt, *L'Arbre de Vie*, Fresque du palais Stoclet (1905-1909)
-{:.cite}
 
 <div class="savoir-plus"><a href="contenu-des-seances-sophrologie">● contenu et déroulé des séances</a>
 </div>

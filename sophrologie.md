@@ -10,13 +10,16 @@ La sophrologie travaille avec les ressources et les valeurs de chacun, en prenan
 
 >«&nbsp;*Plus on s'abandonne à l'instant présent, plus on est dans l'action et l'on répond adéquatement aux circonstances de l'existence.*&nbsp;»
 
-Alexandre Jollien, "Petit traité de l’abandon"
+Alexandre Jollien, "*Petit traité de l’abandon*"
 {:.cite}  
 
-<div class="middle"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_450/v1528465785/etoile-degas_jbw6ru.jpg">
+<div class="middle">
+<figure>
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_500/v1528465785/etoile-degas_jbw6ru.jpg">
+<figcaption>Edgar Degas, "<em>L’étoile - ou Danseuse sur scène</em>", 1876-77</figcaption>
+</figure>
 </div>
-Edgar Degas, "L’étoile - ou Danseuse sur scène", 1876-77
-{:.cite}
+
 
 <div class="savoir-plus"><a href="en-savoir-plus-sur-la-sophrologie">● en savoir plus sur la sophrologie</a></div>
 <div class="savoir-plus"><a href="contenu-des-seances-sophrologie">● contenu et déroulé des séances</a>
