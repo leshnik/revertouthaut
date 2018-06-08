@@ -19,10 +19,9 @@
   flex: 2;
   margin-top: 2em;
   padding-left: 1em; /* what fixes left spacing on iPad*/
-
 }
 .inside-left {
-  position: relative;
+  position: relative; <!-- change back to fixed when solution for scrolling is found-->
 }
 
 .left-container li {
