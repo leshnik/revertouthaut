@@ -22,7 +22,7 @@
 
 }
 .inside-left {
-  position: fixed;
+  position: relative;
 }
 
 .left-container li {
