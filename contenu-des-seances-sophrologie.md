@@ -1,6 +1,7 @@
 ---
 layout: two-column-banner
-title: séances de sophrologie
+title: Contenu et déroulé d’une séance de sophrologie
+summary: Après un échange entre le patient et le sophrologue, la séance qui se déroule en position debout ou assise, réunit relaxation dynamique et travail sur la conscience, et se termine dans un troisième temps par une phénodescription, c’est à dire une description et un échange autour des phénomènes vécus pendant l’heure passée ensemble.
 ---
 ## Contenu et déroulé des séances
 
