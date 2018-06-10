@@ -8,7 +8,10 @@
   box-sizing: inherit;
 }
 
-
+body {
+  font-family: "Arvo", serif;
+  font-size: 16px;
+}
 .outmost {
   max-width: 1050px;
   margin: 0 auto;
@@ -82,6 +85,42 @@
 .indent {
   text-indent: .5em;
 }
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+.dropdown-menu {
+  color: "red";
+  display: none;
+  position: absolute;
+  left: 0;
+  top: 2.1em;
+  min-width: 100%;
+  background-color: #eee;
+}
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+.submenu {
+  padding-left: 0;
+  margin: 0;
+  list-style-type: none;
+  border: 1px solid #999;
+}
+.submenu > li + li {
+  border-top: 1px solid #999;
+}
+.submenu > li > a {
+  display: block;
+  padding: .5em 1.5em;
+  background-color: #eee;
+  color: #369;
+  text-decoration: none;
+}
+.submenu > li > a:hover {
+  background-color: #fff;
+}
+/* main content */
 .content-container {
   flex: 7;
   overflow: auto;
@@ -216,7 +255,7 @@ h4 {
   font-size: 1.9em;
 }
 p {
-  font-size: 1.5em;
+  font-size: 1.2rem;
   line-height: 1.4em;
   color: #333;
 }
