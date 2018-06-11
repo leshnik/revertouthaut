@@ -1,7 +1,7 @@
 ---
 layout: two-column-banner
 title: La mémoire sensorielle et les cinq sens
-summary:En les guidant par la voix et par sa méthode, le sophrologue permet à ses patients d’atteindre un état de conscience sophronique et à partir d’un travail sur les cinq sens et la mémoire sensorielle, leur permet de travailler sur le présent.
+summary: En les guidant par la voix et par sa méthode, le sophrologue permet à ses patients d’atteindre un état de conscience sophronique et à partir d’un travail sur les cinq sens et la mémoire sensorielle, leur permet de travailler sur le présent.
 ---
 ## En savoir plus sur la sophrologie
 Concrètement, la séance de sophrologie se passe en posture assise et/ ou debout, plus rarement allongée, et le patient (sophronisant) écoute le sophrologue qui le guide avec la voix. Les yeux fermés, il va peu à peu reprendre contact avec son corps qu’il relâche au mieux de ce qui est possible pour atteindre un état de conscience dit « sophronique » dans lequel il est lucide, avec une conscience beaucoup plus ouverte, beaucoup plus plastique. Dans cet état, il peut avoir plus facilement accès à ses ressources.
