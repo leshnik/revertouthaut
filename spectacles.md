@@ -9,7 +9,7 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
 
 ## les êtres humaines
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_10/v1527696915/Danse_Mireille_Etres_Humaines_zow12o.jpg" class="img"/><br>
-Notre spectacle, «&nbsp;les êtres humaines&nbsp;» qui est le résultat d’une longue résidence de création et d’ateliers au sein d’un foyer accueillant des mères et leurs enfants victimes de violence conjugale, a été joué pendant trois ans. 
+Notre spectacle, «&nbsp;les êtres humaines&nbsp;» qui est le résultat d’une longue résidence de création et d’ateliers au sein d’un foyer accueillant des mères et leurs enfants victimes de violence conjugale, a été joué pendant trois ans.
 
 ## Bercer l’enfant manquant
 Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de la complexité des liens entre les mères et leurs enfants sera joué à partir de 2019. Il est lui aussi issu d’ateliers de création et de paroles animées auprès de mères et de soignantes.  
@@ -20,11 +20,8 @@ Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de
 
   <ul class="savoir-plus">
     <li><a href="les-etres-humaines">●&nbsp;en savoir plus sur Les&nbsp;Étres&nbsp;Humaines</a></li>
-  
-    <li><a href="bercer-l'enfant-manquant">●&nbsp;en savoir plus sur Bercer&nbsp;l'enfant&nbsp;manquant</a></li>
-  
-    <li><a href="l'hibernance-des-betes">●&nbsp;en savoir plus sur L'hibernance&nbsp;des&nbsp;bêtes</a></li>
+
+    <li><a href="bercer-l-enfant-manquant">●&nbsp;en savoir plus sur Bercer&nbsp;l'enfant&nbsp;manquant</a></li>
+
+    <li><a href="l-hibernance-des-betes">●&nbsp;en savoir plus sur L'hibernance&nbsp;des&nbsp;bêtes</a></li>
 </ul>
-
-
-
