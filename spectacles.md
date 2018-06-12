@@ -12,7 +12,12 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
 Notre spectacle, «&nbsp;les êtres humaines&nbsp;» qui est le résultat d’une longue résidence de création et d’ateliers au sein d’un foyer accueillant des mères et leurs enfants victimes de violence conjugale, a été joué pendant trois ans.
 
 ## Bercer l’enfant manquant
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_480,r_10/v1528807508/oeuf-udu01_ky8hph.jpg" class="img"/><br>
+<figure>
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_480,r_10/v1528807508/oeuf-udu01_ky8hph.jpg" class="img"/>
+<figcaption>Crédit photo&nbsp;:&nbsp;<em>not.brice</em></figcaption>
+</figure>
+
+<br>
 
 Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de la complexité des liens entre les mères et leurs enfants sera joué à partir de 2019. Il est lui aussi issu d’ateliers de création et de paroles animées auprès de mères et de soignantes.  
 
