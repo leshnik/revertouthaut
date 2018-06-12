@@ -9,7 +9,7 @@
 }
 
 body {
-  font-family: "Arvo", serif;
+  font-family: "lora", serif;
   font-size: 16px;
 }
 .outmost {
@@ -131,7 +131,7 @@ body {
   /* padding-bottom: 6em; */
   text-align: justify;
   /* background-color: #ffffe6; */
-  font-family: 'Arvo',serif;
+  font-family: 'lora',serif;
 }
 .img {
   float: left;
