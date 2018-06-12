@@ -13,11 +13,14 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 
 *Rêver tout haut*{:.rever-typog}  est une association d’art-thérapeutes, de sophrologues, et de praticiens Feldenkrais diplomé.es, et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins. *Rêver tout haut*{:.rever-typog} conçoit des médiations et des pratiques autonomes les unes des autres et aussi en continuité et en lien.  
 
-*rêver tout haut*{:.rever-typog} vous invite à  dire par la création ce que l’on parle tout bas  
-*rêver tout haut*{:.rever-typog} imagine un accompagnement adapté à chacun  
-*rêver tout haut*{:.rever-typog} permet d’exprimer, de transformer ce qu’il est difficile de dire, et d’élaborer  
+*rêver tout haut*{:.rever-typog} vous invite à  dire par la création ce que l’on parle tout bas
+{:.rever-list1}  
+*rêver tout haut*{:.rever-typog} imagine un accompagnement adapté à chacun
+{:.rever-list2}  
+*rêver tout haut*{:.rever-typog} permet d’exprimer, de transformer ce qu’il est difficile de dire, et d’élaborer
+{:.rever-list3}  
 *rêver tout haut*{:.rever-typog} œuvre pour que l’imaginaire reprenne sens et vigueur dans le quotidien, et que se remette en mouvement la pensée, qu’il s’agisse de celle des personnes ou de celle des institutions  
-{:.rever-list}
+{:.rever-list4}
 
 <!-- <div class="tab">
 <input id="tab-one" type="checkbox" name="tabs">
@@ -25,7 +28,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
       <div class="tab-content">
         <p><span class="rever-typog">Rêver tout haut</span> accompagne des personnes à domicile ou en cabinet, intervient dans le cadre de structures médico-sociales, et conçoit et anime des médiations adaptées aux spécificités institutionnelles, aux problématiques qu’elles accompagnent et aux nécessités du territoire sur lequel elles sont installées.</p>  
 
-<p>Ecriture, dessin, collage, terre, expression du corps, exploration de son intériorité, musique, chansons, fabrication d’objets insolites, détournement d’objets de tous les jours, théâtre, travail de la voix, vidéo, photographie, sont les médiations proposées, sachant que Rêver tout haut, comme son nom l’indique, continue d’inventer des médiations singulières, toujours adaptées et réadaptées en fonction de la particularité des personnes et des structures, et de leur rythme.</p> 
+<p>Ecriture, dessin, collage, terre, expression du corps, exploration de son intériorité, musique, chansons, fabrication d’objets insolites, détournement d’objets de tous les jours, théâtre, travail de la voix, vidéo, photographie, sont les médiations proposées, sachant que Rêver tout haut, comme son nom l’indique, continue d’inventer des médiations singulières, toujours adaptées et réadaptées en fonction de la particularité des personnes et des structures, et de leur rythme.</p>
 
 <p>Individuelles ou groupales, en séances ponctuelles, régulières ou sous forme de stages, les médiations proposées peuvent être complémentaires et animées par plusieurs intervenant.es qui ont dans l’idée de créer des passerelles entre elles, afin d’offrir aux personnes accompagnées, l’environnement le plus créatif, le plus ouvert et le plus judicieux possible. Le travail en équipe, la concertation et le dialogue sont des valeurs de notre association.</p>  
 
@@ -42,7 +45,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
       <div class="tab-content">
         <p>Nos ateliers sont ouverts à toutes et à tous. Chaque personne, de tout âge, ou chaque groupe désireux de faire appel à sa créativité, de tenter quelque chose qui le sorte du quotidien et le fasse voyager dans un univers artistique, qui lui fasse expérimenter une autre façon d’être, de voir le monde, d’être ensemble est bienvenu. </p>
 
-<p>Comme nous travaillons régulièrement à partir de faits sociaux, ou problématiques de santé, nous pouvons aussi nous adapter et proposer des ateliers qui soient sensibles à certains publics comme : 
+<p>Comme nous travaillons régulièrement à partir de faits sociaux, ou problématiques de santé, nous pouvons aussi nous adapter et proposer des ateliers qui soient sensibles à certains publics comme :
 <ul>
 <li>les bébés et leurs parents en difficultés de liens précoces</li>
 <li>les enfants (en rupture familiale, enfants placés en famille d’accueil ou en foyer, enfants souffrant de troubles du comportement...)</li>
@@ -60,7 +63,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 
 <p>Enfin, comme nous travaillons aussi pour différentes structures, voici une liste non exhaustive de toutes celles avec lesquelles nous pouvons collaborer : </p>
 <ul>
-<li>Institutions médicales : 
+<li>Institutions médicales :
   <ul>
   <li>Centre Médico-Psychologique </li>
   <li>Centre de Santé Mentale </li>
@@ -79,7 +82,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
   </ul>
 </li>
 
-<li>Institutions médico-sociales : 
+<li>Institutions médico-sociales :
   <ul>
   <li>Instituts Médico-Educatifs</li>
   <li>Institut Thérapeutique Educatif et Pédagogique</li>
@@ -98,7 +101,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
     <li>Service des Aides Sociales à l’Enfance</li>
   <li>Protection Judiciaire de la Jeunesse</li>
   <li>Maison des Solidarités</li>
-  <li>Associations et services d’accompagnement 
+  <li>Associations et services d’accompagnement
     <ul>
       <li>des bénéficiaires du RSA</li>
       <li>des personnes sous tutelle</li>
@@ -124,7 +127,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 </ul>
 </div>
 </div>
-    
+
 
 
  -->

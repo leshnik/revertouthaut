@@ -176,12 +176,34 @@ body {
   font-size: 1.2em;
   display: inline;
 }
-.rever-list {
+.rever-list1 {
   list-style: none;
-  background-color: #d4f4ff;
-  padding: 1em;
-  font-size: 1.4em;
+  background-color: #f89e9b;
+  padding: 0.5em;
+  font-size: 1.2em;
   border-radius: .5em;
+  text-align: left;
+}
+.rever-list2 {
+  background-color: #ffbc93;
+  font-size: 1.2em;
+  border-radius: .5em;
+  padding: 0.5em;
+  text-align: left;
+
+}
+.rever-list3 {
+  background-color: #ffdf97;
+  font-size: 1.2em;
+  border-radius: .5em;
+  padding: 0.5em;
+  text-align: left;
+}
+.rever-list4 {
+  background-color: #c4cf8d;
+  font-size: 1.2em;
+  border-radius: .5em;
+  padding: 0.5em;
   text-align: left;
 }
 .rever-list-narrow {
