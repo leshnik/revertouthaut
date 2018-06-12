@@ -178,14 +178,14 @@ body {
 }
 .rever-list1 {
   list-style: none;
-  background-color: #f89e9b;
+  background-color: lightcyan;
   padding: 0.5em;
   font-size: 1.2em;
   border-radius: .5em;
   text-align: left;
 }
 .rever-list2 {
-  background-color: #ffbc93;
+  background-color: lightblue;
   font-size: 1.2em;
   border-radius: .5em;
   padding: 0.5em;
@@ -193,14 +193,14 @@ body {
 
 }
 .rever-list3 {
-  background-color: #ffdf97;
+  background-color: paleturquoise;
   font-size: 1.2em;
   border-radius: .5em;
   padding: 0.5em;
   text-align: left;
 }
 .rever-list4 {
-  background-color: #c4cf8d;
+  background-color: powderblue;
   font-size: 1.2em;
   border-radius: .5em;
   padding: 0.5em;
