@@ -36,9 +36,16 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 <p><span class="rever-typog">Rêver tout haut</span> se rêve, se projette et se pense comme un laboratoire d’idées nouvelles, d’expériences artistiques et thérapeutiques transversales, une mise en commun de pratiques toujours en mouvement et en questionnement, une entreprise concrète de transformation des personnes et des institutions, animée par la conscience des problématiques humaines contemporaines. Enfin, <span class="rever-typog">Rêver tout haut</span> mise sur l’imaginaire fécond des individus, des institutions, et des professionnels du soin.</p>
   </div>
 </div> -->
-<div class="savoir-plus"><a href="en-savoir-plus-sur-nos-activites">● en savoir plus sur nos activités</a></div>
+<div class="pairs">
+<div class="five">
+<figure>
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1528881891/rever-flyer-internet-high_uffrwl.jpg">
+<figcaption><a href="/rever-flyer-internet-high.jpg">télécharger le flyer</a></figcaption>
+</figure>
+</div>
+<div class="three savoir-plus"><a href="en-savoir-plus-sur-nos-activites">● en savoir plus sur nos activités</a></div>
 
-
+</div>
 <!-- <div class="tab">
 <input id="tab-two" type="checkbox" name="tabs">
       <label for="tab-two">Pour qui ?</label>

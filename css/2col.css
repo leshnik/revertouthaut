@@ -317,6 +317,9 @@ ul {
   list-style-type: none;
 
 }
+.savoir-plus a {
+  color: #cc667a;
+}
 
 .proposition {
   text-align: center;
