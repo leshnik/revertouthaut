@@ -3,7 +3,10 @@
   margin: auto;
   padding-top: 2em;
   font-family: "Amatic SC";
-  font-size: 1.5rem;
+  font-size: 1.8rem;
+}
+#hero a {
+  font-size: 1.1em;
 }
 .color03 {
   color:#f25f5f
