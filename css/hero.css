@@ -1,6 +1,13 @@
-.hero {
+#hero {
   width: 70%;
   margin: auto;
   padding-top: 2em;
-  font-size: 1.3rem;
+  font-family: "Amatic SC";
+  font-size: 1.5rem;
+}
+.color03 {
+  color:#f25f5f
+}
+.color02 {
+  color: #7C984A;
 }
