@@ -14,13 +14,13 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 *Rêver tout haut*{:.rever-typog}  est une association d’art-thérapeutes, de sophrologues, et de praticiens Feldenkrais diplomé.es, et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins. *Rêver tout haut*{:.rever-typog} conçoit des médiations et des pratiques autonomes les unes des autres et aussi en continuité et en lien.  
 
 *rêver tout haut*{:.rever-typog} vous invite à  dire par la création ce que l’on parle tout bas
-{:.rever-list1}  
+{:.rever-list2}  
 *rêver tout haut*{:.rever-typog} imagine un accompagnement adapté à chacun
 {:.rever-list2}  
 *rêver tout haut*{:.rever-typog} permet d’exprimer, de transformer ce qu’il est difficile de dire, et d’élaborer
-{:.rever-list3}  
+{:.rever-list2}  
 *rêver tout haut*{:.rever-typog} œuvre pour que l’imaginaire reprenne sens et vigueur dans le quotidien, et que se remette en mouvement la pensée, qu’il s’agisse de celle des personnes ou de celle des institutions  
-{:.rever-list4}
+{:.rever-list2}
 
 <!-- <div class="tab">
 <input id="tab-one" type="checkbox" name="tabs">
