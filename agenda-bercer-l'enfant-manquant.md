@@ -1,7 +1,7 @@
 ---
 layout: two-column-banner
 title: Bercer l'enfant manquant
-summary: Dates de tournée de "Bercer l'enfant manquant".
+summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---
 # Bercer l'enfant manquant
 Basée sur des témoignages recueillis auprès de mères, de sages-femmes, et de soignantes, « Bercer l’enfant manquant » explore les liens qui se tissent, se vivent, s’installent et parfois ont du mal à se nouer, entre les mères et leurs enfants.
