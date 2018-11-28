@@ -11,9 +11,9 @@ Devenir mère, c’est traverser surprise, énigme, doute, inquiétude, angoisse
 Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel...
 
 
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1543428471/affiche_le_réservoir_migsaa.png)
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
 {: .img-right}
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
 {: .img-right}
 
 Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges.
@@ -23,11 +23,9 @@ Textes, chants, piano composent ce voyage en terre intime et universelle.
 Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash
 et Brice Notin à la lumière.
 
-## &nbsp;
->«&nbsp;En fait, je me dis qu’un bébé, c’est comme un livre qu’on ouvre, comme un livre qu’on déplie&nbsp;»
+&nbsp;
 
-
-## Dates de tournée de «&nbsp;Bercer l'enfant manquant&nbsp;»
+## Dates de tournée
 
 - vendredi 23 novembre 2018 à 19h  
 Patapon  EPAS  
@@ -65,36 +63,35 @@ au Petit Chêne Théâtre à Cluny
 à la Bibliothèque de Joncy  
 (horaire à confirmer)
 
-### Extraits :
->*«&nbsp;J’étais bien motivée
-J’ai dit « non non je veux pas de péridurale »
-Et puis à un moment donné
-Tout le monde a paniqué
-J’ai entendu biiiipppp
-J’ai atterri au bloc
-Césarienne d’urgence
-L’anesthésiste m’a dit on va faire un petit dodo madame
-J’ai tourné la tête je l’ai regardé droit dans les yeux
-J’ai dit, toi mon gars, tu vas pas réussir à m’endormir
-J’étais énervée
-Mais j’ai dormi
-Je me suis rendu compte de rien
-Et quand je me suis réveillée
-La sage-femme, elle me tenait la main et elle m’a dit  « c’est bon tout s’est bien passé »
-Je la regarde, je lui dis : qu’est-ce qui s’est passé ?
-Ben, le bébé, le bébé va bien.
-J’étais complètement perdue, j’avais complètement oublié
-Le néant
-Je me suis mise à chialer
-On m’a dit vous voulez le toucher ?
-Il était dans une couveuse
-Et moi j’étais reliée de partout
-J’ai pas pu le tenir dans mes bras
-Je l’ai pas entendu crier quand il est né
-Je me suis dit
-T’as pas été capable d’accoucher normalement
+## Extraits :
+>*«&nbsp;J’étais bien motivée  
+J’ai dit « non non je veux pas de péridurale »  
+Et puis à un moment donné  
+Tout le monde a paniqué  
+J’ai entendu biiiipppp  
+J’ai atterri au bloc  
+Césarienne d’urgence  
+L’anesthésiste m’a dit on va faire un petit dodo madame  
+J’ai tourné la tête je l’ai regardé droit dans les yeux  
+J’ai dit, toi mon gars, tu vas pas réussir à m’endormir  
+J’étais énervée  
+Mais j’ai dormi  
+Je me suis rendu compte de rien  
+Et quand je me suis réveillée  
+La sage-femme, elle me tenait la main et elle m’a dit  « c’est bon tout s’est bien passé »  
+Je la regarde, je lui dis : qu’est-ce qui s’est passé ?  
+Ben, le bébé, le bébé va bien.  
+J’étais complètement perdue, j’avais complètement oublié  
+Le néant  
+Je me suis mise à chialer  
+On m’a dit vous voulez le toucher ?  
+Il était dans une couveuse  
+Et moi j’étais reliée de partout  
+J’ai pas pu le tenir dans mes bras  
+Je l’ai pas entendu crier quand il est né  
+Je me suis dit  
+T’as pas été capable d’accoucher normalement  
 T’es nulle comme mère »*
-{:.teal}
 
 
 ----
