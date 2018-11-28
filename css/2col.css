@@ -320,7 +320,13 @@ ul {
 .savoir-plus a {
   color: #cc667a;
 }
-
+.savoir-plus a:hover {
+  text-decoration: none;
+  color: white;
+  font-size: 1.5em;
+  font-style: bold;
+  background-color: #c6564d;
+}
 .proposition {
   text-align: center;
   font-size: 1.1em;

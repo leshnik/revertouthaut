@@ -10,6 +10,12 @@ Devenir mère, c’est traverser surprise, énigme, doute, inquiétude, angoisse
 
 Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel...
 
+
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1543428471/affiche_le_réservoir_migsaa.png)
+{: .img-right}
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
+{: .img-right}
+
 Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges.
 
 Textes, chants, piano composent ce voyage en terre intime et universelle.
@@ -17,27 +23,26 @@ Textes, chants, piano composent ce voyage en terre intime et universelle.
 Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash
 et Brice Notin à la lumière.
 
+## &nbsp;
 >«&nbsp;En fait, je me dis qu’un bébé, c’est comme un livre qu’on ouvre, comme un livre qu’on déplie&nbsp;»
 
 
 ## Dates de tournée de «&nbsp;Bercer l'enfant manquant&nbsp;»
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
-{: .img-right}
+
 - vendredi 23 novembre 2018 à 19h  
-Patapon  
-EPAS  
+Patapon  EPAS  
 Château Marie Darmet  
 260, rue de Paris  
 Mâcon  
 gratuit — reservation : 03 85 38 61 03
 
-- vendredi 7 décembre 2018 à 14h30  
+- vendredi 7 décembre 2018 à 14h30
 Studio 70  
 3bis rue de Lyon  
 Chalon sur Saône  
 gratuit — réservation : 06 14 40 46 61
 
-- vendredi 8 février 2019 à 14h30 et 20h30  
+- vendredi 8 février 2019 à 14h30 et 20h30
 au Réservoir  
 16, rue Denis Papin  
 Saint Marcel  
@@ -48,15 +53,15 @@ réservation : 03 85 42 46 27
 à l’Auditorium à Montceau les Mines  
 (horaire à confirmer)
 
-- lundi 18 mars  
+- lundi 18 mars 2019  
 au Petit Chêne Théâtre à Cluny  
 (horaire à confirmer)
 
-- mardi 19 mars  
+- mardi 19 mars 2019  
 à l’Espace 1001 Familles à Cluny  
 (horaire à confirmer)
 
-- jeudi 21 mars  
+- jeudi 21 mars 2019  
 à la Bibliothèque de Joncy  
 (horaire à confirmer)
 

@@ -19,7 +19,7 @@ Notre spectacle, «&nbsp;les êtres humaines&nbsp;» qui est le résultat d’un
 
 <br>
 
-Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de la complexité des liens entre les mères et leurs enfants sera joué à partir de 2019. Il est lui aussi issu d’ateliers de création et de paroles animées auprès de mères et de soignantes.  
+Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de la complexité des liens entre les mères et leurs enfants sera joué à partir de novembre, 2018. Il est lui aussi issu d’ateliers de création et de paroles animées auprès de mères et de soignantes.  
 
 ## L’hibernance des bêtes
 «&nbsp;L’hibernance des bêtes&nbsp;» est un projet pour 2020, il sera le résultat d’un atelier d’écriture mené après de travailleurs sociaux qui témoignent de leur vécu et des rencontres qu’ils ont faites dans le cadre de leurs missions d’accompagnement.  
