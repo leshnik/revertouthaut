@@ -21,7 +21,8 @@ et Brice Notin à la lumière.
 
 
 ## Date de tournée de «&nbsp;Bercer l'enfant manquant&nbsp;»
-
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
+{: .img-right}
 - vendredi 23 novembre 2018 à 19h  
 Patapon  
 EPAS  
@@ -54,8 +55,6 @@ au Petit Chêne Théâtre à Cluny
 (horaire à confirmer)
 
 ### Extraits :
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
-{: .img-right}
 >*«&nbsp;J’étais bien motivée
 J’ai dit « non non je veux pas de péridurale »
 Et puis à un moment donné
@@ -88,8 +87,6 @@ T’es nulle comme mère »*
 
 
 ----
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541818076/flyer-bercer-macon-nov23-2018_nft2ey.png)
-{: .img}
 >*«&nbsp;On a eu de la chance parce qu’on a attendu que 2 ans. J’étais à la maison, j’étais toute seule, j’ai reçu un coup de téléphone. J’ai compris tout de suite car la dame de la ddass qui m’a appelée mettait des phrases qui n’avaient aucune importance, et j’ai compris qu’elle me préparait à quelque chose d’important. Elle m’a dit : un bébé vous attend. Je suis allée à un temps de rencontre à la ddass où on m’a montré des photos du bébé.  
 Et puis après on m’a accompagnée chez sa nourrice. Qui était une femme extraordinaire. Quand je suis arrivée, le bébé était posé dans un petit cosy dans la cuisine et il y avait un escalier et y’avait plein d’enfants, qui me regardaient avancer. Je me rappelle que j’étais très calme, je lui ai dit bonjour, j’étais très calme.   
 Après pendant une semaine, on venait tous les jours donner le bain, changer, donner le biberon, un vrai passage. Elle nous l’a passé cette femme. Un beau mouvement.   
