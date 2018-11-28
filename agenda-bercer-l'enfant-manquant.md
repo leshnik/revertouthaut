@@ -20,7 +20,7 @@ et Brice Notin à la lumière.
 >«&nbsp;En fait, je me dis qu’un bébé, c’est comme un livre qu’on ouvre, comme un livre qu’on déplie&nbsp;»
 
 
-## Date de tournée de «&nbsp;Bercer l'enfant manquant&nbsp;»
+## Dates de tournée de «&nbsp;Bercer l'enfant manquant&nbsp;»
 ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
 {: .img-right}
 - vendredi 23 novembre 2018 à 19h  
