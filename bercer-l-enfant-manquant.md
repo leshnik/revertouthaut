@@ -3,51 +3,98 @@ layout: two-column-banner
 title: Bercer l’enfant manquant, spectacle autour des liens mère/enfant
 summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---
+# Bercer l'enfant manquant
+Basée sur des témoignages recueillis auprès de mères, de sages-femmes, et de soignantes, « Bercer l’enfant manquant » explore les liens qui se tissent, se vivent, s’installent et parfois ont du mal à se nouer, entre les mères et leurs enfants.
 
-# Bercer l'enfant manquant  
-## spectacle autour des liens mère/enfant
-![](http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1526489491/affiche_enfant_manquant_ytzq2e.jpg)
-{: .img}
-*Bercer l’enfant manquant* est une pièce en création en 2018 et qui partira en tournée en Saône et Loire en 2019  en partenariat avec l’Association Ils Scenent et de multiples structures d’accueil des problématiques de parentalité. La pièce, basée sur des témoignages de mères et de soignantes récoltés lors d’ateliers à médiation qui utilisaient la musique, les berceuses du monde, la composition de chansons, et la parole, traite de la complexité des liens mère/enfant et aborde une vaste étendue de sujets : l’accouchement, la césarienne, la naissance de jumeaux, la prématurité, la PMA, l’adoption, la mort in-utero, la dépression post-partum, l’émerveillement...
+Devenir mère, c’est traverser surprise, énigme, doute, inquiétude, angoisse, émerveillement, tout une palette de sentiments complexes et nouveaux. C’est se confronter à certains clichés, ou injonctions de la société ou de sa propre famille. Et c’est aussi faire l’expérience d’un parcours médical, qui va de l’échographie jusqu’à l’accouchement et qui peut parfois faire vivre une amniocentèse, une PMA, une prématurité, une césarienne en urgence...
+
+Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel...
 
 
-### Extraits :
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
 {: .img-right}
->*«&nbsp;J’étais bien motivée
-J’ai dit « non non je veux pas de péridurale »
-Et puis à un moment donné
-Tout le monde a paniqué
-J’ai entendu biiiipppp
-J’ai atterri au bloc
-Césarienne d’urgence
-L’anesthésiste m’a dit on va faire un petit dodo madame
-J’ai tourné la tête je l’ai regardé droit dans les yeux
-J’ai dit, toi mon gars, tu vas pas réussir à m’endormir
-J’étais énervée
-Mais j’ai dormi
-Je me suis rendu compte de rien
-Et quand je me suis réveillée
-La sage-femme, elle me tenait la main et elle m’a dit  « c’est bon tout s’est bien passé »
-Je la regarde, je lui dis : qu’est-ce qui s’est passé ?
-Ben, le bébé, le bébé va bien.
-J’étais complètement perdue, j’avais complètement oublié
-Le néant
-Je me suis mise à chialer
-On m’a dit vous voulez le toucher ?
-Il était dans une couveuse
-Et moi j’étais reliée de partout
-J’ai pas pu le tenir dans mes bras
-Je l’ai pas entendu crier quand il est né
-Je me suis dit
-T’as pas été capable d’accoucher normalement
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
+{: .img-right}
+
+Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges.
+
+Textes, chants, piano composent ce voyage en terre intime et universelle.
+
+Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash
+et Brice Notin à la lumière.
+
+&nbsp;
+
+## Dates de tournée
+
+- vendredi 23 novembre 2018 à 19h  
+Patapon  EPAS  
+Château Marie Darmet  
+260, rue de Paris  
+Mâcon  
+gratuit — reservation : 03 85 38 61 03
+
+- vendredi 7 décembre 2018 à 14h30
+Studio 70  
+3bis rue de Lyon  
+Chalon sur Saône  
+gratuit — réservation : 06 14 40 46 61
+
+- vendredi 8 février 2019 à 14h30 et 20h30
+au Réservoir  
+16, rue Denis Papin  
+Saint Marcel  
+gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30  
+réservation : 03 85 42 46 27
+
+- vendredi 8 mars 2019  
+à l’Auditorium à Montceau les Mines  
+(horaire à confirmer)
+
+- lundi 18 mars 2019  
+au Petit Chêne Théâtre à Cluny  
+(horaire à confirmer)
+
+- mardi 19 mars 2019  
+à l’Espace 1001 Familles à Cluny  
+(horaire à confirmer)
+
+- jeudi 21 mars 2019  
+à la Bibliothèque de Joncy  
+(horaire à confirmer)
+
+## Extraits :
+>*«&nbsp;J’étais bien motivée  
+J’ai dit « non non je veux pas de péridurale »  
+Et puis à un moment donné  
+Tout le monde a paniqué  
+J’ai entendu biiiipppp  
+J’ai atterri au bloc  
+Césarienne d’urgence  
+L’anesthésiste m’a dit on va faire un petit dodo madame  
+J’ai tourné la tête je l’ai regardé droit dans les yeux  
+J’ai dit, toi mon gars, tu vas pas réussir à m’endormir  
+J’étais énervée  
+Mais j’ai dormi  
+Je me suis rendu compte de rien  
+Et quand je me suis réveillée  
+La sage-femme, elle me tenait la main et elle m’a dit  « c’est bon tout s’est bien passé »  
+Je la regarde, je lui dis : qu’est-ce qui s’est passé ?  
+Ben, le bébé, le bébé va bien.  
+J’étais complètement perdue, j’avais complètement oublié  
+Le néant  
+Je me suis mise à chialer  
+On m’a dit vous voulez le toucher ?  
+Il était dans une couveuse  
+Et moi j’étais reliée de partout  
+J’ai pas pu le tenir dans mes bras  
+Je l’ai pas entendu crier quand il est né  
+Je me suis dit  
+T’as pas été capable d’accoucher normalement  
 T’es nulle comme mère »*
-{:.teal}
 
 
 ----
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300/v1541818076/flyer-bercer-macon-nov23-2018_nft2ey.png)
-{: .img}
 >*«&nbsp;On a eu de la chance parce qu’on a attendu que 2 ans. J’étais à la maison, j’étais toute seule, j’ai reçu un coup de téléphone. J’ai compris tout de suite car la dame de la ddass qui m’a appelée mettait des phrases qui n’avaient aucune importance, et j’ai compris qu’elle me préparait à quelque chose d’important. Elle m’a dit : un bébé vous attend. Je suis allée à un temps de rencontre à la ddass où on m’a montré des photos du bébé.  
 Et puis après on m’a accompagnée chez sa nourrice. Qui était une femme extraordinaire. Quand je suis arrivée, le bébé était posé dans un petit cosy dans la cuisine et il y avait un escalier et y’avait plein d’enfants, qui me regardaient avancer. Je me rappelle que j’étais très calme, je lui ai dit bonjour, j’étais très calme.   
 Après pendant une semaine, on venait tous les jours donner le bain, changer, donner le biberon, un vrai passage. Elle nous l’a passé cette femme. Un beau mouvement.   

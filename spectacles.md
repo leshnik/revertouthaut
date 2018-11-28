@@ -28,7 +28,7 @@ Notre second spectacle, «&nbsp;Bercer l’enfant manquant&nbsp;» qui traite de
   <ul class="savoir-plus">
     <li><a href="les-etres-humaines">●&nbsp;en savoir plus sur Les&nbsp;Étres&nbsp;Humaines</a></li>
 
-    <li><a href="agenda-bercer-l'enfant-manquant">●&nbsp;en savoir plus sur Bercer&nbsp;l'enfant&nbsp;manquant</a></li>
+    <li><a href="bercer-l-enfant-manquant">●&nbsp;en savoir plus sur Bercer&nbsp;l'enfant&nbsp;manquant</a></li>
 
     <li><a href="l-hibernance-des-betes">●&nbsp;en savoir plus sur L'hibernance&nbsp;des&nbsp;bêtes</a></li>
 </ul>
