@@ -1,8 +1,8 @@
 ---
 layout: two-column-banner
-title: Art-thérapie, sophrologie, Feldenkrais, en Saône et Loire (71)
-summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, praticiens Feldenkrais qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
-tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques]
+title: Art-thérapie et sophrologie en Saône et Loire (71)
+summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, et d'artistes qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
+tags: [art-thérapeute,sophrologue,médiations-artistiques]
 ---
 <!-- # Créativité, soin, lien social et spectacles vivants
 {:.top-line} -->
@@ -11,7 +11,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 
 
 
-*Rêver tout haut*{:.rever-typog}  est une association d’art-thérapeutes, de sophrologues, et de praticiens Feldenkrais diplomé.es, et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins. *Rêver tout haut*{:.rever-typog} conçoit des médiations et des pratiques autonomes les unes des autres et aussi en continuité et en lien.  
+*Rêver tout haut*{:.rever-typog}  est une association d’art-thérapeutes, de sophrologues, et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins. *Rêver tout haut*{:.rever-typog} conçoit des médiations et des pratiques autonomes les unes des autres et aussi en continuité et en lien.  
 
 *rêver tout haut*{:.rever-typog} vous invite à  dire par la création ce que l’on parle tout bas
 {:.rever-list2}  
@@ -39,7 +39,7 @@ tags: [art-thérapeute,sophrologue,praticien-feldenkrais,médiations-artistiques
 <div class="pairs">
 <div class="five">
 <figure>
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1528881891/rever-flyer-internet-high_uffrwl.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545398279/rever-flyer-internet-border_f3cijy.jpg">
 <figcaption><a href="/rever-flyer-internet-high.jpg">télécharger le flyer</a></figcaption>
 </figure>
 </div>
