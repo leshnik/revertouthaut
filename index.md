@@ -39,7 +39,7 @@ tags: [art-thérapeute,sophrologue,médiations-artistiques]
 <div class="pairs">
 <div class="five">
 <figure>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545398279/rever-flyer-internet-border_f3cijy.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545913548/rever-flyer-internet-border_nwnzrt.jpg">
 <figcaption><a href="/rever-flyer-internet-high.jpg">télécharger le flyer</a></figcaption>
 </figure>
 </div>
