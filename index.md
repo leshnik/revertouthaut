@@ -46,8 +46,8 @@ tags: [art-thérapeute,sophrologue,médiations-artistiques]
 <div class="three savoir-plus"><a href="en-savoir-plus-sur-nos-activites">● en savoir plus sur nos activités</a></div>
 </div>
 
-Rêver tout haut a reçu pour sa création en 2018 le soutien   
-du Conseil Départemental de Saône-et-Loire.<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_70/v1545914375/conseil_general71_nungjo.png">
+Rêver tout haut a reçu pour sa création en 2018 le soutien  
+ du Conseil Départemental de Saône-et-Loire.<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_70/v1545914375/conseil_general71_nungjo.png" align="top"/>
 {:.cite}
 
 
