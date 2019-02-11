@@ -18,12 +18,15 @@ Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu�
 
 Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges.
 
-Textes, chants, piano composent ce voyage en terre intime et universelle.
+Textes, chants, piano et percussions composent ce voyage en terre intime et universelle.
 
 Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash
 et Brice Notin à la lumière.
 
 &nbsp;
+
+## Presse
+[reportage sur france3-bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html) Par Maryline Barate, publié le 08/02/2019.
 
 ## Dates de tournée
 
