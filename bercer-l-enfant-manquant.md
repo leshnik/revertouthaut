@@ -51,20 +51,34 @@ gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30
 réservation : 03 85 42 46 27
 
 - vendredi 8 mars 2019  
-à l’Auditorium à Montceau les Mines  
-(horaire à confirmer)
+aux Ateliers du Jour     
+56 quai Jules Chagot   
+Montceau-les-Mines   
+14h30 entrée gratuite   
+réservation : 03 85 69 19 90
 
 - lundi 18 mars 2019  
-au Petit Chêne Théâtre à Cluny  
-(horaire à confirmer)
+au Petit Chêne Théâtre à Cluny     
+les Cras   
+71250 Cluny   
+20h entrée gratuite   
+réservation : 03 85 59 13 09
 
-- mardi 19 mars 2019  
-à l’Espace 1001 Familles à Cluny  
-(horaire à confirmer)
+- mardi 19 mars 2019     
+à l’Espace 1001 Familles à Cluny     
+quai de la Gare      
+71250 Cluny      
+15h30 entrée gratuite      
+réservation : 06 87 36 53 58
 
-- jeudi 21 mars 2019  
+- jeudi 21 mars 2019     
 à la Bibliothèque de Joncy  
-(horaire à confirmer)
+salle Marie Baudet  
+place Duréault (en face de la mairie)  
+71460 Joncy  
+19h entrée gratuite
+réservation : 03 85 96 23 68
+
 
 ## Extraits :
 >*«&nbsp;J’étais bien motivée  
