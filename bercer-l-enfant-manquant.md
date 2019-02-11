@@ -76,7 +76,7 @@ réservation : 06 87 36 53 58
 salle Marie Baudet  
 place Duréault (en face de la mairie)  
 71460 Joncy  
-19h entrée gratuite
+19h entrée gratuite   
 réservation : 03 85 96 23 68
 
 
