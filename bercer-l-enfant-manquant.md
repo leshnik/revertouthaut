@@ -25,8 +25,10 @@ et Brice Notin à la lumière.
 
 &nbsp;
 
-## Presse
+## Media
 [reportage sur france3-bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html) Par Maryline Barate, publié le 08/02/2019.
+
+[article dans Le Journal du Saône-et-Loire](2019-02-07jsl-loisirs.pdf) Par Meriam Souissi, publié le 07/02/2019.
 
 ## Dates de tournée
 
