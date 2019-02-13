@@ -37,46 +37,46 @@ Château Marie Darmet
 Mâcon  
 gratuit — reservation : 03 85 38 61 03
 
-- vendredi 7 décembre 2018 à 14h30
+- vendredi 7 décembre 2018 à 14h30   
 Studio 70  
 3bis rue de Lyon  
 Chalon sur Saône  
 gratuit — réservation : 06 14 40 46 61
 
-- vendredi 8 février 2019 à 14h30 et 20h30
+- vendredi 8 février 2019 à 14h30 et 20h30   
 au Réservoir  
 16, rue Denis Papin  
 Saint Marcel  
 gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30  
 réservation : 03 85 42 46 27
 
-- vendredi 8 mars 2019  
+- vendredi 8 mars 2019 à 14h30     
 aux Ateliers du Jour     
 56 quai Jules Chagot   
 Montceau-les-Mines   
-14h30 entrée gratuite   
+entrée gratuite   
 réservation : 03 85 69 19 90
 
-- lundi 18 mars 2019  
+- lundi 18 mars 2019 à 20h     
 au Petit Chêne Théâtre à Cluny     
 les Cras   
 71250 Cluny   
-20h entrée gratuite   
+entrée gratuite   
 réservation : 03 85 59 13 09
 
-- mardi 19 mars 2019     
+- mardi 19 mars 2019 à 15h30        
 à l’Espace 1001 Familles à Cluny     
 quai de la Gare      
 71250 Cluny      
-15h30 entrée gratuite      
+entrée gratuite      
 réservation : 06 87 36 53 58
 
-- jeudi 21 mars 2019     
+- jeudi 21 mars 2019 à 19h   
 à la Bibliothèque de Joncy  
 salle Marie Baudet  
 place Duréault (en face de la mairie)  
 71460 Joncy  
-19h entrée gratuite   
+entrée gratuite   
 réservation : 03 85 96 23 68
 
 
