@@ -141,6 +141,6 @@ Y’avait du vent. Le bébé me regardait et je me suis dit : la seule chose qu
 ----
 >*«&nbsp;Ce qui m’étonne toujours, c’est que le bébé soit tout bien fini, tout bien fait, il a déjà une histoire, donc on se demande d’où il vient cet enfant. Parce que bon, deux cellules qui font deux quatre huit, oui d’accord mais il vient d’où ? L’impression qu’il vient d’un autre monde, tu vois, qu’il porte en lui quelque chose de mystérieux, par son regard, un peu perdu, un peu vague, qu’est-ce qu’il y a dans ce cerveau ? qu’est-ce qu’il élabore ? Qu’est-ce qu’il ressent ? est-ce qu’il pense à des choses ? est-ce qu’il rêve ? Quand il dort mais qu’il fait des sourires, qu’est-ce qui se passe pour qu’il sourit, y’a des images dans sa tête ? En fait, je me dis qu’un bébé, c’est comme un livre qu’on ouvre, comme un livre qu’on déplie.&nbsp;»*
 
-[Télécharger le dossier](bercer-l-enfant-manquant-dossier.pdf)
+<a href="bercer-l-enfant-manquant-dossier.pdf" download>Cliquer pour télécharger le dossier</a>
 
 <br>
