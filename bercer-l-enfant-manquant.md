@@ -74,9 +74,9 @@ entrée gratuite
 réservation : 06 87 36 53 58
 
 - jeudi 21 mars 2019 à 19h   
-à la Bibliothèque de Joncy  
+à la Bibliothèque intercommunale Laurence Bertrand  
 salle Marie Baudet  
-place Duréault (en face de la mairie)  
+place Henri Duréault (en face de la mairie)  
 71460 Joncy  
 entrée gratuite   
 réservation : 03 85 96 23 68
