@@ -23,14 +23,14 @@ Textes, chants, piano et percussions composent ce voyage en terre intime et univ
 Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash
 et Brice Notin à la lumière.
 
-#### <a href="bercer-l-enfant-manquant-dossier.pdf" download>Cliquer pour télécharger le dossier
+#### <a href="bercer-l-enfant-manquant-dossier.pdf" download>●&nbsp;Cliquer pour télécharger le dossier</a>
+
+#### <a href="gallery.html">●&nbsp;Photos du spectacle</a>
 
 ## Media
 [reportage sur france3-bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html) Par Maryline Barate, publié le 08/02/2019.
 
 [article dans Le Journal du Saône-et-Loire](2019-02-07jsl-loisirs.pdf) Par Meriam Souissi, publié le 07/02/2019.
-
-#### <a href="gallery.html">●&nbsp;Photos du spectacle</a>
 
 ## Dates de tournée
 
