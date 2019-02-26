@@ -30,6 +30,8 @@ et Brice Notin à la lumière.
 
 [article dans Le Journal du Saône-et-Loire](2019-02-07jsl-loisirs.pdf) Par Meriam Souissi, publié le 07/02/2019.
 
+#### <a href="gallery.html">●&nbsp;Photos du spectacle</a>
+
 ## Dates de tournée
 
 - vendredi 23 novembre 2018 à 19h  
