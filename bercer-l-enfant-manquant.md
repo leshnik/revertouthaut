@@ -83,9 +83,9 @@ place Henri Duréault (en face de la mairie)
 entrée gratuite   
 réservation : 03 85 96 23 68
 
-- vendredi 18 octobre (horaire à confirmer)  
-au Théâtre Municipal  
-Autun  
+- vendredi 18 octobre 2019 (horaire à confirmer)  
+au Théâtre Municipal d'Autun  
+71400 Autun  
 en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
 
 
