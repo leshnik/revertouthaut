@@ -17,6 +17,10 @@ body {
   margin: 0 auto;
   display: flex;
 }
+/* responsive */
+@media (max-width: 800px) {
+
+}
 /* nav section */
 .left-container {
   flex: 2;
