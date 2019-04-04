@@ -83,6 +83,12 @@ place Henri Duréault (en face de la mairie)
 entrée gratuite   
 réservation : 03 85 96 23 68
 
+- mercredi 15 mai à 14h30  
+au Pôle Rive-Droite  
+16-18 avene de la Résistance  
+89000 Auxerre  
+réservation : 03 86 94 06 34
+
 - vendredi 18 octobre 2019 (horaire à confirmer)  
 au Théâtre Municipal d'Autun  
 71400 Autun  
