@@ -16,10 +16,10 @@ Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu�
      a <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">link to the video</a> instead.</p>
 </video>
 
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
+<!-- ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
 {: .img-right}
 ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
-{: .img-right}
+{: .img-right} -->
 
 Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges.
 
