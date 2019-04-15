@@ -94,6 +94,13 @@ au Pôle Rive-Droite
 89000 Auxerre  
 réservation : 03 86 94 06 34
 
+- jeudi 23 mai 2019 à 20h     
+au Petit Chêne Théâtre à Cluny     
+les Cras   
+71250 Cluny   
+entrée gratuite   
+réservation : 03 85 59 13 09
+
 - vendredi 18 octobre 2019 (horaire à confirmer)  
 au Théâtre Municipal d'Autun  
 71400 Autun  
