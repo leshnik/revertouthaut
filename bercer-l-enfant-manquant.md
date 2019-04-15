@@ -14,12 +14,7 @@ Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu�
   <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">
   <p>Your browser doesn't support HTML5 video. Here is
      a <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">link to the video</a> instead.</p>
-</video>
-
-<!-- ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
-{: .img-right}
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
-{: .img-right} -->
+</video>   
 
 Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges.
 
@@ -35,8 +30,13 @@ et Brice Notin à la lumière.
 ## Media
 [reportage sur france3-bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html) Par Maryline Barate, publié le 08/02/2019.
 
-[article dans Le Journal du Saône-et-Loire](2019-02-07jsl-loisirs.pdf) Par Meriam Souissi, publié le 07/02/2019.
+[article dans Le Journal du Saône-et-Loire](2019-02-07jsl-loisirs.pdf) Par Meriam Souissi, publié le 07/02/2019.    
 
+<!-- ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
+{: .img-right}     -->
+
+![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
+{: .img-right}
 ## Dates de tournée
 
 - vendredi 23 novembre 2018 à 19h  
