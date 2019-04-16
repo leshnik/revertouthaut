@@ -50,7 +50,7 @@ en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accue
 au Petit Chêne Théâtre à Cluny     
 les Cras   
 71250 Cluny   
-entrée gratuite   
+entrée 10€   
 réservation : 06 13 50 45 54  
 
 - mercredi 15 mai à 14h30  
