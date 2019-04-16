@@ -10,7 +10,9 @@ Devenir mère, c’est traverser surprise, énigme, doute, inquiétude, angoisse
 
 Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel...
 
-<video controls width="100%">
+
+## Pour visionner quelques extraits de la pièce :
+<video controls width="100%" poster="revertouthaut-présente.png">
   <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">
   <p>Your browser doesn't support HTML5 video. Here is
      a <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">link to the video</a> instead.</p>
@@ -39,46 +41,23 @@ et Brice Notin à la lumière.
 {: .img-right}
 ## Dates de tournée
 
-- vendredi 23 novembre 2018 à 19h  
-Patapon  EPAS  
-Château Marie Darmet  
-260, rue de Paris  
-Mâcon  
-gratuit — reservation : 03 85 38 61 03
+- vendredi 18 octobre 2019 (horaire à confirmer)  
+au Théâtre Municipal d'Autun  
+71400 Autun  
+en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
 
-- vendredi 7 décembre 2018 à 14h30   
-Studio 70  
-3bis rue de Lyon  
-Chalon sur Saône  
-gratuit — réservation : 06 14 40 46 61
-
-- vendredi 8 février 2019 à 14h30 et 20h30   
-au Réservoir  
-16, rue Denis Papin  
-Saint Marcel  
-gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30  
-réservation : 03 85 42 46 27
-
-- vendredi 8 mars 2019 à 14h30     
-aux Ateliers du Jour     
-56 quai Jules Chagot   
-Montceau-les-Mines   
-entrée gratuite   
-réservation : 03 85 69 19 90
-
-- lundi 18 mars 2019 à 20h     
+- jeudi 23 mai 2019 à 14h30 et 20h     
 au Petit Chêne Théâtre à Cluny     
 les Cras   
 71250 Cluny   
 entrée gratuite   
-réservation : 03 85 59 13 09
+réservation : 06 13 50 45 54  
 
-- mardi 19 mars 2019 à 15h30        
-à l’Espace 1001 Familles à Cluny     
-quai de la Gare      
-71250 Cluny      
-entrée gratuite      
-réservation : 06 87 36 53 58
+- mercredi 15 mai à 14h30  
+au Pôle Rive-Droite  
+16-18 avene de la Résistance  
+89000 Auxerre  
+réservation : 03 86 94 06 34
 
 - jeudi 21 mars 2019 à 19h   
 à la Bibliothèque intercommunale Laurence Bertrand  
@@ -88,24 +67,46 @@ place Henri Duréault (en face de la mairie)
 entrée gratuite   
 réservation : 03 85 96 23 68
 
-- mercredi 15 mai à 14h30  
-au Pôle Rive-Droite  
-16-18 avene de la Résistance  
-89000 Auxerre  
-réservation : 03 86 94 06 34
+- mardi 19 mars 2019 à 15h30        
+à l’Espace 1001 Familles à Cluny     
+quai de la Gare      
+71250 Cluny      
+entrée gratuite      
+réservation : 06 87 36 53 58
 
-- jeudi 23 mai 2019 à 20h     
+- lundi 18 mars 2019 à 20h     
 au Petit Chêne Théâtre à Cluny     
 les Cras   
 71250 Cluny   
 entrée gratuite   
 réservation : 03 85 59 13 09
 
-- vendredi 18 octobre 2019 (horaire à confirmer)  
-au Théâtre Municipal d'Autun  
-71400 Autun  
-en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
+- vendredi 8 mars 2019 à 14h30     
+aux Ateliers du Jour     
+56 quai Jules Chagot   
+Montceau-les-Mines   
+entrée gratuite   
+réservation : 03 85 69 19 90
 
+- vendredi 8 février 2019 à 14h30 et 20h30   
+au Réservoir  
+16, rue Denis Papin  
+Saint Marcel  
+gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30  
+réservation : 03 85 42 46 27
+
+- vendredi 7 décembre 2018 à 14h30   
+Studio 70  
+3bis rue de Lyon  
+Chalon sur Saône  
+gratuit — réservation : 06 14 40 46 61
+
+- vendredi 23 novembre 2018 à 19h  
+Patapon  EPAS  
+Château Marie Darmet  
+260, rue de Paris  
+Mâcon  
+gratuit — reservation : 03 85 38 61 03
 
 ## Extraits :
 >*«&nbsp;J’étais bien motivée  
