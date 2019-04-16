@@ -12,7 +12,7 @@ Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu�
 
 
 ## Pour visionner quelques extraits de la pièce :
-<video controls width="100%" poster="revertouthaut-présente.png">
+<video controls width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/v1555399096/revertouthaut-presente_giqsdi.png">
   <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">
   <p>Your browser doesn't support HTML5 video. Here is
      a <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">link to the video</a> instead.</p>
