@@ -56,7 +56,7 @@ réservation : 06 13 50 45 54
 - mercredi 15 mai à 14h30  
 au Pôle Rive-Droite  
 16-18 avenue de la Résistance  
-89000 Auxerre
+89000 Auxerre   
 entrée gratuite  
 réservation : 03 86 94 06 34
 
