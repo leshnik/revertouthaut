@@ -50,13 +50,14 @@ en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accue
 au Petit Chêne Théâtre à Cluny     
 les Cras   
 71250 Cluny   
-entrée 10€   
+entrée 12€ et tarif réduit 8€   
 réservation : 06 13 50 45 54  
 
 - mercredi 15 mai à 14h30  
 au Pôle Rive-Droite  
-16-18 avene de la Résistance  
-89000 Auxerre  
+16-18 avenue de la Résistance  
+89000 Auxerre
+entrée gratuite  
 réservation : 03 86 94 06 34
 
 - jeudi 21 mars 2019 à 19h   
