@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner
+layout: two-column-banner-head3
 title: Art-thérapie et sophrologie en Saône et Loire (71)
 summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, et d'artistes qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
 tags: [art-thérapeute,sophrologue,médiations-artistiques]
