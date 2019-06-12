@@ -28,9 +28,10 @@ body {
   margin-top: 2em;
   padding-left: 1em; /* what fixes left spacing on iPad*/
 }
-.inside-left {
-  position: relative; <!-- change back to fixed when solution for scrolling is found-->
-}
+
+/* .inside-left {
+  position: relative;
+} */
 
 .left-container li {
   text-decoration: none;
