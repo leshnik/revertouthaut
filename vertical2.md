@@ -1,0 +1,20 @@
+---
+  layout: two-column-banner-head3
+  title: Art-thérapie et sophrologie en Saône et Loire (71)
+  summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, et d'artistes qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
+  tags: [art-thérapeute,sophrologue,médiations-artistiques]
+--- 
+  
+# Content
+  Content is to go here. This is the md file btw. To get the html version, one has to add the `.html` file extension in the url. 
+
+This is not <strong>at all </strong>what I want to get.
+This is now getting <strong>close</strong> to what I want to get. And I am at last a pretty happy camper.
+I have mocked up the real link list and put the logo at the bottom. However, the logo could be taken out of the list and put as a hamburger switch to make the menu appear and disappear for mobile. Think again. No hamburgers coming.  Putting collapse and show classes in each menu item causes them to show up when the page loads, and then on extra small viewports to disappear when the menu word is clicked.
+In fact, I have put it just under 'créativite, soin, etc' in the code.
+There is now a simple hamburger icon instead of the word menu inserted into the button. This is a font awesome icon. There is a line of code to be inserted in the head of the document to enable access. Then the html to reference the icon goes between "i" tags.
+  
+2019-06-12: file vertical.html is now in revertouthaut. Refer to hartl's first lessons on jekyll to dry it out and put YAML front matter to refer to new files in the includes and layouts directories. Or just go with the docs on the jekyll site.
+  <div container class="container">
+  <img class="img-fluid" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545913548/rever-flyer-internet-border_nwnzrt.jpg">
+  </div>
