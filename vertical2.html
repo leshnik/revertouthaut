@@ -1,84 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>supposed to be vertical</title>
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-  <style type="text/css">
-    .rever-typog-3 {
-      font-family: 'Amatic SC', cursive;
-      font-weight: 900;
-      font-size: 3.3rem;
-
-    }
-    .rever-typog-2 {
-      font-family: 'Amatic SC', cursive;
-      font-weight: 700;
-      font-size: 2.2rem;
-    }
-    .rever-typog-3 {
-      font-family: 'Amatic SC', cursive;
-      font-weight: 700;
-      font-size: 1rem;
-    }
-    /*.navbar-toggler {
-      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E")
-    }*/
-  </style>
-</head>
-<body>
-  <div container class="container-fluid">
-    <div class="row">
-      <div class="col-sm-3">
-  <nav class="nav flex-md-column">
-  <a class="col-sm btn btn-light navbar-toggler d-sm-none" type="button" data-toggle="collapse" data-target="#navbarResponsive"><i class="fas fa-bars"></i></a>  
-  <a class="nav-link collapse show" href="/" id="navbarResponsive">Accueil</a>
-  <a class="nav-link collapse show" href="/art-therapie" id="navbarResponsive">Art thérapie</a>
-  <a class="nav-link collapse show" href="/sophrologie" id="navbarResponsive">Sophrologie</a>
-  <a class="nav-link collapse show" href="/ateliers-artistiques" id="navbarResponsive">Ateliers artistiques</a>
-  <a class="nav-link collapse show" href="ateliers-a-domicile" id="navbarResponsive">Ateliers à domicile</a>
-  <a class="nav-link collapse show" href="ateliers-pour-professionnels" id="navbarResponsive">Ateliers pour professionnels</a>
-  <a class="nav-link collapse show" href="pour-quel-public" id="navbarResponsive">Pour quel public</a>
-  <a class="nav-link collapse show" href="quelles-institutions" id="navbarResponsive">Quelles institutions</a>
-  <a class="nav-link collapse show" href="ou-se-deroulent-nos-ateliers" id="navbarResponsive">Où ?</a>
-  <a class="nav-link collapse show" href="/spectacles" id="navbarResponsive">Spectacles</a>
-  <a class="nav-link collapse show" href="bercer-l-enfant-manquant" id="navbarResponsive">Bercer l'enfant manquant</a>
-  <a class="nav-link collapse show" href="/equipe" id="navbarResponsive">Équipe</a>
-  <a class="nav-link collapse show" href="/nos-tarifs" id="navbarResponsive">Nos tarifs</a>
-  <a class="nav-link collapse show" href="/contact" id="navbarResponsive">Contact</a>
-  <a class="nav-link collapse show" href="/sites-amis" id="navbarResponsive">Sites amis</a>
-  <!-- <a class="nav-link" href="/"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_110,r_15/v1527756312/revercloud4cropped_hd80kr.png"/></a> -->
-
-</nav>
-</div>
-<div class="col-sm-9">
-  <img class="img-fluid" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1554023917/rever-banner_text_aijcyb.jpg" alt="rêver tout haut: créativité, soin, lien social, spectacle vivant">
-<!-- <div class="jumbotron jumbotron-fluid">
-  <div class="container">
-
-    <h1 class="display-3 rever-typog-3">rêver tout haut</h1>
-    <p class="lead rever-typog-2">Créativité, soin, lien social </p>
-  </div>
-</div> -->
-<h1 class="rever-typog-2">Content</h1>
-<p>Content goes here </p>
-<p>This is not <strong>at all </strong>what I want to get. </p>
-<p>This is now getting <strong>close</strong> to what I want to get. And I am at last a pretty happy camper.</p>
-<p>I have mocked up the real link list and put the logo at the bottom. However, the logo could be taken out of the list and put as a hamburger switch to make the menu appear and disappear for mobile. Think again. No hamburgers coming.  Putting collapse and show classes in each menu item causes them to show up when the page loads, and then on extra small viewports to disappear when the menu word is clicked.</p>
-<p>In fact, I have put it just under 'créativite, soin, etc' in the code.</p>
-<p>There is now a simple hamburger icon instead of the word menu inserted into the button. This is a font awesome icon. There is a line of code to be inserted in the head of the document to enable access. Then the html to reference the icon goes between "i" tags.</p>
-<p>2019-06-12: file vertical.html is now in revertouthaut. Refer to hartl's first lessons on jekyll to dry it out and put YAML front matter to refer to new files in the includes and layouts directories. Or just go with the docs on the jekyll site.</p>
+---
+  layout: two-column-banner-head3
+  title: Art-thérapie et sophrologie en Saône et Loire (71)
+  summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, et d'artistes qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
+  tags: [art-thérapeute,sophrologue,médiations-artistiques]
+--- 
+  
+  <h1 class="rever-typog-2">Content</h1>
+  <p>Content goes here </p>
+  <p>This is not <strong>at all </strong>what I want to get. </p>
+  <p>This is now getting <strong>close</strong> to what I want to get. And I am at last a pretty happy camper.</p>
+  <p>I have mocked up the real link list and put the logo at the bottom. However, the logo could be taken out of the list and put as a hamburger switch to make the menu appear and disappear for mobile. Think again. No hamburgers coming.  Putting collapse and show classes in each menu item causes them to show up when the page loads, and then on extra small viewports to disappear when the menu word is clicked.</p>
+  <p>In fact, I have put it just under 'créativite, soin, etc' in the code.</p>
+  <p>There is now a simple hamburger icon instead of the word menu inserted into the button. This is a font awesome icon. There is a line of code to be inserted in the head of the document to enable access. Then the html to reference the icon goes between "i" tags.
+  </p>
+  <p>2019-06-12: file vertical.html is now in revertouthaut. Refer to hartl's first lessons on jekyll to dry it out and put YAML front matter to refer to new files in the includes and layouts directories. Or just go with the docs on the jekyll site.</p>
   <div container class="container">
   <img class="img-fluid" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545913548/rever-flyer-internet-border_nwnzrt.jpg">
-</div>
-</div>  
-</div>
-</div>
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-<!-- <script src="https://cdn.jsdelivr.net/bootstrap.native/1.0.4/bootstrap-native.js"></script> -->
-</body>
-</html>
+  </div>
