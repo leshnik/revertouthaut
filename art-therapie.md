@@ -12,7 +12,7 @@ L’art-thérapie fait partie des méthodes centrées sur le soin à la personne
 L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier et met en travail, par le biais des médiations créatives, les problématiques psychiques, physiques et sociales des personnes. En ce sens, la production d’œuvres, leur achèvement, leur «&nbsp;réussite&nbsp;» voire leur rendu public  y sont beaucoup moins urgents, essentiels que le processus lui-même.
 
 <div class="middle">
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_10/v1526489453/décapsulette_gxq8bb.jpg">
+<img class="img-fluid"  src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_400,r_10/v1526489453/décapsulette_gxq8bb.jpg">
 </div>
 
 <div class="savoir-plus"><a href="en-savoir-plus-sur-art-therapie">●&nbsp;en savoir plus sur l'art-thérapie</a></div>
