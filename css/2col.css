@@ -1,16 +1,8 @@
-/* responsive */
-/*@media (max-width: 800px) {
+responsive
+@media (max-width: 800px) {
 
-}*/
-:root {
-  box-sizing: border-box;
 }
 
-*,
-::before,
-::after {
-  box-sizing: inherit;
-}
 
 body {
   font-family: "lora", serif;
