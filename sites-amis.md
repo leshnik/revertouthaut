@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner
+layout: two-column-banner-head3copy
 title: Sites Amis
 ---
 

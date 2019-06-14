@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner
+layout: two-column-banner-head3copy
 title: Bercer l’enfant manquant, spectacle autour des liens mère/enfant
 summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---
@@ -37,8 +37,8 @@ et Brice Notin à la lumière.
 <!-- ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
 {: .img-right}     -->
 
-![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png)
-{: .img-right}
+<img class="img-fluid img-right" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
+
 ## Dates de tournée
 
 - vendredi 18 octobre 2019 (horaire à confirmer)  

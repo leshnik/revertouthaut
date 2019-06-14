@@ -1,12 +1,9 @@
 ---
-layout: two-column-banner
+layout: two-column-banner-head3copy
 title: Ateliers d’écriture pour travailleurs sociaux
 summary: Comment rendre compte de rencontres marquantes, troublantes, parfois envahissantes, voire culpablisantes, que l’on peut faire dans le cadre de son travail d’accompagnement social ou soignant ? En écrivant, en transformant par des textes et des chansons ce vécu parfois complexe à transmettre.
 ---
 # Ateliers d’écriture pour travailleurs sociaux et soignants
-
-
-
 
 La rencontre est à la base du travail social et soignant et la rencontre bouscule les individus, qu’ils soient professionnels ou usagers : Qu’est-ce que les personnes bénéficiaires d’un accompagnement social, les personnes exclues,  les personnes aux carences affectives profondes, aux ruptures accumulées, disparaissant et réapparaissant de façon soudaine dans leur environnement, les personnes souffrant de pathologies font-elles vivre à celles qui les suivent et les soutiennent ? Comment le travailleur social ou soignant trouve-t-il sa place au sein de cette relation particulière ? Comment la nourrit-elle ? Comment s’accommode-t-il avec sa position d’accompagnement de l’exclusion et avec la loyauté qu’il doit déployer vis à vis de son institution ou de la société ? Comment négocie-t-il entre son désir de sauver le monde et de l’autre côté, d’en accepter le fonctionnement ? Comment faire avec ces ambivalences, douloureuse parfois mais inhérentes au travail d’accompagnement et du soin ? 
 

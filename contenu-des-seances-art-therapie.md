@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner
+layout: two-column-banner-head3copy
 title: Contenu et déroulé d’une séance d’art-thérapie
 summary: Les séances d’art-thérapie peuvent avoir lieu à domicile, en institution médicale ou sociale, et en cabinet, et utilisent des médiations et des matériaux, qui soient adaptées aux problématiques des groupes et des personnes. 
 ---
@@ -18,12 +18,12 @@ Ce qui se passe à l’intérieur d’un atelier reste confidentiel, et les œuv
 Henri Michaux, «&nbsp;Passages&nbsp;»
 {:.cite}
 
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_360,r_10/v1527689691/coeur_suspendu_gmu84u.jpg" class="img"/> 
+<img class="img-fluid img" src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_360,r_10/v1527689691/coeur_suspendu_gmu84u.jpg"/> 
 <p><span class="rever-typog">Rêver tout haut</span> propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de «&nbsp;classique&nbsp;»  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...</p>
 
 
 <p>L’association propose aussi des médiations plus originales comme par exemple, un atelier pour mères et bébés en problématiques de liens, qui leur permet  de découvrir de petites percussions, de jouer avec des rythmes, de remettre le corps en mouvement et de composer des berceuses, écrites à partir des mouvements de l’enfant, et de ce que la mère peut dire de lui.</p>
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_230,r_10/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg" class="img-right"> 
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_230,r_10/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg" class="img-fluid img-right"> 
 
 L’association anime aussi un atelier de fabrication d’objets à partir d’objets récupérés dans les déchetteries ou les greniers.  Le glanage faisant partie de la séance d’art-thérapie et permettant de sortir de l’atelier, ce qui parfois donne un mouvement bienvenu. Cet atelier permet notamment de travailler sur la notion de «&nbsp;mise au rebut&nbsp;». 
 
