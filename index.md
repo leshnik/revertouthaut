@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3
+layout: two-column-banner-head3copy
 title: Art-thérapie et sophrologie en Saône et Loire (71)
 summary: Rêver tout haut est une association d’art-thérapeutes, sophrologues, et d'artistes qui propose des ateliers créatifs, des médiations artistiques et thérapeutiques et des spectacles vivants, adaptés aux personnes et aux institutions, et qui oeuvre à domicile, en cabinet ou en structure médicale et sociale.
 tags: [art-thérapeute,sophrologue,médiations-artistiques]
@@ -39,15 +39,14 @@ tags: [art-thérapeute,sophrologue,médiations-artistiques]
 <div class="pairs">
 <div class="five">
 <figure>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545913548/rever-flyer-internet-border_nwnzrt.jpg">
+<img class="img-fluid" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_600/v1545913548/rever-flyer-internet-border_nwnzrt.jpg">
 <figcaption><a href="/rever-flyer-internet-high.jpg">télécharger le flyer</a></figcaption>
 </figure>
 </div>
 <div class="three savoir-plus"><a href="en-savoir-plus-sur-nos-activites">● en savoir plus sur nos activités</a></div>
 </div>
 
-Rêver tout haut a reçu pour sa création en 2018 le soutien  
- du Conseil Départemental de Saône-et-Loire.<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_70/v1545914375/conseil_general71_nungjo.png" align="top"/>
+Rêver tout haut a reçu pour sa création en 2018 le soutien du Conseil Départemental de Saône-et-Loire.<img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_70/v1545914375/conseil_general71_nungjo.png" align="top"/>
 {:.cite}
 
 
