@@ -150,6 +150,9 @@ body {
 .cleared {
   clear: both;
 }
+.no-overflow {
+  overflow: hidden;
+}
 .middle {
   display: block;
   margin: auto;
