@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Bercer l’enfant manquant, spectacle autour des liens mère/enfant
 summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---

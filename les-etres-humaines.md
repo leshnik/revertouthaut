@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Les êtres humaines, spectacle autour des violences conjugales
 summary: Joué par des femmes anciennement victimes et des comédiennes professionnelles, le spectacle a été crée à partir d’ateliers artistiques menés en CHRS à Chalon sur Saône et des témoignages donnés aussi bien par les femmes accueillies que par les travailleuses sociales qui les accompagnent. Le spectacle a été joué de 2011 à 2013.
 ---

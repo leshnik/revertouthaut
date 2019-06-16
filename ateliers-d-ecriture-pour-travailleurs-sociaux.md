@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Ateliers d’écriture pour travailleurs sociaux
 summary: Comment rendre compte de rencontres marquantes, troublantes, parfois envahissantes, voire culpablisantes, que l’on peut faire dans le cadre de son travail d’accompagnement social ou soignant ? En écrivant, en transformant par des textes et des chansons ce vécu parfois complexe à transmettre.
 ---

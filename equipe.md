@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title:  les membres de notre équipe
 summary: Valérie Gaudissart, Cassandre Lorimy-Jackson, Isis-Philippe-Jenon, Morton Potash.
 ---

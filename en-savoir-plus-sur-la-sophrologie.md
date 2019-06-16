@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: La mémoire sensorielle et les cinq sens
 summary: En les guidant par la voix et par sa méthode, le sophrologue permet à ses patients d’atteindre un état de conscience sophronique et à partir d’un travail sur les cinq sens et la mémoire sensorielle, leur permet de travailler sur le présent.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Où se déroulent nos ateliers ?
 summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône et Loire, au domicile des personnes, en institution et aussi en cabinet à Buffières dans le sud du département.
 ---

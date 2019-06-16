@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Le rôle et la position de l’art-thérapeute
 summary: L’art-thérapeute, formée à des méthodes d’écoute et d’analyse bienveillantes,  accompagne le cheminement des personnes, leur offre un cadre rassurant, et des dispositifs créatifs favorables à l’imaginaire et à la transformation de soi.
 tags: [dialogue,angoisse,nondits,blocages,souffrances,monde,intérieur]

@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: L’hibernance des bêtes, spectacle qui témoigne du travail social
 summary: Spectacle à venir, «&nbsp;l’hibernance des bêtes&nbsp;» est le résultat d’ateliers d’écriture menés auprès de travailleurs sociaux qui témoignent de rencontres marquantes avec certains de leurs usagers et qui leur ont fait vivre quelque chose de puissant, de troublant, et de difficilement communicable.
 ---

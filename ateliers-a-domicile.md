@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Ateliers à domicile, un moyen créatif de sortir de l’isolement
 summary: Pour permettre aux personnes de recréer du lien social, de se réinscrire dans le réel, nos différentes médiations peuvent avoir lieu à domicile et sont pensées et conçues pour chaque situation, par une équipe pluridisciplinaire.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: two-column-banner-head3copy
+layout: main
 title: Isis Philippe-Jenon, sophrologue et comédienne
 summary: De formation littéraire, Isis Philippe-Janon est une comédienne passionnée par la transmission. Sa rencontre avec la sophrologie lors d’un préparation à la naissance ayant été déterminante, elle s’est formée auprès de l’Académie de Paris de Sophrologie. Elle exerce depuis en hôpital de jour et anime des stages de formation en institutions. 
 ---
