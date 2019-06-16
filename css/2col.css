@@ -265,6 +265,10 @@ a:hover {
   font-style: bold;
   background-color: #c6564d;
 }
+a btn:hover {
+  color: #fff !important;
+  text-decoration: none;
+}
 h1 {
   font-size: 3em;
   font-family: "Amatic SC";
