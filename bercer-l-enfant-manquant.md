@@ -41,6 +41,19 @@ et Brice Notin à la lumière.
 
 ## Dates de tournée
 
+- dimanche 22 septembre à 16h   
+à La Limace   
+Laurendon    
+71220 Sivignon (entre Cluny et Charolles)   
+entrée 12€ et 10€ pour les adhérents de La Limace
+
+
+- samedi 21 septembre à 19h30   
+à La Limace   
+Laurendon    
+71220 Sivignon (entre Cluny et Charolles)   
+entrée 12€ et 10€ pour les adhérents de La Limace
+
 - vendredi 18 octobre 2019 (horaire à confirmer)  
 au Théâtre Municipal d'Autun  
 71400 Autun  
