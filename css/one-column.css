@@ -329,3 +329,43 @@
    display: none !important;
  }
  /*# sourceMappingURL=bootstrap-reboot.css.map */
+ .full-width {
+   background-color: linen;
+ }
+ .margin-constraint {
+   margin-left: 2%;
+   margin-right: 2%;
+ }
+ .useful-width {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+ }
+  .right-side-block {
+    margin-right: 0px;
+    width: 33%;
+    float: right;
+    padding-left: 1%;
+  }
+  .left-side-block {
+    margin-left: 0px;
+    width: 33%;
+    float: left;
+    padding-right: 1%;
+  }
+  p {
+    text-align: justify;
+  }
+  img {
+    width: 100%;
+  }
+  a {
+    color: red;
+    font-size: 1.2rem;
+  }
+  #reverNav {
+    display: block;
+  }
+  button {
+    padding: 0%;
+  }

@@ -2,6 +2,26 @@
   <html>
     {% include head.html %}
     <body>
-        
+    <div class="full-width">
+      <div class="margin-constraint">
+        <div class="useful-width">
+          <button type="radio" onClick="reverToggle()"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1561037447/rever-menu-banner700_z4ylhp.jpg" alt="rever tout haut banner"></button>
+          <nav id="reverNav">
+            {% include nav-links.html %}
+          </nav>
+          {{ content }}
+        </div>
+      </div>
+    </div>   
+      <script>
+        function reverToggle() {
+          var x = document.getElementById("reverNav");
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+        </script>     
     </body>
   </html>
