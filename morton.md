@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Morton Potash, musicien et compositeur
 summary: Formé au Mime Corporel chez Etienne Ducroux, Morton Potash est musicien, pianiste, percussionniste et compositeur. Il travaille comme improvisateur et accompagnateur de chorégraphies et de cours de danse au CNSMD de Paris et de Lyon et pour d’autres écoles ou compagnies. Il accompagne aussi les chanteurs et compose des chansons pour toute sorte d’interprètes.  
 ---

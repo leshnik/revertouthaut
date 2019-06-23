@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Des spectacles vivants, dans la continuité de nos ateliers
 summary: Basés sur des témoignages et des traces laissées par les vécus, nos spectacles sont un prolongement de nos ateliers de création et traitent à leur manière théâtrale et musicale de thématiques contemporaines et de problématiques sociales et intimes.
 ---

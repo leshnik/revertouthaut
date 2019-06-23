@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Médiations artistiques et thérapeutiques, individuelles et groupales
 summary: Rêver tout haut invente et anime des médiations artistiques et thérapeutiques, individuelles et groupales, croisées et autonomes les unes des autres,  qui utilise le collage, la peinture, l’écriture, le théâtre, la musique, la fabrication d’objets, et la sophrologie.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Ateliers destinés au monde complexe du travail social et soignant
 summary: Le travail social et soignant demandant de la part des professionnels un fort engagement dans les liens humains et un réel accompagnement de problématiques parfois lourdes, il est souhaitable pour ses professionnels et leurs institutions, de pouvoir déposer leurs expériences et de pouvoir les transformer dans le cadre d’ateliers créatifs.
 ---

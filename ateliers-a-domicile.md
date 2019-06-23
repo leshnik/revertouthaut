@@ -1,16 +1,23 @@
 ---
-layout: main
+layout: one-column
 title: Ateliers à domicile, un moyen créatif de sortir de l’isolement
 summary: Pour permettre aux personnes de recréer du lien social, de se réinscrire dans le réel, nos différentes médiations peuvent avoir lieu à domicile et sont pensées et conçues pour chaque situation, par une équipe pluridisciplinaire.
 ---
 # Ateliers à domicile
-<img class="img-fluid img-right" src="http://res.cloudinary.com/dnxcesebo/image/upload/,r_10/v1527692998/lapin_rape_wirg0x.jpg"/>  
+<div class="right-side-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1561196346/lapin-rape-web_djzf9u.jpg"/>  
+</div>
+*Rêver tout haut*{:.rever-typog} se déplace et propose d’aller à votre rencontre chez vous. Prenez contact avec nous pour élaborer ensemble le rythme de séances qui vous convient le mieux et pour organiser une première rencontre. Sous la forme d’un atelier hebdomadaire ou pluri – hebdomadaire, nous proposons un parcours à adapter à chacun, avec plusieurs pratiques : Art-thérapie, sophrologie, musique et chant, raconter et se raconter par l’écriture ou la photographie. 
 
-*Rêver tout haut*{:.rever-typog} se déplace et propose d’aller à votre rencontre chez vous. Prenez contact avec nous pour élaborer ensemble le rythme de séances qui vous convient le mieux et pour organiser une première rencontre. Sous la forme d’un atelier hebdomadaire ou pluri – hebdomadaire, nous proposons un parcours à adapter à chacun, avec plusieurs pratiques : Art-thérapie, sophrologie, musique et chant, raconter et se raconter par l’écriture ou la photographie.  
+
 
 # Sortir de l’isolement
 {: .cleared}
-<img class="img-fluid img" src="http://res.cloudinary.com/dnxcesebo/image/upload/r_10/v1527693006/pendule_Stéphanie_m95o4a.jpg"/>
+<div class="left-side-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1561196635/pendule-Stephanie-web_pwg8rj.jpg"/>
+</div>
+
+
 Pour sortir de l'isolement, pour retrouver du lien, pour renouer avec le réel avec ces séances ritualisées sous la forme d’un ou plusieurs rendez-vous par semaine. Si vous avez du mal à vous déplacer ou si vous avez envie de redonner du sens à l’investissement de votre lieu de vie, et quelle que soit votre problématique, nous venons à vous.
 
 ## En équipe pluridisciplinaire

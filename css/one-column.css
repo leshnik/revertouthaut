@@ -330,7 +330,7 @@
  }
  /*# sourceMappingURL=bootstrap-reboot.css.map */
  .full-width {
-   background-color: linen;
+   background-color: white;
  }
  .margin-constraint {
    margin-left: 2%;
@@ -360,7 +360,7 @@
     width: 100%;
   }
   a {
-    color: red;
+    
     font-size: 1.2rem;
   }
   #reverNav {
@@ -369,3 +369,29 @@
   button {
     padding: 0%;
   }
+  nav {
+    font-family: "Amatic SC";
+    text-align: justify; 
+  }
+  .cleared {
+    clear: both;
+  }
+  .rever-typog {
+    font-family: 'Amatic SC', cursive;
+    font-weight: 900;
+    font-size: 1.2em;
+    display: inline;
+  }
+  .rever-list2 {
+    background-color: #97DDEC;
+    font-size: 1em;
+    border-radius: .5em;
+    padding: 0.5em;
+    text-align: left;
+  }
+.display-none {
+  display: none;
+}
+.logo {
+  width: 30%;
+}

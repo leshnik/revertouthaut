@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Comment nous contacter ?
 summary: Pour joindre Rêver tout haut, tél 06 13 50 45 54, revertouthaut@gmail.com
 

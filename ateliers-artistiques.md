@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Des ateliers artistiques, acte de création et de lien social
 summary: Pensés et encadrés par des artistes, nos ateliers artistiques permettent de créer des oeuvres collectives, individuelles, et même familiales. Nos ateliers peuvent faire se croiser différentes pratiques, comme par exemple la musique et l’écriture, ou la photo et l’écriture, et trouver une suite dans un travail de sophrologie.
 ---

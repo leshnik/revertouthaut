@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: A quelles institutions s’adressent nos ateliers ?
 summary: Sous forme de protocole et en complément du suivi médical et social des personnes, nos ateliers peuvent s’adapter à toutes sortes d’institutions, d’associations et de structures de soin, du monde éducatif, judiciaire, de la précarité sociale, de la Protection de l’Enfance, et tous les services d’aides et d’accompagnement des personnes en difficulté.
 ---

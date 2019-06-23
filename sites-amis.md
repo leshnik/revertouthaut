@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Sites Amis
 ---
 
