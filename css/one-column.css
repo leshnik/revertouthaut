@@ -353,6 +353,12 @@
     float: left;
     padding-right: 1%;
   }
+  .left-side-big-block {
+    margin-left: 0px;
+    width: 50%;
+    float: left;
+    padding-right: 1%;
+  }
   .center-block {
     margin-left: auto;
     margin-right: auto;
@@ -365,8 +371,12 @@
     width: 100%;
   }
   a {
-    
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+    color: #a43740;
+    text-decoration: none;
+  }
+  body {
+    font-family: "lora", serif;
   }
   #reverNav {
     display: block;
@@ -374,9 +384,24 @@
   button {
     padding: 0%;
   }
+  h1 {
+    font-size: 3em;
+    font-family: "Amatic SC";
+    color: #c6564d;
+}
+h2 {
+  font-family: "Amatic SC";
+  color: #c6564d;
+  font-size: 2.3em;
+}
   nav {
     font-family: "Amatic SC";
     text-align: justify; 
+  }
+  .cite {
+    font-size: 1em;
+    margin-top: -1em;
+    text-align: right;
   }
   .cleared {
     clear: both;
@@ -393,6 +418,7 @@
     border-radius: .5em;
     padding: 0.5em;
     text-align: left;
+    font-family: "lora", serif;
   }
 .display-none {
   display: none;

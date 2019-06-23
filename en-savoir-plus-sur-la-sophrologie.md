@@ -10,12 +10,11 @@ On travaille d’abord avec le moment présent, puis sur l’avenir et sur le pa
 
 
 
-<div class="middle">
+<div class="center-block">
 <figure>
-<img class="img-fluid" src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
+<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
 <figcaption>Gustav Klimt, <em>L'Arbre de Vie</em></figcaption>
 </figure>
 </div>
+<a style="color: #7551e1; font-size: 1.0rem" href="contenu-des-seances-sophrologie">● contenu et déroulé des séances</a>
 
-<div class="savoir-plus"><a href="contenu-des-seances-sophrologie">● contenu et déroulé des séances</a>
-</div>
