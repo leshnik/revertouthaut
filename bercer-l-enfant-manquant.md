@@ -41,18 +41,22 @@ et Brice Notin à la lumière.
 
 ## Dates de tournée
 
-- dimanche 22 septembre à 16h   
+- samedi 21 septembre à 16h   
+à La Fabrique   
+Pré de Saugy
+Messeugne    
+71460 Savigny sur Grosne   
+entrée 6€
+réservation : olivierdavid@alafabrique.org
+06 78 78 77 95
+
+
+- vendredi 20 septembre à 20h30   
 à La Limace   
 Laurendon    
 71220 Sivignon (entre Cluny et Charolles)   
 entrée 12€ et 10€ pour les adhérents de La Limace
-
-
-- samedi 21 septembre à 19h30   
-à La Limace   
-Laurendon    
-71220 Sivignon (entre Cluny et Charolles)   
-entrée 12€ et 10€ pour les adhérents de La Limace
+réservation : 07 69 29 53 27
 
 - vendredi 18 octobre 2019 (horaire à confirmer)  
 au Théâtre Municipal d'Autun  
