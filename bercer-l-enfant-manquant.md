@@ -41,6 +41,11 @@ et Brice Notin à la lumière.
 
 ## Dates de tournée
 
+- vendredi 18 octobre 2019 (horaire à confirmer)  
+au Théâtre Municipal d'Autun  
+71400 Autun  
+en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
+
 - samedi 21 septembre à 16h   
 à La Fabrique   
 Pré de Saugy
@@ -57,11 +62,6 @@ Laurendon
 71220 Sivignon (entre Cluny et Charolles)   
 entrée 12€ et 10€ pour les adhérents de La Limace
 réservation : 07 69 29 53 27
-
-- vendredi 18 octobre 2019 (horaire à confirmer)  
-au Théâtre Municipal d'Autun  
-71400 Autun  
-en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
 
 - jeudi 23 mai 2019 à 14h30 et 20h     
 au Petit Chêne Théâtre à Cluny     
