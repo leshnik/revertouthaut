@@ -13,7 +13,7 @@ summary: Pour joindre Rêver tout haut, tél 06 13 50 45 54, revertouthaut@gmail
 Rêver tout haut<br>
 Champloi<br>    
 71250 Bergesserin<br>    
-tél:<br>    
+tél:07 69 29 53 27<br>    
 revertouthaut@gmail.com  
 </div>
 
