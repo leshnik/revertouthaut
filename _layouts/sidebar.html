@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% include head.html %}
+<body>
+    <div class="all-across">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1560477376/rever-banner-v350_o2p9hi.jpg" alt="rêver tout haut: créativité, soin, lien social, spectacle vivant">
+    
+    </div>
+    <div class="with-sidebar">
+        <div class="sidebar">
+            {% include nav-links.html %}
+        </div>
+        <div class="not-sidebar">
+            {{ content }}
+
+        </div>
+
+    </div>
+</body>
+</html>
