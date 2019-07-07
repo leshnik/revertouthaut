@@ -23,7 +23,7 @@ Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque repr�
 Textes, chants, piano et percussions composent ce voyage en terre intime et universelle.
 
 Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash, Mariama Boina, Sylvia Etcheto
-et Brice Notin à la lumière.
+et Florian Girard à la lumière.
 
 #### <a href="bercer-l-enfant-manquant-dossier.pdf" download>●&nbsp;Cliquer pour télécharger le dossier</a>
 
