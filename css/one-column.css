@@ -369,6 +369,35 @@
 .with-sidebar > * > * {
   margin: 0.5rem;
 }
+#navcontainer a {
+  font-family: "Amatic SC";
+}
+#navcontainer a:hover {
+background-color: #a43740;
+color: #FFF !important;
+text-decoration: none;
+}
+.hamburger {
+  position: relative;
+  display: inline-block;
+  width: 1.25em;
+  height: 0.8em;
+  margin-right: 0.3em;
+  border-top: 0.2em solid #000;
+  border-bottom: 0.2em solid #000;
+}
+
+.hamburger:before {
+  content: "";
+  position: absolute;
+  top: 0.12em;
+  left: 0px;
+  width: 100%;
+  border-top: 0.2em solid rgb(0, 0, 0);
+}
+.hideable {
+  display: none;
+}
 .right-side-block {
   margin-right: 0px;
   width: 33%;
@@ -405,6 +434,9 @@ a {
 }
 body {
   font-family: "lora", serif;
+}
+.padded-2ch {
+  padding: 0 2ch;
 }
 #reverNav {
   display: block;
