@@ -7,14 +7,19 @@
     
     </div>
     <div class="with-sidebar">
+        <div>
         <div class="sidebar">
-            {% include nav-links.html %}
+            <div style="text-align: center">
+                <span class="hamburger"></span><span style="font-family: Amatic SC; letter-spacing: 0.2rem; font-size: 1.2rem; color: rgb(79, 120, 129)">&nbsp;MENU</span>
+            </div>
+            <div id="navcontainer">
+                {% include nav-links.html %}
+            </div>
         </div>
-        <div class="not-sidebar">
+        <div class="not-sidebar padded-2ch">
             {{ content }}
-
         </div>
-
+        </div>
     </div>
 </body>
 </html>
