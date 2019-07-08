@@ -89,7 +89,7 @@ body {
   font-family: "lora", serif;
 }
 .padded-2ch {
-  padding: 0 2ch;
+  padding: 0;
 }
 #reverNav {
   display: block;
