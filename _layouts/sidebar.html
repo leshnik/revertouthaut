@@ -8,18 +8,25 @@
     </div>
     <div class="with-sidebar">
         <div>
-        <div class="sidebar">
+        <div class="sidebar" id="left">
             <div style="text-align: center">
-                <span class="hamburger"></span><span style="font-family: Amatic SC; letter-spacing: 0.2rem; font-size: 1.2rem; color: rgb(79, 120, 129)">&nbsp;MENU</span>
+                <span class="menu">&nbsp;MENU</span>
             </div>
             <div id="navcontainer">
                 {% include nav-links.html %}
             </div>
         </div>
-        <div class="not-sidebar padded-2ch">
+        <div id="right" class="not-sidebar padded-2ch">
             {{ content }}
         </div>
         </div>
     </div>
+    <script>
+      //if sidebar and not-sidebar are the same width, add class hideable to navlinks
+      //and state == false 
+      if (document.getElementById("left").offsetWidth == document.getElementById("right").offsetWidth){
+          alert("Equal!")
+      } 
+    </script>
 </body>
 </html>
