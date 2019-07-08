@@ -14,11 +14,11 @@
  .all-across > img {
   width: 100%;
 
-}
+ }
+
 .with-sidebar {
   display: flex;
   flex-wrap: wrap;
-  
 }
 .sidebar {
   /* flex-basis: 20rem; */
@@ -47,13 +47,7 @@ background-color: #a43740;
 color: #FFF !important;
 text-decoration: none;
 }
-.menu {
-  font-family: Amatic SC; 
-  letter-spacing: 0.2rem; 
-  font-size: 1.2rem; 
-  color: rgb(79, 120, 129);
-  background-color: rgb(235, 223, 194);
-}
+
 .hideable {
   display: none;
 }
