@@ -377,23 +377,12 @@ background-color: #a43740;
 color: #FFF !important;
 text-decoration: none;
 }
-.hamburger {
-  position: relative;
-  display: inline-block;
-  width: 1.25em;
-  height: 0.8em;
-  margin-right: 0.3em;
-  border-top: 0.2em solid #000;
-  border-bottom: 0.2em solid #000;
-}
-
-.hamburger:before {
-  content: "";
-  position: absolute;
-  top: 0.12em;
-  left: 0px;
-  width: 100%;
-  border-top: 0.2em solid rgb(0, 0, 0);
+.menu {
+  font-family: Amatic SC; 
+  letter-spacing: 0.2rem; 
+  font-size: 1.2rem; 
+  color: rgb(79, 120, 129);
+  background-color: rgb(235, 223, 194);
 }
 .hideable {
   display: none;
