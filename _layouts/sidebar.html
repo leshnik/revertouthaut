@@ -2,16 +2,16 @@
 <html lang="fr">
 {% include head.html %}
 <body>
-    <div class="all-across">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1560477376/rever-banner-v350_o2p9hi.jpg" alt="rêver tout haut: créativité, soin, lien social, spectacle vivant">
+    <div class="all-across toggle">
+        <div>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1560477376/rever-banner-v350_o2p9hi.jpg" alt="rêver tout haut: créativité, soin, lien social, spectacle vivant">
+        </div> 
     
     </div>
     <div class="with-sidebar">
         <div>
         <div class="sidebar" id="left">
-            <div style="text-align: center">
-                <span class="menu">&nbsp;MENU</span>
-            </div>
+            
             <div id="navcontainer">
                 {% include nav-links.html %}
             </div>
@@ -22,12 +22,18 @@
         </div>
     </div>
     <script>
+        var toggle = document.querySelector(".toggle");
+        var navcontainer = document.getElementById("navcontainer")
+        toggle.addEventListener("click", function(){
+            navcontainer.classList.toggle("hideable");
+        })
+        
       //if sidebar and not-sidebar are the same width, add class hideable to navlinks
       //and state == false 
       if (document.getElementById("left").offsetWidth == document.getElementById("right").offsetWidth){
-          
           document.getElementById("navcontainer").className += " hideable";
       } 
+
     </script>
 </body>
 </html>
