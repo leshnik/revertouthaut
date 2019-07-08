@@ -25,7 +25,8 @@
       //if sidebar and not-sidebar are the same width, add class hideable to navlinks
       //and state == false 
       if (document.getElementById("left").offsetWidth == document.getElementById("right").offsetWidth){
-          alert("Equal!")
+          
+          document.getElementById("navcontainer").className += " hideable";
       } 
     </script>
 </body>
