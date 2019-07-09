@@ -1,10 +1,10 @@
 ---
-layout: one-column
+layout: sidebar
 title: La sophrologie, une prise de conscience du corps
 summary: Par la relaxation corporelle, et en tenant compte de chaque être dans sa globalité, la sophrologie permet d’atteindre un travail sur la conscience, et offre à chacun.e des pratiques qu’il ou elle peut réutiliser dans le quotidien.
 ---
 # SOPHROLOGIE
-
+{: .sophro-color}
 La sophrologie est une méthode élaborée par le neuropsychiatre Alfonso Caycedo en 1960. Elle travaille essentiellement sur la respiration, la prise de conscience du corps, le mouvement, la relaxation corporelle et la conscience. La détente corporelle est une étape importante mais le but de la sophrologie est l’accès au travail sur la conscience.  
 La sophrologie travaille avec les ressources et les valeurs de chacun, en prenant en compte ses particularités et son moment de vie. C’est en cela qu’on dit qu’elle est une méthode du positif de l’être. Mais elle prend en compte l’être dans sa globalité, en accueillant tout ce qui vient sans jugement et sans attente. L’efficacité de la méthode est renforcée par la répétition des pratiques. Chacun peut s’approprier les outils sophrologiques pour les réinvestir au quotidien.  
 
@@ -14,6 +14,7 @@ Alexandre Jollien, "*Petit traité de l’abandon*"
 {:.cite}  
 
 ## La mémoire sensorielle et les cinq sens
+{: .sophro-color}
 En les guidant par la voix et par sa méthode, le sophrologue permet à ses patients d’atteindre un état de conscience sophronique et à partir d’un travail sur les cinq sens et la mémoire sensorielle, leur permet de travailler sur le présent.  
 
 Concrètement, la séance de sophrologie se passe en posture assise et/ ou debout, plus rarement allongée, et le patient (sophronisant) écoute le sophrologue qui le guide avec la voix. Les yeux fermés, il va peu à peu reprendre contact avec son corps qu’il relâche au mieux de ce qui est possible pour atteindre un état de conscience dit « sophronique » dans lequel il est lucide, avec une conscience beaucoup plus ouverte, beaucoup plus plastique. Dans cet état, il peut avoir plus facilement accès à ses ressources.
@@ -23,13 +24,13 @@ On travaille d’abord avec le moment présent, puis sur l’avenir et sur le pa
 
 
 <div class="center-block">
-<figure>
+
 <img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
 <figcaption>Gustav Klimt, <em>L'Arbre de Vie</em></figcaption>
-</figure>
+
 </div>
 ## Contenu et déroulé des séances
-
+{: .sophro-color}
 Une séance de sophrologie dure environ 1h. Le sophrologue se positionne comme un accompagnant dans une relation sujet à sujet.
 
 
