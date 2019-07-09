@@ -40,6 +40,15 @@
 .with-sidebar > * > * {
   margin: 0.5rem;
 }
+.sophro-color {
+  color: #7551e1;
+}
+.art-color{
+  color: #7C984A;
+}
+.music-color {
+  color: sandybrown;
+}
 #navcontainer a {
   font-family: "Amatic SC";
 }
