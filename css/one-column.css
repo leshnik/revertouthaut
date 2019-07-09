@@ -95,6 +95,15 @@ p {
 img {
   width: 100%;
 }
+.thumbnail:hover {
+  position:relative;
+  top:-25px;
+  left:-35px;
+  width:733px;
+  height:auto;
+  display:block;
+  z-index:999;
+}
 a {
   font-size: 1.1rem;
   color: #a43740;
