@@ -6,7 +6,7 @@ summary: L’art-thérapie est un soin apporté à la personne qui lui permet d�
 # Art-thérapie
 {: .art-color} 
 <div class="left-side-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1562654372/art-therapie-jardin-still-life-rect_nc0p7e.jpg"></div> 
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1562654372/art-therapie-jardin-still-life-rect_nc0p7e.jpg" class="thumbnail"></div> 
 
 L’art-thérapie est un cheminement qui permet aux personnes accompagnées par un médiateur ou une médiatrice d’avoir accès à leur monde intérieur, leur monde créatif, en utilisant des média et des supports, tels la peinture, l’écriture, le modelage, le collage... pour exprimer ce monde, le mettre en forme, trouver un chemin d’accès vers ses énigmes, ses secrets, ses significations et transformer ce monde tout en se transformant soi-même.
 
