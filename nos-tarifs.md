@@ -1,5 +1,5 @@
 ---
-layout: one-column
+layout: sidebar
 title: Nos tarifs
 summary: Les tarifs dépendent de la durée des séances, de leur préparation, du matériel utilisé, des déplacements. En individuel, pour une séance de 1 heure à 1 heure 30, nos tarifs s’étendent de 30 à 50 euros. En séance de groupe, de 15 à 25 euros par personne. Les tarifs s’ajustent pour des durées plus longues et peuvent prendre en compte les revenus des personnes.
 ---
