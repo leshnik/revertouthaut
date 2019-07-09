@@ -1,12 +1,12 @@
 ---
-layout: one-column
+layout: sidebar
 title:  l’Art-thérapie, le soin par la création
 summary: L’art-thérapie est un soin apporté à la personne qui lui permet d’avoir accès à son monde intérieur, de l’exprimer et de le transformer, et s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier.  
 ---
-# Art-thérapie  
-<div class="right-side-block">
-<img  src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
-</div>
+# Art-thérapie 
+<div class="left-side-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1562636997/art-therapie-jardin-still-life_qkptga.jpg"></div> 
+
 L’art-thérapie est un cheminement qui permet aux personnes accompagnées par un médiateur ou une médiatrice d’avoir accès à leur monde intérieur, leur monde créatif, en utilisant des média et des supports, tels la peinture, l’écriture, le modelage, le collage... pour exprimer ce monde, le mettre en forme, trouver un chemin d’accès vers ses énigmes, ses secrets, ses significations et transformer ce monde tout en se transformant soi-même.
 
 L’art-thérapie fait partie des méthodes centrées sur le soin à la personne, que celle-ci soit en souffrance, en détresse, en difficulté, ou en questionnement sur son développement, sa profession, son existence, sa santé physique et psychique, ses liens familiaux, affectifs et sociaux.
@@ -14,6 +14,9 @@ L’art-thérapie fait partie des méthodes centrées sur le soin à la personne
 L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier et met en travail, par le biais des médiations créatives, les problématiques psychiques, physiques et sociales des personnes. En ce sens, la production d’œuvres, leur achèvement, leur «&nbsp;réussite&nbsp;» voire leur rendu public y sont beaucoup moins urgents, essentiels que le processus lui-même.
 
 ## Le rôle et la position de l’art-thérapeute
+<div class="right-side-block">
+<img  src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
+</div>
 L’art-thérapeute, formée à des méthodes d’écoute et d’analyse bienveillantes,  accompagne le cheminement des personnes, leur offre un cadre rassurant, et des dispositifs créatifs favorables à l’imaginaire et à la transformation de soi.  
 
 L’art-thérapie permet de travailler le dialogue que les personnes entretiennent avec leur monde intérieur, leur espace de pensées ou leurs difficultés à penser et permet aussi de travailler le liens aux autres, sa place parmi le groupe lorsque l’atelier est collectif.  L’art-thérapie s’intéresse donc à l’énigme que chacun de nous porte en soi et à tout ce qui peut se symboliser dans un travail créatif comme symptôme, angoisse, non-dits, blocages, souffrances.  
@@ -50,14 +53,14 @@ Ce qui se passe à l’intérieur d’un atelier reste confidentiel, et les œuv
 Henri Michaux, «&nbsp;Passages&nbsp;»
 {:.cite}
 
-<div class="right-side-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_10/v1527689691/coeur_suspendu_gmu84u.jpg"/></div> 
 <p><span class="rever-typog">Rêver tout haut</span> propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de «&nbsp;classique&nbsp;»  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...</p>
 
 
-<p>L’association propose aussi des médiations plus originales comme par exemple, un atelier pour mères et bébés en problématiques de liens, qui leur permet  de découvrir de petites percussions, de jouer avec des rythmes, de remettre le corps en mouvement et de composer des berceuses, écrites à partir des mouvements de l’enfant, et de ce que la mère peut dire de lui.</p>
-<div class="left-side-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg"></div> 
+<div class="left-side-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg"></div> <p>L’association propose aussi des médiations plus originales comme par exemple, un atelier pour mères et bébés en problématiques de liens, qui leur permet  de découvrir de petites percussions, de jouer avec des rythmes, de remettre le corps en mouvement et de composer des berceuses, écrites à partir des mouvements de l’enfant, et de ce que la mère peut dire de lui.</p>
+
 
 L’association anime aussi un atelier de fabrication d’objets à partir d’objets récupérés dans les déchetteries ou les greniers.  Le glanage faisant partie de la séance d’art-thérapie et permettant de sortir de l’atelier, ce qui parfois donne un mouvement bienvenu. Cet atelier permet notamment de travailler sur la notion de «&nbsp;mise au rebut&nbsp;». 
+<div class="right-side-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_10/v1527689691/coeur_suspendu_gmu84u.jpg"/></div>
 
 
 *Rêver tout haut*{:.rever-typog} anime aussi des ateliers en extérieur et propose de fabriquer des objets, des tableaux à partir de matières organiques ramassées dans les jardins ou les forêts, ce qui permet de mettre au travail tout ce qui concerne le monde sensoriel.
