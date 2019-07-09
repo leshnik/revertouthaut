@@ -74,6 +74,12 @@ text-decoration: none;
   float: right;
   padding-left: 1%;
 }
+.right-side-big-block {
+  margin-right: 0;
+  width: 50%;
+  float: right;
+  padding-left: 1%;
+}
 .left-side-block {
   margin-left: 0px;
   width: 33%;
