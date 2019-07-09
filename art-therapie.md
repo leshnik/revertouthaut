@@ -3,7 +3,8 @@ layout: sidebar
 title:  l’Art-thérapie, le soin par la création
 summary: L’art-thérapie est un soin apporté à la personne qui lui permet d’avoir accès à son monde intérieur, de l’exprimer et de le transformer, et s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier.  
 ---
-# Art-thérapie 
+# Art-thérapie
+{: .art-color} 
 <div class="left-side-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1562636997/art-therapie-jardin-still-life_qkptga.jpg"></div> 
 
@@ -14,6 +15,7 @@ L’art-thérapie fait partie des méthodes centrées sur le soin à la personne
 L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier et met en travail, par le biais des médiations créatives, les problématiques psychiques, physiques et sociales des personnes. En ce sens, la production d’œuvres, leur achèvement, leur «&nbsp;réussite&nbsp;» voire leur rendu public y sont beaucoup moins urgents, essentiels que le processus lui-même.
 
 ## Le rôle et la position de l’art-thérapeute
+{: .art-color}
 <div class="right-side-block">
 <img  src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
 </div>
@@ -39,6 +41,7 @@ Jean-Pierre Klein, «&nbsp;*L'art-thérapie*&nbsp;», PUF, 1997, p 42.
 {:.cite}
 
 ## Contenu et déroulé des séances
+{: .art-color}
 En fonction des problématiques à traiter, des diagnostics, et du désir exprimé par les personnes, *Rêver tout haut*{:.rever-typog} propose des accompagnements qui incluent de manière croisée ou non, le collage, l’écriture, le modelage, la peinture, la musique, le théâtre, la fabrication d’objets, la vidéo et la photographie. 
 
 Les séances sont régulières ou ponctuelles, individuelles ou groupales, peuvent avoir lieu en cabinet, dans un lieu associatif ou dans un lieu de sociabilité, comme les maisons des quartiers. 
