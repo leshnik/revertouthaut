@@ -49,6 +49,12 @@
 .music-color {
   color: sandybrown;
 }
+.spectacle-color {
+  color: tomato;
+}
+.psycho-color {
+  color: #51bbe1;
+}
 #navcontainer a {
   font-family: "Amatic SC";
   font-size: 1.2rem;
