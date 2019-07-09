@@ -51,6 +51,8 @@
 }
 #navcontainer a {
   font-family: "Amatic SC";
+  font-size: 1.2rem;
+  font-stretch: expanded;
 }
 #navcontainer a:hover {
 background-color: #a43740;
