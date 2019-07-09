@@ -3,7 +3,7 @@
 {% include head.html %}
 <body>
     <div class="all-across toggle">
-        <div style="max-width: 940px !important">
+        <div id="rever-banner" class="rever-banner940">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1562609601/rever-banner-menu700_efrxwz.jpg" alt="rêver tout haut: créativité, soin, lien social, spectacle vivant">
         </div> 
     
@@ -24,8 +24,10 @@
     <script>
         var toggle = document.querySelector(".toggle");
         var navcontainer = document.getElementById("navcontainer")
+        var maxWidth = document.getElementById("rever-banner");
         toggle.addEventListener("click", function(){
             navcontainer.classList.toggle("hideable");
+            maxWidth.classList.toggle("rever-banner700");
         })
         
       //if sidebar and not-sidebar are the same width, add class hideable to navlinks
