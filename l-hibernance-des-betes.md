@@ -1,12 +1,15 @@
 ---
-layout: one-column
+layout: sidebar
 title: L’hibernance des bêtes, spectacle qui témoigne du travail social
 summary: Spectacle à venir, «&nbsp;l’hibernance des bêtes&nbsp;» est le résultat d’ateliers d’écriture menés auprès de travailleurs sociaux qui témoignent de rencontres marquantes avec certains de leurs usagers et qui leur ont fait vivre quelque chose de puissant, de troublant, et de difficilement communicable.
 ---
 
 # L'hibernance des bêtes, spectacle qui témoigne du travail social
 
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_10/v1527697622/chien_de_neige_pd86r5.jpg" class="img-fluid img"/> *L’hibernance des bêtes*{:.rever-typog}, mettra en musique et en scène des textes écrits lors d’ateliers d’écriture organisés dans le cadre du travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour fin 2019.
+<div class="all-across">
+  <img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_10/v1527697622/chien_de_neige_pd86r5.jpg"/>
+</div>
+*L’hibernance des bêtes*{:.rever-typog}, mettra en musique et en scène des textes écrits lors d’ateliers d’écriture organisés dans le cadre du travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour fin 2019.
 
 Voici des exemples de ces premiers textes :
 {: .cleared} 
