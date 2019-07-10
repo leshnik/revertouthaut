@@ -1,21 +1,7 @@
-
- .full-width {
-   background-color: white;
- }
- .margin-constraint {
-   margin-left: 2%;
-   margin-right: 2%;
- }
- .useful-width {
-  max-width: 700px;
-  margin-left: auto;
-  margin-right: auto;
- }
  .all-across > img {
   width: 100%;
   max-width: 700px;
-
- }
+}
 
 .with-sidebar {
   display: flex;
@@ -121,16 +107,10 @@ a {
   font-size: 1.1rem;
   color: #a43740;
   text-decoration: none;
+  font-family: "Amatic SC";
 }
 body {
   font-family: "lora", serif;
-}
-
-#reverNav {
-  display: block;
-}
-button {
-  padding: 0%;
 }
 h1 {
   font-size: 3em;
