@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Contenu et déroulé d’une séance d’art-thérapie
 summary: Les séances d’art-thérapie peuvent avoir lieu à domicile, en institution médicale ou sociale, et en cabinet, et utilisent des médiations et des matériaux, qui soient adaptées aux problématiques des groupes et des personnes. 
 ---

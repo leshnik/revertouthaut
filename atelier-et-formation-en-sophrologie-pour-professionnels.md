@@ -1,14 +1,16 @@
 ---
-layout: main
+layout: sidebar
 title: Prendre soin de soi pour prendre soin des autres
 summary: Afin de permettre un retour sur expérience et de permettre un mieux être au travail, la sophrologie offre des séances adaptées aux problématiques des professionnels parfois en difficultés.
 ---
-## atelier et formation en sophrologie pour professionnels
+# atelier et formation en sophrologie pour professionnels
+{: .sophro-color}
 L'approche sophrologique pour les professionnels permet de travailler beaucoup de thématiques, de faire un retour sur expérience et d'améliorer la qualité de son quotidien professionnel. Nous pouvons proposer des cycles de séances hebdomadaires sur plusieurs mois, ou des modules plus courts et plus ponctuels, sur des thèmes comme «&nbsp;la gestion du stress en milieu professionnel&nbsp;», ou «&nbsp;prendre soin de soi pour prendre soin des autres&nbsp;».
 
 Ce qui suit est un exemple  d'un axe de travail sur 2 jours:  
 
 ## Prendre soin de soi pour prendre soin des autres
+{: .sophro-color}
 
 
 Nombre d’heures : 16 H  

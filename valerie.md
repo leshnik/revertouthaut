@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: one-column
 title: Valérie Gaudissart, art-thérapeute et metteuse en scène
 summary: En parallèle de son travail de cinéaste, Valérie Gaudissart met en scène des spectacles basés sur des témoignages et traitant de problématiques sociales et intimes, telle la complexité des liens mère/enfant. Sa passion pour l’accompagnement des personnes vers la création l’a amenée à se former à l’art-thérapie. Elle est diplômée de l’Institut de Psychologie de Lyon 2, en «&nbsp;Soins Psychiques, créativité et expression artistique&nbsp;»
 ---

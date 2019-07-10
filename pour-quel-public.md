@@ -1,11 +1,11 @@
 ---
-layout: main
+layout: sidebar
 title: A quel public s’adressent nos ateliers ?
 summary: Ouverts à tous et de tout âge, nos ateliers sont aussi adaptés à des situations spécifiques et peuvent prendre en compte des problématiques de santé, de handicap, d’addiction, des difficultés sociales, et les difficultés que peuvent rencontrer les aidants, les travailleurs sociaux et soignants, tous ceux qui œuvrent dans les liens d’accompagnement.  
 ---
 
 # Pour quel public&nbsp;?
-
+{: .music-color}
 Nos ateliers sont ouverts à toutes et à tous. Chaque personne, de tout âge, ou chaque groupe désireux de faire appel à sa créativité, de tenter quelque chose qui le sorte du quotidien et le fasse voyager dans un univers artistique, qui lui fasse expérimenter une autre façon d’être, de voir le monde, d’être ensemble est bienvenu. 
 
 Comme nous travaillons régulièrement à partir de faits sociaux, ou problématiques de santé, nous pouvons aussi nous adapter et proposer des ateliers qui soient sensibles à certains publics comme : 

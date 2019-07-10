@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: sidebar
 title: Bercer l’enfant manquant, spectacle autour des liens mère/enfant
 summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétriciennes et de psychologues, le spectacle partira en tournée en Saône et Loire en 2019 en partenariat avec des structures d’accompagnement des questions de parentalité. Le spectacle aborde la complexité des liens qui unissent et parfois désunissent les mères et leurs enfants.
 ---
@@ -25,21 +25,17 @@ Textes, chants, piano et percussions composent ce voyage en terre intime et univ
 Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash, Mariama Boina, Sylvia Etcheto
 et Florian Girard à la lumière.
 
-#### <a href="bercer-l-enfant-manquant-dossier.pdf" download>●&nbsp;Cliquer pour télécharger le dossier</a>
+### <a href="bercer-l-enfant-manquant-dossier.pdf" download>●&nbsp;Cliquer pour télécharger le dossier</a>
 
-#### <a href="gallery.html">●&nbsp;Photos du spectacle</a>
+### <a href="gallery.html">●&nbsp;Photos du spectacle</a>
 
 ## Media
 [reportage sur france3-bourgogne](https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html) Par Maryline Barate, publié le 08/02/2019.
 
 [article dans Le Journal du Saône-et-Loire](2019-02-07jsl-loisirs.pdf) Par Meriam Souissi, publié le 07/02/2019.    
 
-<!-- ![](https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1543428471/affiche_le_réservoir_migsaa.png)
-{: .img-right}     -->
-
-<img class="img-fluid img-right" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
-
 ## Dates de tournée
+<img class="right-side-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
 
 - vendredi 18 octobre 2019 (horaire à confirmer)  
 au Théâtre Municipal d'Autun  
@@ -48,13 +44,11 @@ en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accue
 
 - samedi 21 septembre à 16h   
 à La Fabrique   
-Pré de Saugy
-Messeugne    
+Pré de Saugy Messeugne    
 71460 Savigny sur Grosne   
-entrée 6€
-réservation : olivierdavid@alafabrique.org
+entrée 6€    
+réservation : olivierdavid@alafabrique.org    
 06 78 78 77 95
-
 
 - vendredi 20 septembre à 20h30   
 à La Limace   

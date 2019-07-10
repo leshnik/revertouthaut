@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% include head.html %}
+<body>
+    <div class="all-across toggle">
+        <div id="rever-banner" class="rever-banner940">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1562609601/rever-banner-menu700_efrxwz.jpg" alt="rêver tout haut: créativité, soin, lien social, spectacle vivant">
+        </div> 
+    
+    </div>
+    <div class="with-sidebar">
+        <div>
+        <div class="sidebar" id="left">
+            
+            <div id="navcontainer">
+                {% include nav-links.html %}
+            </div>
+        </div>
+        <div id="right" class="not-sidebar">
+            {{ content }}
+        </div>
+        </div>
+    </div>
+    <script>
+        var toggle = document.querySelector(".toggle");
+        var navcontainer = document.getElementById("navcontainer")
+        var maxWidth = document.getElementById("rever-banner");
+        toggle.addEventListener("click", function(){
+            navcontainer.classList.toggle("hideable");
+            maxWidth.classList.toggle("rever-banner700");
+        })
+        
+      //if sidebar and not-sidebar are the same width, add class hideable to navlinks
+      //and state == false 
+      if (document.getElementById("left").offsetWidth == document.getElementById("right").offsetWidth){
+          document.getElementById("navcontainer").className += " hideable";
+      } 
+
+    </script>
+</body>
+</html>

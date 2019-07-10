@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: sidebar
 title: Des ateliers artistiques, acte de création et de lien social
 summary: Pensés et encadrés par des artistes, nos ateliers artistiques permettent de créer des oeuvres collectives, individuelles, et même familiales. Nos ateliers peuvent faire se croiser différentes pratiques, comme par exemple la musique et l’écriture, ou la photo et l’écriture, et trouver une suite dans un travail de sophrologie.
 ---
@@ -10,19 +10,25 @@ Les ateliers artistiques à la différence des ateliers d’art-thérapie, ne re
 *Rêver tout haut*{:.rever-typog} propose ainsi les ateliers suivants, tout en continuant d’en élaborer de nouveaux. 
 
 ## Ecriture et slam
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_180,r_15/v1527778777/quand-jai-accouche_fxetin.png" class="img-fluid img"/> Relier un travail d’écriture de textes poétiques, dans un premier temps, à un  travail de rythme, de composition musicale dans un deuxième temps, puis à un travail d’interprétation. Afin que les textes prennent et transmettent toute leur force émotionnelle.
+<div class="right-side-big-block thumbnail"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1527778777/quand-jai-accouche_fxetin.png"/></div> Relier un travail d’écriture de textes poétiques, dans un premier temps, à un  travail de rythme, de composition musicale dans un deuxième temps, puis à un travail d’interprétation. Afin que les textes prennent et transmettent toute leur force émotionnelle.
 
 ## Selfie
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_200,r_10/v1527691924/photo_coquelicot_lbt5y3.jpg" class="img-fluid img-right"/> 
+{: .cleared}
+<div class="left-side-big-block">
+  <img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1527691924/photo_coquelicot_lbt5y3.jpg"/>
+</div> 
 
 Travailler à partir de photographies  et de textes sur la construction de l’image de soi, et cheminer d’une image de soi « réelle » à une image fictionnelle.<br><br><br>
 
 
 ## A quatre mains
+{: .cleared}
 Apprentissage du piano et des percussions pour parent et enfant ensemble, dans l’idée que puisse se jouer entre eux au-delà de la musique, de la complémentarité ludique.
 
 ## Couture et ficelle
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_350,r_10/v1527691919/boite_à_petites_tisss_gg9wjl.jpg" class="img-fluid img"/> A partir de bouts de tissus, de ficelles et de rubans, fabrication de petits objets évocateurs de l’enfance, et travail d’écriture sur les souvenirs plus ou moins reconstitués et plus ou moins inventés de notre enfance.
+<div class="center-block">
+  <img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1527691919/boite_à_petites_tisss_gg9wjl.jpg"/>
+</div> A partir de bouts de tissus, de ficelles et de rubans, fabrication de petits objets évocateurs de l’enfance, et travail d’écriture sur les souvenirs plus ou moins reconstitués et plus ou moins inventés de notre enfance.
 <br>
 <br>
 <br>
