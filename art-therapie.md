@@ -16,7 +16,8 @@ L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se
 
 ## Le rôle et la position de l’art-thérapeute
 {: .art-color}
-<div class="right-side-block thumbnail>
+
+<div class="right-side-block thumbnail">
 <img  src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
 </div>
 L’art-thérapeute, formée à des méthodes d’écoute et d’analyse bienveillantes,  accompagne le cheminement des personnes, leur offre un cadre rassurant, et des dispositifs créatifs favorables à l’imaginaire et à la transformation de soi.  
