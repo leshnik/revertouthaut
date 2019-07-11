@@ -95,7 +95,7 @@ p {
 img {
   width: 100%;
 }
-.thumbnail:hover {
+.thumbnail:hover .thumbnail:active {
   position:relative;
   top:-25px;
   width:100%;
