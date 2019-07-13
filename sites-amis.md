@@ -42,3 +42,4 @@ title: Sites Amis
 - [●&nbsp;Académie de sophrologie de Paris](http://academie-sophrologie.fr/){:target="_blank"}
 - [●&nbsp;Le magazine de la sophrologie](https://www.sophrologie-actualite.fr/){:target="_blank"}
 
+
