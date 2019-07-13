@@ -37,9 +37,10 @@ title: Sites Amis
 
 ## Sophrologie
 {:.sophro-color}
+<div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1563030881/acad%C3%A9mie_de_sophrologie_de_paris_si2qux.png">
 - [●&nbsp;Isis Philippe-Janon - Sophrologue](http://isispjsophro.com/){:target="_blank"}
 - [●&nbsp;Académie de sophrologie de Paris](http://academie-sophrologie.fr/){:target="_blank"}
 - [●&nbsp;Le magazine de la sophrologie](https://www.sophrologie-actualite.fr/){:target="_blank"}
-
+</div>
 <br>
