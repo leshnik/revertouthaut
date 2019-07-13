@@ -3,7 +3,7 @@ layout: sidebar
 title: Sites Amis
 ---
 # sites amis
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1563030320/itin%C3%A9raires_singuliers_gmn0cs.png">
+<div class="all-across"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1563030320/itin%C3%A9raires_singuliers_gmn0cs.png"></div>
 ## Création, Culture et Santé
 {:.art-color}
 - [●&nbsp;Itineraires Singuliers](http://www.itinerairessinguliers.com/){:target="_blank"}
