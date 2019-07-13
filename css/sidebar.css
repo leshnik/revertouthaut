@@ -43,7 +43,7 @@
 }
 #navcontainer a {
   font-family: "Amatic SC";
-  font-size: 1.2rem;
+  font-size: 1.3rem;
   font-stretch: expanded;
 }
 #navcontainer a:hover {
@@ -52,7 +52,7 @@ color: #FFF !important;
 text-decoration: none;
 }
 .rever-banner940 {
-  max-width: 940px;
+  max-width: 960px;
 } 
 .rever-banner700 {
   max-width: 720px;
@@ -104,7 +104,7 @@ img {
   z-index:999;
 }
 a {
-  font-size: 1.1rem;
+  font-size: 1.3rem;
   color: #a43740;
   text-decoration: none;
   font-family: "Amatic SC";
