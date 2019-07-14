@@ -149,6 +149,10 @@ h2 {
     text-align: left;
     font-family: "lora", serif;
   }
+  .rever-enlarged {
+    font-size: 1.3rem; 
+    font-family: Amatic SC;
+  }
 .display-none {
   display: none;
 }
