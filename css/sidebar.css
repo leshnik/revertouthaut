@@ -17,7 +17,7 @@
   flex-grow: 999;
   min-width: 50%;
   max-width: 700px;
-  padding-right: 1ch;
+  padding-right: 1.5em;
 }
 .with-sidebar > * {
   display: flex;
