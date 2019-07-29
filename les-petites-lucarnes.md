@@ -3,6 +3,7 @@ layout: sidebar
 title:  Les petites lucarnes - ateliers destinés aux personnes en insertion à Mâcon et Châlon sur Saône.
 summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant art thérapie, musique, photographie, vidéo, et ayant comme but la revalorisation, l'estime de soi et le retour vers l'emploi. Soutenu par l'association Le Pont.
 ---
+[ page en construction ] <br>
 # Les petites lucarnes
 
 Cette série d’ateliers, menée dans le cadre de l’Association le Pont à Mâcon et Châlon sur Saône débute en octobre 2019 jusqu’en avril 2020 à raison de deux ateliers hebdomadaires de 3h30 et réunit plusieurs médiations: art-thérapie, collage, écriture, photographies, musique, vidéo. 
