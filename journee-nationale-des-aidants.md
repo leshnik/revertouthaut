@@ -1,0 +1,23 @@
+---
+layout: sidebar
+title:  Journée nationale des aidants à la médiathèque de Mâcon
+summary: Lecture musicale de témoignages d'aidants familiaux et professionnels dans le but de partager des expériences lors de la journée nationale des aidants le 11 octobre 2019 à la médiathèque de Mâcon.
+---
+# Journée nationale des aidants 
+## 11 octobre 2019 à la médiathèque de Mâcon
+[page en construction]<br>
+<span class="rever-typog" style="font-size: 1.7rem"> Rêver tout haut</span> participe à la journée nationale des aidants en proposant une lecture musicale en public de témoignages d’aidants familiaux et d’aidants professionnels. 
+Cette lecture musicale est une manière de transmettre la parole et le vécu des aidants à d’autres aidants et à leurs proches. 
+
+Ce sera aussi l’occasion de découvrir le projet « Les plus que proches », qui s’inscrit dans la continuité de cette journée. 
+
+La proposition est portée par deux comédiennes et un musicien.
+
+L’entrée à la journée est libre et gratuite. De nombreux stands seront présents et une table ronde suivra la lecture. 
+
+La journée nationale des aidants est organisée par la plateforme de répit de Mâcon.
+
+*« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »*
+
+
+[Ajouter le flyer de la journée quand c'est disponible.]
