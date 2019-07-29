@@ -90,6 +90,21 @@ text-decoration: none;
   margin-right: auto;
   width: 50%;
 }
+.contact {
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+  border: 0.5mm ridge rgba(220, 50, 53, 0.755);
+  padding: 1em;
+  font-size: 1.3em;
+  text-align: center;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  background-color: #f4f2eb;
+}
+.filigree {
+  border: 4mm ridge rgba(220, 50, 53, 0.755);
+}
 p {
   text-align: justify;
 }
