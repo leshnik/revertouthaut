@@ -18,6 +18,7 @@ Le projet se déroule sur environ 6 mois, au cours de 10 séances d’1h30 chacu
 
 Les inscriptions sont ouvertes. N’hésitez pas à nous contacter. 
 
+## Journée nationale des aidants : 11 octobre 2019, 13h30 à 17h
 <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567416176/plus_que_proches_flyer_p1_a84skg.jpg" alt="flyer journée nationale des aidants, 11 octobre 2019, de 13h30 à 17h"/></div>
 
 Ce projet a reçu le soutien de la Conférence des Financeurs de la Prévention de la Perte d’Autonomie de Saône et Loire (CFPPA)<br>La Plateforme de répit et d’accompagnement de Mâcon est partenaire du projet.
