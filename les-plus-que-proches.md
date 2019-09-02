@@ -3,7 +3,6 @@ layout: sidebar
 title:  Les plus que proches - ateliers pour aidants familiaux en Saône et Loire et Mâcon.
 summary: Un temps de répit pour aidants familiaux. Ateliers créatifs gratuits avec le soutien de la Conférence des Financeurs, qui offrent aux aidants un espace d'échange et les invitent à l'élaboration de leur vécu à travers des activités comme l'écriture, la composition de chansons, et la sophrologie.
 ---
-[ en construction ]<br>
 # Les plus que proches
 
 *Les plus que proches*{:.rever-typog} est un projet ouvert et proposé aux aidants de personnes en perte d’autonomie résidant en Saône et Loire. Rêver tout haut propose un travail d’écriture, de sophrologie et de musique autour de la parole et du vécu des aidants familiaux.
@@ -18,6 +17,8 @@ Le projet se déroule sur environ 6 mois, au cours de 10 séances d’1h30 chacu
 
 
 Les inscriptions sont ouvertes. N’hésitez pas à nous contacter. 
+
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567416176/plus_que_proches_flyer_p1_a84skg.jpg" alt="flyer journée nationale des aidants, 11 octobre 2019, de 13h30 à 17h"/></div>
 
 Ce projet a reçu le soutien de la Conférence des Financeurs de la Prévention de la Perte d’Autonomie de Saône et Loire (CFPPA)<br>La Plateforme de répit et d’accompagnement de Mâcon est partenaire du projet.
 <div class="center-block" style="width: 20%"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1564208427/logo-CPFFA_rv5bj5.jpg"></div>
