@@ -90,6 +90,11 @@ text-decoration: none;
   margin-right: auto;
   width: 50%;
 }
+.center-big-block {
+  margin-left: auto;
+  margin-right: auto;
+  width: 85%;
+}
 .contact {
   margin-left: auto;
   margin-right: auto;
