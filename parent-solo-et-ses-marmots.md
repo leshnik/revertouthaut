@@ -24,4 +24,4 @@ Ateliers et création théâtrale menés par Valérie Gaudissart, en collaborati
 
 «Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux !»
 <br>
-[ AJOUTER FLYER, PHOTOS, ET PROGRAMME DU RESERVOIR ]
+<!-- [ AJOUTER FLYER, PHOTOS, ET PROGRAMME DU RESERVOIR ] -->
