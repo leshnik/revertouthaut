@@ -3,9 +3,13 @@ layout: sidebar
 title: Parent solo et ses marmots, atelier créatif et spectacle sur le thème de la parentalité à Saint Marcel et Châlon sur Saône.
 summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant, l'art thérapie, dans le but de l'écriture et de la représentation d'une pièce de théâtre réunissant une équipe amateure et professionnelle et explorant toutes les facettes de la monoparentalité.
 ---
-[ page en construction ] <br>
-<h1>Parent solo et ses marmots. </h1>
 
+<h1>Parent solo et ses marmots</h1>
+<div class="center-big-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567431402/parent_solo_1_so0q5w.png">
+</div><br>
+© Frédéric Dechelotte
+{:.cite}
 <h2>Représentations le 20 mars 2020 <br>à 14h30 et 20h <br>au réservoir de Saint Marcel</h2>
 
 Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo ? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ?
