@@ -128,6 +128,24 @@ a {
 body {
   font-family: "lora", serif;
 }
+@media (min-width: 940px){
+
+  body {
+  width: 940px;
+  font-size:1.2em;
+
+  /* On ajoute une marge sur les cotés de l'écran */
+
+  padding-right: 2px;
+  padding-left: 2px;
+
+
+  /* Et on centre */
+
+  margin-right: auto;
+  margin-left: auto;
+}
+}
 h1 {
   font-size: 3em;
   font-family: "Amatic SC";
