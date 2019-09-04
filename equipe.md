@@ -35,4 +35,12 @@ Patricia a d'autres passions qui sont la pratique de la danse contemporaine et d
 ## Lucie Moraillon : photographe
 
 ## Florian Girard : musicien
+{: .music-color}
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567612309/florian-portrait-nb_100px_thq8tr.png"></div>
+
+Florian Girard griffonne depuis plus de vingt ans, des poèmes sur un coin de table, des éditos, des dialogues, des chansons dans le train, des nouvelles dans le camion … car il se déplace sans cesse, pour chanter le plus souvent. Il faut qu’il chante, sinon il étouffe. Il faut qu’il bricole des mots, sinon il rouille. Des mots, il en a déposé dans les titres des Trapettistes, de Fred Radix, d’Amélie les Crayons entre autres, et plus récemment d’Alfonce. Des mots ronds, rouges, ravageurs, rugueux, vivants, odorants, rose et tendres comme les fesses d’un babouin, des mots vengeurs, mordants, des mots sans valeur mais jamais sans saveur…
+Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses ateliers d’écriture, enfants, adultes, professionnels, amateurs, différents, improbables, depuis des années, à leur grande surprise et satisfaction.
+
+
+47 ans, intermittent du spectacle depuis 20 ans, auteur, compositeur, interprète, musicien, metteur en scène, régisseur, pour différents projets de spectacle vivant… et avant cela des études scientifiques, quelques années d’enseignement. Voilà son parcours en quelques phrases, un parcours de flâneur-bosseur-cueilleur, en zig zag, en liberté !
 
