@@ -7,7 +7,7 @@ summary: Lecture musicale de témoignages d'aidants familiaux et professionnels 
 ## 11 octobre 2019 à la médiathèque de Mâcon
 ## 13h30 à 17h
 
-<div class="center-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567416176/plus_que_proches_flyer_p1_a84skg.jpg" alt="flyer journée nationale des aidants, 11 octobre 2019, de 13h30 à 17h"/></div><span class="rever-typog" style="font-size: 1.7rem"> Rêver tout haut</span> participe à la journée nationale des aidants en proposant une lecture musicale en public de témoignages d’aidants familiaux et d’aidants professionnels. 
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567416176/plus_que_proches_flyer_p1_a84skg.jpg" alt="flyer journée nationale des aidants, 11 octobre 2019, de 13h30 à 17h"/></div><span class="rever-typog" style="font-size: 1.7rem"> Rêver tout haut</span> participe à la journée nationale des aidants en proposant une lecture musicale en public de témoignages d’aidants familiaux et d’aidants professionnels. 
 Cette lecture musicale est une manière de transmettre la parole et le vécu des aidants à d’autres aidants et à leurs proches. 
 
 Ce sera aussi l’occasion de découvrir le projet « Les plus que proches », qui s’inscrit dans la continuité de cette journée. 
