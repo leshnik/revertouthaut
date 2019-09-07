@@ -7,9 +7,13 @@ summary: Un temps de répit pour aidants familiaux. Ateliers créatifs gratuits 
 
 *Les plus que proches*{:.rever-typog} est un projet ouvert et proposé aux aidants de personnes en perte d’autonomie résidant en Saône et Loire. Rêver tout haut propose un travail d’écriture, de sophrologie et de musique autour de la parole et du vécu des aidants familiaux.
 
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567866720/lesPlusQueProchesp1_obyqxt.jpg" alt="flyer pour Les plus que proches: atelier créatif à destination des aidants"></div>
+
 Le projet se déroule sur environ 6 mois, au cours de 10 séances d’1h30 chacune et il sera clôturé par une restitution publique qui pourra prendre la forme de lecture de textes, de chansons en musique, de présentations de différents travaux.
 
 *Les plus que proches*{:.rever-typog} se propose de garder traces et de transmettre, par le biais d’un travail créatif, ce que vivent les aidants au quotidien et au plus profond de leur intimité émotionnelle et de leur histoire familiale. « Les plus que proches » se propose d’explorer l’ambivalence et l’énigme de cette position d’aidants, de « plus que proches », de celui ou de celle qui vit une relation nécessairement empathique et aux multiples ressorts et retombées. Les participants pourront repartir avec une chanson créée au fil des ateliers et qui résonnera pour eux et pour leurs proches. 
+
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567866718/lesPlusQueProchesp2_xv3zaq.jpg" alt="Flyer page 2, Inscription 07 69 29 53 27, cycle d'ateliers proposé aux aidants et aux proches de personnes souffrant de maladies neuro-dégénératives"></div>
 
 *« Dans la famille, on accueille. C’est ancestral. Et moi, quand j’étais bébé, elle aurait donné sa vie pour moi. Donc la question d’accueillir ma mère chez moi ne se pose même pas. »*
 
