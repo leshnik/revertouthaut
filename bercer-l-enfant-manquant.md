@@ -42,7 +42,7 @@ au Théâtre Municipal d'Autun
 71400 Autun  
 en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
 
-- samedi 21 septembre à 16h   
+- samedi 21 septembre à 18h30   
 à La Fabrique   
 Pré de Saugy Messeugne    
 71460 Savigny sur Grosne   
