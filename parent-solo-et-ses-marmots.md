@@ -22,6 +22,6 @@ Elle sera jouée au Réservoir de Saint Marcel, le 20 mars 2020 à 14h30 et 20h.
 Ateliers et création théâtrale menés par Valérie Gaudissart, en collaboration avec Morton Potash et Flore Simon.
 
 
-«Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux !»
+> «&nbsp;*Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux ! &nbsp;»*
 <br>
 <!-- [ AJOUTER FLYER, PHOTOS, ET PROGRAMME DU RESERVOIR ] -->
