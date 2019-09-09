@@ -2,7 +2,10 @@
 layout: sidebar
 title:  les membres de notre équipe
 summary: Valérie Gaudissart, Isis-Philippe-Jenon, Morton Potash, Patricia Rigo, Lucie Moraillon, Florian Girard
-redirect_from: "/valerie/"
+redirect_from: 
+- "/valerie/"
+- "/isis/"
+- "/morton/"
 ---
 # les membres de notre équipe
 ## Valérie Gaudissart : art-thérapeute et metteuse en scène
