@@ -15,6 +15,8 @@ Le projet se déroule sur environ 6 mois, au cours de 10 séances d’1h30 chacu
 
 <div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567866718/lesPlusQueProchesp2_xv3zaq.jpg" alt="Flyer page 2, Inscription 07 69 29 53 27, cycle d'ateliers proposé aux aidants et aux proches de personnes souffrant de maladies neuro-dégénératives"></div>
 
+### <a href="ateleirPlusQueProches-imprimer.pdf" download>●&nbsp;Cliquer pour télécharger le flyer, résolution imprimeur.</a>
+
 *« Dans la famille, on accueille. C’est ancestral. Et moi, quand j’étais bébé, elle aurait donné sa vie pour moi. Donc la question d’accueillir ma mère chez moi ne se pose même pas. »*
 
 *« Je ne me sens pas du tout de prendre mon père chez moi. Du tout, du tout. Je me sens toute seule par rapport à tout ça. Je ne veux pas y laisser ma peau. »*
