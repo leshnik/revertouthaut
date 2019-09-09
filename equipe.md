@@ -8,6 +8,20 @@ redirect_from:
 - "/morton/"
 ---
 # les membres de notre équipe
+<ul>
+<li><a href="#valerie" style="color: #7C984A">Valérie Gaudissart: art-thérapeute et metteuse en scène</a></li>
+
+<li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
+
+<li><a href="#morton" style="color: sandybrown">Morton Potash: musicien, mime, et danseur</a></li>
+
+<li><a href="#patricia" style="color: #29c">Patricia Rigo: art-thérapeute et plasticienne</a></li>
+
+<li><a href="#lucie">Lucie Moraillon: photographe</a></li>
+
+<li><a href="#florian" style="color:  #990099">Florian Girard: musicien, parolier, et régisseur</a></li>
+</ul>
+<div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute et metteuse en scène
 {: .art-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567419418/val-looking-left_g2jc7o.png"></div>
@@ -15,6 +29,7 @@ Après des études théâtrales à Paris III, Valérie se forme, en étudiant le
 
 Elle a monté en 2018 et joue actuellement un nouveau spectacle « Bercer l’enfant manquant », qui traite de la complexité des liens mère/enfant. Elle en prépare un autre, «Parent solo et ses marmots» sur la mono-parentalité. Valérie a toujours considéré les rencontres comme étant les moteurs et les prétextes de ses créations, et toujours pensé que son travail devait être pluri-disciplinaire. Elle intervient en tant qu’art-thérapeute, anime des ateliers, adore trouver des nouvelles idées de médiations, de spectacles et quand elle a le temps, écrit des histoires pour ses personnages de fiction. Elle vit depuis une quinzaine d’années dans un petit village de Saône et Loire.
 
+<div id="isis"></div>
 ## Isis Philippe-Janon : sophrologue et comédienne
 {:.sophro-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1566027596/isis-t%C3%AAte_matha9.png"></div>
@@ -23,11 +38,13 @@ Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découvert
 Après un parcours de comédienne, Isis décide de devenir sophrologue suite à la rencontre avec cette pratique lors de la préparation à la naissance de son premier enfant. Après cette expérience riche et étonnante, elle se passionne pour la sophrologie et le potentiel qu'elle y découvre, et la transmettre devient pour elle une évidence. Formée à l'Académie de sophrologie de Paris par Patrick André Chéné, elle obtient son diplôme puis son inscription au RNCP (Répertoire National des Certifications Professionnelles) en 2014.
 Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2 ans des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est récemment installée.
 
+<div id="morton"></div>
 ## Morton Potash : musicien, mime, et danseur
 {: .music-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
 <p>Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.</p>
 
+<div id="patricia"></div>
 ## Patricia Rigo : art-thérapeute et plasticienne
 {: .art-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567419656/patricia_rigo_thumb_bf4v50.jpg"></div>
@@ -37,10 +54,11 @@ Après une licence en psychologie à la Faculté des Lettres de Montpellier, Pat
 Des lectures réveillent son intérêt pour l' Art mis au service de la personne dans une démarche humanitaire et de soin.. Elle anime un atelier de modelage à l'argile dans un FAM. Cette expérience conforte son désir de s'inscrire à une formation en Art-thérapie. En 2007, elle obtient son DU dans cette spécialité, délivré par la Faculté de Médecine et de Pharmacie de Poitiers. Depuis, Patricia exerce avec passion le métier d' Art-thérapeute auprès de jeunes autistes, d'adultes handicapés, de personnes diagnostiquées Alzheimer ou troubles apparentés. L'activité artistique à dominante Arts Plastiques se partage en séance individuelle ou en petit groupe.Elle intervient dans diverses institutions (IME, Foyer de Vie, EHPAD, CMM) et travaille en équipe pluridisciplinaire.
 Patricia a d'autres passions qui sont la pratique de la danse contemporaine et de la LSF ( Langue des Signes Française).
 
-
+<div id="lucie"></div>
 ## Lucie Moraillon : photographe
 
-## Florian Girard : musicien
+<div id="florian"></div>
+## Florian Girard : musicien, parolier, et régisseur
 {: .music-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567612309/florian-portrait-nb_100px_thq8tr.png"></div>
 
