@@ -17,7 +17,7 @@ redirect_from:
 
 <li><a href="#patricia" style="color: #29c">Patricia Rigo: art-thérapeute et plasticienne</a></li>
 
-<li><a href="#lucie">Lucie Moraillon: photographe</a></li>
+<li><a href="#lucie" style="color: #7c0a24">Lucie Moraillon: photographe</a></li>
 
 <li><a href="#florian" style="color:  #990099">Florian Girard: musicien, parolier, et régisseur</a></li>
 </ul>
@@ -56,6 +56,18 @@ Patricia a d'autres passions qui sont la pratique de la danse contemporaine et d
 
 <div id="lucie"></div>
 ## Lucie Moraillon : photographe
+{:.lucie-color}
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1568404738/LucieMoraillon_wpy0bc.jpg"></div>
+
+La photographie est une fidèle et ancienne amie de Lucie. A 9 ans, elle reçoit en cadeau un appareil, puis, encouragée par ses proches et ses rêves, elle chemine et grandit, la photographie à ses côtés.
+Elle en fait son métier qu'elle apprend à Paris de 2004 à 2007 à l’École Louis Lumière puis auprès de ceux et celles qui l'inspirent et l'aident à trouver, à consolider son approche à elle. 
+Dès le départ ses activités s'articulent autour de trois dimensions complémentaires : son travail personnel, celui de commande et ses ateliers. 
+Sa photographie est toujours une histoire de rencontres.
+Elle explore des relations qui se tissent, avec ceux qui la touchent, souvent ceux qui ne font pas partie a priori de son univers, mais qui, grâce à la photographie, le deviennent.
+Lors des ateliers qu'elle met en place, elle fait émerger des images dans des lieux où elle s'installe un moment; dans un camp de réfugiés palestiniens au Liban, auprès de jeunes des banlieues lyonnaises, dans un petit village égyptien...
+Ce qui lui tient à cœur, c'est que chacun trouve ce que la photographie lui permet de vivre "en plus". 
+Originaire de Dijon, après quelques voyages et quelques années à Paris puis à Lyon, Lucie vit dans un hameau du clunisois. Elle participe en 2017 à la création d'une galerie associative à Cluny, Les Mains Libres, où elle expose ses photographies et continue depuis d'inventer cet espace avec ses amis artistes. 
+
 
 <div id="florian"></div>
 ## Florian Girard : musicien, parolier, et régisseur
