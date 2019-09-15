@@ -47,7 +47,7 @@
 }
 #navcontainer a {
   font-family: "Amatic SC";
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-stretch: expanded;
 }
 #navcontainer a:hover {
@@ -113,6 +113,7 @@ text-decoration: none;
 .filigree {
   border: 4mm ridge rgba(220, 50, 53, 0.755);
 }
+
 p {
   text-align: justify;
 }
@@ -135,12 +136,14 @@ a {
 }
 body {
   font-family: "lora", serif;
+  font-size: 1.3em;
 }
 @media (min-width: 940px){
 
   body {
   width: 940px;
   font-size:1.2em;
+  
 
   /* On ajoute une marge sur les cotés de l'écran */
 
