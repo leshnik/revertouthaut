@@ -187,12 +187,13 @@ h2 {
     letter-spacing: 0.15rem;
   }
   .rever-list2 {
-    background-color: #d4f7ff;
-    font-size: 1em;
+    /* background-color: #d4f7ff; */
+    background: url(https://res.cloudinary.com/dnxcesebo/image/upload/v1528121310/light-grey-sky_zvhusk.png);
+    font-size: 1.1em;
     border-radius: .5em;
     padding: 0.5em;
     text-align: left;
-    font-family: "lora", serif;
+    font-family: "Crimson Text", serif;
   }
   .rever-enlarged {
     font-size: 1.3rem; 
