@@ -12,7 +12,7 @@ France<br>
 tél: 07 69 29 53 27<br>    
 revertouthaut@gmail.com</p>
 </div>
-<div class="center-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_15/v1527764491/bureau-val_pzj61u.jpg"/>
+<div class="center-big-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_15/v1527764491/bureau-val_pzj61u.jpg"/>
 </div>
 
 ## Où se déroulent nos ateliers ?
