@@ -136,13 +136,13 @@ a {
 }
 body {
   font-family: "Crimson Text", "lora", serif;
-  font-size: 1.3em;
+  font-size: 1.4em;
 }
 @media (min-width: 940px){
 
   body {
   width: 940px;
-  font-size:1.2em;
+  font-size:1.3em;
   
 
   /* On ajoute une marge sur les cotés de l'écran */
@@ -188,7 +188,7 @@ h2 {
   }
   .rever-list2 {
     /* background-color: #d4f7ff; */
-    background: url(https://res.cloudinary.com/dnxcesebo/image/upload/v1528121310/light-grey-sky_zvhusk.png);
+    background: url(https://res.cloudinary.com/dnxcesebo/image/upload/v1568562207/light-grey-sky-taller_lirh2h.png);
     font-size: 1.1em;
     border-radius: .5em;
     padding: 0.5em;
