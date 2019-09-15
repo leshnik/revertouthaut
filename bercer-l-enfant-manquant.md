@@ -11,7 +11,7 @@ Devenir mère, c’est traverser surprise, énigme, doute, inquiétude, angoisse
 Et l’enfant manquant, c’est l’enfant rêvé, l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel...
 
 
-## Pour visionner quelques extraits de la pièce :
+## Pour visionner quelques extraits de la pièce:
 <video controls width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/v1555399096/revertouthaut-presente_giqsdi.png">
   <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">
   <p>Your browser doesn't support HTML5 video. Here is
