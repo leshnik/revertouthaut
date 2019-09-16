@@ -72,7 +72,8 @@ au Pôle Rive-Droite
 16-18 avenue de la Résistance  
 89000 Auxerre   
 entrée gratuite  
-réservation : 03 86 94 06 34
+réservation : 03 86 94 06 34  
+[Auxerre agenda des sorties]("https://www.auxerre.fr/Animee/Agenda-des-sorties/Concerts-Spectacles/Bercer-l-enfant-manquant")
 
 - jeudi 21 mars 2019 à 19h   
 à la Bibliothèque intercommunale Laurence Bertrand  
@@ -108,13 +109,15 @@ au Réservoir
 16, rue Denis Papin  
 Saint Marcel  
 gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30  
-réservation : 03 85 42 46 27
+réservation : 03 85 42 46 27  
+[salle pleine pour bercer l'enfant manquant]("http://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/")
 
 - vendredi 7 décembre 2018 à 14h30   
 Studio 70  
 3bis rue de Lyon  
 Chalon sur Saône  
-gratuit — réservation : 06 14 40 46 61
+gratuit — réservation : 06 14 40 46 61  
+[le journal de saône et loire]("https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)")
 
 - vendredi 23 novembre 2018 à 19h  
 Patapon  EPAS  
