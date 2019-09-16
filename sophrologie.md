@@ -2,6 +2,7 @@
 layout: sidebar
 title: La sophrologie, une prise de conscience du corps
 summary: Par la relaxation corporelle, et en tenant compte de chaque être dans sa globalité, la sophrologie permet d’atteindre un travail sur la conscience, et offre à chacun.e des pratiques qu’il ou elle peut réutiliser dans le quotidien.
+redirect_from: - /contenu-des-seances-sophrologie/
 ---
 # SOPHROLOGIE
 {: .sophro-color}
