@@ -18,6 +18,7 @@
   min-width: 50%;
   max-width: 700px;
   padding-right: 1.5em;
+  position: relative;
 }
 .with-sidebar > * {
   display: flex;
@@ -44,6 +45,14 @@
 }
 .lucie-color {
   color: #7c0a25;
+}
+.footer {
+  position: relative;
+  padding-left: 90%;
+}
+.footer a:hover {
+  background-color: #a43740;
+  color: #FFF !important;
 }
 #navcontainer a {
   font-family: "Amatic SC";
@@ -143,16 +152,11 @@ body {
   body {
   width: 940px;
   font-size:1.3em;
-  
 
   /* On ajoute une marge sur les cotés de l'écran */
-
   padding-right: 2px;
   padding-left: 2px;
-
-
   /* Et on centre */
-
   margin-right: auto;
   margin-left: auto;
 }
