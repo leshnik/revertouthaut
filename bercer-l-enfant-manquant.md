@@ -45,6 +45,16 @@ entrée gratuit
 [Autun Agenda]("https://www.autun.com/agenda/4/15909-Bercer-lenfant-manquant")  
 [résérvations]("https://web.digitick.com/bercer-l-enfant-manquant-theatre-theatre-municipal-autun-18-octobre-2019-css5-autunville-pg101-ri6540175.html")
 
+- jeudi 3 octobre 2019 à 20h30  
+à la salle polyvalente Gaston Laferrière  
+01280 Prevessin-Moens  
+renseignement: Maison des Familles  
+04 50 40 51 69 / 06 07 55 60 45  
+entrée: gratuit  
+en collaboration avec le RAM et Pays de Gex Agglo  
+[programme Maison des Familles]("https://en.calameo.com/books/00575678290a7440130e5")
+
+
 - samedi 21 septembre à 18h30   
 à La Fabrique   
 Pré de Saugy Messeugne    
