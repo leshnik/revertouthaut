@@ -37,10 +37,13 @@ et Florian Girard à la lumière.
 ## Dates de tournée
 <img class="right-side-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
 
-- vendredi 18 octobre 2019 (horaire à confirmer)  
+- vendredi 18 octobre 2019 à 20h30  
 au Théâtre Municipal d'Autun  
 71400 Autun  
-en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants
+en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants  
+entrée gratuit   
+[Autun Agenda]("https://www.autun.com/agenda/4/15909-Bercer-lenfant-manquant")  
+[résérvations]("https://web.digitick.com/bercer-l-enfant-manquant-theatre-theatre-municipal-autun-18-octobre-2019-css5-autunville-pg101-ri6540175.html")
 
 - samedi 21 septembre à 18h30   
 à La Fabrique   
