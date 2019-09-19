@@ -16,7 +16,9 @@ La proposition est portée par deux comédiennes et un musicien.
 
 L’entrée à la journée est libre et gratuite. De nombreux stands seront présents et une table ronde suivra la lecture. 
 
-La journée nationale des aidants est organisée par la plateforme de répit de Mâcon.
+La journée nationale des aidants est organisée par la plateforme de répit de Mâcon.  
+
+<a href="https://www.lajourneedesaidants.fr/evenement/jna-macon-lecture-musicale-de-temoignages-daidants-les-plus-que-proches/">Journée Nationale des Aidant.e.s</a>
 
 *« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »*
 
