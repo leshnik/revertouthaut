@@ -42,8 +42,8 @@ au Théâtre Municipal d'Autun
 71400 Autun  
 en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil, lieu d'accueil Parents/enfants  
 entrée gratuit   
-[Autun Agenda]("https://www.autun.com/agenda/4/15909-Bercer-lenfant-manquant")  
-[résérvations]("https://web.digitick.com/bercer-l-enfant-manquant-theatre-theatre-municipal-autun-18-octobre-2019-css5-autunville-pg101-ri6540175.html")
+<a href="https://www.autun.com/agenda/4/15909-Bercer-lenfant-manquant">Autun Agenda</a>  
+<a href="https://web.digitick.com/bercer-l-enfant-manquant-theatre-theatre-municipal-autun-18-octobre-2019-css5-autunville-pg101-ri6540175.html">résérvations</a>
 
 - jeudi 3 octobre 2019 à 20h30  
 à la salle polyvalente Gaston Laferrière  
@@ -52,7 +52,7 @@ renseignement: Maison des Familles
 04 50 40 51 69 / 06 07 55 60 45  
 entrée: gratuit  
 en collaboration avec le RAM et Pays de Gex Agglo  
-[programme Maison des Familles]("https://en.calameo.com/books/00575678290a7440130e5")
+<a href="https://en.calameo.com/books/00575678290a7440130e5">la programme de la Maison des Familles</a>
 
 
 - samedi 21 septembre à 18h30   
@@ -67,7 +67,7 @@ réservation : olivierdavid@alafabrique.org
 à La Limace   
 Laurendon    
 71220 Sivignon (entre Cluny et Charolles)   
-entrée 12€ et 10€ pour les adhérents de La Limace
+entrée 12€ et 10€ pour les adhérents de La Limace  
 réservation : 07 69 29 53 27
 
 - jeudi 23 mai 2019 à 14h30 et 20h     
@@ -83,7 +83,7 @@ au Pôle Rive-Droite
 89000 Auxerre   
 entrée gratuite  
 réservation : 03 86 94 06 34  
-[Auxerre agenda des sorties]("https://www.auxerre.fr/Animee/Agenda-des-sorties/Concerts-Spectacles/Bercer-l-enfant-manquant")
+<a href="https://www.auxerre.fr/Animee/Agenda-des-sorties/Concerts-Spectacles/Bercer-l-enfant-manquant">Auxerre agenda des sorties</a>
 
 - jeudi 21 mars 2019 à 19h   
 à la Bibliothèque intercommunale Laurence Bertrand  
@@ -120,14 +120,14 @@ au Réservoir
 Saint Marcel  
 gratuit à 14h30 et tarif entre 5 et 8 euros pour la séance de 20h30  
 réservation : 03 85 42 46 27  
-[salle pleine pour bercer l'enfant manquant]("http://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/")
+<a href="http://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/">salle pleine pour bercer l'enfant manquant</a>
 
 - vendredi 7 décembre 2018 à 14h30   
 Studio 70  
 3bis rue de Lyon  
 Chalon sur Saône  
 gratuit — réservation : 06 14 40 46 61  
-[le journal de saône et loire]("https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)")
+<a href="https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)">le journal de saône et loire</a>
 
 - vendredi 23 novembre 2018 à 19h  
 Patapon  EPAS  
