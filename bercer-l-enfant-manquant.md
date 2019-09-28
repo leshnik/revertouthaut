@@ -37,6 +37,19 @@ et Florian Girard à la lumière.
 ## Dates de tournée
 <img class="right-side-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
 
+- vendredi 27 mars  2020
+APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeunes Pousses  
+2ter rue Guichenon  
+01000 Bourg en Bresse  
+(horaire et lieu à confirmer)
+
+- mardi 26 novembre à 14h  
+Maison des Parents  
+Espace Victor Hugo  
+Place Édith Piaf  
+93440 Dugny  
+01 49 34 11 58
+
 - vendredi 18 octobre 2019 à 20h30  
 au Théâtre Municipal d'Autun  
 71400 Autun  
