@@ -2,6 +2,7 @@
 layout: sidebar
 title:  Les plus que proches - ateliers pour aidants familiaux en Saône et Loire et Mâcon.
 summary: Un temps de répit pour aidants familiaux. Ateliers créatifs gratuits avec le soutien de la Conférence des Financeurs, qui offrent aux aidants un espace d'échange et les invitent à l'élaboration de leur vécu à travers des activités comme l'écriture, la composition de chansons, et la sophrologie.
+tags: [aidants,journée nationale des aidants]
 ---
 # Les plus que proches
 
