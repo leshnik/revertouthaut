@@ -48,7 +48,7 @@
 }
 .footer {
   position: relative;
-  padding-left: 90%;
+  padding-left: 96%;
 }
 .footer a:hover {
   background-color: #a43740;
@@ -121,6 +121,13 @@ text-decoration: none;
 }
 .filigree {
   border: 4mm ridge rgba(220, 50, 53, 0.755);
+}
+
+.bouton {
+  color: #ff6347;
+  cursor: pointer; /* apparence du curseur */
+  display: inline-block; /* autorise les marges*/
+  font-size: 2em;
 }
 
 p {
