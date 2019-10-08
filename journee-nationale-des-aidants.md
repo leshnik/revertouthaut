@@ -22,3 +22,12 @@ La journée nationale des aidants est organisée par la plateforme de répit de 
 
 *« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »*
 
+<h2>le scrabble à distribuer pour la journée</h2>
+<div class="all-across">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1570508965/lpqp-scrabble-1stLetter-table_y2vgcs.jpg">
+</div>
+<h2>la solution du scrabble</h2>
+<div class="center-big-block thumbnail">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1570509685/solution-scrabble_tm6bpp.png">
+</div>
+
