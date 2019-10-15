@@ -15,7 +15,7 @@ Réunion d'information et séance d'essai: le jeudi 17 octobre 2019
 
 Tarif: 60 euros pour les 12 séances
 {:.sophro-color}
-
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571110110/cycle-sophro-2019-10_x8vpmt.png" alt="flyer cycle sophrologie pour aidants familiaux de personnes atteintes de maladies neuroévolutives au Plateforme de Répit et d'Accompagnement à Mâcon; inscription auprès de D. Verneaud: 03.85.21.62.10"></div>
 
 - 7 et 21 novembre
 - 5 et 19 décembre
@@ -24,6 +24,8 @@ Tarif: 60 euros pour les 12 séances
 - 12 mars
 - 2 et 16 avril
 - 7 et 28 mai
+
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571110247/cycle-sophro-2019-10p2_nqjrjr.png" alt="flyer page2: Prendre soin de vous en vous accordant un moment de répit et de détente au sein d'un groupe bienveillant"></div>
 
 <!-- ## Un cycle de sophrologie dédié aux seniors à partir de 60 ans, à la résidence du Val de Joux
 {:.sophro-color}
