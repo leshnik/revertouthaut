@@ -39,7 +39,7 @@ et Florian Girard à la lumière.
 
 - mardi 31 mars 2020  
 Paray-le-Monial  
-Théâtre Municipal Sauvageot 
+Théâtre Municipal Sauvageot   
 28 avenue Charles de Gaulle  
 71600 PARAY LE MONIAL  
 Tel. : 03 85 81 11 62   
