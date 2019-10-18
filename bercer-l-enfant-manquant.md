@@ -39,6 +39,7 @@ et Florian Girard à la lumière.
 
 - mardi 31 mars 2020  
 Paray-le-Monial  
+Théâtre Municipal Sauvageot  
 (horaire et lieu à confirmer)  
 
 - vendredi 27 mars  2020
