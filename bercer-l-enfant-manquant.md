@@ -37,6 +37,10 @@ et Florian Girard à la lumière.
 ## Dates de tournée
 <img class="right-side-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
 
+- mardi 31 mars 2020  
+Paray-le-Monial  
+(horaire et lieu à confirmer)  
+
 - vendredi 27 mars  2020
 APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeunes Pousses  
 2ter rue Guichenon  
