@@ -51,6 +51,12 @@ APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeu
 01000 Bourg en Bresse  
 (horaire et lieu à confirmer)
 
+- mardi 3 decembre  
+Salle des fêtes Maurice Ravel  
+Avenue Maurice Ravel  
+71880 Châtenoy-le-Royal  
+(horaire à confirmer)
+
 - mardi 26 novembre à 14h  
 Maison des Parents  
 Espace Victor Hugo  
