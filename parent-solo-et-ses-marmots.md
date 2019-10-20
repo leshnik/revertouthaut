@@ -21,7 +21,7 @@ A partir d’ateliers de création et de partages de témoignages, menés par R�
 Une pièce de théâtre, écrite à partir des témoignages recueillis, regroupera des comédien.nes professionnel.les et des amateurs et sera l’aboutissement de ce cycle d’ateliers.
 Elle sera jouée au Réservoir de Saint Marcel, le 20 mars 2020 à 14h30 et 20h. 
 
-Ateliers et création théâtrale menés par Valérie Gaudissart, en collaboration avec Morton Potash et Flore Simon.
+Ateliers et création théâtrale menés par Valérie Gaudissart, en collaboration avec et Morton Potash.
 
 
 
