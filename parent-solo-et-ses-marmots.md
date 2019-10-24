@@ -23,23 +23,27 @@ Elle sera jouée au Réservoir de Saint Marcel, le 20 mars 2020 à 14h30 et 20h.
 
 Ateliers et création théâtrale menés par Valérie Gaudissart, en collaboration avec Morton Potash.
 
-
-
-> «&nbsp;*Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux ! &nbsp;»*
-
-<h2>Le Journal du Saône-et-Loire de 22 octobre 2019</h2>
+<div class="left-side-100">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571904137/jsl-banner_cykvqm.png">
+</div>
+<div class="left-side-100 thumbnail">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571903094/jsl-blurb-2019-10-22-12h16_zqzkk4.png" alt="Coupure de presse JSL">
+</div>
+*photo et article JSL d'Adrian Gigue* :
 <div class="center-big-block thumbnail">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571891543/jsl2019-10-22-AdrianGuigue_ahgarw.jpg" alt="photo de Adrian Gigue, 8 participants de la journée parent solo et ses marmots à St. Marcel">
 </div><br>
-*photo: Adrian Gigue*
-{:.cite}
 
->À l'initiative de quatre mamans monoparentales de Saint-Marcel, des ateliers "parent solo" ont lieu en ce mardi et mercredi à l'Espace périscolaire Roger-Balan de Saint-Marcel. "L'idée est de se retrouver entre parents seuls pour oublier les problèmes du quotidien et partager son expérience", détaille Nelly Triba de la CAF qui encadre l'événement avec les équipes de l'Orange bleue. Au programme : discussions, peinture, musique et théâtre avec Valérie Gaudissart, metteuse en scène, qui propose aux participants de créer "une pièce de théâtre pour transmettre quelque chose de cette situation de parent seul".
 
->Événement ouvert à toutes les familles monoparentales entre 9 h et 21 h, garderie sur place, ce mardi et ce mercredi. Espace Roger-Balan, rue du Breuil.
 
-<div class="all-across thumbnail">
+«&nbsp;À l'initiative de quatre mamans monoparentales de Saint-Marcel, des ateliers "parent solo" ont lieu en ce mardi et mercredi à l'Espace périscolaire Roger-Balan de Saint-Marcel. "L'idée est de se retrouver entre parents seuls pour oublier les problèmes du quotidien et partager son expérience", détaille Nelly Triba de la CAF qui encadre l'événement avec les équipes de l'Orange bleue. Au programme : discussions, peinture, musique et théâtre avec Valérie Gaudissart, metteuse en scène, qui propose aux participants de créer "une pièce de théâtre pour transmettre quelque chose de cette situation de parent seul".
+
+Événement ouvert à toutes les familles monoparentales entre 9 h et 21 h, garderie sur place, ce mardi et ce mercredi. Espace Roger-Balan, rue du Breuil. »
+
+<div class="left-side-100 thumbnail">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571892947/jsl-blurb2019-10-22-22h30_mhy3pg.png" alt="Coupure de presse JSL.">
 </div>
+<br>
+*«&nbsp;Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux ! &nbsp;»*
 
-<!-- [ AJOUTER FLYER, PHOTOS, ET PROGRAMME DU RESERVOIR ] -->
+
