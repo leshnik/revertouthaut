@@ -26,11 +26,11 @@ Ateliers et création théâtrale menés par Valérie Gaudissart, en collaborati
 <div class="left-side-100">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571904137/jsl-banner_cykvqm.png">
 </div>
-<div class="left-side-100 thumbnail">
+<div class="left-side-100">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571903094/jsl-blurb-2019-10-22-12h16_zqzkk4.png" alt="Coupure de presse JSL">
 </div>
 *photo et article JSL d'Adrian Gigue* :
-<div class="center-big-block thumbnail">
+<div class="center-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571891543/jsl2019-10-22-AdrianGuigue_ahgarw.jpg" alt="photo de Adrian Gigue, 8 participants de la journée parent solo et ses marmots à St. Marcel">
 </div><br>
 
@@ -40,7 +40,7 @@ Ateliers et création théâtrale menés par Valérie Gaudissart, en collaborati
 
 Événement ouvert à toutes les familles monoparentales entre 9 h et 21 h, garderie sur place, ce mardi et ce mercredi. Espace Roger-Balan, rue du Breuil. »
 
-<div class="left-side-100 thumbnail">
+<div class="left-side-100">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571892947/jsl-blurb2019-10-22-22h30_mhy3pg.png" alt="Coupure de presse JSL.">
 </div>
 <br>
