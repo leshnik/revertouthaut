@@ -37,6 +37,12 @@ et Florian Girard à la lumière.
 ## Dates de tournée
 <img class="right-side-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
 
+- jeudi 2 avril 2020   
+Foyer Municipal   
+71130 Gueugnon   
+(horaire à confirmer)   
+
+
 - mardi 31 mars 2020  
 Paray-le-Monial  
 Théâtre Municipal Sauvageot   
@@ -51,11 +57,11 @@ APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeu
 01000 Bourg en Bresse  
 (horaire et lieu à confirmer)
 
-- mardi 3 decembre  
+- mardi 3 decembre à 20h  
 Salle des fêtes Maurice Ravel  
 Avenue Maurice Ravel  
 71880 Châtenoy-le-Royal  
-(horaire à confirmer)
+
 
 - mardi 26 novembre à 14h  
 Maison des Parents  
