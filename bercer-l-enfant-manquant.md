@@ -37,19 +37,18 @@ et Florian Girard à la lumière.
 ## Dates de tournée
 <img class="right-side-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png"/>
 
-- jeudi 2 avril 2020   
-Foyer Municipal   
-71130 Gueugnon   
-(horaire à confirmer)   
-
-
-- mardi 31 mars 2020  
+- automne 2020  
 Paray-le-Monial  
 Théâtre Municipal Sauvageot   
 28 avenue Charles de Gaulle  
 71600 PARAY LE MONIAL  
 Tel. : 03 85 81 11 62   
-(horaire à confirmer)  
+(horaire et date à confirmer)  
+
+- jeudi 2 avril 2020   
+Foyer Municipal   
+71130 Gueugnon   
+(horaire à confirmer)   
 
 - vendredi 27 mars  2020
 APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeunes Pousses  
