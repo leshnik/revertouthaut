@@ -119,6 +119,9 @@ text-decoration: none;
   margin-right: auto;
   width: 85%;
 }
+.small-image {
+  width: 50%;
+}
 .contact {
   margin-left: auto;
   margin-right: auto;
