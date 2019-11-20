@@ -56,6 +56,8 @@ APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeu
 01000 Bourg en Bresse  
 (horaire et lieu à confirmer)
 
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1574259054/flyer-bercer-chateneaP1_lpzjvf.png" alt="Flyer Chateanoy 3 decembre 2019">
+
 - mardi 3 decembre à 20h  
 Salle des fêtes Maurice Ravel  
 Avenue Maurice Ravel  
