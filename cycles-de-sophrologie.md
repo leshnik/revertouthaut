@@ -27,8 +27,10 @@ Tarif: 60 euros pour les 12 séances
 
 <div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571110247/cycle-sophro-2019-10p2_nqjrjr.png" alt="flyer page2: Prendre soin de vous en vous accordant un moment de répit et de détente au sein d'un groupe bienveillant"></div>
 
-<!-- ## Un cycle de sophrologie dédié aux seniors à partir de 60 ans, à la résidence du Val de Joux
+## Un cycle de sophrologie dédié aux seniors à partir de 60 ans, à la résidence du Val de Joux
 {:.sophro-color}
+
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1578386818/cycleSophroStBonnetP1_zisowa.png" alt="flyer Mars Avril 2020 Ateliers Saint Bonnet"></div>
 
 5 séances de 2h chacune entre mars et avril 2020, les jeudis de 10h à 12h, animées par Isis Philippe-Janon. 
 Ces séances gratuites sont proposées par l'IREPS et l'association Bien Vieillir
@@ -37,4 +39,10 @@ Tarif: gratuit
 {:.sophro-color}
 
 - 12, 19 et 26 mars 
-- 2 et 9 avril -->
+- 2 et 9 avril
+
+### <a href="Bull_Inscrip_St Bonnet de Joux.pptx.pdf" download>●&nbsp;Cliquer pour télécharger le Bulletin d'Inscription</a>
+
+
+<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1578387576/cycleSophroStBonnetP2_ss6nga.png" alt="flyer Mars Avril 2020 Ateliers Saint Bonnet Page2"></div>
+
