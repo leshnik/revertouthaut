@@ -6,7 +6,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 
 <h1>Parent solo et ses marmots</h1>
 <div class="center-big-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567431402/parent_solo_1_so0q5w.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1581649257/Affiche-parent-solo_jumrye.jpg">
 </div><br>
 © Frédéric Dechelotte
 {:.cite}
