@@ -50,6 +50,7 @@ Foyer Municipal
 71130 Gueugnon   
 (horaire à confirmer)   
 
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1583517500/rth-2020-03-27_abtsnq.png" alt="Flyer Bourg en Bresse 27 mars">
 - vendredi 27 mars  2020
 APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeunes Pousses  
 2ter rue Guichenon  
