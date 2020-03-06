@@ -51,11 +51,11 @@ Foyer Municipal
 (horaire à confirmer)   
 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1583517500/rth-2020-03-27_abtsnq.png" alt="Flyer Bourg en Bresse 27 mars">
-- vendredi 27 mars  2020
+
+- vendredi 27 mars 2020 à 20h
 APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeunes Pousses  
 2ter rue Guichenon  
 01000 Bourg en Bresse  
-(horaire et lieu à confirmer)
 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1574259054/flyer-bercer-chateneaP1_lpzjvf.png" alt="Flyer Chatenoy-le-Royal pour 3 decembre à 20h, 2019">
 
