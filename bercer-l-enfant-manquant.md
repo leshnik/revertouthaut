@@ -53,12 +53,12 @@ Foyer Municipal
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1583517500/rth-2020-03-27_abtsnq.png" alt="Flyer Bourg en Bresse 27 mars">
 
 - vendredi 27 mars 2020 à 20h
+Salle du Vox  
+11 rue Paul Pioda  
+01000 Bourg en Bresse    
+entrée gratuit  
+Réservations/Renseignements: 06 03 42 71 98  
 APAEP (Association Pour l'Accompagnement de l'Enfance et de la Parentalité)/Jeunes Pousses
-Salle du Vox
-11 rue Paul Pioda
-01000 Bourg en Bresse  
-entrée gratuit
-Réservations/Renseignements: 06 03 42 71 98
 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1574259054/flyer-bercer-chateneaP1_lpzjvf.png" alt="Flyer Chatenoy-le-Royal pour 3 decembre à 20h, 2019">
 
