@@ -52,7 +52,7 @@ Foyer Municipal
 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1583517500/rth-2020-03-27_abtsnq.png" alt="Flyer Bourg en Bresse 27 mars">
 
-- vendredi 27 mars 2020 à 20h
+- vendredi 27 mars 2020 à 20h  
 Salle du Vox  
 11 rue Paul Pioda  
 01000 Bourg en Bresse    
