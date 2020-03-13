@@ -5,7 +5,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 ---
 
 <h1>Parent solo et ses marmots</h1>
-<h1>Attn: spectacle reporté à cause du Corona, en attente d'un nouveau date</h1>
+<h2>Attn: spectacle reporté à cause du Corona, en attente d'un nouveau date</h2>
 <div class="center-big-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1581649257/Affiche-parent-solo_jumrye.jpg">
 </div><br>
