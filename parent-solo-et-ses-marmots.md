@@ -5,6 +5,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 ---
 
 <h1>Parent solo et ses marmots</h1>
+<h1>Attn: spectacle reporté à cause du Corona, en attente d'un nouveau date</h1>
 <div class="center-big-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1581649257/Affiche-parent-solo_jumrye.jpg">
 </div><br>
@@ -19,7 +20,7 @@ A partir d’ateliers de création et de partages de témoignages, menés par R�
 <div class="all-across thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1568298918/Fly_ateliers_projet_parent_solo_hc8fe1.jpg" alt="flyer Orange Bleue, Direction Enfance Jeunesse Famille de Saint Marcel, ateliers parent solo, 22 et 23 octobre, 2019, 9h à 21h"></div>
 
 Une pièce de théâtre, écrite à partir des témoignages recueillis, regroupera des comédien.nes professionnel.les et des amateurs et sera l’aboutissement de ce cycle d’ateliers.
-Elle sera jouée au Réservoir de Saint Marcel, le 20 mars 2020 à 14h30 et 20h. 
+Elle sera jouée au Réservoir de Saint Marcel, le 20 mars 2020 à 14h30 et 20h.
 
 Ateliers et création théâtrale menés par Valérie Gaudissart, en collaboration avec Morton Potash.
 
@@ -45,6 +46,3 @@ Ateliers et création théâtrale menés par Valérie Gaudissart, en collaborati
 </div>
 <br>
 *«&nbsp;Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux ! &nbsp;»*
-
-
-
