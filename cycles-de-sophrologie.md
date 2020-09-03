@@ -7,6 +7,27 @@ summary: Cycles gratuits de sophrologie en groupe pour les seniors dans le cadre
 # Cycles de sophrologie
 
 {:.sophro-color}
+## Cycle bien-être pour Aidant à Paray le Monnial
+
+
+Vous accompagnez au quotidien un proche en perte d’autonomie ou malade, et vous vous sentez stressé(e), fatigué(e), dépassé(e) ... ?
+
+Osez une pause!
+
+Lors de ces quatre réunions,
+Isis PHILIPPE JANON sophrologue,
+proposera une approche théorique
+associée à des exercices accessibles et réalisables dans votre vie de tous les jours.
+En  fil conducteur, différents thèmes
+seront abordés : rythme, réduction des tensions, récupération, adaptation, sommeil ... Des professionnelles du Réseau
+des Aidants Sud 71 seront présentes
+pour contribuer aux échanges.
+
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1599133724/lpqproches-jeudis-nov2020_qfk4ce.jpg" alt="flyer cycle bien-être pour aidants à Paray le Monnial, les jeudis 12 novembre, 26 novembre, 10 décembre, et 7 janvier. Contact: 03 85 21 62 10">
+</div>
+### <a href="AidantsFlyerPARAY.pdf" download>●&nbsp;Cliquer pour télécharger le Bulletin d'Inscription</a>
+
 
 {:.sophro-color}
 
@@ -23,49 +44,14 @@ Des temps de soutien individuel gratuits par téléphone avec une sophrologue 
 
 _Cycle de 5 entretiens d’une demi-heure par personne_
 
-<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1598971513/BienDansSaTete2020novembre_hwqmvk.jpg" alt="flyer bien dans sa tête, L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans:
-Des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV"></div>
+<div class="center-big-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1598971513/BienDansSaTete2020novembre_hwqmvk.jpg" alt="Bien dans sa tête, L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans,
+des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV">
+</div>
 
 ### <a href="bulletin-inscription-BienDansSaTete_novembre2020.pdf" download>●&nbsp;Cliquer pour télécharger le Bulletin d'Inscription</a>
 
-## Un cycle de sophrologie dédié aux aidants familiaux, à Mâcon
 
-{:.sophro-color}
-Réunion d'information et séance d'essai: le jeudi 17 octobre 2019
-{:.sophro-color}
 
-12 séances de 2h chacune entre novembre 2019 et mai 2020, les jeudis de 14h30 à 16h30, animées par Isis Philippe-Janon.
-
-Tarif: 60 euros pour les 12 séances
-{:.sophro-color}
-
-<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571110110/cycle-sophro-2019-10_x8vpmt.png" alt="flyer cycle sophrologie pour aidants familiaux de personnes atteintes de maladies neuroévolutives au Plateforme de Répit et d'Accompagnement à Mâcon; inscription auprès de D. Verneaud: 03.85.21.62.10"></div>
-
-- 7 et 21 novembre
-- 5 et 19 décembre
-- 9 et 23 janvier
-- 13 février
-- 12 mars
-- 2 et 16 avril
-- 7 et 28 mai
-
-<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571110247/cycle-sophro-2019-10p2_nqjrjr.png" alt="flyer page2: Prendre soin de vous en vous accordant un moment de répit et de détente au sein d'un groupe bienveillant"></div>
-
-## Un cycle de sophrologie dédié aux seniors à partir de 60 ans, à la résidence du Val de Joux
-
-{:.sophro-color}
-
-<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1578386818/cycleSophroStBonnetP1_zisowa.png" alt="flyer Mars Avril 2020 Ateliers Saint Bonnet"></div>
-
-5 séances de 2h chacune entre mars et avril 2020, les jeudis de 10h à 12h, animées par Isis Philippe-Janon.
-Ces séances gratuites sont proposées par l'IREPS et l'association Bien Vieillir
-
-Tarif: gratuit
-{:.sophro-color}
-
-- 12, 19 et 26 mars
-- 2 et 9 avril
-
-### <a href="Bull_Inscrip_St Bonnet de Joux.pptx.pdf" download>●&nbsp;Cliquer pour télécharger le Bulletin d'Inscription</a>
-
-<div class="center-big-block thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1578387576/cycleSophroStBonnetP2_ss6nga.png" alt="flyer Mars Avril 2020 Ateliers Saint Bonnet Page2"></div>
+  
+  
