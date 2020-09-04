@@ -20,4 +20,4 @@ Organisée par le Réseau des Aidants SUD-71, l’entrée à la journée est lib
 
 *« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »*
 
-
+<a href="FLYER A5 - PLUS QUE PROCHES-2020.pdf" download>●&nbsp;Cliquer pour télécharger le flyer</a>
