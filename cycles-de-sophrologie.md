@@ -7,7 +7,7 @@ summary: Cycles gratuits de sophrologie en groupe pour les seniors dans le cadre
 # Cycles de sophrologie
 
 {:.sophro-color}
-## Cycle bien-être pour Aidant à Paray le Monnial
+## Cycle bien-être pour Aidant à Paray le Monial
 
 
 Vous accompagnez au quotidien un proche en perte d’autonomie ou malade, et vous vous sentez stressé(e), fatigué(e), dépassé(e) ... ?
