@@ -1,7 +1,7 @@
 ---
 layout: sidebar
 title:  Journée nationale des aidants à la médiathèque de Mâcon
-summary: Lecture musicale de témoignages d'aidants familiaux et professionnels dans le but de partager des expériences lors de la journée nationale des aidants le 11 octobre 2019 à la médiathèque de Mâcon.
+summary: Lecture musicale de témoignages d'aidants familiaux et professionnels dans le but de partager des expériences lors de la journée nationale des aidants le 30 septembre 2020 au Théâtre Saugageot à Paray le Monial.
 ---
 # Journée nationale des aidants 
 ## 30 septembre 2020 au Théâtre Sauvageot, Paray le Monial
