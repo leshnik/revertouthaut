@@ -5,18 +5,20 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 ---
 
 <h1>Parent solo et ses marmots</h1>
-<h2>Attn: spectacle reporté à cause du Corona, en attente d'un nouveau date</h2>
+<h2>Représentation le 27 novembre 2020 <br>à 14h30 et 20h30 <br>au Réservoir de Saint Marcel</h2>
+<h3>réservation obligatoire : 03 85 42 46 27  </h3>
+<p>Attn: spectacles du mars reportés à cause du Covid-19, la nouvelle date est annoncé ci-dessus !</p>
+<p>La nouvelle affiche est en préparation.</p>
 <div class="center-big-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1581649257/Affiche-parent-solo_jumrye.jpg">
 </div><br>
 © Frédéric Dechelotte
 {:.cite}
-<h2>Représentations le 20 mars 2020 <br>à 14h30 et 20h <br>au réservoir de Saint Marcel</h2>
 
 Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo ? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ?
 
 A partir d’ateliers de création et de partages de témoignages, menés par Rêver Tout Haut en partenariat avec la Ville de Saint Marcel, le Centre Social l’Orange Bleue et la CAF, « Parent solo et ses marmots» décline bien des aspects de la mono-parentalité : joies,  galères, questions, organisations,  et autres inattendus et cadeaux du quotidien !
- 
+
 <div class="all-across thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1568298918/Fly_ateliers_projet_parent_solo_hc8fe1.jpg" alt="flyer Orange Bleue, Direction Enfance Jeunesse Famille de Saint Marcel, ateliers parent solo, 22 et 23 octobre, 2019, 9h à 21h"></div>
 
 Une pièce de théâtre, écrite à partir des témoignages recueillis, regroupera des comédien.nes professionnel.les et des amateurs et sera l’aboutissement de ce cycle d’ateliers.
@@ -34,8 +36,6 @@ Ateliers et création théâtrale menés par Valérie Gaudissart, en collaborati
 <div class="center-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571891543/jsl2019-10-22-AdrianGuigue_ahgarw.jpg" alt="photo de Adrian Gigue, 8 participants de la journée parent solo et ses marmots à St. Marcel">
 </div><br>
-
-
 
 «&nbsp;À l'initiative de quatre mamans monoparentales de Saint-Marcel, des ateliers "parent solo" ont lieu en ce mardi et mercredi à l'Espace périscolaire Roger-Balan de Saint-Marcel. "L'idée est de se retrouver entre parents seuls pour oublier les problèmes du quotidien et partager son expérience", détaille Nelly Triba de la CAF qui encadre l'événement avec les équipes de l'Orange bleue. Au programme : discussions, peinture, musique et théâtre avec Valérie Gaudissart, metteuse en scène, qui propose aux participants de créer "une pièce de théâtre pour transmettre quelque chose de cette situation de parent seul".
 
