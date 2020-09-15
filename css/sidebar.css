@@ -1,4 +1,4 @@
- .all-across > img {
+.all-across > img {
   width: 100%;
   max-width: 700px;
 }
@@ -31,8 +31,8 @@
 .sophro-color {
   color: #7551e1;
 }
-.art-color{
-  color: #7C984A;
+.art-color {
+  color: #7c984a;
 }
 .music-color {
   color: sandybrown;
@@ -52,7 +52,7 @@
 }
 .footer a:hover {
   background-color: #a43740;
-  color: #FFF !important;
+  color: #fff !important;
 }
 #navcontainer a {
   font-family: "Amatic SC";
@@ -60,13 +60,13 @@
   font-stretch: expanded;
 }
 #navcontainer a:hover {
-background-color: #a43740;
-color: #FFF !important;
-text-decoration: none;
+  background-color: #a43740;
+  color: #fff !important;
+  text-decoration: none;
 }
 .rever-banner940 {
   max-width: 980px;
-} 
+}
 .rever-banner700 {
   max-width: 720px;
 }
@@ -149,7 +149,7 @@ p {
   text-align: justify;
 }
 
-@media (max-width: 320px){
+@media (max-width: 320px) {
   p {
     text-align: left;
   }
@@ -161,13 +161,14 @@ blockquote {
   text-align: justify;
 }
 
-.thumbnail:hover, .thumbnail:active {
-  position:relative;
-  top:-25px;
-  width:100%;
-  height:auto;
-  display:block;
-  z-index:999;
+.thumbnail:hover,
+.thumbnail:active {
+  position: relative;
+  top: -25px;
+  width: 100%;
+  height: auto;
+  display: block;
+  z-index: 999;
 }
 a {
   font-size: 1.3rem;
@@ -179,19 +180,18 @@ body {
   font-family: "Crimson Text", "lora", serif;
   font-size: 1.3em;
 }
-@media (min-width: 940px){
-
+@media (min-width: 940px) {
   body {
-  width: 940px;
-  font-size:1.3em;
+    width: 940px;
+    font-size: 1.3em;
 
-  /* On ajoute une marge sur les cotés de l'écran */
-  padding-right: 2px;
-  padding-left: 2px;
-  /* Et on centre */
-  margin-right: auto;
-  margin-left: auto;
-}
+    /* On ajoute une marge sur les cotés de l'écran */
+    padding-right: 2px;
+    padding-left: 2px;
+    /* Et on centre */
+    margin-right: auto;
+    margin-left: auto;
+  }
 }
 h1 {
   font-size: 3em;
@@ -203,38 +203,43 @@ h2 {
   color: #c6564d;
   font-size: 2.3em;
 }
-  nav {
-    font-family: "Amatic SC";
-    text-align: justify; 
-  }
-  .cite {
-    font-size: 1em;
-    margin-top: -1em;
-    text-align: right;
-  }
-  .cleared {
-    clear: both;
-  }
-  .rever-typog {
-    font-family: 'Amatic SC', cursive;
-    font-weight: 900;
-    font-size: 1.4rem;
-    display: inline;
-    letter-spacing: 0.15rem;
-  }
-  .rever-list2 {
-    /* background-color: #d4f7ff; */
-    background: url(https://res.cloudinary.com/dnxcesebo/image/upload/v1568562207/light-grey-sky-taller_lirh2h.png);
-    font-size: 1.2em;
-    border-radius: .5em;
-    padding: 0.5em;
-    text-align: left;
-    font-family: "Crimson Text", serif;
-  }
-  .rever-enlarged {
-    font-size: 1.3rem; 
-    font-family: Amatic SC;
-  }
+h3 {
+  font-family: "Amatic SC";
+  color: #29c;
+  font-size: 1.9em;
+}
+nav {
+  font-family: "Amatic SC";
+  text-align: justify;
+}
+.cite {
+  font-size: 1em;
+  margin-top: -1em;
+  text-align: right;
+}
+.cleared {
+  clear: both;
+}
+.rever-typog {
+  font-family: "Amatic SC", cursive;
+  font-weight: 900;
+  font-size: 1.4rem;
+  display: inline;
+  letter-spacing: 0.15rem;
+}
+.rever-list2 {
+  /* background-color: #d4f7ff; */
+  background: url(https://res.cloudinary.com/dnxcesebo/image/upload/v1568562207/light-grey-sky-taller_lirh2h.png);
+  font-size: 1.2em;
+  border-radius: 0.5em;
+  padding: 0.5em;
+  text-align: left;
+  font-family: "Crimson Text", serif;
+}
+.rever-enlarged {
+  font-size: 1.3rem;
+  font-family: Amatic SC;
+}
 .display-none {
   display: none;
 }
