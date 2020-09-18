@@ -28,6 +28,17 @@
 .with-sidebar > * > * {
   margin: 0.5rem;
 }
+.svg-banner {
+  background-image: url(https://res.cloudinary.com/dnxcesebo/image/upload/w_940,q_auto,f_auto/v1600262267/rthHeroBackground_f4boep.jpg);
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  margin: auto;
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+}
 .sophro-color {
   color: #7551e1;
 }
@@ -45,6 +56,71 @@
 }
 .lucie-color {
   color: #7c0a25;
+}
+.shadow {
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+  padding: 1rem;
+  color: white;
+  font-family: amatic sc;
+  font-size: 1.7rem;
+  text-align: center;
+  letter-spacing: 0.13rem;
+}
+.shadow-slant-2deg {
+  background-color: tomato;
+  -ms-transform: rotate(2deg); /* IE 9 */
+  -webkit-transform: rotate(2deg); /* Chrome, Safari, Opera */
+  -moz-transform: rotate(2deg); /*Mozilla */
+  transform: rotate(2deg);
+  padding: 1rem;
+  color: white;
+  font-family: amatic sc;
+  font-size: 1.5rem;
+  text-align: center;
+  letter-spacing: 0.13rem;
+}
+
+.intro-text {
+  font-family: serif;
+  letter-spacing: 0.2rem;
+  line-height: 1.6rem;
+  margin: 2rem 5%;
+  text-align: justify;
+  padding: 1.4rem 2rem 2rem 2rem;
+  background-color: white;
+  border-radius: 5%;
+}
+.address-info {
+  margin: 10px auto;
+  padding: 10px;
+  display: inline-block;
+  border: 1px solid;
+  text-align: center;
+  line-height: 1.5em;
+  color: #7c0a25;
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+}
+.rever {
+  font-family: amatic sc;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+}
+.styled-hr {
+  text-align: center;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  color: #7c0a25;
+  height: 0.05em;
+  opacity: 0.3;
+}
+.inline-centered {
+  text-align: center;
 }
 .footer {
   position: relative;
@@ -256,4 +332,10 @@ li > ul {
 }
 li {
   padding-bottom: 0.5em;
+}
+.hovered:hover {
+  filter: url(#shadow);
+}
+a:hover {
+  background-color: gold;
 }
