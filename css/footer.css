@@ -1,0 +1,39 @@
+.FooterColumn {
+  display: flex;
+  flex-direction: column;
+  margin-top: 2rem;
+}
+.FooterRow {
+  margin: 0;
+  display: flex;
+  justify-content: space-between;
+}
+.Words {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+.Motto {
+  font-family: "Amatic SC";
+  font-size: 36px;
+  font-weight: 700;
+  color: #a27c55;
+  text-align: center;
+  text-shadow: 2.5px 2.5px 5px #5c3c29;
+  letter-spacing: 0.2em;
+}
+.Image {
+  margin: 0;
+  padding-right: 2px;
+}
+.NavList {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  flex-direction: row;
+  padding: 0 2px;
+  justify-content: space-around;
+}
+.Logo {
+  width: 100%;
+}

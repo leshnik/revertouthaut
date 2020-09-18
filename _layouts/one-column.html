@@ -2,8 +2,17 @@
 <html>
   {% include head.html %}
   <body>
-    <div class="content-container">
-      {{ content }}
-    </div>
+    <container style="display: flex; flex-direction: column; width: 95%">
+      <div class="svg-banner">
+
+        {% include rthHero28july.svg %}
+
+      </div>
+
+      <div width="95vw" max-width="940px">
+        {{ content }}
+      </div>
+    </container>
+    {% include footer.html %}
   </body>
 </html>
