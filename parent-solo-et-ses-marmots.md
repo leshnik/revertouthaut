@@ -10,7 +10,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 <p>Attn: spectacles du mars reportés à cause du Covid-19, la nouvelle date est annoncé ci-dessus !</p>
 <p>La nouvelle affiche est en préparation.</p>
 <div class="center-big-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1581649257/Affiche-parent-solo_jumrye.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1581649257/Affiche-parent-solo_jumrye.jpg">
 </div><br>
 © Frédéric Dechelotte
 {:.cite}
