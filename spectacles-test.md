@@ -7,7 +7,7 @@ layout: one-column
 <ul style="text-align:center;">
   <li><a href="#blem" style="color:#7551e1; font-size:30px">bercer l'enfant manquant</a></li>
   <li><a href="#lpqp" style="color:#51bbe1; font-size:30px">les plus que proches</a></li>
-  <li><a href="#parent-solo" style="color:#7c984a; font-size:30px">parent solo et ses marmots</a></li>
+  <li><a href="#psesm" style="color:#f6c172; font-size:30px">parent solo et ses marmots</a></li>
   <li><a href="#leh" style="font-size:26px">les êtres humaines (2015 - 2018)</a></li>
   <li><a href="#hib" style="font-size:26px">l'hibernance des bêtes (2021)</a></li>      
 </ul>
