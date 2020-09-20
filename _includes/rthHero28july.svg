@@ -7,25 +7,25 @@
     </filter>
     </defs>
     <g id="art-thérapie" transform="matrix(1.40537,0.120343,-0.096628,1.12842,-239.042,36.3435)">
-        <a xlink:href="art-therapie" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:49.446px;fill:rgb(239,230,200);stroke:rgb(193,233,209);stroke-width:0.31px;">art-thérapie</text></a>
+        <a xlink:href="art-therapie" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:49.446px;fill:rgb(239,230,200);stroke:rgb(193,233,209);stroke-width:0.31px;">·art-thérapie</text></a>
     </g>
-    <g id="projets1" serif:id="projets" transform="matrix(1.76852,-0.235039,0.246642,1.85582,-250.111,270.809)">
-            <a xlink:href="aidants-aimants" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:36px;fill:rgb(200,238,239);stroke:rgb(193,233,209);stroke-width:0.22px;">ateliers</text></a>
+    <g id="projets1" serif:id="projets" transform="matrix(1.76852,-0.235039,0.246642,1.85582,-280.111,270.809)">
+            <a xlink:href="aidants-aimants" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:36px;fill:rgb(200,238,239);stroke:rgb(193,233,209);stroke-width:0.22px;">·ateliers</text></a>
     </g>
     <g id="spectacles" transform="matrix(1.7441,-0.254105,0.254105,1.7441,-43.9065,75.2118)">
-        <a xlink:href="/spectacles" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:36.416px;fill:rgb(239,200,200);stroke:rgb(193,233,209);stroke-width:0.23px;">spectacles</text></a>
+        <a xlink:href="/spectacles" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:36.416px;fill:rgb(239,200,200);stroke:rgb(193,233,209);stroke-width:0.23px;">·spectacles</text></a>
     </g>
-    <g id="sophro" transform="matrix(1.42268,0.233157,-0.25323,1.54516,-209.806,81.5266)">
-        <a xlink:href="/sophrologie" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:41.476px;fill:rgb(235,200,239);stroke:rgb(193,233,209);stroke-width:0.27px;">sophrologie</text></a>
+    <g id="sophro" transform="matrix(1.42268,0.233157,-0.25323,1.54516,-205,88)">
+        <a xlink:href="/sophrologie" class="hovered"><text x="177.258px" y="25.721px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:41.476px;fill:rgb(235,200,239);stroke:rgb(193,233,209);stroke-width:0.27px;">·sophrologie</text></a>
     </g>
     <g transform="matrix(1.09022,-0.131334,0.119602,0.992822,-72.4465,45.2933)">
-        <a xlink:href="/equipe" class="hovered"><text x="286.39px" y="159.604px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:58.667px;fill:rgb(139,207,170);stroke:rgb(0,236,255);stroke-width:0.32px;">équipe</text></a>
+        <a xlink:href="/equipe" class="hovered"><text x="286.39px" y="159.604px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:58.667px;fill:rgb(139,207,170);stroke:rgb(0,236,255);stroke-width:0.32px;">·équipe</text></a>
     </g>
     <g transform="matrix(0.988882,0.148702,-0.148702,0.988882,416.237,46.9204)">
         <a xlink:href="/" class="hovered"><text id="rth" x="195.954px" y="143.937px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:85.333px;fill:hsl(83.3,77.7%,64.9%);">tout</text></a>
     </g>
     <g transform="matrix(0.996303,0.0859048,-0.0859048,0.996303,98.1148,162.294)">
-        <text id="écrits" x="195.954px" y="121.702px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:56px;fill:rgb(253,252,252);">écrits</text>
+        <text id="écrits" x="195.954px" y="121.702px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:56px;fill:rgb(253,252,252);">·écrits</text>
     </g>
     <g transform="matrix(0.993584,-0.113099,0.113099,0.993584,246.128,78.1919)">
         <a xlink:href="/" class="hovered"><text id="rth1" serif:id="rth" x="407.363px" y="118.253px" style="font-family:'AmaticSC-Bold', 'Amatic SC';font-weight:700;font-size:85.333px;fill:hsl(83.3,77.7%,64.9%);">haut</text></a>
