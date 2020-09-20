@@ -108,6 +108,11 @@
   font-weight: 700;
   letter-spacing: 0.2rem;
 }
+hr {
+  color: rgb(196, 192, 192);
+  width: 100px;
+  margin-left: 15px;
+}
 .styled-hr {
   text-align: center;
   width: 40%;
@@ -329,7 +334,7 @@ li > ul {
   padding-left: 3ch;
 }
 li {
-  padding-bottom: 0.5em;
+  padding-bottom: 0.7em;
 }
 .hovered:hover {
   filter: url(#shadow);
