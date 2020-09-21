@@ -57,6 +57,7 @@
 .lucie-color {
   color: #7c0a25;
 }
+
 .shadow {
   -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
   -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
@@ -337,7 +338,11 @@ li {
   padding-bottom: 0.7em;
 }
 .hovered:hover {
-  filter: url(#shadow);
+  filter: url(#flooder);
+}
+.squared:hover {
+  fill: #ec008c;
+  opacity: 1;
 }
 a:hover {
   background-color: gold;
