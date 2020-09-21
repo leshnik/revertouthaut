@@ -1,5 +1,5 @@
 ---
-title: spectacles svg-test
+title: spectacles test
 layout: one-column
 ---
 
