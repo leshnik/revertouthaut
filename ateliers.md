@@ -1,5 +1,5 @@
 ---
-layout: one-column.html
+layout: one-column
 title: ateliers
 ---
 
