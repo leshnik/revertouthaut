@@ -1,5 +1,5 @@
 ---
-layout: curves
+layout: one-column.html
 title: ateliers
 ---
 

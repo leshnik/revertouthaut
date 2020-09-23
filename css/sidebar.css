@@ -229,8 +229,12 @@ p {
   text-align: justify;
 }
 
-@media (max-width: 320px) {
-  p {
+@media (max-width: 400px) {
+  .NavList {
+    display: flex;
+    flex-direction: column;
+  }
+  .intro-text {
     text-align: left;
   }
 }
