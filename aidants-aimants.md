@@ -9,7 +9,7 @@ tags: [aidants, journée nationale des aidants]
 
 {: .psycho-color}
 
-## Atelier créatif à destination des aidants
+<h2>atelier créatif à destination des aidants</h2>
 
 {: .art-color}
 L’association Rêver Tout Haut propose aux aidants et aux proches de personnes souffrant de maladies neuro-évolutives de participer à un cycle d’ateliers conviviaux et de pratiquer en groupe des activités ressourçantes et complémentaires : échanges, écriture, sophrologie et pratique corporelle, composition de chansons, travail photographique et graphique.
