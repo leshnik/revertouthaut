@@ -344,6 +344,9 @@ li {
 .hovered:hover {
   filter: url(#flooder);
 }
+.hoverRev:hover {
+  filter: url(#shadow);
+}
 .squared:hover {
   fill: #ec008c;
   opacity: 1;
