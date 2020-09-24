@@ -1,6 +1,6 @@
 ---
 title: spectacles test
-layout: one-column
+layout: logo-top
 ---
 
 <h1 style="font-size:32px; color:#f25f5f; text-align:center; padding-top: 15px">des spectacles vivants dans la continuité de nos ateliers</h1>

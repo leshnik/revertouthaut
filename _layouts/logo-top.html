@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include logo-header.html %}
+    <container style="display: flex; flex-direction: column; width: 95%">
+
+      <div width="95vw" max-width="940px">
+        {{ content }}
+      </div>
+    </container>
+    {% include footerCards.html %}
+
+  </body>
+</html>
