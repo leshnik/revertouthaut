@@ -1,5 +1,5 @@
 ---
-layout: logo-top
+layout: logoTop
 title: l'association rêver tout haut
 ---
 

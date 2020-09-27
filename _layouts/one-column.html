@@ -1,18 +1,20 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
-    <container style="display: flex; flex-direction: column; width: 95%">
-      <div class="svg-banner">
+  <body style="background-color:white">
+    <div style="background-color:ghostwhite">
+      <container style="display: flex; flex-direction: column; width: 100%;">
+        <div class="svg-banner">
 
-        {% include underlined2.svg %}
+          {% include underlined2.svg %}
 
-      </div>
+        </div>
 
-      <div width="95vw" max-width="940px">
-        {{ content }}
-      </div>
-    </container>
-    {% include footerCards.html %}
+        <div width="95vw" max-width="940px" style="padding-left:15px; padding-right:15px">
+          {{ content }}
+        </div>
+      </container>
+      {% include footerCards.html %}
+    </div>
   </body>
 </html>

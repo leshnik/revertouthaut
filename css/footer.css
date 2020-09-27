@@ -16,7 +16,7 @@
 }
 .Motto {
   font-family: "Amatic SC";
-  font-size: 36px;
+  font-size: 42px;
   font-weight: 700;
   color: #a27c55;
   text-align: center;
@@ -27,7 +27,7 @@
   margin: auto;
   padding-right: 2px;
   min-width: 80px;
-  max-width: 150px;
+  max-width: 250px;
 }
 .NavList {
   display: flex;
@@ -36,6 +36,9 @@
   flex-direction: row;
   padding: 0 2px;
   justify-content: space-around;
+}
+.NavListTitres {
+  font-size: 32px;
 }
 .Logo {
   width: 100%;

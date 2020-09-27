@@ -229,15 +229,6 @@ p {
   text-align: justify;
 }
 
-@media (max-width: 400px) {
-  .NavList {
-    display: flex;
-    flex-direction: column;
-  }
-  .intro-text {
-    text-align: left;
-  }
-}
 img {
   width: 100%;
 }
@@ -353,4 +344,13 @@ li {
 }
 a:hover {
   background-color: gold;
+}
+@media (max-width: 400px) {
+  .NavList {
+    display: flex;
+    flex-direction: column;
+  }
+  p {
+    text-align: left;
+  }
 }
