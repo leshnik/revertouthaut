@@ -39,6 +39,9 @@
   width: 100%;
   background-repeat: no-repeat;
 }
+.svgLogoBackground {
+  background-image: url(https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_250/v1594455699/%C3%A9chelle_%C3%A0_nuage_petit_pmjqet.jpg);
+}
 .sophro-color {
   color: #7551e1;
 }
