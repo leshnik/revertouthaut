@@ -8,20 +8,27 @@ title: l'association rêver tout haut
 </p>
 
 <p class="intro-text">
-  <span class="rever">rêver tout haut</span> est une association d’art-thérapeutes, de sophrologues, et d’artistes, installé.es en Saône et Loire, qui propose des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun : enfants, adolescents, adultes, personnes âgées, toute personne désireuse d’être accompagnée dans un cheminement créatif, ou personnes en difficulté, en situation de handicap, souffrant d’une pathologie, nécessitant un accompagnement créatif et/ou thérapeutique en accord avec ses besoins ou son parcours de soins.
+  <span class="rever">rêver tout haut</span> est une association d’art-thérapeutes, de sophrologues, et d’artistes, installé.es en Saône et Loire, qui propose des ateliers et des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun, et à chaque situation.
 </p> <br/>
 <p class="shadow" style="transform:rotate(2deg); background-color:tomato">
-   rêver tout haut imagine un accompagnement adapté à chacun
+   pour que l’imaginaire reprenne sens et vigueur dans le quotidien
 </p>
 
 <p class="intro-text">
-  <span class="rever">rêver tout haut</span> conçoit des médiations et des pratiques autonomes les unes des autres et aussi en continuité et en lien.
+  Nous inventons et concevons des médiations créatives pour différents publics et différentes institutions : enfants, adolescents, adultes, parents, personnes âgées, aidants, personnes en difficulté sociale, en situation d’isolement, en situation de handicap, souffrant d’une pathologie...
 </p>
 <p class="shadow" style="transform:rotate(-1.3deg); background-color:sandybrown">
-  rêver tout haut permet d'exprimer et de transformer ce qu’il est difficile de dire et d’élaborer
+  exprimer et transformer ce qu’il est difficile de dire et d’élaborer
 </p>
+<p class="intro-text">Nous coordonnons et animons des ateliers autonomes les uns des autres et aussi en continuité et en lien, des ateliers étendus sur des temps courts ou sur des temps longs.</p>
 
-<div class="inline-centered">
+  <p class="shadow" style="transform:rotate(1.2deg); background-color:#06B49A">
+    pour que se remette en mouvement la pensée
+  </p>
+  <p class="intro-text"><span class="rever">rêver tout haut</span> accompagne des personnes, des groupes et des institutions, en accord avec leurs besoins, leurs parcours de soins et leurs envies.
+
+  </p>
+  <div class="inline-centered">
   <div class="address-info">
     07 69 29 53 27<br>
     revertouthaut@gmail.com
@@ -31,7 +38,4 @@ title: l'association rêver tout haut
     71250 Bergesserin<br>
     France<br>
   </div>
-  <p class="shadow" style="transform:rotate(1.2deg); background-color:#06B49A">
-    rêver tout haut œuvre pour que l’imaginaire reprenne sens et vigueur dans le quotidien, et que se remette en mouvement la pensée, qu’il s’agisse de celle des personnes ou de celle des institutions
-  </p>
 </div>

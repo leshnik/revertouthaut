@@ -23,11 +23,33 @@
   text-shadow: 2.5px 2.5px 5px #5c3c29;
   letter-spacing: 0.2em;
 }
+.MottoSmaller {
+  font-family: "Amatic SC";
+  font-size: 30px;
+  font-weight: 700;
+  color: #a27c55;
+  text-align: center;
+  text-shadow: 2.5px 2.5px 5px #5c3c29;
+  letter-spacing: 0.2em;
+}
+.Motto a {
+  font-family: "Amatic SC";
+  font-size: 32px;
+  font-weight: 700;
+  color: #a27c55;
+  text-align: left;
+  text-shadow: 2.5px 2.5px 5px #5c3c29;
+  letter-spacing: 0.2em;
+}
+
+.MenuDiv {
+  text-align: left;
+}
 .Image {
-  margin: auto;
   padding-right: 2px;
   min-width: 80px;
   max-width: 250px;
+  vertical-align: bottom;
 }
 .NavList {
   display: flex;
@@ -40,6 +62,27 @@
 .NavListTitres {
   font-size: 32px;
 }
+.NavList p {
+  width: 28ch;
+}
+.CenterList {
+  text-align: center;
+}
 .Logo {
   width: 100%;
+}
+.LogoAndMenu {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: nowrap;
+  align-items: baseline;
+}
+.Coming li {
+  color: hsl(171, 93%, 25%);
+}
+.Past li {
+  color: hsl(0, 0%, 70%);
+}
+.Spacer {
+  margin-bottom: 30px;
 }
