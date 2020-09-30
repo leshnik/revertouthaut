@@ -1,6 +1,7 @@
 ---
 title: spectacles test
 layout: logoTop
+summary: Basés sur des témoignages et des traces laissées par les vécus, nos spectacles sont un prolongement de nos ateliers de création et traitent à leur manière théâtrale et musicale de thématiques contemporaines et de problématiques sociales et intimes.
 ---
 
 <div class="Motto">des spectacles vivants dans la continuité de nos ateliers</div>

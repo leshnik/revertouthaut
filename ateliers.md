@@ -20,12 +20,12 @@ title: ateliers
   <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux-defaits-renoues">●&nbsp;liens familiaux défaits, renoués</a>
   </li>
 
-  <li><a style="color: hsl(200,50%,42%)" href="/enfant-et-parent-en-meme-temps">●&nbsp;enfant et parent en même temps</a></li>
+  <li><a style="color: hsl(200,50%,42%)" href="/deja-parent">●&nbsp;déjà parent</a></li>
 
   <li><a style="color: hsl(240,50%,42%)" href="/amours-desirs-et-absences">●&nbsp;amours, désirs et absences</a>
   </li>
 
-  <li><a style="color: hsl(300,50%,42%)" href="/fenetres-ouvertes">●&nbsp;fenêtres ouvertes</a></li>
+  <li><a style="color: hsl(300,50%,42%)" href="/de-l-air">●&nbsp;de l'air&nbsp;!</a></li>
 
   <li><a style="color: hsl(330,50%,42%)" href="/changer-de-pays">●&nbsp;changer de pays</a></li>
 
