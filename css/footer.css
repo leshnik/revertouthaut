@@ -43,12 +43,16 @@
 }
 
 .MenuDiv {
-  text-align: left;
+  text-align: right;
+}
+.MenuDiv a {
+  color: black;
 }
 .Image {
   padding-right: 2px;
   min-width: 80px;
   max-width: 250px;
+  margin-top: 15px;
   vertical-align: bottom;
 }
 .NavList {
