@@ -10,7 +10,7 @@ title: ateliers
 </p>
 <p class="intro-text">Différentes activités sont proposées : art-thérapie, sophrologie, musique, photographie, vidéo, textiles, argile, vannerie, écriture, composition de chansons, travail du corps et de la voix... toujours dans un objectif thérapeutique et réparateur et dans la perspective de mettre certaines problématiques en travail.
 </p>
-<p class="intro-text">Voici quelques uns de nos ateliers à venir en cours, ou effectués depuis 2019.
+<p class="intro-text">Voici quelques uns de nos ateliers à venir, en cours, ou effectués depuis 2019.
 </p>
 <ul class="CenterList">
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie</a></li>
