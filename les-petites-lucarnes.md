@@ -126,6 +126,14 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
     dots[slideIndex - 1].className += "active";
   }
 </script>
+
+<p class="intro-text">
+À la demande de l’Association le Pont, Rêver Tout Haut a participé au dispositif «Revitalisation», proposé d’octobre 2019 à juillet 2020 à une dizaine de participants sur Chalon sur Saône et Mâcon. L’objectif était de permettre à des personnes loin de l’emploi et dans un certain isolement social, accompagnés par une équipe éducative, de mettre en mouvement créativité et image de soi souvent bien mise à mal. </p>
+
+<p class="intro-text">La temporalité des ateliers, étendue sur plusieurs mois permettant aux personnes de cheminer au travers de leur histoire, leurs résistances. Ouvrir des petites fenêtres, dégager un horizon, éclairer la vie sociale, tels étaient les buts de nos ateliers complémentaires. </p>
+
+<p class="intro-text">Nous avons donc proposé de multiples supports afin de permettre les expériences les plus diverses : écriture, photographies, collage, photo-montage, argile, chansons, dessins, journaux de bord... L’idée était aussi de pouvoir relier entre elles toutes ces médiations : ainsi, un texte pouvait devenir une photo, un dessin pouvait amener une chanson, ou inversement. </p>
+
 <figure>
     <figcaption>dans le miroir:</figcaption>
     <audio
@@ -178,13 +186,6 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 
 </figure>
 
-<p class="intro-text">
-À la demande de l’Association le Pont, Rêver Tout Haut a participé au dispositif «Revitalisation», proposé d’octobre 2019 à juillet 2020 à une dizaine de participants sur Chalon sur Saône et Mâcon. L’objectif était de permettre à des personnes loin de l’emploi et dans un certain isolement social, accompagnés par une équipe éducative, de mettre en mouvement créativité et image de soi souvent bien mise à mal. </p>
-
-<p class="intro-text">La temporalité des ateliers, étendue sur plusieurs mois permettant aux personnes de cheminer au travers de leur histoire, leurs résistances. Ouvrir des petites fenêtres, dégager un horizon, éclairer la vie sociale, tels étaient les buts de nos ateliers complémentaires. </p>
-
-<p class="intro-text">Nous avons donc proposé de multiples supports afin de permettre les expériences les plus diverses : écriture, photographies, collage, photo-montage, argile, chansons, dessins, journaux de bord... L’idée était aussi de pouvoir relier entre elles toutes ces médiations : ainsi, un texte pouvait devenir une photo, un dessin pouvait amener une chanson, ou inversement. </p>
-
 <p class="intro-text">Créer des liens sociaux, des liens d’expressions, des liens entre son passé et son avenir des passerelles entre toutes les facettes de sa personne.</p>
 
-Ateliers animés par Valérie Gaudissart, Lucie Moraillon, Patricia Rigo, Florian Girard, et Morton Potash
+<p class="intro-text">Ateliers animés par Valérie Gaudissart, Lucie Moraillon, Patricia Rigo, Florian Girard, et Morton Potash</p>
