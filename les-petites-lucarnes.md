@@ -126,7 +126,6 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
     dots[slideIndex - 1].className += "active";
   }
 </script>
-<div class="intro-text">
 <figure>
     <figcaption>dans le miroir:</figcaption>
     <audio
@@ -178,7 +177,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
         <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 
 </figure>
-</div>
+
 <p class="intro-text">
 À la demande de l’Association le Pont, Rêver Tout Haut a participé au dispositif «Revitalisation», proposé d’octobre 2019 à juillet 2020 à une dizaine de participants sur Chalon sur Saône et Mâcon. L’objectif était de permettre à des personnes loin de l’emploi et dans un certain isolement social, accompagnés par une équipe éducative, de mettre en mouvement créativité et image de soi souvent bien mise à mal. </p>
 
