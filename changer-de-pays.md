@@ -54,10 +54,10 @@ title: Changer de pays
   <!-- Next and previous buttons -->
   <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
     <div>
-      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: green; font-size:2rem">&#10094;</a>
+      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     </div>
     <div>
-      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: green; font-size:2rem;">&#10095;</a>
+      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
   </div>
 

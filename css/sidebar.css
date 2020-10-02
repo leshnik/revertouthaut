@@ -274,9 +274,9 @@ a {
   text-decoration: none;
   font-family: "Amatic SC";
 }
-.slideshow-containter a {
+.slideshow-container a {
   font-size: 3rem;
-  color: green;
+  color: hsl(30.4, 31.2%, 28.4%);
 }
 body {
   font-family: "Crimson Text", "lora", serif;
