@@ -136,7 +136,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 
 <p class="intro-text">Créer des liens sociaux, des liens d’expressions, des liens entre son passé et son avenir des passerelles entre toutes les facettes de sa personne.</p>
 
-<div class="MottoSmaller">Quelques unes des chansons composées</div>
+<div class="MottoSmaller">Quelques unes des<br> chansons composées</div>
 <figure>
     <figcaption>dans le miroir:</figcaption>
     <audio
