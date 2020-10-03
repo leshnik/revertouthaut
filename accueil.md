@@ -1,4 +1,0 @@
----
-layout: accueil
-title: accueil
----
