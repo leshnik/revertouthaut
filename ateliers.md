@@ -29,6 +29,8 @@ title: ateliers
 
   <li><a style="color: hsl(330,50%,42%)" href="/changer-de-pays">●&nbsp;changer de pays</a></li>
 
+  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches</a></li>
+
   <li><a style="color: #29c" href="/les-petites-lucarnes">●&nbsp;les petites lucarnes</a></li>
 
   <li><a style="color: rgb(181, 136, 136)" href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances</a></li>
