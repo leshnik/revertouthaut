@@ -11,67 +11,67 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 <div class="slideshow-container" style="position: relative;">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">1 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_400/v1601539622/gatsby-cloudinary/photo-comme-miroir.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_400/v1601539622/gatsby-cloudinary/photo-comme-miroir.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">2 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601542725/gatsby-cloudinary/hand-reach-tatoo.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601542725/gatsby-cloudinary/hand-reach-tatoo.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
   
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">3 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601543186/gatsby-cloudinary/photo_1_lucarne.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601543186/gatsby-cloudinary/photo_1_lucarne.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">4 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601543803/gatsby-cloudinary/le-walk.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601543803/gatsby-cloudinary/le-walk.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">5 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601544829/gatsby-cloudinary/cadres-blouse-grise.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601544829/gatsby-cloudinary/cadres-blouse-grise.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">6 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601546026/gatsby-cloudinary/two-hands-text600.png" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601546026/gatsby-cloudinary/two-hands-text600.png" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">7 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601546487/gatsby-cloudinary/clay-catlike.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601546487/gatsby-cloudinary/clay-catlike.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-  <div class="mySlides" style="margin: auto; width:400px">
+  <div class="mySlides">
     <div class="numbertext">8 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601547085/gatsby-cloudinary/dresseuse-dragons.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601547085/gatsby-cloudinary/dresseuse-dragons.jpg" style="width:100%">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
-<div class="mySlides" style="margin: auto; width:400px">
+<div class="mySlides">
     <div class="numbertext">9 / 9</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601547826/gatsby-cloudinary/blue-earing-portrait.jpg" style="height:50vh; width:auto">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601774668/gatsby-cloudinary/portrait-blue-earrings4x6.jpg" style="width:100%">
     </figure>
   </div>
 
