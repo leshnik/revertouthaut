@@ -69,7 +69,7 @@ tags: [aidants, journée nationale des aidants]
 <ul>
   <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants</a></li>
 </ul></p>
-
-_« Dans la famille, on accueille. C’est ancestral. Et moi, quand j’étais bébé, elle aurait donné sa vie pour moi. Donc la question d’accueillir ma mère chez moi ne se pose même pas. »_
-
-_« Je ne me sens pas du tout de prendre mon père chez moi. Du tout, du tout. Je me sens toute seule par rapport à tout ça. Je ne veux pas y laisser ma peau. »_
+<hr style="margin:auto">
+<p class="intro-text"><cite>«Dans la famille, on accueille. C’est ancestral. Et moi, quand j’étais bébé, elle aurait donné sa vie pour moi. Donc la question d’accueillir ma mère chez moi ne se pose même pas. »</cite></p>
+<hr style="margin:auto">
+<p class="intro-text"><cite>«Je ne me sens pas du tout de prendre mon père chez moi. Du tout, du tout. Je me sens toute seule par rapport à tout ça. Je ne veux pas y laisser ma peau.»</cite></p>
