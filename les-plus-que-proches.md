@@ -16,6 +16,12 @@ tags: [aidants, journée nationale des aidants]
 <p class="intro-text">Car un.e «plus que proche», vit une relation nécessairement empathique, souvent douloureuse à son ou ses aidés. Et un.e «plus que proche», dont le rôle a parfois été désigné dans les familles, n’a pas beaucoup d’espace ni temps pour s’exprimer, pour prendre soin d’elle ou de lui-même.
 </p>
 
+<hr style="margin:auto">
+<p class="quote"><em>«Dans la famille, on accueille. C’est ancestral. Et moi, quand j’étais bébé, elle aurait donné sa vie pour moi. Donc la question d’accueillir ma mère chez moi ne se pose même pas. »</em></p>
+<hr style="margin:auto">
+<p class="quote"><cite>«Je ne me sens pas du tout de prendre mon père chez moi. Du tout, du tout. Je me sens toute seule par rapport à tout ça. Je ne veux pas y laisser ma peau.»</cite></p>
+<hr style="margin:auto">
+
 <p class="intro-text">De novembre 2019 à juillet 2020, nous avons donc proposé des séances de sophrologie, d’écriture, d’échanges d’expériences, de compositions de chansons, de chant et d’improvisation.
 </p>
 
@@ -65,11 +71,8 @@ tags: [aidants, journée nationale des aidants]
 <div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601731858/gatsby-cloudinary/aidante_aimante.png"></div>
 <div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601731857/gatsby-cloudinary/aidante_aimante_p2.png"></div>
 
-<p class="intro-text">Cet atelier ayant été fructueux et répondant à une demande et une nécessité très actuelle, nous proposons à partir de décembre 2020 et jusqu’en juin 2022, un nouveau cycle «Aidants, Aimants», d’accompagnement créatif, ouvert à toutes sortes d’aidants. 
-<ul>
-  <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants</a></li>
-</ul></p>
-<hr style="margin:auto">
-<p class="intro-text"><cite>«Dans la famille, on accueille. C’est ancestral. Et moi, quand j’étais bébé, elle aurait donné sa vie pour moi. Donc la question d’accueillir ma mère chez moi ne se pose même pas. »</cite></p>
-<hr style="margin:auto">
-<p class="intro-text"><cite>«Je ne me sens pas du tout de prendre mon père chez moi. Du tout, du tout. Je me sens toute seule par rapport à tout ça. Je ne veux pas y laisser ma peau.»</cite></p>
+<p class="intro-text">Cet atelier ayant été fructueux et répondant à une demande et une nécessité très actuelle, nous proposons à partir de décembre 2020 et jusqu’en juin 2022, un nouveau cycle «Aidants, Aimants», d’accompagnement créatif, ouvert à toutes sortes d’aidants.
+</p>
+<ul style="text-align: right">
+  <li><a style="color: #29c; font-size:2rem" href="/aidants-aimants">●&nbsp;aidants, aimants</a></li>
+</ul>

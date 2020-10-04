@@ -97,6 +97,15 @@
   text-align: justify;
   padding: 1.4rem 2rem 0rem 2rem;
 }
+.quote {
+  font-family: serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.6rem;
+  margin: 0.5rem 5% 0.5rem 15%;
+  text-align: justify;
+  padding: 1.4rem 2rem 0rem 2rem;
+}
 .ThreeImages {
   display: flex;
   flex-wrap: wrap;
