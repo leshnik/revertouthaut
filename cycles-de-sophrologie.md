@@ -5,6 +5,14 @@ summary: Cycles gratuits de sophrologie en groupe pour les seniors dans le cadre
 ---
 
 <div class="Motto">Cycles de sophrologie</div>
+<p class="intro-text">Ces temps de sophrologie en groupe sont l'occasion de se retrouver dans la bonne humeur autour d'exercices corporels, exercices de respiration et visualisation. Un temps pour soi bien sûr, mais aussi pour être ensemble autrement. On fait de la sophrologie, et aussi des petits exercices ludiques de mise en relation et lâcher prise, pour retrouver du calme et de la disponibilité psychique et émotionnelle.
+</p>
+<p class="intro-text">Notre précédent cycle de sophrologie destiné aux aidants familiaux ayant dû s'adapter au confinement, nous avons proposé des séances en visio, ce qui a été une belle alternative pour conserver le lien et l'espace des séances.
+</p>
+<p class="intro-text">Nous proposons pour l’automne 2020 sur le territoire du Charolais-Brionnais un cycle en présentiel «Osez une pause !» et un cycle en visio «Bien dans sa tête»
+</p>
+<div class="Spacer"></div>
+<hr style="margin:auto">
 <div class="MottoSmaller">Cycle bien-être pour Aidant à Paray le Monial</div>
 
 <p class="intro-text">Vous accompagnez au quotidien un proche en perte d’autonomie ou malade, et vous vous sentez stressé(e), fatigué(e), dépassé(e) ... ?
@@ -31,8 +39,9 @@ pour contribuer aux échanges.
       <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="/media/AidantsFlyerPARAY.pdf" download="download">●&nbsp;Cliquer pour télécharger le Bulletin d'Inscription</a>
     </li>
 </ul>
-
+<hr style="margin:auto">
 <div class="MottoSmaller"> Cycle bien-être en Charolais-Brionnais</div>
+<div class="Spacer"></div>
 
 <div class="MottoSmaller">Bien dans sa tête</div>
 
@@ -53,3 +62,10 @@ des temps de soutien individuel gratuits par téléphone avec une sophrologue 
       <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="/media/bulletin-inscription-BienDansSaTete_novembre2020.pdf" download="download">●&nbsp;Cliquer pour télécharger la plaquette</a>
     </li>
 </ul>
+<div class="MottoSmaller">Quelques retours de nos participants</div>
+
+<p class="intro-text"><cite>"Le bien-être qu'apporte ces séances est réel. De plus, le groupe permet de "renouer" avec les autres. "</cite><hr></p>
+
+<p class="intro-text"><cite>"Très satisfaite de ces séances, présentielles ou à distance. Un vrai moment de répit. Un grand merci à tous ceux qui nous ont permis d'apprécier les qualités de notre sophrologue: simplicité, sourire sur le visage et dans la voix, bienveillance, respect, écoute de chacun, encouragements..."</cite><hr></p>
+
+<p class="intro-text"><cite>"Ce cycle a été une vraie découverte pour moi. Je ne connaissais pas du tout la sophrologie, et j'adore!"</cite></p>
