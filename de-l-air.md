@@ -134,3 +134,9 @@ Sur une proposition du Foyer de Vie et du Foyer d’Accueil Médicalisé les Avo
     </audio>
     <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 </figure>
+<div class="center-big-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601760758/gatsby-cloudinary/le-soir-vient-le-blues.jpg" alt="partition pour 'le soir vient le blues.'">
+  </div>
+  <div class="center-big-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601761356/gatsby-cloudinary/ma-clope.jpg" alt="partition pour 'ma clope'.">
+  </div>
