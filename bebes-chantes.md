@@ -9,6 +9,7 @@ title: bébés chantés
 
 <p class="intro-text">Basées donc sur la motricité des enfants, sur leur prénom, et sur le regard porté par les mères sur leur bébé, ces chansons témoignaient de l’attachement mis en travail.</p>
 
+<div class="MottoSmaller">trois chansons de l'atelier</div>
 <figure>
     <figcaption>raphael:</figcaption>
     <audio
