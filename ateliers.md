@@ -42,27 +42,27 @@ title: ateliers
 <div class="slideshow-container" style="position: relative;">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides" style="max-width: 400px; margin: auto">
+  <div class="mySlides" style="max-width: 600px; margin: auto">
     <div class="numbertext">1 / 3</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601828382/gatsby-cloudinary/dessin-colore%CC%81.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601828382/gatsby-cloudinary/dessin-colore%CC%81.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
   </div>
   
   
-  <div class="mySlides" style="max-width: 400px; margin: auto">
+  <div class="mySlides" style="max-width: 600px; margin: auto">
     <div class="numbertext">2/ 3</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601828381/gatsby-cloudinary/colline-floue.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601828381/gatsby-cloudinary/colline-floue.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
   </div>
 
-  <div class="mySlides" style="max-width: 400px; margin: auto">
+  <div class="mySlides" style="max-width: 600px; margin: auto">
     <div class="numbertext">3/ 3</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601845305/gatsby-cloudinary/face-pursed-lips.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601845305/gatsby-cloudinary/face-pursed-lips.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     </div>
