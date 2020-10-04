@@ -18,36 +18,42 @@ title: Changer de pays
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 5</div>
+    <div class="numbertext">1 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601401045/gatsby-cloudinary/at-photo-frame-with-hands.jpg" style="width:100%;">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">2 / 5</div>
+    <div class="numbertext">2 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601401042/gatsby-cloudinary/at-collage-yazidi.jpg" style="width: 100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">3 / 5</div>
+    <div class="numbertext">3 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_820/v1601451152/gatsby-cloudinary/yezidi-collage-gold-pen.jpg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">4 / 5</div>
+    <div class="numbertext">4 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_623/v1601451585/gatsby-cloudinary/les_mains_de_maman_yezidi.png" style="width:110%">
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">5 / 5</div>
+    <div class="numbertext">5 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_447/v1601452460/gatsby-cloudinary/argile-yezidi-four-hands.jpg" style="width:65%">
+    </figure>
+  </div>
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601812468/gatsby-cloudinary/poupe%CC%81eyezidi8x6.jpg" style="width:90%">
     </figure>
   </div>
 
