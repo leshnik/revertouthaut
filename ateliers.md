@@ -18,7 +18,7 @@ title: ateliers
 
   <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants</a></li>
 
-  <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux-defaits-renoues">●&nbsp;liens familiaux défaits, renoués</a>
+  <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux">●&nbsp;liens familiaux défaits, renoués</a>
   </li>
 
   <li><a style="color: hsl(200,50%,42%)" href="/deja-parent">●&nbsp;déjà parent</a></li>
