@@ -14,10 +14,9 @@ redirect_from:
 <p class="intro-text">La sophrologie travaille avec les ressources et les valeurs de chacun, en prenant en compte ses particularités et son moment de vie. C’est en cela qu’on dit qu’elle est une méthode du positif de l’être. Mais elle prend en compte l’être dans sa globalité, en accueillant tout ce qui vient sans jugement et sans attente. L’efficacité de la méthode est renforcée par la répétition des pratiques. Chacun peut s’approprier les outils sophrologiques pour les réinvestir au quotidien.
 </p>
 
-> «&nbsp;_Plus on s'abandonne à l'instant présent, plus on est dans l'action et l'on répond adéquatement aux circonstances de l'existence._&nbsp;»
+<div class="quote"><em>«Plus on s'abandonne à l'instant présent, plus on est dans l'action et l'on répond adéquatement aux circonstances de l'existence.»</em></div>
 
-Alexandre Jollien, "_Petit traité de l’abandon_"
-{:.cite}
+<p class="cite">Alexandre Jollien, "Petit traité de l’abandon"</p>
 
 <div class="MottoSmaller">La mémoire sensorielle et les cinq sens</div>
 
