@@ -1,48 +1,63 @@
 ---
-layout: sidebar
+layout: logoTop
 title: Parent solo et ses marmots, atelier créatif et spectacle sur le thème de la parentalité à Saint Marcel et Châlon sur Saône.
 summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant, l'art thérapie, dans le but de l'écriture et de la représentation d'une pièce de théâtre réunissant une équipe amateure et professionnelle et explorant toutes les facettes de la monoparentalité.
 ---
 
-<h1>Parent solo et ses marmots</h1>
-<h2>Représentation le 27 novembre 2020 <br>à 14h30 et 20h30 <br>au Réservoir de Saint Marcel</h2>
-<h3>réservation obligatoire : 03 85 42 46 27  </h3>
-<p>Attn: spectacles du mars reportés à cause du Covid-19, la nouvelle date est annoncé ci-dessus !</p>
-<p>La nouvelle affiche est en préparation.</p>
-<div class="center-big-block">
+<div id="psesm" style="background-color: #f6c172; margin-top:20px;letter-spacing: 0.2rem; padding:15px">
+  <div class="Motto">
+    parent solo et ses marmots
+  </div>
+  <hr class="styled-hr">
+  <h2 style="color:white; text-align:center; font-size:32px;letter-spacing: 0.2rem;">
+    atelier créatif et spectacle sur le thème de la parentalité
+  </h2>
+  <p class="intro-text">Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo&nbsp;? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ? De la mono-parentalité subie à la mono-parentalité assumée et revendiquée, bien des aspects de cette nouvelle façon de faire famille sont abordés. Joies, galères, déceptions, questions, organisations, et autres inattendus et cadeaux du quotidien !</p>
+  <p class="intro-text">
+    Le spectacle est né d’ateliers de création et de partages de témoignages, mené par
+    <span class="rever-typog">Rêver Tout Haut</span>
+    depuis mai 2019, en partenariat avec la Ville de Saint Marcel, le Centre Social l’Orange Bleue et la CAF 71.
+
+    <cite>«Parent solo et ses marmots»</cite>
+    mêle textes, chansons, et est joué par des comédiennes professionnelles, des mamans solo qui montent pour la première fois sur scène et des travailleuses sociales.
+
+  </p>
+  <p class="intro-text">
+    Avec Aïcha Broutin, Nelly Triba, Sara Lahrizi, Virginie Côte, Ghizlane Harrak, Coraline Henry, Sidonie Dubosc, Sylvia Etcheto, Valérie Gaudissart et Morton Potash.
+  </p>
+  <h2 style="color:tomatored; text-align:center; font-size:42px;letter-spacing: 0.2rem;">Représentation le 27 novembre 2020
+    <br>à 14h30 et 20h30
+    <br>au Réservoir de Saint Marcel</h2>
+  <h3 style="text-align:center;font-size:30px;color:white">réservation obligatoire : 03 85 42 46 27
+  </h3>
+  <p style="padding:15px">Attn: spectacles de mars reportés à cause du Covid-19, la nouvelle date est annoncée ci-dessus !</p>
+  <p style="padding:15px">La nouvelle affiche est en préparation.</p>
+  <div class="center-big-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1581649257/Affiche-parent-solo_jumrye.jpg">
-</div><br>
-© Frédéric Dechelotte
-{:.cite}
-
-Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo ? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ?
-
-A partir d’ateliers de création et de partages de témoignages, menés par Rêver Tout Haut en partenariat avec la Ville de Saint Marcel, le Centre Social l’Orange Bleue et la CAF, « Parent solo et ses marmots» décline bien des aspects de la mono-parentalité : joies,  galères, questions, organisations,  et autres inattendus et cadeaux du quotidien !
-
-<div class="all-across thumbnail"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1568298918/Fly_ateliers_projet_parent_solo_hc8fe1.jpg" alt="flyer Orange Bleue, Direction Enfance Jeunesse Famille de Saint Marcel, ateliers parent solo, 22 et 23 octobre, 2019, 9h à 21h"></div>
-
-Une pièce de théâtre, écrite à partir des témoignages recueillis, regroupera des comédien.nes professionnel.les et des amateurs et sera l’aboutissement de ce cycle d’ateliers.
-Elle sera jouée au Réservoir de Saint Marcel, le 20 mars 2020 à 14h30 et 20h.
-
-Ateliers et création théâtrale menés par Valérie Gaudissart, en collaboration avec Morton Potash.
-
-<div class="left-side-100">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571904137/jsl-banner_cykvqm.png">
+  </div>
+  <div class="MottoSmaller">Extraits :</div>
+  <cite>
+    «Je ne dirais pas que je me suis sacrifiée mais... je pense que j’aurais pu faire beaucoup plus pour moi si je m’étais accordé plus de liberté. Même les faire manger à la cantine, je ne me l’accordais pas, je les faisais manger tous les midis à la maison, ça m’a clouée sur place en fait. Je crois que je voulais être parfaite.»
+  </cite><hr>
+  <cite>
+    «Je me dis que les couples qui sont restés ensemble ont de la chance, car ce doit être chouette d’avoir des souvenirs partagés. Là je suis seule à me rappeler de ce qu’on a fait avec les enfants, quand ils avaient 5 ans, on a fait ci, on a fait ça. Je n’ai personne avec qui partager ça.»
+  </cite><hr>
+  <cite>
+    «Et alors aujourd’hui mais je savoure&nbsp;! y’a plus personne pour me réveiller en pleine nuit, je suis bien&nbsp;! je suis peinarde&nbsp;! quand on n’est pas parasité par quelqu’un, qu’est-ce qu’on a la patate&nbsp;! C’est vrai, qu’il faut pas lâcher la barre quand on est seul avec ses enfants, mais y’a une solution à tout. Et c’est de l’énergie puissance 10 qu’il faut&nbsp;!»
+  </cite><hr>
+  <cite>
+    «Moi, ma vie, je l’ai mise de côté, j’ai plus pensé à moi en tant que femme. J’ai anesthésié cette partie là de moi. Parce que j’avais l’interdiction de flancher et j’avais l’obligation de répondre à tout.»
+  </cite><hr>
+  <cite>
+    «Et sur les formulaires administratifs, «femme isolée» mais c’est violent comme terme&nbsp;!Les gens te voient comme une pauvre fille&nbsp;! Mais non &nbsp;! Moi j’ai choisi mon statut mais c’est la société qui ne l’accepte pas, je ne suis pas un cas social&nbsp;! C’est pas une obligation d’avoir une famille, une vie à deux, et tu vas pas te priver d’avoir un enfant parce que t’as pas de bonhomme dans ta vie&nbsp;!»
+  </cite><hr>
+  <cite>
+    «Moi, je fais pas le deuil de ma famille, je sais pas si je le ferai un jour, faire famille à trois, pour moi, c’est compliqué, j’ai l’impression que c’est bancal, qu’il manque un pied. Je pense que j’avais fantasmé la famille idéale.»
+  </cite><hr>
+  <cite>
+    «Le premier sentiment que j’ai eu quand je suis partie, ça a été un sentiment de liberté, limite un sentiment de bonheur. La liberté je l’ai toujours mais maintenant je dirais que la balance penche plus du côté des emmerdes.Moi je suis seule avec mes enfants, mais dans le sens profond du terme, dans la solitude.»
+  </cite><hr>
+  <cite>
+    «Au début de la séparation, j’avais honte, j’avais honte de l’échec et je me disais il y a un manque dans la maison. Nous ne sommes plus deux qui formons un couple. Nous sommes 1 moins 1, et 1 moins 1, ça fait zéro, je suis zéro. Alors que non, je suis le pilier, je tiens tout à bout de bras, je ne suis pas le zéro, je suis le pilier&nbsp;!
+  </cite><hr>
 </div>
-<div class="left-side-100">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571903094/jsl-blurb-2019-10-22-12h16_zqzkk4.png" alt="Coupure de presse JSL">
-</div>
-*photo et article JSL d'Adrian Gigue* :
-<div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571891543/jsl2019-10-22-AdrianGuigue_ahgarw.jpg" alt="photo de Adrian Gigue, 8 participants de la journée parent solo et ses marmots à St. Marcel">
-</div><br>
-
-«&nbsp;À l'initiative de quatre mamans monoparentales de Saint-Marcel, des ateliers "parent solo" ont lieu en ce mardi et mercredi à l'Espace périscolaire Roger-Balan de Saint-Marcel. "L'idée est de se retrouver entre parents seuls pour oublier les problèmes du quotidien et partager son expérience", détaille Nelly Triba de la CAF qui encadre l'événement avec les équipes de l'Orange bleue. Au programme : discussions, peinture, musique et théâtre avec Valérie Gaudissart, metteuse en scène, qui propose aux participants de créer "une pièce de théâtre pour transmettre quelque chose de cette situation de parent seul".
-
-Événement ouvert à toutes les familles monoparentales entre 9 h et 21 h, garderie sur place, ce mardi et ce mercredi. Espace Roger-Balan, rue du Breuil. »
-
-<div class="left-side-100">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1571892947/jsl-blurb2019-10-22-22h30_mhy3pg.png" alt="Coupure de presse JSL.">
-</div>
-<br>
-*«&nbsp;Faut pas lâcher la barre quand on est seul avec ses enfants ! Rien n’est infaisable, y’a une solution à tout, mais c’est vrai que j’ai de l’énergie pour deux ! &nbsp;»*
