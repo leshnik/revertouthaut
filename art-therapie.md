@@ -20,11 +20,26 @@ redirect_from:
     </figure>
   </div>
   
-    <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">? / ?</div>
+    <div class="numbertext">2 / ?</div>
     <figure>
-      <img src="" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1598455399/gatsby-cloudinary/IMG_1396.jpg" style="width:80%; margin-left:10%">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+    </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1598455377/gatsby-cloudinary/IMG_1401.jpg" style="width:80%; margin-left:10%">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+    </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1598455355/gatsby-cloudinary/IMG_1349.jpg" style="width:80%; margin-left:10%">
       <figcaption class="figCap"></figcaption>
     </figure>
     </div>
