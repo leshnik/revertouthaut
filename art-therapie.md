@@ -43,6 +43,21 @@ redirect_from:
       <figcaption class="figCap"></figcaption>
     </figure>
     </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601229059/gatsby-cloudinary/gilda_dessin_oeil.jpg" style="width:84%; margin-left:8%">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+    </div>
+<div class="mySlides">
+    <div class="numbertext">6 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601880766/gatsby-cloudinary/g_papillon.jpg" style="width:82%; margin-left:9%">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+    </div>
   
   <!-- Next and previous buttons -->
   <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
