@@ -59,7 +59,7 @@ tags: [aidants, journée nationale des aidants]
 </figure>
 
 <figure>
-    <figcaption>sclérose en plaquée or</figcaption>
+    <figcaption>sclérose en plaqué or</figcaption>
     <audio
         controls
         src="/media/sclerose-en-plaquee-or.mp3">
