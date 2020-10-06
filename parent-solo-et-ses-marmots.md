@@ -12,6 +12,111 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <h2 style="color:white; text-align:center; font-size:32px;letter-spacing: 0.2rem;">
     atelier créatif et spectacle sur le thème de la parentalité
   </h2>
+
+<!-- Slideshow container -->
+<div class="slideshow-container" style="position: relative;">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969073/gatsby-cloudinary/Parent_solo_12.svg">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969062/gatsby-cloudinary/Parent_solo_29.svg">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969092/gatsby-cloudinary/Parent_solo_31.svg">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969088/gatsby-cloudinary/Parent_solo_48.svg">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969092/gatsby-cloudinary/Parent_solo_50.svg">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969090/gatsby-cloudinary/Parent_solo_52.svg">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+  
+  <!-- Next and previous buttons -->
+  <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
+    <div>
+      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    </div>
+    <div>
+      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+  </div>
+
+</div>
+<br>
+
+<!-- The dots/circles -->
+
+<script>
+  var slideIndex = 1;
+  showSlides(slideIndex);
+
+  // Next/previous controls
+  function plusSlides(n) {
+    showSlides(slideIndex += n);
+  }
+
+  // Thumbnail image controls
+  function currentSlide(n) {
+    showSlides(slideIndex = n);
+  }
+
+  function showSlides(n) {
+    var i;
+    var slides = document.getElementsByClassName("mySlides");
+    var dots = document.getElementsByClassName("dot");
+    if (n > slides.length) {
+      slideIndex = 1
+    }
+    if (n < 1) {
+      slideIndex = slides.length
+    }
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+    }
+    for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i]
+        .className
+        .replace("active", "");
+    }
+    slides[slideIndex - 1].style.display = "block";
+    dots[slideIndex - 1].className += "active";
+  }
+  </script>
+
   <p class="intro-text">Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo&nbsp;? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ? De la mono-parentalité subie à la mono-parentalité assumée et revendiquée, bien des aspects de cette nouvelle façon de faire famille sont abordés. Joies, galères, déceptions, questions, organisations, et autres inattendus et cadeaux du quotidien !</p>
   <p class="intro-text">
     Le spectacle est né d’ateliers de création et de partages de témoignages, mené par
