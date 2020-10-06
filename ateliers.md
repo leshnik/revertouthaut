@@ -41,31 +41,77 @@ title: ateliers
 <!-- Slideshow container -->
 <div class="slideshow-container" style="position: relative;">
 
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides" style="max-width: 600px; margin: auto">
-    <div class="numbertext">1 / 3</div>
+<div class="mySlides">
+    <div class="numbertext">1 / ?</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601828382/gatsby-cloudinary/dessin-colore%CC%81.jpg" style="width:100%">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-  </div>
-  
-  
-  <div class="mySlides" style="max-width: 600px; margin: auto">
-    <div class="numbertext">2/ 3</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601828381/gatsby-cloudinary/colline-floue.jpg" style="width:100%">
-      <figcaption class="figCap"></figcaption>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961322/gatsby-cloudinary/girl-tilted-appareil-photo.svg">
+      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
     </figure>
   </div>
 
-  <div class="mySlides" style="max-width: 600px; margin: auto">
-    <div class="numbertext">3/ 3</div>
+  <div class="mySlides">
+    <div class="numbertext">2 / ?</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601845305/gatsby-cloudinary/face-pursed-lips.jpg" style="width:100%">
-      <figcaption class="figCap"></figcaption>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961305/gatsby-cloudinary/walking-far-away.svg" style="width:90%; margin-left:5%">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
-    </div>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961300/gatsby-cloudinary/two-photos-side-by-side.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961294/gatsby-cloudinary/grey-bust-pink-wall.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+<div class="mySlides">
+    <div class="numbertext">5 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1601961323/gatsby-cloudinary/hands-drawing-chalk-on-black.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+<div class="mySlides">
+    <div class="numbertext">6 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1601961316/gatsby-cloudinary/five-hands-colors.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">7 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961318/gatsby-cloudinary/portrait-etched-on-black.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">8 / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961301/gatsby-cloudinary/text-dans-le-noir.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">? / ?</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961293/gatsby-cloudinary/five-pink-red.svg">
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+    </figure>
+  </div>
   
   <!-- Next and previous buttons -->
   <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
