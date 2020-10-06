@@ -52,7 +52,7 @@ title: ateliers
   <div class="mySlides">
     <div class="numbertext">2 / ?</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961305/gatsby-cloudinary/walking-far-away.svg" style="width:90%; margin-left:5%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961305/gatsby-cloudinary/walking-far-away.svg">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
