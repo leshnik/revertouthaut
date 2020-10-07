@@ -69,7 +69,7 @@ title: ateliers
     <div class="numbertext">4 / 8</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961294/gatsby-cloudinary/grey-bust-pink-wall.svg">
-      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap"></figcaption>
     </figure>
   </div>
 
@@ -77,7 +77,7 @@ title: ateliers
     <div class="numbertext">5 / 8</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1601961323/gatsby-cloudinary/hands-drawing-chalk-on-black.svg">
-      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap"></figcaption>
     </figure>
   </div>
 
@@ -85,7 +85,7 @@ title: ateliers
     <div class="numbertext">6 / 8</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1601961316/gatsby-cloudinary/five-hands-colors.svg">
-      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap"></figcaption>
     </figure>
   </div>
 
@@ -93,7 +93,7 @@ title: ateliers
     <div class="numbertext">7 / 8</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961318/gatsby-cloudinary/portrait-etched-on-black.svg">
-      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap"></figcaption>
     </figure>
   </div>
 
@@ -101,7 +101,7 @@ title: ateliers
     <div class="numbertext">8 / 8</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961301/gatsby-cloudinary/text-dans-le-noir.svg">
-      <figcaption class="figCap">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap"></figcaption>
     </figure>
   </div>
   
