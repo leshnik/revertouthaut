@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://revertouthaut.fr/sitemap.xml
+Sitemap: https://revertouthaut.fr/sitemap.xml

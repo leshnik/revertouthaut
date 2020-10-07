@@ -414,7 +414,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           gratuit à 14h30<br/>
           tarif entre 5 et 8 euros pour la séance de 20h30<br/>
           réservation : 03 85 42 46 27<br/>
-          <blemlink href="http://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/">salle pleine pour bercer l'enfant manquant</blemlink>
+          <blemlink href="https://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/">salle pleine pour bercer l'enfant manquant</blemlink>
         </li>
         <hr>
         <li>

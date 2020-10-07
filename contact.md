@@ -7,7 +7,7 @@ summary: Pour joindre Rêver tout haut, tél 07 69 29 53 27, revertouthaut@gmail
 {% include motto.html%}
 {% include contact.html %}
 
-<div class="center-big-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_15,q_auto,f_auto,w_800/v1527764491/bureau-val_pzj61u.jpg"/>
+<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/r_15,q_auto,f_auto,w_800/v1527764491/bureau-val_pzj61u.jpg"/>
 </div>
 
 <div class="MottoSmaller">Où se déroulent nos ateliers ?</div>

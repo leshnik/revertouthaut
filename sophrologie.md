@@ -28,7 +28,7 @@ redirect_from:
 <p class="intro-text">On travaille d’abord avec le moment présent, puis sur l’avenir et sur le passé parfois. Le travail s’appuie sur les 5 sens pour être plus présent à l’instant et aussi développer la conscience de son corps et de son être au monde. On passe donc aussi par un travail sur la mémoire sensorielle. Mémoire qui permet à travers nos 5 sens d’ancrer les événements vécus dans le corps, de les retrouver donc à travers un parfum, un son, une sensation… S’appuyer sur ses 5 sens pour travailler permet donc de sortir d’une simple visualisation pour expérimenter les choses dans le corps avec plus d’intensité.
 </p>
 <div class="center-block">
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
 <figcaption>Gustav Klimt, <em>L'Arbre de Vie</em></figcaption>
 </div>
 <div class="MottoSmaller"> Contenu et déroulé des séances</div>

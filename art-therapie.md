@@ -122,7 +122,7 @@ redirect_from:
 <div class="MottoSmaller">Le rôle et la position de l’art-thérapeute</div>
 
 <div class="center-block">
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
 </div>
 <p class="intro-text">L’art-thérapeute, formée à des méthodes d’écoute et d’analyse bienveillantes,  accompagne le cheminement des personnes, leur offre un cadre rassurant, et des dispositifs créatifs favorables à l’imaginaire et à la transformation de soi.</p>
 
@@ -136,7 +136,7 @@ Cahiers jungiens de psychanalyse 2012/1 (N° 135), p. 75-96.
 
 <p class="intro-text">L’art-thérapeute n’est là ni pour juger de la qualité d’une œuvre ni pour lui donner une signification et une interprétation appuyée. Sa position est celle d’un tiers qui offre une présence et un cadre rassurants, un regard bienveillant et stimulant, des dispositifs créatifs et des consignes favorables à l’expression et à la transformation de soi.
 </p>
-<div class="center-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1527689103/mon_portrait_en_noir_et_flou_prfdqz.jpg"/></div> 
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1527689103/mon_portrait_en_noir_et_flou_prfdqz.jpg"/></div> 
 <p class="intro-text">L’art-thérapeute est formé.e à ces méthodes d’écoute et d’analyse, à l’impact des médiations et des supports et des matériaux qu’il ou elle utilise, ainsi qu’au développement psychique,  à la psychopathologie et ses différents troubles ou handicaps, et aux problématiques qui s’expriment dans des liens sociaux. L’art-thérapeute est très attentif à ce qui se joue dans les mouvements de transfert de la personne vers ce qu’elle crée, vers les matériaux qu’elle utilise, qu’elle choisit ou rejette, vers le groupe, vers le ou les animateurs tout comme il est attentif au contre-transfert qu’il va vivre lui-même. Il ou elle est en capacité de par sa formation et sa pratique de prendre part au sein d’une institution de soins à la prise en charge collective thérapeutique des personnes. Enfin, il peut ouvrir des passerelles, trouver des résonnances entre les œuvres crées dans ses ateliers et l’histoire et la pratique des arts, afin d’inscrire les personnes participantes dans une culture commune, vivante et partagée.
 </p>
 <div class="quote"><em>«&nbsp;Il s’agit en quelque sorte de créer des «&nbsp;mises en forme imaginaires de soi-même&nbsp;», des déclinaisons de son identité à travers des formes artistiques dans un parcours de créations qui provoquent peu à peu la transformation du sujet créateur, qui lui indiquent un sens, partent de ses douleurs et de ses violences, de ses folies, de ses joies aussi, de toutes ses intensités, de ses idéaux comme des forces obscures, pour le faire le matériau d’un cheminement personnel. En bref, comme on l’a parfois dit, «&nbsp;transformer la merde en engrais&nbsp;».</em></div>
@@ -165,13 +165,13 @@ Les séances peuvent aussi avoir lieu en institutions médicales, elles y sont a
 
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span> propose donc des ateliers d’art-thérapie avec une médiation que l’on pourrait qualifier de «&nbsp;classique&nbsp;»  comme la peinture, le collage, ou l’écriture. Ces médiations peuvent être choisies de manière unique, mais elles peuvent aussi être utilisées en alternance et de manière complémentaire. Nous pouvons ainsi passer de la fabrication d’un objet à de l’écriture, de la photographie à la peinture, du collage à l’écriture...</p>
 
-<div class="center-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg"></div> 
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1527689512/petits_instruments_avec_piano_à_pouce_smpc0e.jpg"></div> 
 <p class="intro-text">L’association propose aussi des médiations plus originales comme par exemple, un atelier pour mères et bébés en problématiques de liens, qui leur permet  de découvrir de petites percussions, de jouer avec des rythmes, de remettre le corps en mouvement et de composer des berceuses, écrites à partir des mouvements de l’enfant, et de ce que la mère peut dire de lui.
 </p>
 
 <p class="intro-text">L’association anime aussi un atelier de fabrication d’objets à partir d’objets récupérés dans les déchetteries ou les greniers. Le glanage faisant partie de la séance d’art-thérapie et permettant de sortir de l’atelier, ce qui parfois donne un mouvement bienvenu. Cet atelier permet notamment de travailler sur la notion de «&nbsp;mise au rebut&nbsp;».
 </p>
-<div class="center-block"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/r_10,q_auto,f_auto,w_400/v1527689691/coeur_suspendu_gmu84u.jpg"/></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/r_10,q_auto,f_auto,w_400/v1527689691/coeur_suspendu_gmu84u.jpg"/></div>
 
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span> anime aussi des ateliers en extérieur et propose de fabriquer des objets, des tableaux à partir de matières organiques ramassées dans les jardins ou les forêts, ce qui permet de mettre au travail tout ce qui concerne le monde sensoriel.
 </p>

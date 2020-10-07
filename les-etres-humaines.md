@@ -6,25 +6,25 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 
 # Les êtres humaines, spectacle autour des violences conjugales
 
-<div class="all-across"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_700/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg"/></div>
+<div class="all-across"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_700/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg"/></div>
 
 _Les êtres humaines_, spectacle joué de 2011 à 2013 en Saône et Loire, en partenariat avec l’Association Ciné-Ressources 71, traitait de l’intimité et de la complexité de la violence conjugale et intra-familiale. Basé sur des témoignages récoltés lors d’ateliers à médiations organisées au CHRS de l’Ecluse, à Chalon sur Saône, et qui regroupaient différents média, comme la peinture, l’écriture, la musique, le portrait photographique, _les êtres humaines_ a été joué par des comédiennes professionnelles et des femmes anciennement victimes de violence rencontrées lors de ces ateliers.
 
 ---
 
 <div id="navcontainer">
-<a href="https://vimeo.com/144494122"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526493406/captation-etres-humaines-button_vpxn5g.png" class="all-across">captation du spectacle</a>
+<a href="https://vimeo.com/144494122"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526493406/captation-etres-humaines-button_vpxn5g.png" class="all-across">captation du spectacle</a>
 
 <hr>
 
-<a href="http://lesetreshumaines.net"><img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489586/je_te_détruirai_Etres_Humaines_eehr9y.jpg" class="all-across">site web du spectacle</a>
+<a href="https://lesetreshumaines.net"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489586/je_te_détruirai_Etres_Humaines_eehr9y.jpg" class="all-across">site web du spectacle</a>
 
 </div>
 
 ## Extraits : 
 
 <div class="right-side-block thumbnail">
-<img src="http://res.cloudinary.com/dnxcesebo/image/upload/v1526489757/êtres_humaines_flyer_tournee2013_pzhlxa.jpg"/></div>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489757/êtres_humaines_flyer_tournee2013_pzhlxa.jpg"/></div>
 >*«&nbsp;Quand c’est le moment de partir, c’est le moment. Le pire c’est que c’était prévu, on m’appelle le matin, on me dit : “y’a une place, est-ce que vous pouvez venir ?" J’ai dit, ce soir je suis là. J’avais fait en sorte de tout laver, de tout laisser à portée de main, et hop, une fois qu’il partirait au travail, tout dans les sacs poubelles. Les hommes, ils se rendent pas compte des sacs poubelles, ils se méfient pas. Alors j’ai pris les sacs poubelles avec dedans ma boîte à trésors avec les bracelets de la maternité, les cordons ombilicaux et les dents de lait, des photos des enfants parce que je voulais pas lui laisser, le dossier avec tous les papiers administratifs, des habits, des chaussettes et des culottes (les chaussettes des garçons, elles ont toujours des trous), la petite télé qui était dans la chambre de mon fils, avec la télécommande, des parts de pizza et des bouteilles d’eau. Et les enfants avec leur doudou. Et aussi de la peur, l’impression d’être suivie, c’est fou ce que je dis mais c’est vrai.&nbsp;»*
 
 ---
