@@ -58,7 +58,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
     <div class="numbertext">7 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601775006/gatsby-cloudinary/clay-catlike.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCapCenter"></figcaption>
     </figure>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
