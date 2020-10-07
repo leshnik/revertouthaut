@@ -14,11 +14,17 @@ tags: [aidants, journée nationale des aidants]
 Il aura lieu la première année, de décembre 2020 à juin 2021 à Mâcon.</p>
 <p class="intro-text">Une restitution publique des travaux (chansons, écrits, photographies) aura lieu en juin 2022. Le cycle est soutenu par la Conférence des Financeurs et est gratuit pour les participants.
 </p>
+<div class="Spacer"></div>
 
-<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142938/flyer-aidants_aimants_hhjoof.jpg" alt="flyer pour Les plus que proches: atelier créatif à destination des aidants"></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142938/flyer-aidants_aimants_hhjoof.jpg" alt="flyer pour Les plus que proches: atelier créatif à destination des aidants"></div>
  
-<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142937/flyer-aidants_aimants-p2_jy2lch.jpg" alt="Atelier créatif à destination des aidants
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142937/flyer-aidants_aimants-p2_jy2lch.jpg" alt="Atelier créatif à destination des aidants
 L’association Rêver Tout Haut propose aux aidants et aux proches de personnes souffrant de maladies neuro-évolutives de participer à un cycle d’ateliers conviviaux et de pratiquer en groupe des activités ressourçantes et complémentaires : échanges, écriture, sophrologie et pratique corporelle, composition de chansons, travail photographique et graphique."></div>
+<ul style="text-align:right;list-style-type:none">
+    <li>
+      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="/media/flyer-aidants-aimants.pdf" download="download">●&nbsp;Cliquer pour télécharger la plaquette</a>
+    </li>
+</ul>
 
 <div class="MottoSmaller">Ateliers animés par:
 </div>
