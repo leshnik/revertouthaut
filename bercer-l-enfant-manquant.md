@@ -316,8 +316,12 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           71400 Autun<br/>
           en partenariat avec le CIAS Grand Autunois-Morvan, et 1 2 3 Soleil,lieu d'accueil Parents/enfants<br/>
           entrée gratuit<br/>
-          <blemlink href="https://www.autun.com/agenda/4/15909-Bercer-lenfant-manquant">Autun Agenda</blemlink><br/>
-          <blemlink href="https://web.digitick.com/bercer-l-enfant-manquant-theatre-theatre-municipal-autun-18-octobre-2019-css5-autunville-pg101-ri6540175.html">résérvations</blemlink>
+          <a href="https://www.autun.com/agenda/4/15909-Bercer-lenfant-manquant" style="font-family: Crimson Text, serif;
+  font-size: 1.3rem;
+  color: hsl(0, 0%, 60%);">●&nbsp;Autun Agenda</a><br/>
+          <a href="https://web.digitick.com/bercer-l-enfant-manquant-theatre-theatre-municipal-autun-18-octobre-2019-css5-autunville-pg101-ri6540175.html" style="font-family: Crimson Text, serif;
+  font-size: 1.3rem;
+  color: hsl(0, 0%, 60%);">●&nbsp;résérvations</a>
         </li>
         <hr>
         <li>
@@ -328,7 +332,9 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           04 50 40 51 69 / 06 07 55 60 45<br/>
           entrée: gratuit<br/>
           en collaboration avec le RAM et Pays de Gex Agglo<br/>
-          <blemlink href="https://en.calameo.com/books/00575678290a7440130e5">la programme de la Maison des Familles</blemlink>
+          <a href="https://en.calameo.com/books/00575678290a7440130e5" style="font-family: Crimson Text, serif;
+  font-size: 1.3rem;
+  color: hsl(0, 0%, 60%);">●&nbsp;la programme de la Maison des Familles</a>
         </li>
         <hr>
         <li>
@@ -366,7 +372,9 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           89000 Auxerre<br/>
           entrée gratuite<br/>
           réservation : 03 86 94 06 34<br/>
-          <blemlink href="https://www.auxerre.fr/Animee/Agenda-des-sorties/Concerts-Spectacles/Bercer-l-enfant-manquant">Auxerre agenda des sorties</blemlink>
+          <a href="https://www.auxerre.fr/Animee/Agenda-des-sorties/Concerts-Spectacles/Bercer-l-enfant-manquant" style="font-family: Crimson Text, serif;
+  font-size: 1.3rem;
+  color: hsl(0, 0%, 60%);">●&nbsp;Auxerre agenda des sorties</a>
         </li>
         <hr>
         <li>
@@ -414,7 +422,9 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           gratuit à 14h30<br/>
           tarif entre 5 et 8 euros pour la séance de 20h30<br/>
           réservation : 03 85 42 46 27<br/>
-          <blemlink href="https://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/">salle pleine pour bercer l'enfant manquant</blemlink>
+          <a href="https://www.info-chalon.com/articles/saint-marcel/2019/02/10/42192/salle-pleine-pour-bercer-l-enfant-manquant-c-etait-au-reservoir/" style="font-family: Crimson Text, serif;
+  font-size: 1.3rem;
+  color: hsl(0, 0%, 60%);">●&nbsp;salle pleine pour bercer l'enfant manquant</a>
         </li>
         <hr>
         <li>
@@ -423,8 +433,10 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           3bis rue de Lyon<br/>
           Chalon sur Saône<br/>
           gratuit — réservation : 06 14 40 46 61<br/>
-          <blemlink href="https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)">le journal de saône et loire</blemlink><br>
-          <img style="margin-left:3px; width:50%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png">
+          <a href="https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)" style="font-family: Crimson Text, serif;
+  font-size: 1.3rem;
+  color: hsl(0, 0%, 60%);">●&nbsp;le journal de saône et loire</a><br>
+          <img style="margin-left:3px; width:40%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png">
         </li>
         <hr>
         <li>
