@@ -12,6 +12,10 @@ title: institutions et partenaires
 <ul class="institutions">
 <li>Plate-forme de Répit, Mâcon</li>
 
+<li>Reseda, Réseau des Maladies Neuro-Evolutives, Bourgogne-Franche-Comté</li>
+
+<li>Pôle Association des Paralysés de France, France Handicap, Saint Rémy</li>
+
 <li>Réseau des aidants 71</li>
 
 <li>Résidence Seniors du Val de Joux</li>
