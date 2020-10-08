@@ -41,3 +41,4 @@ redirect_from:
 
 <p class="intro-text">L'approche sophrologique pour les professionnels permet de travailler beaucoup de thématiques, de faire un retour sur expérience et d'améliorer la qualité de son quotidien professionnel. Nous pouvons proposer des cycles de séances hebdomadaires sur plusieurs mois, ou des modules plus courts et plus ponctuels, sur des thèmes comme «&nbsp;la gestion du stress en milieu professionnel&nbsp;», ou «&nbsp;prendre soin de soi pour prendre soin des autres&nbsp;».
 </p>
+<div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
