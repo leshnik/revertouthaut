@@ -1,17 +1,30 @@
 <head>
-      <title>{{ page.title }}</title>
-      <link rel="stylesheet" href="css/sidebar.css">
-      <link rel="stylesheet" href="css/footer.css">
-      <link href="https://fonts.googleapis.com/css?family=Amatic+SC:700|Lora|Libre+Baskerville|Open+Sans+Condensed:300|Crimson+Text&display=swap" rel="stylesheet">
-      {% if page.summary %}
-            <meta name="description" content="{{ page.summary | escape }}">
-            <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      {% endif %}
-      {%if page.tags %}
-            <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}"/>
-      {%endif %}
-      <!-- <link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png"> -->
-      <link rel="shortcut icon" type="image/png" href="https://revertouthaut.fr/ladder-nuage-noWords-square32.png">
-      <link rel="apple-touch-icon" sizes="152x152" href="https://revertouthaut.fr/apple-touch-icon-152x152.png">
-      <meta content="width=device-width, initial-scale=1" name="viewport"/>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="css/sidebar.css" />
+  <link rel="stylesheet" href="css/footer.css" />
+  <link
+    href="https://fonts.googleapis.com/css?family=Amatic+SC:700|Lora|Libre+Baskerville|Open+Sans+Condensed:300|Crimson+Text&display=swap"
+    rel="stylesheet"
+  />
+  {% if page.summary %}
+  <meta name="description" content="{{ page.summary | escape }}" />
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no"
+  />
+  {% endif %} {%if page.tags %}
+  <meta name="keywords" content="{{ page.tags | join: ', ' | escape }}" />
+  {%endif %}
+  <!-- <link rel="shortcut icon" type="image/png" href="{{site.url}}/favicon.png"> -->
+  <link
+    rel="shortcut icon"
+    type="image/png"
+    href="https://revertouthaut.fr/ladder-nuage-noWords-square32.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="152x152"
+    href="https://revertouthaut.fr/favicon.png"
+  />
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
 </head>
