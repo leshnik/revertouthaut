@@ -130,7 +130,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <p style="padding:15px">Attn: spectacles de mars reportés à cause du Covid-19, la nouvelle date est annoncée ci-dessus !</p>
 
   <div class="center-big-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_768/v1602231953/psesm-affiche-2020-11_k9jnjy.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1602259460/psesm-affiche-course_ppmtby.jpg">
   </div>
   <div class="MottoSmaller">Extraits :</div>
   <cite>
