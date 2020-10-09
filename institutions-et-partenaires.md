@@ -60,9 +60,9 @@ title: institutions et partenaires
 
 <li>Association Vivre au Féminin, Tournus</li>
 
-<li>Le Réservoir, Saint Marcel, salle</li>
+<li>Le Réservoir, Saint Marcel, salle de spectacle</li>
 
-<li>L’Ecla, Saint Vallier, salle</li>
+<li>L’Ecla, Saint Vallier, salle de spectacle</li>
 
 <li>Ciné-Ressources 71</li>
 </ul>
