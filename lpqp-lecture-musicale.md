@@ -73,6 +73,56 @@ title: les plus que proches - lecture musicale
     </li>
   </ul>
   <h2 style="font-size:32px; color:hsl(171,93.5%,36.5%); text-align:left;">
+    écouter quelques extraits de la pièce
+  </h2>
+    <figure>
+    <figcaption>les valeurs morales:</figcaption>
+    <audio
+        controls
+        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602255340/les_valeurs_morales_hu7tfc.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, texte: Isis Philippe-Janon</figcaption>
+
+</figure>
+
+<figure>
+    <figcaption>la traductrice et une maladie à deux:</figcaption>
+    <audio
+        controls
+        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602258378/la_traductrice_et_une_maladie_a%CC%80_deux_-_ce_terme_siosh6.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, texte: Valérie Gaudissart</figcaption>
+
+</figure>
+
+<figure>
+    <figcaption>la muse patience:</figcaption>
+    <audio
+        controls
+        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602256064/la_muse_patience_v5wkke.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, texte: Isis Philippe-Janon</figcaption>
+
+</figure>
+<figure>
+    <figcaption>la maison de retraite et l'amour pur:</figcaption>
+    <audio
+        controls
+        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602255718/la_maison_de_retraite_et_l_amour_pur_ohxarh.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, texte: Valérie Gaudissart</figcaption>
+
+</figure>
+
+  <h2 style="font-size:32px; color:hsl(171,93.5%,36.5%); text-align:left;">
     lire quelques extraits de la pièce
   </h2>
   <cite>
