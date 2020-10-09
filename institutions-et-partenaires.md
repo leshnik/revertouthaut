@@ -59,5 +59,11 @@ title: institutions et partenaires
 <li>Association pour l’Accompagnement de l’Enfance et de la Parentalité, /Jeunes Pousses, Bourg en Bresse</li>
 
 <li>Association Vivre au Féminin, Tournus</li>
+
+<li>Le Réservoir, Saint Marcel, salle</li>
+
+<li>L’Ecla, Saint Vallier, salle</li>
+
+<li>Ciné-Ressources 71</li>
 </ul>
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu par la Conférence des Financeurs et Conseil Départemental de Saône et Loire</p>
