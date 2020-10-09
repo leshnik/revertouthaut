@@ -18,7 +18,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    <div class="numbertext">1 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969073/gatsby-cloudinary/Parent_solo_12.svg">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
@@ -26,7 +26,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    <div class="numbertext">2 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969062/gatsby-cloudinary/Parent_solo_29.svg">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
@@ -34,15 +34,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969092/gatsby-cloudinary/Parent_solo_31.svg">
-      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    <div class="numbertext">4 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969088/gatsby-cloudinary/Parent_solo_48.svg">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
@@ -50,7 +42,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    <div class="numbertext">5 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969092/gatsby-cloudinary/Parent_solo_50.svg">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
@@ -58,7 +50,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    <div class="numbertext">6 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969090/gatsby-cloudinary/Parent_solo_52.svg">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
@@ -136,9 +128,9 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <h3 style="text-align:center;font-size:30px;color:white">réservation obligatoire : 03 85 42 46 27
   </h3>
   <p style="padding:15px">Attn: spectacles de mars reportés à cause du Covid-19, la nouvelle date est annoncée ci-dessus !</p>
-  <p style="padding:15px">La nouvelle affiche est en préparation.</p>
+
   <div class="center-big-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1581649257/Affiche-parent-solo_jumrye.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_768/v1602231953/psesm-affiche-2020-11_k9jnjy.jpg">
   </div>
   <div class="MottoSmaller">Extraits :</div>
   <cite>
