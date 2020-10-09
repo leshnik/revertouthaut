@@ -248,6 +248,12 @@ hr {
   margin-right: auto;
   width: 85%;
 }
+.center-max600-block {
+  margin-left: auto;
+  margin-right: auto;
+  width: 95%;
+  max-width: 600px;
+}
 .small-image {
   width: 50%;
 }
