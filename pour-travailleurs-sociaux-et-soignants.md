@@ -43,6 +43,7 @@ summary: Le travail social et soignant demandant de la part des professionnels u
 
 <p class="intro-text">L'approche sophrologique pour les professionnels permet de travailler beaucoup de thématiques, de faire un retour sur expérience et d'améliorer la qualité de son quotidien professionnel. Nous pouvons proposer des cycles de séances hebdomadaires sur plusieurs mois, ou des modules plus courts et plus ponctuels, sur des thèmes comme «&nbsp;la gestion du stress en milieu professionnel&nbsp;», ou «&nbsp;prendre soin de soi pour prendre soin des autres&nbsp;».
 </p>
+<hr class="styled-hr">
 <div class="MottoSmaller">atelier d'écriture pour professionels</div>
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1527695482/mots_découpés_xymq8z.jpg">
