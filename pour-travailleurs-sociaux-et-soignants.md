@@ -4,15 +4,15 @@ title: pour travailleurs sociaux et soignants
 summary: Le travail social et soignant demandant de la part des professionnels un fort engagement dans les liens humains et un réel accompagnement de problématiques parfois lourdes, il est souhaitable pour ses professionnels et leurs institutions, de pouvoir déposer leurs expériences et de pouvoir les transformer dans le cadre d’ateliers créatifs.
 ---
 
-<div class="Motto">pour travailleurs sociaux et soignants</div>
+<h1>pour travailleurs sociaux et soignants</h1>
 
-<div class="MottoSmaller">Ateliers à destination des professionnels</div>
+<h2>Ateliers à destination des professionnels</h2>
 
 <div style="max-width:600px; margin: auto">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1527693509/gros_Plan_2_collage_Valérie_hsmwbp.jpg"/>
 </div>
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span> s’intéresse au monde du travail, et plus particulièrement au travail social, au travail soignant, à tout travail où l’accompagnement des personnes est fondateur et au cœur des missions.  L’association crée spécialement pour  les professionnels et leurs institutions des ateliers de groupe, d’art-thérapie, de création, et des séances de sophrologie qui leur sont destinés.
-<div class="MottoSmaller">déposer et transformer</div>
+<h2>déposer et transformer</h2>
 
 <p class="intro-text">En effet, il nous parait important que les travailleurs sociaux, les enseignants, les soignants, les personnes qui sont le plus en contact avec des problématiques parfois lourdes puissent elles aussi déposer et transformer quelque chose de leur vécu professionnel et personnel. Il faut en effet pouvoir prendre soin de soi pour pouvoir prendre soin des autres.
 </p>
@@ -21,7 +21,7 @@ summary: Le travail social et soignant demandant de la part des professionnels u
 <p class="cite">Michel Autès<br> dans «&nbsp;_Les paradoxes du travail social_&nbsp;»
 </p>
 
-<div class="MottoSmaller">Complexité de l'accompagnement</div>
+<h2>Complexité de l'accompagnement</h2>
 
 <div style="max-width: 600px; margin: auto">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300,r_10,q_auto,f_auto/v1526489452/collage_Valérie_2_d4onec.jpg"/>
@@ -32,19 +32,19 @@ summary: Le travail social et soignant demandant de la part des professionnels u
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span> est un lieu où les professionnels du lien et du soin et leurs institutions peuvent trouver un accompagnement qui leur permette d’élaborer et de transformer leurs expériences, leur charge de travail, les relations à leurs usagers, le regard qu’ils portent sur eux (et réciproquement) au quotidien. ​​Ces ateliers que nous proposons peuvent être un complément aux séances d’analyse de la pratique organisées par les institutions elles-mêmes.
 </p>
 
-<div class="MottoSmaller">ateliers d’écriture pour travailleurs sociaux et soignants</div>
+<h2>ateliers d’écriture pour travailleurs sociaux et soignants</h2>
 <p class="intro-text">Comment rendre compte de rencontres marquantes, troublantes, parfois envahissantes, voire culpablisantes, que l’on peut faire dans le cadre de son travail d’accompagnement social ou soignant ? En écrivant, en transformant par des textes et des chansons ce vécu parfois complexe à transmettre.
 </p>
 <p class="intro-text">La rencontre est à la base du travail social et soignant et la rencontre bouscule les individus, qu’ils soient professionnels ou usagers : Qu’est-ce que les personnes bénéficiaires d’un accompagnement social, les personnes exclues, les personnes aux carences affectives profondes, aux ruptures accumulées, disparaissant et réapparaissant de façon soudaine dans leur environnement, les personnes souffrant de pathologies font-elles vivre à celles qui les suivent et les soutiennent ? Comment le travailleur social ou soignant trouve-t-il sa place au sein de cette relation particulière ? Comment la nourrit-elle ? Comment s’accommode-t-il avec sa position d’accompagnement de l’exclusion et avec la loyauté qu’il doit déployer vis à vis de son institution ou de la société ? Comment négocie-t-il entre son désir de sauver le monde et de l’autre côté, d’en accepter le fonctionnement ? Comment faire avec ces ambivalences, douloureuse parfois mais inhérentes au travail d’accompagnement et du soin ?
 </p>
 <p class="intro-text">Alors, que proposer, à partir de toutes ces données, pour que l’accompagnement social ou soignant trouve ou retrouve un peu de distance, un peu d’air, en un mot un peu de créativité qui permettrait un bienvenu mouvement de la pensée ?
 </p>
-<div class="MottoSmaller"> atelier et formation en sophrologie pour professionnels</div>
+<h2> atelier et formation en sophrologie pour professionnels</h2>
 
 <p class="intro-text">L'approche sophrologique pour les professionnels permet de travailler beaucoup de thématiques, de faire un retour sur expérience et d'améliorer la qualité de son quotidien professionnel. Nous pouvons proposer des cycles de séances hebdomadaires sur plusieurs mois, ou des modules plus courts et plus ponctuels, sur des thèmes comme «&nbsp;la gestion du stress en milieu professionnel&nbsp;», ou «&nbsp;prendre soin de soi pour prendre soin des autres&nbsp;».
 </p>
 <hr class="styled-hr">
-<div class="MottoSmaller">atelier d'écriture pour professionels</div>
+<h2>atelier d'écriture pour professionels</h2>
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1527695482/mots_découpés_xymq8z.jpg">
 </div> 

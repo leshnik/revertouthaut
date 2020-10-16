@@ -4,17 +4,17 @@ title: L’hibernance des bêtes, spectacle qui témoigne du travail social
 summary: Spectacle à venir, «&nbsp;l’hibernance des bêtes&nbsp;» est le résultat d’ateliers d’écriture menés auprès de travailleurs sociaux qui témoignent de rencontres marquantes avec certains de leurs usagers et qui leur ont fait vivre quelque chose de puissant, de troublant, et de difficilement communicable.
 ---
 
-<div class="Motto">l'hibernance des bêtes</div> 
-<div class="MottoSmaller">spectacle qui témoigne du travail social</div>
+<h1>l'hibernance des bêtes</h1> 
+<h2>spectacle qui témoigne du travail social</h2>
 
 <!-- <div class="all-across">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/r_10,q_auto,f_auto,w_600/v1527697622/chien_de_neige_pd86r5.jpg"/>
 </div> -->
 <p class="intro-text">L’hibernance des bêtes mettra en musique et en scène des textes écrits lors d’ateliers d’écriture organisés dans le cadre du travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour fin 2021.</p>
 
-<div class="MottoSmaller">Voici des exemples de ces premiers textes :</div>
+<h2>Voici des exemples de ces premiers textes :</h2>
 
-<div class="Motto">l’impératrice</div>
+<h1>l’impératrice</h1>
 
 <div class="quote"><em>Elle porte un nom d’empereur.  
 Sur sa photo encadrée, un beau visage de femme rousse, jeune, diaphane, rêveur  
@@ -45,7 +45,7 @@ nous lui souhaitons une bonne journée, rassurées de la voir debout malgré tou
 et la laissons, seule, souveraine, encore vivante,  
 Elle, l’impératrice de son supermarché, rayon bouteilles de rosé.</em></div>
 
-<div class="Motto">soustraction</div>
+<h1>soustraction</h1>
 
 <div class="quote"><em>Elle est amoureuse de son cousin  
 <br> Depuis six mois deux semaines et trois jours  

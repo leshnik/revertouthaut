@@ -5,7 +5,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 ---
 
 <div id="blem" style="background-color: hsl(30,50%,85%); margin-top:20px; margin-bottom:50px">
-  <div class="Motto">bercer l'enfant manquant</div>
+  <h1>bercer l'enfant manquant</h1>
   <p class="intro-text">
     Basée sur des témoignages recueillis auprès de mères, de sages-femmes, et de soignantes, « Bercer l’enfant manquant » explore lesliens qui se tissent, se vivent, s’installent et parfois ont du mal à se nouer, entre les mères et leurs enfants.
   </p>
@@ -21,9 +21,9 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
   <p class="intro-text">
     Et l’enfant manquant c'est l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel&hellip;
   </p>
-  <h2 style="font-size:32px; color:hsl(171, 93%, 25%); text-align:left;">
+  <h3 style="font-size:32px; color:hsl(171, 93%, 25%); text-align:left;">
     pour visionner quelques extraits de la pièce
-  </h2>
+  </h3>
   <video controls="controls" width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1555399096/revertouthaut-presente_giqsdi.png" alt="des témoignages de mères et de sages-femmes, pour explorer lesliens mère/enfant, et questionner l'expérience intime, universelle et complexe de la maternité">
     <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">
     <p>Your browser doesn't support HTML5 video. Here is a
@@ -41,7 +41,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
       <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html">●&nbsp;reportage sur france3-bourgogne par Maryline Barate, publié le 08/02/2019.</a>
     </li>
   </ul>
-  <div class="MottoSmaller">photos du spectacle</div>
+  <h2>photos du spectacle</h2>
   <!-- Slideshow container -->
   <div class="slideshow-container">
 
@@ -240,11 +240,11 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
       }
     </script>
 
-  <div class="MottoSmaller">prochainement</div>
+  <h2>prochainement</h2>
 
   <div style="padding:15px">
 
-  <ul class="Coming">
+  <ul class="coming">
       <li>
           vendredi 30 avril 2021 à 20h<br>
           Foyer Municipal<br>
@@ -290,8 +290,8 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
       </ul>
       <hr>
 
-  <div class="MottoSmaller">représentations passées</div>
-      <ul class="Past">
+  <h2>représentations passées</h2>
+      <ul class="past">
         <li>
           mardi 3 decembre 2019 à 20h<br>
           Salle des fêtes Maurice Ravel<br>
@@ -449,9 +449,9 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
         </li>
       </ul>
-      <h2 style="font-size:32px; color:#7551e1; text-align:left;">
+      <h3 style="font-size:32px; color:#7551e1; text-align:left;">
         lire quelques extraits de la pièce
-      </h2>
+      </h3>
       <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
         J’étais bien motivée<br/>
         J’ai dit « non non je veux pas de péridurale »<br/>

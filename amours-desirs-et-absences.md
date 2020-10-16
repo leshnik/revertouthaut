@@ -3,7 +3,7 @@ layout: logoTop
 title: Amours, désirs et absences
 ---
 
-<div class="Motto">amours, désirs et absences</div>
+<h1>amours, désirs et absences</h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container" style="position: relative;">

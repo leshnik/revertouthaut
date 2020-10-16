@@ -4,10 +4,10 @@ title: Les êtres humaines, spectacle autour des violences conjugales
 summary: Joué par des femmes anciennement victimes et des comédiennes professionnelles, le spectacle a été crée à partir d’ateliers artistiques menés en CHRS à Chalon sur Saône et des témoignages donnés aussi bien par les femmes accueillies que par les travailleuses sociales qui les accompagnent. Le spectacle a été joué de 2011 à 2013.
 ---
 
-<div class="Motto">Les êtres humaines</div> 
-<div class="MottoSmaller">spectacle autour des violences conjugales</div>
+<h1>Les êtres humaines</h1> 
+<h2>spectacle autour des violences conjugales</h2>
 
-<div class="Spacer"></div>
+<div class="space-below"></div>
 
 <div class="all-across"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_700/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg"/></div>
 
@@ -22,7 +22,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 
 </div>
 
-<div class="MottoSmaller">Extraits : </div>
+<h2>Extraits : </h2>
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1526489757/êtres_humaines_flyer_tournee2013_pzhlxa.jpg"/>
 </div>

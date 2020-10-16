@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: l'association rêver tout haut
+summary: Ouverts à tous et de tout âge, nos ateliers sont aussi adaptés à des situations spécifiques et peuvent prendre en compte des problématiques de santé, de handicap, d’addiction, des difficultés sociales, et les difficultés que peuvent rencontrer les aidants, les travailleurs sociaux et soignants, tous ceux qui œuvrent dans les liens d’accompagnement.
 ---
 
 <p class="shadow" style="background-color:#7551e1">

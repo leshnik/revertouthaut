@@ -5,9 +5,9 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 ---
 
 <div id="psesm" style="background-color: #f6c172; margin-top:20px;letter-spacing: 0.2rem; padding:15px">
-  <div class="Motto">
+  <h1>
     parent solo et ses marmots
-  </div>
+  </h1>
   <hr class="styled-hr">
   <h2 style="color:white; text-align:center; font-size:32px;letter-spacing: 0.2rem;">
     atelier créatif et spectacle sur le thème de la parentalité
@@ -122,17 +122,17 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <p class="intro-text">
     Avec Aïcha Broutin, Nelly Triba, Sara Lahrizi, Virginie Côte, Ghizlane Harrak, Coraline Henry, Sidonie Dubosc, Sylvia Etcheto, Valérie Gaudissart et Morton Potash.
   </p>
-  <h2 style="color:tomatored; text-align:center; font-size:42px;letter-spacing: 0.2rem;">Représentation le 27 novembre 2020
+  <h1>Représentation le 27 novembre 2020
     <br>à 14h30 et 20h30
-    <br>au Réservoir de Saint Marcel</h2>
-  <h3 style="text-align:center;font-size:30px;color:white">réservation obligatoire : 03 85 42 46 27
-  </h3>
+    <br>au Réservoir de Saint Marcel</h1>
+  <h4>réservation obligatoire : 03 85 42 46 27
+  </h4>
   <p style="padding:15px">Attn: spectacles de mars reportés à cause du Covid-19, la nouvelle date est annoncée ci-dessus !</p>
 
   <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1602259460/psesm-affiche-course_ppmtby.jpg">
   </div>
-  <div class="MottoSmaller">Extraits :</div>
+  <h2>Extraits :</h2>
   <cite>
     «Je ne dirais pas que je me suis sacrifiée mais... je pense que j’aurais pu faire beaucoup plus pour moi si je m’étais accordé plus de liberté. Même les faire manger à la cantine, je ne me l’accordais pas, je les faisais manger tous les midis à la maison, ça m’a clouée sur place en fait. Je crois que je voulais être parfaite.»
   </cite><hr>

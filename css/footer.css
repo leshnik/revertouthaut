@@ -1,94 +1,51 @@
-.FooterColumn {
+/* .FooterColumn {
   display: flex;
   flex-direction: column;
   margin-top: 2rem;
-}
-.FooterRow {
+} */
+/* .FooterRow {
   margin: 0;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-}
-.Words {
-  display: flex;
-  flex-direction: column;
-  margin: auto;
-}
-.Motto {
-  font-family: "Amatic SC";
-  font-size: 42px;
-  font-weight: 700;
-  color: #a27c55;
-  text-align: center;
-  text-shadow: 2.5px 2.5px 5px #5c3c29;
-  letter-spacing: 0.2em;
-}
-.MottoSmaller {
-  font-family: "Amatic SC";
-  font-size: 30px;
-  font-weight: 700;
-  color: #a27c55;
-  text-align: center;
-  text-shadow: 2.5px 2.5px 5px #5c3c29;
-  letter-spacing: 0.2em;
-  padding-top: 1.5rem;
-  padding-bottom: 1rem;
-}
-.Motto a {
-  font-family: "Amatic SC";
-  font-size: 32px;
-  font-weight: 700;
-  color: #a27c55;
-  text-align: left;
-  text-shadow: 2.5px 2.5px 5px #5c3c29;
-  letter-spacing: 0.2em;
-}
+} */
 
-.MenuDiv {
+
+/* .MenuDiv {
   text-align: right;
 }
 .MenuDiv a {
   color: black;
-}
-.Image {
+} */
+/* .Image {
   padding-right: 2px;
   min-width: 80px;
   max-width: 250px;
   margin-top: 15px;
   vertical-align: bottom;
-}
-.NavList {
+} */
+/* .NavList {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
   flex-direction: row;
   padding: 0 2px;
   justify-content: space-around;
-}
-.NavListTitres {
+} */
+/* .NavListTitres {
   font-size: 32px;
-}
-.NavList p {
+} */
+/* .NavList p {
   width: 28ch;
-}
-.CenterList {
+} */
+/* .CenterList {
   text-align: center;
 }
-.Logo {
+*/
+
+/* .Logo {
   width: 100%;
 }
-.LogoAndMenu {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-  align-items: baseline;
-}
-.Coming li {
-  color: hsl(171, 93%, 25%);
-}
-.Past li {
-  color: hsl(0, 0%, 70%);
-}
-.Spacer {
-  margin-bottom: 30px;
-}
+ */
+
+

@@ -7,7 +7,7 @@ redirect_from:
   - "/en-savoir-plus-sur-art-therapie/"
 ---
 
-<div class="Motto">Art-thérapie</div>
+<h1>Art-thérapie</h1>
 <!-- Slideshow container -->
 <div class="slideshow-container" style="position: relative;">
 
@@ -119,7 +119,7 @@ redirect_from:
 <p class="intro-text">L’art-thérapie s’intéresse au processus psychique et thérapeutique qui se joue à l’intérieur d’un atelier et met en travail, par le biais des médiations créatives, les problématiques psychiques, physiques et sociales des personnes. En ce sens, la production d’œuvres, leur achèvement, leur «&nbsp;réussite&nbsp;» voire leur rendu public y sont beaucoup moins urgents, essentiels que le processus lui-même.
 </p>
 
-<div class="MottoSmaller">Le rôle et la position de l’art-thérapeute</div>
+<h2>Le rôle et la position de l’art-thérapeute</h2>
 
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
@@ -144,7 +144,7 @@ Cahiers jungiens de psychanalyse 2012/1 (N° 135), p. 75-96.
 <div class="cite">Jean-Pierre Klein,<br>«&nbsp;_L'art-thérapie_&nbsp;», PUF, 1997, p 42.
 </div>
 
-<div class="MottoSmaller">Contenu et déroulé des séances</div>
+<h2>Contenu et déroulé des séances</h2>
 
 <p class="intro-text">En fonction des problématiques à traiter, des diagnostics, et du désir exprimé par les personnes, _Rêver tout haut_{:.rever-typog} propose des accompagnements qui incluent de manière croisée ou non, le collage, l’écriture, le modelage, la peinture, la musique, le théâtre, la fabrication d’objets, la vidéo et la photographie.
 </p>

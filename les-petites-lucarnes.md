@@ -4,7 +4,7 @@ title: Les petites lucarnes - ateliers destinés aux personnes en insertion à M
 summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant art thérapie, musique, photographie, vidéo, et ayant comme but la revalorisation, l'estime de soi et le retour vers l'emploi. Soutenu par l'association Le Pont.
 ---
 
-<div class="Motto">Les petites lucarnes</div>
+<h1>Les petites lucarnes</h1>
 <p class="intro-text"><cite>La lucarne est une ouverture, et c’est aussi de par sa forme et sa matière, une vitre dans laquelle voir son reflet, et c’est aussi un écran sur lequel peuvent se projeter des images. Se refléter (et « se » réfléchir ») et se projeter, voilà donc les buts recherchés dans notre dispositif d’ateliers. </cite></p>
 
 <!-- Slideshow container -->
@@ -136,7 +136,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 
 <p class="intro-text">Créer des liens sociaux, des liens d’expressions, des liens entre son passé et son avenir des passerelles entre toutes les facettes de sa personne.</p>
 
-<div class="MottoSmaller">Quelques unes des<br> chansons composées</div>
+<h2>Quelques unes des<br> chansons composées</h2>
 <figure>
     <figcaption>dans le miroir:</figcaption>
     <audio

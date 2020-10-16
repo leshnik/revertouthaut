@@ -1,9 +1,10 @@
 ---
 layout: logoTop
 title: ateliers
+summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône et Loire, au domicile des personnes, en institution et aussi en cabinet à Buffières dans le sud du département.
 ---
 
-<div class="Motto">ateliers</div>
+<h1>ateliers</h1>
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span>, en réponse à des demandes individuelles, groupales ou institutionnelles conçoit, organise et anime des ateliers divers, souvent complémentaires, et menés par toute une équipe d’intervenant.es qui communiquent entre elles/eux afin de permettre et d’inventer le meilleur accompagnement possible.
 </p>
 <p class="intro-text">Nous intervenons à domicile, en cabinet et en institution.
@@ -13,7 +14,7 @@ title: ateliers
 
 <p class="intro-text">Voici quelques uns de nos ateliers à venir, en cours, ou effectués depuis 2019.
 </p>
-<ul class="CenterList">
+<ul class="center-text">
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie</a></li>
 
   <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants</a></li>
@@ -37,7 +38,7 @@ title: ateliers
   <li><a style="color: rgb(181, 136, 136)" href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances</a></li>
 
 </ul>
-<div class="Spacer"></div>
+<div class="space-below"></div>
 <!-- Slideshow container -->
 <div class="slideshow-container" style="position: relative;">
 

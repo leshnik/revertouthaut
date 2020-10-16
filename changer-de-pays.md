@@ -3,7 +3,7 @@ layout: logoTop
 title: Changer de pays
 ---
 
-<div class="Motto">changer de pays</div>
+<h1>changer de pays</h1>
 <p class="intro-text">En collaboration avec l’association le Pont de Macon et son antenne accueillant des réfugiés, Rêver Tout Haut a imaginé un cycle de 7 séances destiné à deux familles Yezidi résidant dans le Clunisois.
 </p>
 <p class="intro-text">L’idée étant de pouvoir participer par la création à un accompagnement global de ces familles exilées.

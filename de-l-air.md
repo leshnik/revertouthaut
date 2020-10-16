@@ -3,9 +3,9 @@ layout: logoTop
 title: De l'air !
 ---
 
-<div class="Motto">
+<h1>
 de l'air&nbsp;!
-</div>
+</h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container" style="position: relative;">

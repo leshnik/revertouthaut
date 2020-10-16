@@ -1,9 +1,11 @@
 ---
 layout: logoTop
-title: séances à domicile
+title: Séances à domicile, un moyen créatif de sortir de l’isolement
+summary: Pour permettre aux personnes de recréer du lien social, de se réinscrire dans le réel, nos différentes médiations peuvent avoir lieu à domicile et sont pensées et conçues pour chaque situation, par une équipe pluridisciplinaire.
 ---
 
-<div class="Motto">séances à domicile</div>
+<h1>séances à domicile</h1>
+<h2>un moyen créatif de sortir de l'isolement</h2>
 
 <p class="intro-text">Dans l’idée d’accompagner et de rendre possible le maintien à domicile, de stimuler des capacités cognitives, d’apporter une aide ou de compléter un suivi médical ou psychologique, Rêver Tout Haut propose des séances d’art-thérapie et de sophrologie sur vos lieux de résidence.</p>
 

@@ -4,8 +4,8 @@ title: les plus que proches - lecture musicale
 ---
 
 <div id="lpqp" style="background-color: hsl(96,93.2%,96%); margin-top:20px;letter-spacing: 0.2rem; padding:15px">
-  <div class="Motto">les plus que proches</div>
-  <div class="MottoSmaller">lecture musicale</div>
+  <h1>les plus que proches</h1>
+  <h2>lecture musicale</h2>
 
   <p class="intro-text">
     <cite>«Être aidant ça s'apprend»</cite>
@@ -35,8 +35,8 @@ title: les plus que proches - lecture musicale
     </li>
   </ul>
 
-  <div class="MottoSmaller">prochaines lectures</div>
-  <ul class="Coming">
+  <h2>prochaines lectures</h2>
+  <ul class="coming">
     <li>
       vendredi 10 décembre 2021<br>
       à Mâcon<br>
@@ -54,7 +54,8 @@ title: les plus que proches - lecture musicale
     </li>
   </ul>
   <hr>
-  <ul class="Past">
+  <h2>lectures passées</h2>
+  <ul class="past">
     <li>
       mercredi 30 septembre 2020 de 15h à 17h<br>
       Théâtre Municipal Sauvageot<br>
@@ -72,9 +73,9 @@ title: les plus que proches - lecture musicale
       avec le Plateforme d'accompagnement et de répit des aidants familiaux de personnes atteintes de maladies neuro-évolutives
     </li>
   </ul>
-  <h2 style="font-size:32px; color:hsl(171,93.5%,36.5%); text-align:left;">
+  <h3>
     écouter quelques extraits de la pièce
-  </h2>
+  </h3>
     <figure>
     <figcaption>les valeurs morales:</figcaption>
     <audio
@@ -122,9 +123,9 @@ title: les plus que proches - lecture musicale
 
 </figure>
 
-  <h2 style="font-size:32px; color:hsl(171,93.5%,36.5%); text-align:left;">
+  <h3>
     lire quelques extraits de la pièce
-  </h2>
+  </h3>
   <cite>
     «Ce qui va me faire le plus de mal, c’est de placer ma femme pour huit jours pour que je puisse partir avec des copains et faire du vélo, car je ne peux plus partir avec eux avec ma femme, je peux plus leur imposer ça. La laisser, je sais qu’il faudra que j’y passe un jour. Mais je sais pas comment je vais réagir. Depuis 56 ans ensemble, la laisser... Des fois je vais dans mon garage, et je chougne.»
   </cite>

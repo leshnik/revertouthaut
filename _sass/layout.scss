@@ -1,0 +1,39 @@
+  .one-third {
+      width: 30ch;
+  }
+  .space-between--no-wrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    align-items: baseline;
+  }
+  .space-around--wrap {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+    flex-direction: row;
+    padding: 0 2px;
+    justify-content: space-around;
+  }
+
+  .space-below {
+    margin-bottom: 30px;
+  }
+  .right-side-text {
+      text-align: right;
+  }
+  .center-text {
+      text-align: center;
+  }
+  .logo-image {
+    padding-right: 2px;
+    min-width: 80px;
+    max-width: 250px;
+    margin-top: 15px;
+    vertical-align: bottom;
+  }
+  .content-container {
+    display: flex; 
+    flex-direction: column; 
+    width: 95%;
+  }

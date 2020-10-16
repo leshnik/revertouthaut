@@ -5,7 +5,7 @@ summary: Atelier d'écriture gratuit destiné aux seniors du val de Joux
 Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux et aux seniors extérieurs, ayant pour but la création d'un livret sur le thème de la transmission et de l'histoire familiale.
 ---
 
-<div class="Motto">Histoire de mes ressemblances</div>
+<h1>Histoire de mes ressemblances</h1>
 
 <!-- Slideshow container -->
 <div class="slideshow-container" style="position: relative;">

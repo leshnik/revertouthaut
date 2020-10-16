@@ -5,7 +5,7 @@ summary: Un temps de répit pour aidants familiaux. Ateliers créatifs gratuits 
 tags: [aidants, journée nationale des aidants]
 ---
 
-<div class="Motto">les plus que proches</div>
+<h1>les plus que proches</h1>
 
 <p class="intro-text">Soutenu par la Conférence des Financeurs et le Conseil Départemental de Saône et Loire, notre cycle d’ateliers <em>«Les plus que proches»</em> ouvert aux aidant.es, proposait aux participants de garder traces, de transformer et de transmettre, par le biais d’un travail créatif, de ce qu’elles et ils vivent au quotidien et au plus profond de leur intimité émotionnelle et de leur histoire familiale.
 </p>
@@ -34,7 +34,7 @@ tags: [aidants, journée nationale des aidants]
 <p class="intro-text">Elles reflètent ce que nous avons ensemble fait ressortir comme thèmes et pensées : les liens d’affection qui se transforment, le fait de se sentir relié à son aidé au-delà des mots, la peur de devenir maltraitant.e, abandonnant.e, l’épuisement et l’inventivité dont il faut faire preuve chaque jour, l’impression d’être soi-même atteint par les symptômes...
 </p>
 
-<div class="MottoSmaller">en voici quelques exemples:</div>
+<h2>en voici quelques exemples:</h2>
 
 <figure>
     <figcaption>qui es tu&nbsp;?</figcaption>

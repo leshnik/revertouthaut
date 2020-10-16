@@ -1,9 +1,10 @@
 ---
 layout: logoTop
 title: institutions et partenaires
+summary: Sous forme de protocole et en complément du suivi médical et social des personnes, nos ateliers peuvent s’adapter à toutes sortes d’institutions, d’associations et de structures de soin, du monde éducatif, judiciaire, de la précarité sociale, de la Protection de l’Enfance, et tous les services d’aides et d’accompagnement des personnes en difficulté.
 ---
 
-<div class="Motto">Institutions et partenaires</div>
+<h1>Institutions et partenaires</h1>
 
 <p class="intro-text">En dialogue étroit avec les institutions demandeuses d’un accompagnement, <span class="rever-typog">rêver tout haut</span> a travaillé dans le champ du soin, du travail social, du monde culturel.</p>
 

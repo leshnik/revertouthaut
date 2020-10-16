@@ -7,7 +7,7 @@ redirect_from:
   - "/en-savoir-plus-sur-la-sophrologie/"
 ---
 
-<div class="Motto">sophrologie</div>
+<h1>sophrologie</h1>
 
 <p class="intro-text">La sophrologie est une méthode élaborée par le neuropsychiatre Alfonso Caycedo en 1960. Elle travaille essentiellement sur la respiration, la prise de conscience du corps, le mouvement, la relaxation corporelle et la conscience. La détente corporelle est une étape importante mais le but de la sophrologie est l’accès au travail sur la conscience.
 </p>  
@@ -18,7 +18,7 @@ redirect_from:
 
 <p class="cite">Alexandre Jollien, "Petit traité de l’abandon"</p>
 
-<div class="MottoSmaller">La mémoire sensorielle et les cinq sens</div>
+<h2>La mémoire sensorielle et les cinq sens</h2>
 
 <p class="intro-text">En les guidant par la voix et par sa méthode, le sophrologue permet à ses sophronisants d’atteindre un état de conscience sophronique et à partir d’un travail sur les cinq sens et la mémoire sensorielle, leur permet de travailler sur le présent.
 </p>
@@ -31,13 +31,13 @@ redirect_from:
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_500,r_15/v1528470238/ARBRE-DE-VIE-KLIMT-1905_ink65m.jpg">
 <figcaption>Gustav Klimt, <em>L'Arbre de Vie</em></figcaption>
 </div>
-<div class="MottoSmaller"> Contenu et déroulé des séances</div>
+<h2> Contenu et déroulé des séances</h2>
 <p class="intro-text">Une séance de sophrologie dure environ 1h. Le sophrologue se positionne comme un accompagnant dans une relation sujet à sujet.</p>
 
 <p class="intro-text">Lors d'une séance individuelle, nous commençons par un échange qui va permettre de fixer l'objectif du sophronisant et l'orientation du travail. Vient ensuite le temps de la séance en elle-même, dans une posture assise ou debout. Cette partie est enregistrée afin de permettre au sophronisant de s'entraîner chez lui. Pendant la séance de sophrologie, nous travaillons en relaxation dynamique, en mouvement et en respiration, et nous plongeons aussi dans un travail sur la conscience. Nous terminons la séance par une phénodescription (description des phénomènes vécus pendant la séance, appelée aussi vivance) qui permet de revenir sur l'expérience vécue, et d'ancrer certaines sensations dans le corps.
 </p>
 
-<div class="MottoSmaller"> atelier et formation en sophrologie pour professionnels</div>
+<h2> atelier et formation en sophrologie pour professionnels</h2>
 
 <p class="intro-text">L'approche sophrologique pour les professionnels permet de travailler beaucoup de thématiques, de faire un retour sur expérience et d'améliorer la qualité de son quotidien professionnel. Nous pouvons proposer des cycles de séances hebdomadaires sur plusieurs mois, ou des modules plus courts et plus ponctuels, sur des thèmes comme «&nbsp;la gestion du stress en milieu professionnel&nbsp;», ou «&nbsp;prendre soin de soi pour prendre soin des autres&nbsp;».
 </p>

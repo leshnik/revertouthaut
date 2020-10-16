@@ -8,9 +8,9 @@ redirect_from:
   - "/morton/"
 ---
 
-<div class="Motto">les membres de notre équipe</div>
+<h1>les membres de notre équipe</h1>
 
-<ul class="CenterList">
+<ul class="center-text">
 <li><a href="#valerie" style="color: #7C984A">Valérie Gaudissart: art-thérapeute et metteuse en scène</a></li>
 
 <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
