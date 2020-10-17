@@ -15,7 +15,7 @@ redirect_from:
 
 <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
 
-<li><a href="#morton" style="color: sandybrown">Morton Potash: musicien, mime, et danseur</a></li>
+<li><a href="#morton" class="music-color">Morton Potash: musicien, mime, et danseur</a></li>
 
 <li><a href="#patricia" style="color: #29c">Patricia Rigo: art-thérapeute et plasticienne</a></li>
 
@@ -41,10 +41,9 @@ Après un parcours de comédienne, Isis décide de devenir sophrologue suite à 
 Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2016 des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est installée en 2017.
 <div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
 <div id="morton"></div>
-## Morton Potash : musicien, mime, et danseur
-{: .music-color}
+<h2 class="music-color"> Morton Potash : musicien, mime, et danseur</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
-<p>Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.</p>
+Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.
 
 <div id="patricia"></div>
 ## Patricia Rigo : art-thérapeute et plasticienne

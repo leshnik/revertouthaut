@@ -12,7 +12,7 @@ title: les plus que proches - lecture musicale
     Les aidants, ce sont ces enfants, ces conjoint.es qui vivent au quotidien avec leurs proches atteints d’une maladie neuro-évolutive, d’une cérébro-lésion ou d’un handicap.
   </p>
   <p class="intro-text">
-    <span class="rever">rêver tout haut</span>
+    <span class="rever-typog">rêver tout haut</span>
     mène plusieurs projets qui leur sont destinés, car il est nécessaire de les accompagner dans tout ce qu’ils vivent, ressentent face à leurs liens d’affection qui se trouvent bousculés, face à leur place dans la famille qui s’en trouve transformée.
   </p>
   <p class="intro-text ">

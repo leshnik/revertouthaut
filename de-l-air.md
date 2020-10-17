@@ -8,7 +8,7 @@ de l'air&nbsp;!
 </h1>
 
 <!-- Slideshow container -->
-<div class="slideshow-container" style="position: relative;">
+<div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">

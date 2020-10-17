@@ -8,7 +8,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 <p class="intro-text"><cite>La lucarne est une ouverture, et c’est aussi de par sa forme et sa matière, une vitre dans laquelle voir son reflet, et c’est aussi un écran sur lequel peuvent se projeter des images. Se refléter (et « se » réfléchir ») et se projeter, voilà donc les buts recherchés dans notre dispositif d’ateliers. </cite></p>
 
 <!-- Slideshow container -->
-<div class="slideshow-container" style="position: relative;">
+<div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides" style="max-width:600px; margin:auto">

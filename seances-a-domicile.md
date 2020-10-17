@@ -14,7 +14,7 @@ summary: Pour permettre aux personnes de recréer du lien social, de se réinscr
 <p class="intro-text">Nous nous déplaçons à domicile dans un rayon de 30 kilomètres autour de Cluny (71).</p>
 
 <!-- Slideshow container -->
-<div class="slideshow-container" style="position: relative;">
+<div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">

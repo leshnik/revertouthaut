@@ -9,7 +9,7 @@ summary: Ouverts à tous et de tout âge, nos ateliers sont aussi adaptés à de
 </p>
 
 <p class="intro-text">
-  <span class="rever">rêver tout haut</span> est une association d’art-thérapeutes, de sophrologues, et d’artistes, installé.es en Saône et Loire, qui propose des ateliers et des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun, et à chaque situation.
+  <span class="rever-typog">rêver tout haut</span> est une association d’art-thérapeutes, de sophrologues, et d’artistes, installé.es en Saône et Loire, qui propose des ateliers et des médiations artistiques et/ou thérapeutiques adaptées à chacune et chacun, et à chaque situation.
 </p> <br/>
 <p class="shadow" style="transform:rotate(2deg); background-color:tomato">
    pour que l’imaginaire reprenne sens et vigueur dans le quotidien
@@ -26,7 +26,7 @@ summary: Ouverts à tous et de tout âge, nos ateliers sont aussi adaptés à de
   <p class="shadow" style="transform:rotate(1.2deg); background-color:#06B49A">
     pour que se remette en mouvement la pensée
   </p>
-  <p class="intro-text"><span class="rever">rêver tout haut</span> accompagne des personnes, des groupes et des institutions, en accord avec leurs besoins, leurs parcours de soins et leurs envies.
+  <p class="intro-text"><span class="rever-typog">rêver tout haut</span> accompagne des personnes, des groupes et des institutions, en accord avec leurs besoins, leurs parcours de soins et leurs envies.
 
   </p>
   <div class="inline-centered">
@@ -34,7 +34,7 @@ summary: Ouverts à tous et de tout âge, nos ateliers sont aussi adaptés à de
     07 69 29 53 27<br>
     revertouthaut@gmail.com
     <hr class="styled-hr">
-    <span class="rever">rêver tout haut</span> <br>
+    <span class="rever-typog">rêver tout haut</span> <br>
     Champloi<br>
     71250 Bergesserin<br>
     France<br>

@@ -40,7 +40,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 </ul>
 <div class="space-below"></div>
 <!-- Slideshow container -->
-<div class="slideshow-container" style="position: relative;">
+<div class="slideshow-container">
 
 <div class="mySlides">
     <div class="numbertext">1 / 8</div>

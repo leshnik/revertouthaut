@@ -1,0 +1,48 @@
+
+  .OneOfThree {
+    flex-basis: 1;
+  }
+  .figCap {
+    text-align: right;
+    padding-right: 20px;
+    font-size: 0.8rem;
+  }
+  .figCapCenter {
+    text-align: center;
+    font-size: 0.8rem;
+  }
+  .slideshow-container a {
+    font-size: 3rem;
+    color: hsl(30.4, 31.2%, 28.4%);
+  }
+  .slideshow-container {
+      position: relative;
+  }
+  img {
+    width: 100%;
+  }
+  .left-side-block {
+    margin-left: 0px;
+    width: 33%;
+    float: left;
+    padding-right: 1%;
+  }
+  .center-block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 300px;
+    padding-top: 1.5rem;
+  }
+  .center-big-block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+  }
+  //only in psesm
+  .center-max600-block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    max-width: 600px;
+  }

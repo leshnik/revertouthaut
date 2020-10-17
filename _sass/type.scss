@@ -30,6 +30,7 @@ h2 {
     padding-bottom: 1rem;
   }
 h3 {
+    font-family: "amatic sc";
     font-size:32px; 
     color: hsl(171, 93%, 25%); 
     text-align:left;
@@ -48,3 +49,115 @@ h4 {
 .past li {
     color: $dark-grey;
 }
+p {
+  font-family: "Crimson Text", "lora", serif;
+  font-size: 1.1em;
+  text-align: justify;
+}
+a {
+    font-size: 1.3rem;
+    text-decoration: none;
+    font-family: "Amatic SC";
+}
+a:hover {
+    background-color: gold;
+}
+.intro-text  {
+  font-family: "Crimson Text", serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.6rem;
+  margin: auto;
+  max-width: 720px;
+  text-align: justify;
+  padding: 1.4rem 0.5rem 1rem 0.5rem;
+}
+.quote {
+    font-family: serif;
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.6rem;
+    margin: 0.5rem 8% 1rem 15%;
+    text-align: left;
+    padding: 1.4rem 2rem 0rem 2rem;
+  }
+  .cite {
+    font-size: 1rem;
+    text-align: right;
+    margin-right: 8%;
+    padding-right: 3rem;
+  }
+  .institutions {
+    margin-left: 20%;
+  }
+  .institutions > li {
+    font-family: "Open Sans Condensed", sans;
+    font-size: 1.1rem;
+    letter-spacing: 0.15rem;
+  }
+  .rever-typog {
+    font-family: "Amatic SC", cursive;
+    font-weight: 900;
+    font-size: 1.4rem;
+    display: inline;
+    letter-spacing: 0.15rem;
+  }
+  .address-info {
+    margin: 10px auto;
+    padding: 10px;
+    display: inline-block;
+    border: 1px solid;
+    text-align: center;
+    line-height: 1.5em;
+    color: #7c0a25;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+  }
+  /* Number text (1/3 etc) */
+.numbertext {
+    color: #236331;
+    font-size: 12px;
+    padding: 8px 12px;
+    text-align: right;
+  }
+  ul {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  li > ul {
+    padding-left: 3ch;
+  }
+  li {
+    padding-bottom: 0.7em;
+  }
+
+  @media (max-width: 400px) {
+    p {
+      text-align: left;
+    }
+    .intro-text {
+        text-align: left;
+    }
+    .quote {
+        margin: 1px 0 0 5px;
+        padding: 0;
+    }
+    .cite {
+        margin-right: 0;
+        padding-right: 0;
+    }
+  }
+  // only in 'les etres humaines'
+  #navcontainer a {
+    font-family: "Amatic SC";
+    font-size: 1.4rem;
+    font-stretch: expanded;
+  }
+  #navcontainer a:hover {
+    background-color: #a43740;
+    color: #fff !important;
+    text-decoration: none;
+  }
+  

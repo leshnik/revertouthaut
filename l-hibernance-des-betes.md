@@ -7,9 +7,6 @@ summary: Spectacle à venir, «&nbsp;l’hibernance des bêtes&nbsp;» est le r�
 <h1>l'hibernance des bêtes</h1> 
 <h2>spectacle qui témoigne du travail social</h2>
 
-<!-- <div class="all-across">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/r_10,q_auto,f_auto,w_600/v1527697622/chien_de_neige_pd86r5.jpg"/>
-</div> -->
 <p class="intro-text">L’hibernance des bêtes mettra en musique et en scène des textes écrits lors d’ateliers d’écriture organisés dans le cadre du travail social et relatant de rencontres entre travailleurs sociaux et usagers particulièrement marquantes. Pour fin 2021.</p>
 
 <h2>Voici des exemples de ces premiers textes :</h2>

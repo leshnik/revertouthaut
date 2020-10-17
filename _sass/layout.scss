@@ -37,3 +37,58 @@
     flex-direction: column; 
     width: 95%;
   }
+  .shadow {
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    padding: 1rem;
+    color: white;
+    font-family: amatic sc;
+    font-size: 1.7rem;
+    text-align: center;
+    letter-spacing: 0.13rem;
+  }
+  .shadow-slant-2deg {
+    background-color: tomato;
+    -ms-transform: rotate(2deg); /* IE 9 */
+    -webkit-transform: rotate(2deg); /* Chrome, Safari, Opera */
+    -moz-transform: rotate(2deg); /*Mozilla */
+    transform: rotate(2deg);
+    padding: 1rem;
+    color: white;
+    font-family: amatic sc;
+    font-size: 1.5rem;
+    text-align: center;
+    letter-spacing: 0.13rem;
+  }
+  .styled-hr {
+    text-align: center;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    color: #7c0a25;
+    height: 0.05em;
+    opacity: 0.3;
+  }  
+
+  .inline-centered {
+    text-align: center;
+  }
+  hr {
+    color: rgb(196, 192, 192);
+    width: 100px;
+    margin-left: 15px;
+  }
+  @media (min-width: 940px) {
+    body {
+      width: 940px;
+      font-size: 1.3em;
+  
+      /* On ajoute une marge sur les cotés de l'écran */
+      padding-right: 2px;
+      padding-left: 2px;
+      /* Et on centre */
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }

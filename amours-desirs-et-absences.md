@@ -6,7 +6,7 @@ title: Amours, désirs et absences
 <h1>amours, désirs et absences</h1>
 
 <!-- Slideshow container -->
-<div class="slideshow-container" style="position: relative;">
+<div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">

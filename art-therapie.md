@@ -9,7 +9,7 @@ redirect_from:
 
 <h1>Art-thérapie</h1>
 <!-- Slideshow container -->
-<div class="slideshow-container" style="position: relative;">
+<div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
@@ -97,12 +97,12 @@ Cahiers jungiens de psychanalyse 2012/1 (N° 135), p. 75-96.
 </p>
 <div class="quote"><em>«&nbsp;Il s’agit en quelque sorte de créer des «&nbsp;mises en forme imaginaires de soi-même&nbsp;», des déclinaisons de son identité à travers des formes artistiques dans un parcours de créations qui provoquent peu à peu la transformation du sujet créateur, qui lui indiquent un sens, partent de ses douleurs et de ses violences, de ses folies, de ses joies aussi, de toutes ses intensités, de ses idéaux comme des forces obscures, pour le faire le matériau d’un cheminement personnel. En bref, comme on l’a parfois dit, «&nbsp;transformer la merde en engrais&nbsp;».</em></div>
 
-<div class="cite">Jean-Pierre Klein,<br>«&nbsp;_L'art-thérapie_&nbsp;», PUF, 1997, p 42.
+<div class="cite">Jean-Pierre Klein,<br>«L'art-thérapie», PUF, 1997, p 42.
 </div>
 
 <h2>Contenu et déroulé des séances</h2>
 
-<p class="intro-text">En fonction des problématiques à traiter, des diagnostics, et du désir exprimé par les personnes, _Rêver tout haut_{:.rever-typog} propose des accompagnements qui incluent de manière croisée ou non, le collage, l’écriture, le modelage, la peinture, la musique, le théâtre, la fabrication d’objets, la vidéo et la photographie.
+<p class="intro-text">En fonction des problématiques à traiter, des diagnostics, et du désir exprimé par les personnes, <span class="rever-typog">rêver tout haut</span> propose des accompagnements qui incluent de manière croisée ou non, le collage, l’écriture, le modelage, la peinture, la musique, le théâtre, la fabrication d’objets, la vidéo et la photographie.
 </p>
 
 <p class="intro-text">Les séances sont régulières ou ponctuelles, individuelles ou groupales, peuvent avoir lieu en cabinet, dans un lieu associatif ou dans un lieu de sociabilité, comme les maisons des quartiers.

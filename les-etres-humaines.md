@@ -9,16 +9,16 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 
 <div class="space-below"></div>
 
-<div class="all-across"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_700/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg"/></div>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_700/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg"/>
 
 <p class="intro-text"><em>Les êtres humaines</em>, spectacle joué de 2011 à 2013 en Saône et Loire, en partenariat avec l’Association Ciné-Ressources 71, traitait de l’intimité et de la complexité de la violence conjugale et intra-familiale. Basé sur des témoignages récoltés lors d’ateliers à médiations organisées au CHRS de l’Ecluse, à Chalon sur Saône, et qui regroupaient différents média, comme la peinture, l’écriture, la musique, le portrait photographique, <em>les êtres humaines</em> a été joué par des comédiennes professionnelles et des femmes anciennement victimes de violence rencontrées lors de ces ateliers.</p>
 
 <div id="navcontainer">
-<a href="https://vimeo.com/144494122"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526493406/captation-etres-humaines-button_vpxn5g.png" class="all-across">captation du spectacle</a>
+<a href="https://vimeo.com/144494122"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526493406/captation-etres-humaines-button_vpxn5g.png">captation du spectacle</a>
 
 <hr>
 
-<a href="https://lesetreshumaines.net"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489586/je_te_détruirai_Etres_Humaines_eehr9y.jpg" class="all-across">site web du spectacle</a>
+<a href="https://lesetreshumaines.net"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489586/je_te_détruirai_Etres_Humaines_eehr9y.jpg">site web du spectacle</a>
 
 </div>
 
