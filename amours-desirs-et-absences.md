@@ -25,7 +25,7 @@ title: Amours, désirs et absences
     </figure>
     </div>
 
-    <div class="mySlides">
+  <div class="mySlides">
       <div class="numbertext">3 / 4</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601756154/gatsby-cloudinary/novelline_pat_dessins-sol.jpg" style="width:100%">
@@ -33,65 +33,18 @@ title: Amours, désirs et absences
       </figure>
     </div>
 
-    <div class="mySlides">
+  <div class="mySlides">
     <div class="numbertext">4 / 4</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601750320/gatsby-cloudinary/novelline_collage1.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     </div>
-
-  <!-- Next and previous buttons -->
-  <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
-    <div>
-      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    </div>
-    <div>
-      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
-    </div>
-  </div>
+ {% include next-prev-slide.html %}
 
 </div>
 <br>
-
-<!-- The dots/circles -->
-
-<script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  // Next/previous controls
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  // Thumbnail image controls
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {
-      slideIndex = 1
-    }
-    if (n < 1) {
-      slideIndex = slides.length
-    }
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i]
-        .className
-        .replace("active", "");
-    }
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += "active";
-  }
-  </script>
+<script type="text/javascript" src="/js/slideshow.js"></script>
 
 <p class="intro-text">A la demande de la résidence la Novelline, à Cluny (71), où vivent des personnes cérébro-lésées, <span class="rever-typog">rêver tout haut</span> a conçu et anime deux cycles d’ateliers dans le cadre d’un projet global "Savoir s'aimer pour savoir aimer". Il s’agit de mettre en perspective et en création ce que la cérébro-lésion fait vivre au niveau affectif, sexuel, sensuel, corporel.
 </p> 

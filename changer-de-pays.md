@@ -56,55 +56,8 @@ title: Changer de pays
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601812468/gatsby-cloudinary/poupe%CC%81eyezidi8x6.jpg" style="width:90%">
     </figure>
   </div>
-
-  <!-- Next and previous buttons -->
-  <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
-    <div>
-      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    </div>
-    <div>
-      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
-    </div>
-  </div>
-
+ {% include next-prev-slide.html %}
 </div>
 <br>
+<script type="text/javascript" src="/js/slideshow.js"></script>
 
-<!-- The dots/circles -->
-
-<script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  // Next/previous controls
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  // Thumbnail image controls
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {
-      slideIndex = 1
-    }
-    if (n < 1) {
-      slideIndex = slides.length
-    }
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i]
-        .className
-        .replace("active", "");
-    }
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += "active";
-  }
-</script>

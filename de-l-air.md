@@ -42,58 +42,11 @@ de l'air&nbsp;!
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_820/v1601449524/gatsby-cloudinary/avouards-fil-dehors.jpg" style="width:100%">
     </figure>
   </div>
-
-  <!-- Next and previous buttons -->
-  <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
-    <div>
-      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: green; font-size:2rem">&#10094;</a>
-    </div>
-    <div>
-      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: green; font-size:2rem;">&#10095;</a>
-    </div>
-  </div>
-
+{% include next-prev-slide.html %}
 </div>
 <br>
-
-<!-- The dots/circles -->
-
-<script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  // Next/previous controls
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  // Thumbnail image controls
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {
-      slideIndex = 1
-    }
-    if (n < 1) {
-      slideIndex = slides.length
-    }
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i]
-        .className
-        .replace("active", "");
-    }
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += "active";
-  }
-</script>
+<script type="text/javascript" src="/js/slideshow.js"></script>
+  
 <p class="intro-text">
 Sur une proposition du Foyer de Vie et du Foyer d’Accueil Médicalisé les Avouards, à Bonnay (71), Rêver Tout Haut est intervenu sur un cycle d’ateliers à la suite du déconfinement. De juillet à septembre 2020, nous avons animé des ateliers que nous voulions les plus ouverts possibles, permettant une itinérance, un mouvement, une forme de liberté, restreints jusque là du fait du confinement.
 </p>

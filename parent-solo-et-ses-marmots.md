@@ -56,58 +56,10 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
     </figure>
   </div>
-  
-  <!-- Next and previous buttons -->
-  <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
-    <div>
-      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    </div>
-    <div>
-      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
-    </div>
-  </div>
-
+{% include next-prev-slide.html %}
 </div>
 <br>
-
-<!-- The dots/circles -->
-
-<script>
-  var slideIndex = 1;
-  showSlides(slideIndex);
-
-  // Next/previous controls
-  function plusSlides(n) {
-    showSlides(slideIndex += n);
-  }
-
-  // Thumbnail image controls
-  function currentSlide(n) {
-    showSlides(slideIndex = n);
-  }
-
-  function showSlides(n) {
-    var i;
-    var slides = document.getElementsByClassName("mySlides");
-    var dots = document.getElementsByClassName("dot");
-    if (n > slides.length) {
-      slideIndex = 1
-    }
-    if (n < 1) {
-      slideIndex = slides.length
-    }
-    for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-    }
-    for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i]
-        .className
-        .replace("active", "");
-    }
-    slides[slideIndex - 1].style.display = "block";
-    dots[slideIndex - 1].className += "active";
-  }
-  </script>
+<script type="text/javascript" src="/js/slideshow.js"></script>  
 
   <p class="intro-text">Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo&nbsp;? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ? De la mono-parentalité subie à la mono-parentalité assumée et revendiquée, bien des aspects de cette nouvelle façon de faire famille sont abordés. Joies, galères, déceptions, questions, organisations, et autres inattendus et cadeaux du quotidien !</p>
   <p class="intro-text">
