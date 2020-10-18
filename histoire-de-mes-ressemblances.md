@@ -14,7 +14,7 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
   <div class="mySlides">
     <div class="numbertext">1 / 6</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601915140/gatsby-cloudinary/bobine-fil-H.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001320/gatsby-cloudinary/bobine-fil-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
@@ -22,7 +22,7 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
   <div class="mySlides">
     <div class="numbertext">2 / 6</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601915144/gatsby-cloudinary/four-laughing-H.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001322/gatsby-cloudinary/four-laughing-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
@@ -30,7 +30,7 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
   <div class="mySlides">
     <div class="numbertext">3 / 6</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601915143/gatsby-cloudinary/music-box-H.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001317/gatsby-cloudinary/music-box-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
@@ -38,23 +38,23 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
   <div class="mySlides">
     <div class="numbertext">4 / 6</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601916568/gatsby-cloudinary/framed-picture-H.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001322/gatsby-cloudinary/framed-picture-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
 
-  <div class="mySlides" style="max-width: 400px; margin: auto">
+  <div class="mySlides">
     <div class="numbertext">5 / 6</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601916444/gatsby-cloudinary/fagot-V.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001317/gatsby-cloudinary/fagot-V.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
 
-  <div class="mySlides" style="max-width: 400px; margin: auto">
+  <div class="mySlides">
     <div class="numbertext">6 / 6</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601916444/gatsby-cloudinary/unframed-marriage-V.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001314/gatsby-cloudinary/unframed-marriage-V.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
   </div>
