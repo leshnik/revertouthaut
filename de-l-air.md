@@ -14,32 +14,32 @@ de l'air&nbsp;!
   <div class="mySlides">
     <div class="numbertext">1 / 5</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601402167/gatsby-cloudinary/m-----ir.jpg" style="width:100%;">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603003999/gatsby-cloudinary/m-----ir.svg" style="width:100%;">
     </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 5</div>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_327/v1601448256/gatsby-cloudinary/st---2-2-short.jpg" style="width:40%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603004003/gatsby-cloudinary/st---2-2-short.svg" style="width:100%;">
     </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 5</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601385516/gatsby-cloudinary/avouards-clothesline-inside.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603003997/gatsby-cloudinary/avouards-clothesline-inside.svg" style="width:100%">
     </figure>
   </div>
   <div class="mySlides">
     <div class="numbertext">4 / 5</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_647/v1601449225/gatsby-cloudinary/redface.jpg" style="width:80%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603003988/gatsby-cloudinary/redface.svg" style="width:100%">
     </figure>
   </div>
   <div class="mySlides">
     <div class="numbertext">5 / 5</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_820/v1601449524/gatsby-cloudinary/avouards-fil-dehors.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603004001/gatsby-cloudinary/avouards-fil-dehors.svg" style="width:100%">
     </figure>
   </div>
 {% include next-prev-slide.html %}
