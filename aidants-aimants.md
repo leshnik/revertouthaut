@@ -5,7 +5,7 @@ summary: Un temps de répit pour aidants familiaux. Ateliers créatifs gratuits 
 tags: [aidants, journée nationale des aidants]
 ---
 
-<h1>aidants, aimants</div>
+<h1>aidants, aimants</h1>
 <h2>atelier créatif à destination des aidants</h2>
 <p class="intro-text">L’association <span class="rever-typog">rêver tout haut</span> propose aux aidants et aux proches de personnes souffrant de maladies neuro-évolutives de participer à un cycle d’ateliers conviviaux et de pratiquer en groupe des activités ressourçantes et complémentaires : échanges, écriture, sophrologie et pratique corporelle, composition de chansons, travail photographique et graphique.</p>
 <p class="intro-text">De participer à tout un chemiment créatif, qui se veut un répit et une manière de de retrouver vitalité, espace personnel, dynamique de groupe, vie sociale, soutien et élaboration autour de l’accompagnement de son proche.
