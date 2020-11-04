@@ -74,12 +74,14 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <p class="intro-text">
     Avec Aïcha Broutin, Nelly Triba, Sara Lahrizi, Virginie Côte, Ghizlane Harrak, Coraline Henry, Sidonie Dubosc, Sylvia Etcheto, Valérie Gaudissart et Morton Potash.
   </p>
+  <span style="color:red; font-size:2rem">REPORTE AU 26 mars 2021</span>
   <h1>Représentation le 27 novembre 2020
     <br>à 14h30 et 20h30
     <br>au Réservoir de Saint Marcel</h1>
   <h4>réservation obligatoire : 03 85 42 46 27
   </h4>
-  <p style="padding:15px">Attn: spectacles de mars reportés à cause du Covid-19, la nouvelle date est annoncée ci-dessus !</p>
+  <p style="padding:15px">Attn: spectacles de mars 2020 reportés à cause du Covid-19, la nouvelle date est annoncée ci-dessus !</p>
+  <p style="padding:15px">Attn: spectacles de novembre 2020 reportés à cause du Covid-19, la nouvelle date est annoncée en rouge ci-dessus !</p>
 
   <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1602259460/psesm-affiche-course_ppmtby.jpg">

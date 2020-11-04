@@ -219,6 +219,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
         </li>
         <hr>
         <li>
+          <span style="color:red;">REPORTE EN MARS 2021</span><br>
           samedi 5 decembre 2020 à 20h<br>
           Cellier des Moines<br>
           Place de l'Abbaye<br>
@@ -226,8 +227,14 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           en partenariat avec l’Association Vivre au Féminin
         </li>
         <hr>
+        
+      </ul>
+      <hr>
+
+  <h2>représentations passées</h2>
+      <ul class="past">
         <li>
-          <span style="color:red;">vendredi 23 octobre 2020 à 20h</span><br>
+          vendredi 23 octobre 2020 à 20h<br>
           Salle du VOX<br>
           11 rue Paul Pioda<br>
           01000 Bourg en Bresse<br>
@@ -237,7 +244,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
         </li>
         <hr>
         <li>
-          <span style="color:red;">mardi 13 octobre 2020 à 20h</span><br/>
+          mardi 13 octobre 2020 à 20h<br/>
           Théâtre Municipal Sauvageot<br/>
           28 avenue Charles de Gaulle<br/>
           71600 PARAY LE MONIAL<br/>
@@ -245,11 +252,6 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           <img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601621589/gatsby-cloudinary/blemParay.jpg" alt="flyer Paray-le-Monial le 13 octobre 2020 au Théâtre Sauvageot">
 
         </li>
-      </ul>
-      <hr>
-
-  <h2>représentations passées</h2>
-      <ul class="past">
         <li>
           mardi 3 decembre 2019 à 20h<br>
           Salle des fêtes Maurice Ravel<br>
