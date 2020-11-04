@@ -14,7 +14,6 @@ tags: [aidants, journée nationale des aidants]
 Il aura lieu la première année, de décembre 2020 à juin 2021 à Mâcon.</p>
 <p class="intro-text">Une restitution publique des travaux (chansons, écrits, photographies) aura lieu en juin 2022. Le cycle est soutenu par la Conférence des Financeurs et est gratuit pour les participants.
 </p>
-<div class="space-below"></div>
 <p class="intro-text">Lieu:<br>
 Salle Saint Antoine, 120 rue Saint Antoine, à Mâcon<br>
 Les lundis de 14h30 à 17H:<br>
