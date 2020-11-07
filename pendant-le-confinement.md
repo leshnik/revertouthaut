@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: Prendre soin de soi pendant le confinement et après
+summary: Pendant le confinement, sophrologie et art-thérapie par visio et téléphone.
 ---
 
 <h1>prendre soin de soi pendant le confinement et après...</h1>
