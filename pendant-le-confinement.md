@@ -5,7 +5,7 @@ summary: Pendant le confinement, sophrologie et art-thérapie par visio et tél�
 ---
 
 <h1>prendre soin de soi pendant le confinement et après...</h1>
-<h2>propositions d’accompagnement créatif et sophrologique</h2>
+<h2>propositions d’accompagnement créatif et sophrologique</h2>
 <h2 style="color:tomato">à distance par visio et téléphone</h2>
 <p class="intro-text">À partir du 23 novembre 2020, <span class="rever-typog">rêver tout haut</span> met en place des ateliers par visio et téléphone afin d’aider chacun.e à traverser ce deuxième confinement qui s’annonce complexe, incertain et perturbant sur beaucoup de plans. Continuer de faire groupe, de faire du lien, de faire du sens, de rester solidaires et actifs, dialoguer entre générations, structurer le temps, rompre l’isolement, élaborer en commun ce que l’on vit en ce moment et se projeter dans l’avenir, tels sont les buts recherchés dans ces propositions que nous avons imaginées.</p>
 <p class="intro-text">Ces ateliers ont pour intention d’accompagner ce nouveau confinement et les mois qui suivent. Dans une période où il est difficile de se projeter, nous souhaitons maintenir un rituel régulier qui permette de se relier aux autres et à soi-même malgré la distance.</p>
