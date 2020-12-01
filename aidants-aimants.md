@@ -17,8 +17,9 @@ Il aura lieu la première année, de décembre 2020 à juin 2021 à Mâcon.</p>
 <p class="intro-text">Lieu:<br>
 Salle Saint Antoine, 120 rue Saint Antoine, à Mâcon<br>
 Les lundis de 14h30 à 17H:<br>
-14 décembre 2020<br>
-puis en 2021 : 4 janvier, 18 janvier, 1er février, 15 février, 1er mars, 15 mars, 29 mars, 12 avril, 26 avril, 10 mai, 31 mai, 14 juin, 28 juin, 5 juillet
+<span style="color: red">14 décembre 2020: SEANCE EN VISIO OU PAR TELEPHONE</span><br>
+Nous contacter pour inscription<br>
+Puis en 2021 en présentiel : 4 janvier, 18 janvier, 1er février, 15 février, 1er mars, 15 mars, 29 mars, 12 avril, 26 avril, 10 mai, 31 mai, 14 juin, 28 juin, 5 juillet
 </p>
 <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142938/flyer-aidants_aimants_hhjoof.jpg" alt="flyer pour Les plus que proches: atelier créatif à destination des aidants"></div>
  
