@@ -70,6 +70,6 @@ des temps de soutien individuel gratuits par téléphone avec une sophrologue 
 
 <p class="intro-text"><cite>"Ce cycle a été une vraie découverte pour moi. Je ne connaissais pas du tout la sophrologie, et j'adore!"</cite></p>
 <div class="space-below"></div>
-<h1>Café-Sophro</div>
+<h1>Café-Sophro</h1>
 
 <p class="intro-text">Au printemps 2019, Rêver Tout Haut a animé un cycle de sophrologie à destination des salarié.es de la Chambre d’Agriculture de Mâcon, pour leur permettre de souffler pendant leur semaine de travail, d'expérimenter un autre rapport que dans le strict cadre professionnel, et de trouver des outils concrets pour prévenir les risques de burn out.</p>
