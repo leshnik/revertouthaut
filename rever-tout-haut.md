@@ -35,7 +35,7 @@ summary: Ouverts à tous et de tout âge, nos ateliers sont aussi adaptés à de
     revertouthaut@gmail.com
     <hr class="styled-hr">
     <span class="rever-typog">rêver tout haut</span> <br>
-    192 lieu-dit Champloi<br>
+    192, impasse Champloi<br>
     71250 Bergesserin<br>
     France<br>
   </div>
