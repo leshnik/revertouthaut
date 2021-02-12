@@ -74,10 +74,13 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
 </p>
 <p class="intro-text">Différents supports sont proposés (évocations d’objets, écriture, parole, photographie.), et seront réunis dans un livret destiné aux participants, à leurs familles et à la jeune génération.
 </p>
-<p class="intro-text">Les ateliers ont débuté en novembre 2019 et se sont terminés en octobre 2020.
-</p>
+
 <h2>Le Livret</h2>
 <a href="LivretHistoiresV4.pdf">Livret Histoire de Mes Resemblances</a>
+
+<p class="intro-text">Les ateliers ont débuté en novembre 2019 et se sont terminés en octobre 2020.
+</p>
+
 
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567428674/2019-08-_Pass_age_v1_xgygqk.jpg">
