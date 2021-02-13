@@ -7,6 +7,24 @@ summary: Pendant le confinement, sophrologie et art-thérapie par visio et tél�
 <h1>prendre soin de soi pendant le confinement et après...</h1>
 <h2>propositions d’accompagnement créatif et sophrologique</h2>
 <h2 style="color:tomato">à distance par visio et téléphone</h2>
+<p class="intro-text">L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans:
+Des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV
+
+- Quand : À partir du 1er mars 2021
+
+_Cycle de 5 entretiens d’une demi-heure par personne_
+</p>
+
+<div class="center-block">
+	<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1613193400/Bull_Inscription_Sophrologie_Bien_Vieillir_IREPS_BFC_doflp3.jpg" alt="Bien dans sa tête, L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans,
+	des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV">
+</div>
+<ul style="text-align:right;list-style-type:none">
+    <li>
+      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="/media/bulletin_inscription_bien-vieillir_mars2021.pdf" download="download">●&nbsp;Cliquer pour télécharger la plaquette</a>
+    </li>
+</ul>
+
 <p class="intro-text">À partir du 23 novembre 2020, <span class="rever-typog">rêver tout haut</span> met en place des ateliers par visio et téléphone afin d’aider chacun.e à traverser ce deuxième confinement qui s’annonce complexe, incertain et perturbant sur beaucoup de plans. Continuer de faire groupe, de faire du lien, de faire du sens, de rester solidaires et actifs, dialoguer entre générations, structurer le temps, rompre l’isolement, élaborer en commun ce que l’on vit en ce moment et se projeter dans l’avenir, tels sont les buts recherchés dans ces propositions que nous avons imaginées.</p>
 <p class="intro-text">Ces ateliers ont pour intention d’accompagner ce nouveau confinement et les mois qui suivent. Dans une période où il est difficile de se projeter, nous souhaitons maintenir un rituel régulier qui permette de se relier aux autres et à soi-même malgré la distance.</p>
 <p class="intro-text">Pour répondre à des demandes de prise en charge pressantes, <span class="rever-typog">rêver tout haut</span> propose à des institutions d’accompagner leurs usagers en proposant des médiations de soins ou des médiations créatives adaptées à cette période particulière, entre confinement et assouplissement.</p>
@@ -16,6 +34,7 @@ Ainsi, 3 ateliers hebdomadaires sont proposés, ils sont ouverts à tout publi
 <p class="intro-text">«Présence et relation» est un cycle de sophrologie collectif par visio, qui pourra aussi se faire en individuel par téléphone pour les personnes n’ayant pas internet.
 Il propose de se mettre en lien autour d’une douce mise en mouvement corporelle, et d’exercices de respiration et de visualisation, que l’on pourra pratiquer debout ou assis. Le but étant de reprendre conscience de son corps, de favoriser son relâchement et sa bonne vitalité. Chacun pourra venir avec ses besoins et le cycle pourra s’adapter en fonction d’éventuelles thématiques communes. Le but de ces moments étant de nourrir en soi ce qui inspire et fait du bien, pour ouvrir l’espace psychique et corporel et permettre de retrouver une forme de tranquillité.</p>
 <p class="intro-text">La sophrologie s’adresse à chacun quelque soit son âge, et ce cycle permettra aussi de faire du lien avec un échange avant la séance, et un partage des expériences après.</p>
+
 <h2>voyages sonores</h2>
 <p class="intro-text">«Voyages sonores» est un atelier collectif en visio ou par téléphone autour de récits de vie, de souvenirs d’enfance et d’histoires et de notions de transmissions. Des échanges de récits, un travail d’écriture parfois, et tout ce qui peut se partager de son passé, de ses souvenirs seront au cœur de cet atelier. Des thématiques, des sujets communs (comme les souvenirs liés à l’école, à la famille, aux métiers exercés) seront mis en avant et permettront de sortir du quotidien et du présent.</p>
 <p class="intro-text">Dans l’idée que cette proposition soit ouverte aux autres, malgré le confinement qui nous enferme, nous aimerions pouvoir garder trace de ces récits ou de ces bribes de souvenirs et permettre à d’autres d’en prendre connaissance. Ainsi ces récits seront retranscrits, enregistrés et transmis aux autres participants, à leurs proches et sur notre site internet. Au delà de la notion de transmission entre personnes et entre génération, il y a dans ce dispositif de partages de récits, la volonté d’attiser la curiosité vers les autres et leurs histoires, de faire entendre autre chose que les mauvaises nouvelles colportées et répétées à la radio ou à la télé et de faire «voyager» autrement.</p>

@@ -40,13 +40,29 @@ pour contribuer aux échanges.
     </li>
 </ul>
 <hr style="margin:auto">
-<h2> Cycle bien-être en Charolais-Brionnais</h2>
+<h2> cycle bien-être en charolais-brionnais</h2>
 <div class="space-below"></div>
 
 <h2>Bien dans sa tête</h2>
 
-L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans:
+<p class="intro-text">L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans:
 Des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV
+
+- Quand : À partir du 1er mars 2021
+
+_Cycle de 5 entretiens d’une demi-heure par personne_
+</p>
+
+<div class="center-block">
+	<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1613193400/Bull_Inscription_Sophrologie_Bien_Vieillir_IREPS_BFC_doflp3.jpg" alt="Bien dans sa tête, L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans,
+	des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV">
+</div>
+<ul style="text-align:right;list-style-type:none">
+    <li>
+      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="/media/bulletin_inscription_bien-vieillir_mars2021.pdf" download="download">●&nbsp;Cliquer pour télécharger la plaquette</a>
+    </li>
+</ul>
+
 
 - Quand : Tous les lundis du mois de novembre 2020
 
