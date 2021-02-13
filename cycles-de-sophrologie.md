@@ -64,10 +64,10 @@ _Cycle de 5 entretiens d’une demi-heure par personne_
 </ul>
 
 
-- Quand : Tous les lundis du mois de novembre 2020
+<p class="intro-text">- Quand : Tous les lundis du mois de novembre 2020
 
 _Cycle de 5 entretiens d’une demi-heure par personne_
-
+</p>
 <div class="center-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1598971513/BienDansSaTete2020novembre_hwqmvk.jpg" alt="Bien dans sa tête, L’IREPS, antenne de Saône-et-Loire propose aux personnes âgées de plus de 60 ans,
 des temps de soutien individuel gratuits par téléphone avec une sophrologue certifiée sur RDV">
