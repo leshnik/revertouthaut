@@ -211,11 +211,11 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
         </li>
         <hr>
         <li>
-          12 juin 2021 à 20h<br>
+          samedi 12 juin 2021 à 20h<br>
           Salle ECLA<br>
           22 rue Victor Hugo<br>
           71230 Saint-Vallier<br>
-          précédé d'un atelier de création ouvert aux parents le 12 juin dans la matinée
+          précédé d'un atelier de création ouvert aux parents le samedi 12 juin dans la matinée
         </li>
         <hr>
         <li>
