@@ -204,14 +204,14 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <ul class="coming">
       <li>
-          vendredi 30 avril 2021 à 20h<br>
+          vendredi 25 juin 2021 à 20h<br>
           Foyer Municipal<br>
           71130 Gueugnon<br>
           en partenariat avec l’association le Pont
         </li>
         <hr>
         <li>
-          5 février 2021 à 20h<br>
+          12 juin 2021 à 20h<br>
           Salle ECLA<br>
           22 rue Victor Hugo<br>
           71230 Saint-Vallier<br>
@@ -219,7 +219,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
         </li>
         <hr>
         <li>
-          <span style="color:red;">REPORTE EN MARS 2021</span><br>
+          <span style="color:red;">REPORTE A L'AUTOMNE 2021</span><br>
           samedi 5 decembre 2020 à 20h<br>
           Cellier des Moines<br>
           Place de l'Abbaye<br>
