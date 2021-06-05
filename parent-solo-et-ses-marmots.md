@@ -84,6 +84,8 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1620449662/Affiche_parent_solo_iqp2vn.jpg">
   </div>
+  <h2>Dans la presse :</h2>
+  <a href="https://www.info-chalon.com/articles//2021/05/31/49984/au-reservoir-a-saint-marcel-parent-solo-et-ses-marmots-un-spectacle-sur-la-mono-parentalite/">Info Chalon: entretien avec Valérie Gaudissart par Sonia Blondet Rodríguez</a>
   <h2>Extraits :</h2>
   <cite>
     «Je ne dirais pas que je me suis sacrifiée mais... je pense que j’aurais pu faire beaucoup plus pour moi si je m’étais accordé plus de liberté. Même les faire manger à la cantine, je ne me l’accordais pas, je les faisais manger tous les midis à la maison, ça m’a clouée sur place en fait. Je crois que je voulais être parfaite.»
