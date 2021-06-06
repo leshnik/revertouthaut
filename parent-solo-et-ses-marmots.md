@@ -72,7 +72,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 
   </p>
   <p class="intro-text">
-    Avec Aïcha Broutin, Nelly Triba, Sara Lahrizi, Virginie Côte, Ghizlane Harrak, Coraline Henry, Sidonie Dubosc, Isis Philippe-Janon, Patricia Rigo, Valérie Gaudissart et Morton Potash.
+    Avec Aïcha Broutin, Nelly Triba, Sara Lahrizi, Virginie Côte, Ghizlane Harrak, Coraline Henry, Sidonie Dubosc, Isis Philippe-Janon, Valérie Gaudissart et Morton Potash.
   </p>
 
   <h1>Représentations le jeudi 10 juin 2021
@@ -85,7 +85,17 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1620449662/Affiche_parent_solo_iqp2vn.jpg">
   </div>
   <h2>Dans la presse :</h2>
-  <a href="https://www.info-chalon.com/articles//2021/05/31/49984/au-reservoir-a-saint-marcel-parent-solo-et-ses-marmots-un-spectacle-sur-la-mono-parentalite/">Info Chalon: entretien avec Valérie Gaudissart par Sonia Blondet Rodríguez</a>
+  <ul>
+  <li><a href="https://www.info-chalon.com/articles//2021/05/31/49984/au-reservoir-a-saint-marcel-parent-solo-et-ses-marmots-un-spectacle-sur-la-mono-parentalite/">Info Chalon: entretien avec Valérie Gaudissart par Sonia Blondet Rodríguez</a></li>
+  <li><a href="https://www.lejsl.com/culture-loisirs/2021/06/05/le-reservoir-rouvre-avec-un-vrai-sujet-de-societe">JSL: Le reservoir rouvre avec un vrai sujet de societé</a>
+  <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1622967534/JSL-ParentSolo-2021-06-06_oeloop.jpg">
+  <p class="quote">«Sara, Ghizlane et Aïcha, mères de familles monoparentales, vont, après pratiquement deux ans de répétitions, présenter la création de Valérie Gaudissart, qui s’est inspirée de leur histoire ainsi que d’autres témoignages pour les mettre en scène. Assistées de comédiens professionnels, ces femmes risquent de surprendre le public en dévoilant la vie de tous les jours d’une mère de famille monoparentale.
+  <br>– Une vraie thérapie
+  <br>Lorsqu’on leur demande pourquoi elles ont accepté de témoigner et de se dévoiler sur scène, elles sont unanimes pour dire que «c’était une chance, une force» et que d’avoir révélé leurs galères leur a permis de reprendre confiance en elles. Elles se sentent complètement déculpabilisées. Aujourd’hui elles ont évolué et sont sorties de l’isolement qui était le leur auparavant.
+  <br>Annulée par deux fois, en mars et novembre, en raison de la crise sanitaire, la pièce Parent solo et ses marmots sera donnée jeudi 10 juin, pour la réouverture du Réservoir. 
+  <br>PRATIQUE Rendez-vous jeudi 10 juin à 14 h 30 et 20 heures. Réservation au 03.85.42.46.27. Tarif: gratuit à 14h, 3€ à 20h.»</p>
+  </li>
+  </ul>
   <h2>Extraits :</h2>
   <cite>
     «Je ne dirais pas que je me suis sacrifiée mais... je pense que j’aurais pu faire beaucoup plus pour moi si je m’étais accordé plus de liberté. Même les faire manger à la cantine, je ne me l’accordais pas, je les faisais manger tous les midis à la maison, ça m’a clouée sur place en fait. Je crois que je voulais être parfaite.»
@@ -106,7 +116,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     «Moi, je fais pas le deuil de ma famille, je sais pas si je le ferai un jour, faire famille à trois, pour moi, c’est compliqué, j’ai l’impression que c’est bancal, qu’il manque un pied. Je pense que j’avais fantasmé la famille idéale.»
   </cite><hr>
   <cite>
-    «Le premier sentiment que j’ai eu quand je suis partie, ça a été un sentiment de liberté, limite un sentiment de bonheur. La liberté je l’ai toujours mais maintenant je dirais que la balance penche plus du côté des emmerdes.Moi je suis seule avec mes enfants, mais dans le sens profond du terme, dans la solitude.»
+    «Le premier sentiment que j’ai eu quand je suis partie, ça a été un sentiment de liberté, limite un sentiment de bonheur. La liberté je l’ai toujours mais maintenant je dirais que la balance penche plus du côté des emmerdes. Moi je suis seule avec mes enfants, mais dans le sens profond du terme, dans la solitude.»
   </cite><hr>
   <cite>
     «Au début de la séparation, j’avais honte, j’avais honte de l’échec et je me disais il y a un manque dans la maison. Nous ne sommes plus deux qui formons un couple. Nous sommes 1 moins 1, et 1 moins 1, ça fait zéro, je suis zéro. Alors que non, je suis le pilier, je tiens tout à bout de bras, je ne suis pas le zéro, je suis le pilier&nbsp;!
