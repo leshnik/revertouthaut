@@ -64,3 +64,9 @@ Les ateliers sont ouverts aux résidents de la Novelline ainsi qu’à des perso
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_500/v1601752923/gatsby-cloudinary/plaquette_p1.png" alt="flyer savoir s'aimer pour savoir aimer, cycle d'animations proposé par la Novelline, à Cluny, renseignements: 03 85 21 01 95">
 </div>
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1624182996/Novelline_Spectacle2021-0619p1_bxnp0d.jpg" alt="flyer recto spectacle à la Novelline, 19 juin 2021">
+</div>
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1624182996/Novelline_Spectacle2021-0619p2_x4itya.jpg" alt="flyer verso spectacle à la Novelline, 19 juin 2021">
+</div>
