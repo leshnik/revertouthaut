@@ -27,13 +27,13 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <ul class="center-text">
   <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/20)</a></li>
   <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
-  <li><a style="color: hsl(120,50%,42%)" href="#">●&nbsp;présences (2021/23)</a></li>
+  <li><a style="color: hsl(120,50%,42%)" href="/présences">●&nbsp;présences (2021/23)</a></li>
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
 </ul>
 <h2>seniors</h2>
 <ul class="center-text">
   <li><a style="color: rgb(181, 136, 136)" href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances</a></li>
-  <li><a style="color: hsl(100,50%,42%)" href="#">●&nbsp;veillés du matin (2021)</a></li>
+  <li><a style="color: hsl(100,50%,42%)" href="/veillees-du-matin">●&nbsp;veillés du matin (2021)</a></li>
   <li><a style="color: hsl(160,50%,42%)" href="#">●&nbsp;4 fois 20 ans (2021)</a></li>
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
 </ul>
