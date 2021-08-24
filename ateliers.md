@@ -9,20 +9,41 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 </p>
 <p class="intro-text">Nous intervenons à domicile, en cabinet et en institution.
 </p>
+<p class="intro-text">En partenariat ou au sein d’institutions, nous intervenons dans le champ de l’insertion, des seniors, des aidants, des questions de parentalité, du handicap et du travail social.</p>
 <p class="intro-text">Différentes activités sont proposées : art-thérapie, sophrologie, musique, photographie, vidéo, textiles, argile, vannerie, écriture, composition de chansons, travail du corps et de la voix... toujours dans un objectif thérapeutique et réparateur et dans la perspective de mettre certaines problématiques en travail.
 </p>
 
 <p class="intro-text">Voici quelques uns de nos ateliers à venir, en cours, ou effectués depuis 2019.
 </p>
+<h2>parentalité</h2>
 <ul class="center-text">
-  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie</a></li>
-
-  <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants</a></li>
-
-  <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux">●&nbsp;liens familiaux défaits, renoués</a>
+  <li><a style="color: hsl(213, 50%, 42%)" href="/bebes-chantes">●&nbsp;Bébés chantés (2015)</a></li>
+  <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux">●&nbsp;liens familiaux défaits, renoués (2021/22)</a>
   </li>
+  <li><a style="color: hsl(200,50%,42%)" href="/deja-parent">●&nbsp;déjà parent (2021)</a></li>
+  <li><a style="color: hsl(240,50%,42%)" href="#">●&nbsp;je t'ai rêvé (2020/21)</a></li>
+</ul>
+<h2>aidant.es</h2>
+<ul class="center-text">
+  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/20)</a></li>
+  <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
+  <li><a style="color: hsl(120,50%,42%)" href="#">●&nbsp;présences (2021/23)</a></li>
+  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
+</ul>
+<h2>handicap</h2>
+<h2>seniors</h2>
+<h2>insertion</h2>
+<h2>cycles de sophrologie</h2>
+<h2>travail social</h2>
 
-  <li><a style="color: hsl(200,50%,42%)" href="/deja-parent">●&nbsp;déjà parent</a></li>
+<ul class="center-text">
+  
+
+  
+
+  
+
+  
 
   <li><a style="color: hsl(240,50%,42%)" href="/amours-desirs-et-absences">●&nbsp;amours, désirs et absences</a>
   </li>
@@ -31,7 +52,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 
   <li><a style="color: hsl(330,50%,42%)" href="/changer-de-pays">●&nbsp;changer de pays</a></li>
 
-  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches</a></li>
+  
 
   <li><a style="color: #29c" href="/les-petites-lucarnes">●&nbsp;les petites lucarnes</a></li>
 
