@@ -34,7 +34,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <ul class="center-text">
   <li><a style="color: rgb(181, 136, 136)" href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances</a></li>
   <li><a style="color: hsl(100,50%,42%)" href="/veillees-du-matin">●&nbsp;veillés du matin (2021)</a></li>
-  <li><a style="color: hsl(160,50%,42%)" href="#">●&nbsp;4 fois 20 ans (2021)</a></li>
+  <li><a style="color: hsl(160,50%,42%)" href="/4-fois-20-ans">●&nbsp;4 fois 20 ans (2021)</a></li>
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
 </ul>
 <h2>handicap</h2>
