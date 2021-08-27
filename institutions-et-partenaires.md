@@ -20,6 +20,7 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Réseau des aidants 71</li>
 
 <li>Résidence Seniors du Val de Joux</li>
+<li>EHPAD Marion de Givry (Nevers)</li>
 
 <li>Foyer d’Accueil Médicalisé et Foyer de Vie les Avouards (PEP71), Bonnay</li>
 
@@ -30,8 +31,11 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>REAPP 71</li>
 
 <li>Association la Novelline, Cluny</li>
+<li>Groupe d'Entraide Mutuelle (GEM) de Mâcon</li>
+<li>Atelier Pluriel (Chissey-les-Mâcon)</li>
 
 <li>Association le Pont, Mâcon, Chalon sur Saône, Paray le Monial</li>
+<li>Udaf 71 (Antenne de Charolles)</li>
 
 <li>Centre Social l’Orange Bleue, Saint Marcel</li>
 
@@ -62,9 +66,11 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Association Vivre au Féminin, Tournus</li>
 
 <li>Le Réservoir, Saint Marcel, salle de spectacle</li>
+<li>La Roue Voilée</li>
+<li>D'Jazz Nevers</li>
 
 <li>L’Ecla, Saint Vallier, salle de spectacle</li>
 
 <li>Ciné-Ressources 71</li>
 </ul>
-<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu par la Conférence des Financeurs et Conseil Départemental de Saône et Loire</p>
+<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu par la Conférence des Financeurs, le Conseil Départemental de Saône et Loire et le Fonds Départemental de la Vie Associative</p>
