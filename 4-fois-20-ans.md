@@ -45,67 +45,36 @@ On dit qu'on a toujours vingt ans...»</em></div>
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 8</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629916348/monique_et_le_piano_yzaogb.png">
-      <figcaption class="figCapCenter">Monique et le piano</figcaption>
-    </figure>
-  </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 8</div>
+    <div class="numbertext">1 / 4</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629916605/bate_din_palme_rodica_czbc57.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630383436/bate_din_palme_rodica_bjeqjg.png">
       <figcaption class="figCapCenter">Bate Din Palme, Rodica</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 8</div>
+    <div class="numbertext">2 / 4</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629916970/dans_les_yeux_clairs_de_Monique_bioyg1.png">
-      <figcaption class="figCap"></figcaption>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384510/josianne-lisant-sa-chanson_am7pjv.png">
+      <figcaption class="figCapCenter">Josianne lisant sa chanson</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 8</div>
+    <div class="numbertext">3 / 4</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629917352/dans_le_re%CC%82ve_d_Andre%CC%81_h6dlii.png">
-      <figcaption class="figCap"></figcaption>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384935/andre%CC%81_sido_kalimba_xopn7l.png">
+      <figcaption class="figCapCenter">Dans le Rêve d'André</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 8</div>
+    <div class="numbertext">4 / 4</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629917635/tambours_oce%CC%81an_tcmv3h.png">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">6 / 8</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601972818/gatsby-cloudinary/acquamarine-bird.svg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">7 / 8</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601961293/gatsby-cloudinary/five-pink-red.svg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">8 / 8</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601972830/gatsby-cloudinary/montagne.svg">
-      <figcaption class="figCap"></figcaption>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630385652/pre%CC%81sentation-publique_pwzgrq.png">
+      <figcaption class="figCapCenter">Présentation publique</figcaption>
     </figure>
   </div>
   
