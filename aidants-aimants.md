@@ -76,8 +76,37 @@ Moi, à l’âge de 6 ans, j’ai compris à quoi mes mains étaient utiles.  J�
 Mais le mariage est arrivé. L’alliance s’est mise à l’annulaire droit. Plus tard je me suis rendu compte de mon handicap surtout au travail avec mon mari. La main gauche n’a que trois doigts pour travailler. Je vis avec, ce sont mes seules douleurs. Pendant ma jeunesse, mes mains  me servaient à dialoguer avec un sourd muet qui était ouvrier chez mes parents.<br><br>
 En ce moment mes mains me servent à tenir les mains de mon mari comme jamais.
 </cite>
+<!-- Slideshow container -->
+<div class="slideshow-container">
 
+  <!-- Full-width images with number and caption text -->
+<div class="mySlides">
+    <div class="numbertext">1 / 3</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630638699/frames-anne_pgpr89.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+<div class="mySlides">
+    <div class="numbertext">2 / 3</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630638696/fingers-point-anne_bl28al.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+<div class="mySlides">
+    <div class="numbertext">3 / 3</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630638705/many-hands-joined_yrcgpw.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
 
+{% include next-prev-slide.html %}
+
+</div>
+<br>
+<script type="text/javascript" src="/js/slideshow.js"></script>
 
 <h2>Ateliers anim&eacute;s par:</h2>
 <ul class="center-text">
