@@ -12,7 +12,50 @@ summary:
 
 <p class="intro-text">Cet atelier était conçu aussi comme un temps de répit et temps d’imaginaire pour ces mères à l’emploi du temps et aux responsabilités très chargés.</p> 
 
-Rajouter photos, et chansons 
+<h2>chansons de l'atelier</h2>
+<figure>
+    <figcaption>longtemps je t'ai rêvé</figcaption>
+<audio
+        controls
+        src="/media/carole_droit-sur-tes-pieds.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+</figure>
 
-Mon mini moi
-Droit sur tes pieds
+<figure>
+    <figcaption>mon mini-moi</figcaption>
+<audio
+        controls
+        src="/media/maëlle_mon-mini-moi.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+</figure>
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+
+<div class="mySlides">
+    <div class="numbertext">1 / 2</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630667517/mains-famille-coeur_vhiwug.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+<div class="mySlides">
+    <div class="numbertext">2 / 2</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630667521/mains-adeline_vg8plb.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+{% include next-prev-slide.html %}
+
+</div>
+<br>
+<script type="text/javascript" src="/js/slideshow.js"></script>
