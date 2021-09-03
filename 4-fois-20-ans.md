@@ -80,7 +80,7 @@ summary:
 
 <p class="intro-text">C’est en réécoutant «20 ans», cette chanson de Léo Ferré qui figure sur l’album de La Sido, que nous avons imaginé l’atelier. Voici deux extraits de la chanson : 
 
-<div class="journal"><em>«&nbsp;Pour tout bagage on a vingt ans<br>   
+<div class="quote"><em>«&nbsp;Pour tout bagage on a vingt ans<br>   
 On a l'expérience des parents<br>
 On se fout du tiers comme du quart<br>
 On prend l' bonheur toujours en retard<br>
@@ -123,11 +123,11 @@ Quatre fois 20 ans est le nom du projet. Il s’adresse aux personnes en perte d
 <p class="journal">Le trio reviendra dans un mois. Avec une chanson personnalisée pour chacun cette fois. Une chanson qu’ils auront composée et qui retrace une période de leur vie. Avec l’espoir de présenter ce travail lors d’une fête en compagnie des familles mercredi 7 juillet.</p>
 
 <p class="cite">Dominique Romeyer<br>
-<a href="https://www.lejdc.fr/nevers-58000/loisirs/djazz-et-un-trio-d-artistes-offrent-de-lemotion-aux-residents-de-l-ehpad-marion-de-givry-a-nevers_13943773/">Le journal du centre</a>
+<a href="https://www.lejdc.fr/nevers-58000/loisirs/djazz-et-un-trio-d-artistes-offrent-de-lemotion-aux-residents-de-l-ehpad-marion-de-givry-a-nevers_13943773/">●&nbsp;Le journal du centre</a>
 </p>
 
-<a href="https://www.nevers.fr/actualites/on-reconnait-la-chanson-a-lehpad-marion-de-givry">Le site de la Mairie de Nevers - actualités</a><br>
-<a href="https://djazznevers.com/autres-projets">Le site de D'jazz Nevers</a><br>
+<a href="https://www.nevers.fr/actualites/on-reconnait-la-chanson-a-lehpad-marion-de-givry">●&nbsp;Le site de la Mairie de Nevers - actualités</a><br>
+<a href="https://djazznevers.com/autres-projets">●&nbsp;Le site de D'jazz Nevers</a><br>
 
 </div>
 
