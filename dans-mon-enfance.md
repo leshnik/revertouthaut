@@ -104,6 +104,19 @@ Et surtout leur mari</cite>
 <br>
 <script type="text/javascript" src="/js/slideshow.js"></script>
 
+<h2>chansons de l'atelier</h2>
+<figure>
+    <figcaption>au plus profond de mon enfance</figcaption>
+<audio
+        controls
+        src="/media/au-plus-profond-de-mon-enfance.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+</figure>
+
+<h2>presse</h2>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630642096/jsl-assemblage_w0mfsk.png">
 
 
@@ -112,9 +125,14 @@ Et surtout leur mari</cite>
 <p class="journal">Leurs témoignages sont poignants, bouleversants même. Jahida, 45 ans, et Shpresa, 37 ans, ont choisi de quitter leur pays respectif, l’Algérie pour l’une, l’Albanie pour l’autre, il y a deux ans et demi environ.
 « Je ne veux pas que mes enfants subissent la même chose que moi »</p>
 
-<p class="journal">« J’ai fait ce choix pour l’avenir de mes enfants, raconte dans un français tout à fait maîtrisé Jahida, maman d’un garçon de 8 ans et de deux filles de 5 et 2 ans. Je suis venue en France pour soigner mon bébé (la cadette). Et, j’ai décidé de ne pas retourner au pays. Là-bas, on n’est pas libre », confie-t-elle. Jahida a travaillé 23 ans comme coiffeuse, « sans assurance ». </p>
+<p class="journal">« J’ai fait ce choix pour l’avenir de mes enfants, raconte dans un français tout à fait maîtrisé Jahida, maman d’un garçon de 8 ans et de deux filles de 5 et 2 ans. Je suis venue en France pour soigner mon bébé (la cadette). Et, j’ai décidé de ne pas retourner au pays. Là-bas, on n’est pas libre », confie-t-elle. Jahida a travaillé 23 ans comme coiffeuse, « sans assurance&nbsp;» ... </p>
 <div class="right-side-text">
 <cite>par Cécile Bouretal-Constant</cite><br>
 <a href="https://www.lejsl.com/culture-loisirs/2021/06/30/elles-ont-quitte-leur-pays-pour-l-avenir-de-leurs-enfants">●&nbsp;article de presse dans le JSL</a>
 </div>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630662227/jslJeudi1erJuillet2021_s3xrr0.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630662616/jsl4juillet2021_hsp0je.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630662946/laRenaissance9juillet2021_k5jpmi.jpg"><br>
+
+
 
