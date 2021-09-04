@@ -43,7 +43,7 @@ Toute seule je suis partie (Bonnay)
     <div class="numbertext">1 / 4</div>
     <figure>
       <img src="/scores/j'aimerais-revoir-mes-enfants.svg" style="width:100%">
-      <figcaption class="figCapCenter"><a href="/reapprendre-a-aimer">réapprendre à aimer</a></figcaption>
+      <figcaption class="figCapCenter"></figcaption>
     </figure>
   </div>
   
@@ -51,7 +51,7 @@ Toute seule je suis partie (Bonnay)
     <div class="numbertext">2 / 4</div>
     <figure>
       <img src="/scores/ma-vie-n'est-pas-un-conte-de-fée.svg" style="width:100%; margin-left:1%">
-      <figcaption class="figCapCenter"><a href="/reapprendre-a-aimer">réapprendre à aimer</a></figcaption>
+      <figcaption class="figCapCenter">></figcaption>
     </figure>
     </div>
 
@@ -59,7 +59,7 @@ Toute seule je suis partie (Bonnay)
     <div class="numbertext">3 / 4</div>
     <figure>
       <img src="/scores/Basma-et-Nadifa.svg" style="width:100%; margin-left:1%">
-      <figcaption class="figCapCenter"><a href="/changer-de-payschanger de pays">changer de pays</a></figcaption>
+      <figcaption class="figCapCenter"></figcaption>
     </figure>
     </div>
 
@@ -67,7 +67,7 @@ Toute seule je suis partie (Bonnay)
     <div class="numbertext">4 / 4</div>
     <figure>
       <img src="/scores/toute-seule-je-suis-partie.svg" style="width:100%; margin-left:1%">
-      <figcaption class="figCapCenter"><a href="/de-l-air">de l'air</a></figcaption>
+      <figcaption class="figCapCenter"></figcaption>
     </figure>
     </div>
     {% include next-prev-slide.html %}
