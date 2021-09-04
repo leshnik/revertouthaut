@@ -35,6 +35,28 @@ summary:
         <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 </figure>
 
+<figure>
+    <figcaption>un jour tu m'as demandé</figcaption>
+<audio
+        controls
+        src="/media/johanne.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+</figure>
+
+<figure>
+    <figcaption>quel sera ton avenir ?</figcaption>
+<audio
+        controls
+        src="/media/marjorie_quel sera ton avenir.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+</figure>
+
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
