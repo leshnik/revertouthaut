@@ -12,7 +12,7 @@ summary:
     <div class="numbertext">1 / 7</div>
     <div class="center-text">
     <video controls="controls" width="" poster="" alt="">
-    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1630507935/au_piano_avec_monique_upfgcc.mov">
+    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630507935/au_piano_avec_monique_upfgcc.mov">
   </video>
   </div>
   </div>
