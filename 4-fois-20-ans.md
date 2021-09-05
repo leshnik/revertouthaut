@@ -11,8 +11,8 @@ summary:
   <div class="mySlides">
     <div class="numbertext">1 / 7</div>
     <div class="center-text">
-    <video controls="controls" width="" poster="" alt="">
-    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630507935/au_piano_avec_monique_upfgcc.mov">
+    <video controls="controls" width="" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630832270/au-piano-monique_morton_smile_ojzwij.jpg" alt="">
+    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/q_auto,f_auto/v1630833673/au-piano-monique_morton-shorter_smq0sc.mov">
   </video>
   </div>
   </div>
