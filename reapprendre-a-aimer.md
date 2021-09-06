@@ -60,16 +60,84 @@ summary:
 
 <p class="intro-text">Notre deuxième cycle, proposant la composition de chansons et l’écriture comme médiations a débuté en avril 2021 et s’est terminé en juin 2021 par un concert public. Ce deuxième cycle était animé par Valérie Gaudissart et Morton Potash et a permis la composition de 15 chansons, pour la plupart interprétées par les participants. </p>
 
+<div class="slideshow-container">
 
-<div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_500/v1601752923/gatsby-cloudinary/plaquette_p1.png" alt="flyer savoir s'aimer pour savoir aimer, cycle d'animations proposé par la Novelline, à Cluny, renseignements: 03 85 21 01 95">
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630748375/whole-stage-christelle_fn0swn.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748420/mathieu-poing-right-on_std0yi.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748417/gilles-hands-high_nxmegd.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748404/michel_christelle-closeup_mspttw.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748390/jeff_gilles-big-smile_k3lsfp.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748421/maude-big-smile-applaudi-closeup_hmhn7d.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748409/maude-hands-shoulder-manue_szafak.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748401/manue-closeup_qeaevy.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">1 / ??</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748383/de%CC%81de%CC%81-solo_ybrpy4.jpg">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+  </div>
+ {% include next-prev-slide.html %}
+
 </div>
-<div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1624182996/Novelline_Spectacle2021-0619p1_bxnp0d.jpg" alt="flyer recto spectacle à la Novelline, 19 juin 2021">
-</div>
-<div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1624182996/Novelline_Spectacle2021-0619p2_x4itya.jpg" alt="flyer verso spectacle à la Novelline, 19 juin 2021">
-</div>
+
+
 
 <h2>presse</h2>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748761/newsletter-novelline_xhf8ge.jpg">
@@ -78,5 +146,18 @@ summary:
 </div>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748425/JSL-novelline2021-06-29_vanken.jpg">
 <div class="right-side-text">
-<a href="https://www.lejsl.com/sante/2021/06/29/a-la-novelline-les-chansons-traduisent-des-histoires-tres-emouvantes">●&nbsp;JSL 2021/06/29 </a>
+<a href="https://www.lejsl.com/sante/2021/06/29/a-la-novelline-les-chansons-traduisent-des-histoires-tres-emouvantes">●&nbsp;JSL 20/06/2021</a>
 </div>
+<h2>annonce de l'atelier et de la présentation publique<h2>
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1601752923/gatsby-cloudinary/plaquette_p1.png" alt="flyer savoir s'aimer pour savoir aimer, cycle d'animations proposé par la Novelline, à Cluny, renseignements: 03 85 21 01 95">
+</div>
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1624182996/Novelline_Spectacle2021-0619p1_bxnp0d.jpg" alt="flyer recto spectacle à la Novelline, 19 juin 2021">
+</div>
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1624182996/Novelline_Spectacle2021-0619p2_x4itya.jpg" alt="flyer verso spectacle à la Novelline, 19 juin 2021">
+</div>
+
+
+
