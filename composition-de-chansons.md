@@ -28,51 +28,5 @@ Chansons :
     <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 </figure>
 
-<a href="/scores/j'aimerais-revoir-mes-enfants.svg">j’aimerais revoir mes enfants (novelline)</a><br>
-<a href="/scores/j'aimerais revoir mes enfants - 001.svg">j'aimerais revoir mes enfants</a><br>
-<a href="/partitions">partitions</a><br>
-Ma vie n’est pas un conte de fée (novelline)
-Basma et Nadifa habitent à Taizé (yezidi)
-Toute seule je suis partie (Bonnay)
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630924858/toute-seule-je-suis-partie_f9bv5x.png">
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 4</div>
-    <figure>
-      <img src="/scores/j'aimerais-revoir-mes-enfants.svg" style="width:100%">
-      <figcaption class="figCapCenter"></figcaption>
-    </figure>
-  </div>
-  
-  <div class="mySlides">
-    <div class="numbertext">2 / 4</div>
-    <figure>
-      <img src="/scores/ma-vie-n'est-pas-un-conte-de-fée.svg" style="width:100%; margin-left:1%">
-      <figcaption class="figCapCenter">></figcaption>
-    </figure>
-    </div>
-
-  <div class="mySlides">
-    <div class="numbertext">3 / 4</div>
-    <figure>
-      <img src="/scores/Basma-et-Nadifa.svg" style="width:100%; margin-left:1%">
-      <figcaption class="figCapCenter"></figcaption>
-    </figure>
-    </div>
-
-  <div class="mySlides">
-    <div class="numbertext">4 / 4</div>
-    <figure>
-      <img src="/scores/toute-seule-je-suis-partie.svg" style="width:100%; margin-left:1%">
-      <figcaption class="figCapCenter"></figcaption>
-    </figure>
-    </div>
-    {% include next-prev-slide.html %}
-
-</div>
-<br>
-
-<script type="text/javascript" src="/js/slideshow.js"></script> 
