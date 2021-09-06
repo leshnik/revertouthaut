@@ -90,7 +90,7 @@ summary:
 <div class="right-side-text">
 <a href="https://la-novelline.fr/documentation#la-nouvelline-juillet-2021">●&nbsp;lettre d'info des amis de la novelline</a><br>
 </div>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748425/JSL-novelline2021-06-29_vanken.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630933578/JSL-novelline2021-06-29_rpstp9.jpg">
 <div class="right-side-text">
 <a href="https://www.lejsl.com/sante/2021/06/29/a-la-novelline-les-chansons-traduisent-des-histoires-tres-emouvantes">●&nbsp;JSL 20/06/2021</a>
 </div>
