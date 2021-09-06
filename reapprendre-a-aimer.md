@@ -77,6 +77,10 @@ summary:
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630923468/de%CC%81de%CC%81-solo-closerup_krmoj2.jpg">
   </div>
 
+    <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630935279/christelle-seule-annonce_cgzpes.jpg">
+    </div>
+
   <a class="multiprev" onclick="plusSlides(-1, 1)">&#10094;</a>
   <a class="multinext" onclick="plusSlides(1, 1)">&#10095;</a>
 </div>
