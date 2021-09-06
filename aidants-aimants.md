@@ -83,21 +83,21 @@ En ce moment mes mains me servent à tenir les mains de mon mari comme jamais.
 <div class="mySlides">
     <div class="numbertext">1 / 3</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630638699/frames-anne_pgpr89.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918470/many-hands533high_hvqdsq.svg">
       <figcaption class="figCap"></figcaption>
     </figure>
 </div>
 <div class="mySlides">
     <div class="numbertext">2 / 3</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630638696/fingers-point-anne_bl28al.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918848/finger-points533_p66gwx.svg">
       <figcaption class="figCap"></figcaption>
     </figure>
 </div>
 <div class="mySlides">
     <div class="numbertext">3 / 3</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630638705/many-hands-joined_yrcgpw.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918848/frames533_xpfg1w.svg">
       <figcaption class="figCap"></figcaption>
     </figure>
 </div>
