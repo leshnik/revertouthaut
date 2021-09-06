@@ -17,77 +17,154 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 <div class="slideshow-container">
 
   <!-- Full-width images with number and caption text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 5</div>
+    <div class="mySlides">
+    <div class="numbertext">1 /15</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969073/gatsby-cloudinary/Parent_solo_12.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630685080/ahmed-danse-tous_jabm9x.png">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+
+  <div class="mySlides">
+    <div class="numbertext">2 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684488/isis-dance-sido-smile-grouped_dk0mda.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685072/charlottes-aich_ghiz_zetqzc.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 5</div>
+    <div class="numbertext">4 /15</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969062/gatsby-cloudinary/Parent_solo_29.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/isis-smile-feet-up_oetajg.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+<div class="mySlides">
+    <div class="numbertext">5 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685078/aicha_shiva_hqisof.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 5</div>
+    <div class="numbertext">6 /15</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969088/gatsby-cloudinary/Parent_solo_48.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684490/sara-sido-et-al-singing_rcsmp0.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+<div class="mySlides">
+    <div class="numbertext">7 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684474/ghiz-red-cup-debout-table_nel_aich_jlekmr.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+
+  <div class="mySlides">
+    <div class="numbertext">8 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685070/sid-micro-pe%CC%81luches_m-piano_rlhwui.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 5</div>
+    <div class="numbertext">9 /15</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969092/gatsby-cloudinary/Parent_solo_50.svg">
-      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684479/hand-high-chorus-danse_yflvg2.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 5</div>
+    <div class="numbertext">10 /15</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601969090/gatsby-cloudinary/Parent_solo_52.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684475/aicha-table-serious_benlkb.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+<div class="mySlides">
+    <div class="numbertext">11 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684469/cora-ghiz-framed_qyuyy5.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">12 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685076/morton-fer_nwxsi8.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
     </figure>
   </div>
+
+
+
+<div class="mySlides">
+    <div class="numbertext">13 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684492/val-wig_ghiz_cora-rehearsal_hs462t.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">14 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630684467/sid_ghiz_aich-hands-on-ears_jrozbd.png">
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">15 /15</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/fille-ghizlane-en-l_air_xap2fv.png">
+      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+    </figure>
+  </div>
+
+  
 {% include next-prev-slide.html %}
 </div>
 <br>
 <script type="text/javascript" src="/js/slideshow.js"></script>  
 
-  <p class="intro-text">Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo&nbsp;? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ? De la mono-parentalité subie à la mono-parentalité assumée et revendiquée, bien des aspects de cette nouvelle façon de faire famille sont abordés. Joies, galères, déceptions, questions, organisations, et autres inattendus et cadeaux du quotidien !</p>
-  <p class="intro-text">
-    Le spectacle est né d’ateliers de création et de partages de témoignages, mené par
-    <span class="rever-typog">Rêver Tout Haut</span>
-    depuis mai 2019, en partenariat avec la Ville de Saint Marcel, le Centre Social l’Orange Bleue et la CAF 71.
+  <p class="intro-text">Qu’est-ce que cela fait vivre, qu’est-ce que cela fait traverser d’être parent solo ? D’avoir l’entière responsabilité de ses enfants, dans le présent et dans l’avenir ? Quelle énergie, quelles organisations faut-il déployer pour l’assumer ? A quelles questions faut-il répondre, à quelle pression faut-il faire face ? De la mono-parentalité subie à la mono-parentalité assumée et revendiquée, bien des aspects de cette nouvelle façon de faire famille sont abordés. Joies, galères, déceptions, abandons, et autres inattendus et cadeaux du quotidien !</p>
+  
+  <p class="intro-text"><cite>«Parent solo et ses marmots»</cite> mêle textes et chansons, met en scène la formidable énergie des familles mono-parentales, partage les difficultés de certaines situations, et est joué par des comédiennes professionnelles, et des mamans solo qui montent pour la première fois sur scène.</p>
 
-    <cite>«Parent solo et ses marmots»</cite>
-    mêle textes, chansons, et est joué par des comédiennes professionnelles, des mamans solo qui montent pour la première fois sur scène et des travailleuses sociales.
+  <p class="intro-text">Le spectacle est né d’ateliers de création et de partages de témoignages, mené par <span class="rever-typog">Rêver Tout Haut</span> depuis mai 2019, en partenariat avec la Ville de Saint Marcel, le Centre Social l’Orange Bleue et la CAF 71. Il a été créé en juin 2021 au Réservoir de Saint Marcel (71) partira en tournée à partir de 2022 en Bourgogne Franche-Comté et Auvergne-Rhône-Alpes.</p>
 
-  </p>
+
+   
   <p class="intro-text">
     Avec Aïcha Broutin, Nelly Triba, Sara Lahrizi, Virginie Côte, Ghizlane Harrak, Coraline Henry, Sidonie Dubosc, Isis Philippe-Janon, Valérie Gaudissart et Morton Potash.
   </p>
 
-  <h1>Représentations le jeudi 10 juin 2021
-    <br>à 14h30 et 20h
-    <br>au Réservoir de Saint Marcel</h1>
-  <h4>réservation obligatoire : 03 85 42 46 27
-  </h4>
+  <p class="intro-text">Nous contacter au 07 69 29 53 27, ou revertouthaut@gmail.com pour devis et conditions techniques.</p>
 
   <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1620449662/Affiche_parent_solo_iqp2vn.jpg">
   </div>
   <h2>Dans la presse :</h2>
   <ul>
-  <li><a href="https://www.info-chalon.com/articles//2021/05/31/49984/au-reservoir-a-saint-marcel-parent-solo-et-ses-marmots-un-spectacle-sur-la-mono-parentalite/">Info Chalon: entretien avec Valérie Gaudissart par Sonia Blondet Rodríguez</a></li>
-  <li><a href="https://www.lejsl.com/culture-loisirs/2021/06/05/le-reservoir-rouvre-avec-un-vrai-sujet-de-societe">JSL: Le reservoir rouvre avec un vrai sujet de societé</a>
+  <li><a href="https://www.info-chalon.com/articles//2021/05/31/49984/au-reservoir-a-saint-marcel-parent-solo-et-ses-marmots-un-spectacle-sur-la-mono-parentalite/">●&nbsp;Info Chalon: entretien avec Valérie Gaudissart par Sonia Blondet Rodríguez</a></li>
+  <li><a href="https://www.lejsl.com/culture-loisirs/2021/06/05/le-reservoir-rouvre-avec-un-vrai-sujet-de-societe">●&nbsp;JSL: Le reservoir rouvre avec un vrai sujet de societé</a>
   <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1622967534/JSL-ParentSolo-2021-06-06_oeloop.jpg">
   <p class="quote">«Sara, Ghizlane et Aïcha, mères de familles monoparentales, vont, après pratiquement deux ans de répétitions, présenter la création de Valérie Gaudissart, qui s’est inspirée de leur histoire ainsi que d’autres témoignages pour les mettre en scène. Assistées de comédiens professionnels, ces femmes risquent de surprendre le public en dévoilant la vie de tous les jours d’une mère de famille monoparentale.
   <br>– Une vraie thérapie

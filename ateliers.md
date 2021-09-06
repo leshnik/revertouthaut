@@ -15,45 +15,50 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 
 <p class="intro-text">Voici quelques uns de nos ateliers à venir, en cours, ou effectués depuis 2019.
 </p>
+<h2>aidant.es</h2>
+<ul class="center-text">
+  <li><a style="color: hsl(120,50%,42%)" href="/présences">●&nbsp;présences (2021/23)</a></li>
+  <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
+  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
+  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/20)</a></li>
+  <li><a style="color: #02b45b" href="/journee-nationale-des-aidants"
+        >●&nbsp;Journée Nationale des Aidants</a
+      ></li>
+</ul>
+<h2>insertion/travail social</h2>
+<ul class="center-text">
+  <li><a style="color: #29c" href="/les-petites-lucarnes">●&nbsp;les petites lucarnes (2019/20)</a></li>
+  <li><a style="color: hsl(330,50%,42%)" href="/changer-de-pays">●&nbsp;changer de pays (2020)</a></li>
+  <li><a style="color: hsl(52, 45.6%, 34.7%)" href="/pour-travailleurs-sociaux-et-soignants">●&nbsp;pour travailleurs sociaux et soignants</a></li>
+</ul>
+
 <h2>parentalité</h2>
 <ul class="center-text">
   <li><a style="color: hsl(213, 50%, 42%)" href="/bebes-chantes">●&nbsp;Bébés chantés (2015)</a></li>
   <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux">●&nbsp;liens familiaux défaits, renoués (2021/22)</a>
   </li>
-  <li><a style="color: hsl(200,50%,42%)" href="/deja-parent">●&nbsp;déjà parent (2021)</a></li>
-  <li><a style="color: hsl(240,50%,42%)" href="#">●&nbsp;je t'ai rêvé (2020/21)</a></li>
+  <li><a style="color: hsl(200,50%,42%)" href="/dans-mon-enfance">●&nbsp;dans mon enfance (2021)</a></li>
+  <li><a style="color: hsl(240,50%,42%)" href="/je-t'ai-revé">●&nbsp;je t'ai rêvé (2020/21)</a></li>
 </ul>
-<h2>aidant.es</h2>
-<ul class="center-text">
-  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/20)</a></li>
-  <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
-  <li><a style="color: hsl(120,50%,42%)" href="/présences">●&nbsp;présences (2021/23)</a></li>
-  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
-</ul>
+
 <h2>seniors</h2>
 <ul class="center-text">
-  <li><a style="color: rgb(181, 136, 136)" href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances</a></li>
+  <li><a style="color: rgb(181, 136, 136)" href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances (2019-20)</a></li>
   <li><a style="color: hsl(100,50%,42%)" href="/veillees-du-matin">●&nbsp;veillés du matin (2021)</a></li>
   <li><a style="color: hsl(160,50%,42%)" href="/4-fois-20-ans">●&nbsp;4 fois 20 ans (2021)</a></li>
-  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
+  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;sophrologie (2020/21)</a></li>
 </ul>
 <h2>handicap</h2>
 <ul class="center-text">
  <li><a style="color: hsl(300,50%,42%)" href="/de-l-air">●&nbsp;de l'air&nbsp;! (2020)</a></li>
-  <li><a style="color: hsl(240,50%,42%)" href="/amours-desirs-et-absences">●&nbsp;amours, désirs et absences (2020/21</a>
+  <li><a style="color: hsl(240, 50%, 42%)" href="/reapprendre-a-aimer"
+        >●&nbsp;réapprendre à aimer (2020-21)</a
+      >
   </li>
-  <li><a style="color: hsl(230,50%,42%)" href="#">●&nbsp;je veux vivre (2021)</a></li>
+  <li><a style="color: hsl(230,50%,42%)" href="/je-veux-vivre">●&nbsp;je veux vivre (2021)</a></li>
+  <li><a style="color:hsl(213, 50%, 42%)" href="/chez-soi">●&nbsp;chez soi</a></li>
 </ul>
-<h2>insertion</h2>
-<ul class="center-text">
-  <li><a style="color: #29c" href="/les-petites-lucarnes">●&nbsp;les petites lucarnes (2019/20)</a></li>
-  <li><a style="color: hsl(330,50%,42%)" href="/changer-de-pays">●&nbsp;changer de pays (2020)</a></li>
-</ul>
-<h2>cycles de sophrologie</h2>
-<h2>travail social</h2>
-<ul class="center-text">
-  <li><a style="color: hsl(52, 45.6%, 34.7%)" href="/pour-travailleurs-sociaux-et-soignants">●&nbsp;pour travailleurs sociaux et soignants</a></li>
-</ul>
+
 <div class="space-below"></div>
 <!-- Slideshow container -->
 <div class="slideshow-container">
