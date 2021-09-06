@@ -46,3 +46,38 @@
     width: 95%;
     max-width: 600px;
   }
+
+  //for multiple slideshows pages
+  /* Next & previous buttons */
+.multiprev, .multinext {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.multinext {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a grey background color */
+.multiprev:hover, .multinext:hover {
+  background-color: #f1f1f1;
+  color: black;
+}
+/* Slideshow container */
+.slideshows-container {
+  max-width: 800px;
+  position: relative;
+  margin: auto;
+}
