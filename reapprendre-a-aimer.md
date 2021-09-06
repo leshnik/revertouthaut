@@ -17,125 +17,71 @@ summary:
 <p class="intro-text">Notre premier cycle, proposant art-thérapie, collage et argile, et encadré par Patricia Rigo a débuté en février 2020 et s’est terminé en octobre 2020. 
 </p>
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
-
-  <!-- Full-width images with number and caption text -->
-  <div class="mySlides">
-    <div class="numbertext">1 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601755787/gatsby-cloudinary/novelline-pat-plus-one.jpg" style="width:100%">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+<div class="slideshows-container">
+  <div class="mySlides1">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601755787/gatsby-cloudinary/novelline-pat-plus-one.jpg" style="width:100%">
   </div>
-  
-  <div class="mySlides">
-    <div class="numbertext">2 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601754602/gatsby-cloudinary/novelline_collage2.png" style="width:100%">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-    </div>
 
-  <div class="mySlides">
-      <div class="numbertext">3 / 4</div>
-      <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601756154/gatsby-cloudinary/novelline_pat_dessins-sol.jpg" style="width:100%">
-        <figcaption class="figCap"></figcaption>
-      </figure>
-    </div>
+  <div class="mySlides1">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601754602/gatsby-cloudinary/novelline_collage2.png">
+  </div>
 
-  <div class="mySlides">
-    <div class="numbertext">4 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601750320/gatsby-cloudinary/novelline_collage1.jpg" style="width:100%">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-    </div>
- {% include next-prev-slide.html %}
+  <div class="mySlides1">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601756154/gatsby-cloudinary/novelline_pat_dessins-sol.jpg" style="width:100%">
+  </div>
 
+  <div class="mySlides1">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_600/v1601750320/gatsby-cloudinary/novelline_collage1.jpg" style="width:100%">
+  </div>
+
+  <a class="multiprev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="multinext" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
-<br>
-<script type="text/javascript" src="/js/slideshow.js"></script>
 
 <p class="intro-text">Notre deuxième cycle, proposant la composition de chansons et l’écriture comme médiations a débuté en avril 2021 et s’est terminé en juin 2021 par un concert public. Ce deuxième cycle était animé par Valérie Gaudissart et Morton Potash et a permis la composition de 15 chansons, pour la plupart interprétées par les participants. </p>
 
-<div class="slideshow-container">
-
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630748375/whole-stage-christelle_fn0swn.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+<div class="slideshows-container">
+  <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630748375/whole-stage-christelle_fn0swn.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748420/mathieu-poing-right-on_std0yi.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+  <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748420/mathieu-poing-right-on_std0yi.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748417/gilles-hands-high_nxmegd.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+  <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748417/gilles-hands-high_nxmegd.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748404/michel_christelle-closeup_mspttw.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+  <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748404/michel_christelle-closeup_mspttw.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748390/jeff_gilles-big-smile_k3lsfp.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+   <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748390/jeff_gilles-big-smile_k3lsfp.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748421/maude-big-smile-applaudi-closeup_hmhn7d.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+    <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748421/maude-big-smile-applaudi-closeup_hmhn7d.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748409/maude-hands-shoulder-manue_szafak.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+    <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748409/maude-hands-shoulder-manue_szafak.jpg">
+  </div> 
+
+    <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748401/manue-closeup_qeaevy.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748401/manue-closeup_qeaevy.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
+    <div class="mySlides2">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630923468/de%CC%81de%CC%81-solo-closerup_krmoj2.jpg">
   </div>
 
-  <div class="mySlides">
-    <div class="numbertext">1 / ??</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630748383/de%CC%81de%CC%81-solo_ybrpy4.jpg">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-  </div>
- {% include next-prev-slide.html %}
-
+  <a class="multiprev" onclick="plusSlides(-1, 1)">&#10094;</a>
+  <a class="multinext" onclick="plusSlides(1, 1)">&#10095;</a>
 </div>
+
+<script type="text/javascript" src="/js/slideshows.js"></script>
 
 
 
