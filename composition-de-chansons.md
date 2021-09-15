@@ -4,7 +4,7 @@ title: composition de chansons
 summary: 
 ---
 <h1>composition de chansons</h1>
-
+<main>
 <p class="intro-text">Depuis ses débuts, Rêver Tout Haut propose une médiation originale et riche : la composition de chansons adaptée à tout public, encadrée par les compositeurs Morton Potash, Florian Girard, la chanteuse et compositrice Sidonie Dubosc et par la parolière et chanteuse Valérie Gaudissart.</p>
 
 <p class="intro-text">Une chanson, c’est comme une lettre envoyée à soi-même, à sa part enfantine, à sa part d’angoisses, à ses proches, à ses disparus, aux gens qui nous manquent, aux gens qui nous jugent sans nous comprendre. C’est  une façon de dire des choses secrètes sans que cela fasse violence, c’est une façon de parler de soi et de trouver un écho à sa propre histoire chez les autres, d’être en contact avec ces autres, d’être reconnu par eux. C’est une façon d’exprimer ses tourments, ses souvenirs, ses revendications, ses colères, ses pertes, ses désirs et ses fantasmes. C’est une façon de transformer et de transmettre en mélodies, en note, en rythme, ce que l’on ressent, ce que l’on attend, ce qui nous fait peur, nous empêche et nous bouleverse. </p>
@@ -15,10 +15,10 @@ summary:
 
 
 <p class="intro-text">Quelques exemples de chansons accessibles ici et aussi sur chacune des pages des ateliers concernés.</p>
-
-Chansons : 
+</main>
+<h2>Chansons</h2>
 <figure>
-    <figcaption>toute seule je suis partie</figcaption>
+    <figcaption class="figCapCenter">toute seule je suis partie</figcaption>
     <audio
         controls
         src="/media/toute-seule-je-suis-partie.mp3">
