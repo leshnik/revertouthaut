@@ -17,7 +17,7 @@ L’objectif est aussi de pouvoir garder le maintien à domicile de l’aidé, m
 <p class="intro-text">N’hésitez pas à nous contacter si vous êtes dans cette situation. 
 Ce nouveau projet bénéficie du soutien Fonds Départemental de la Vie Associative (FDVA 71).</p>
 </main>
-<div class="center-big-block">
+<div class="center-max600-block">
 <img alt="flyer recto" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1631675385/presences-flyer-recto_tlr5xs.jpg"><br>
 <img alt="flyer verso" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1631675384/presences-flyer-verso_iglybi.jpg">
 </div>

@@ -17,7 +17,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 </p>
 <h2>aidant.es</h2>
 <ul class="center-text">
-  <li><a style="color: hsl(120,50%,42%)" href="/présences">●&nbsp;présences (2021/23)</a></li>
+  <li><a style="color: hsl(120,50%,42%)" href="/presences">●&nbsp;présences (2021/23)</a></li>
   <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
   <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/20)</a></li>
