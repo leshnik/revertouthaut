@@ -41,6 +41,7 @@ L’association Rêver Tout Haut propose aux aidants et aux proches de personne
 
 
 <h4 style="color: black">Au fil du temps</h4>
+
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 J’ai appris au fil du temps à m’occuper de toi<br>
 Ton lever, tes repas, ta toilette, tes couchers<br>
@@ -52,6 +53,8 @@ Mais est-ce que j’ai été à la hauteur ? Est-ce que j’ai été à la haute
 </cite>
 
 <h4 style="color: black">Je t’ai bercé</h4>
+<audio controls src="/media/je-tai-berce-choye.mp3"></audio>
+<p class="cite">chant&nbsp;: Valérie Gaudissart & Morton Potash, musique&nbsp;: Morton Potash</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Je t’ai bercé, choyé<br>
 J'ai porté ton cartable,  ciré tes souliers.<br>
