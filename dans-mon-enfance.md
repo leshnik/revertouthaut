@@ -50,7 +50,7 @@ Elle m’a appris à donner de l’amour maintenant<br>
 Dans le présent<br>
 Car elle disait que demain, c’est trop loin</cite>
 
-<h4 style="color: black">Sortir de la cage (par Jaheda)</h4>
+<h4 style="color: black">Sortir de la cage (par Jaida)</h4>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Sortir de la cage<br>
 Trouver la clé<br>
@@ -100,7 +100,7 @@ Jusqu'au jour de sa mort<br>
 Nourredine, trois cent quatre-vingt volts, Nourredine<br>
 Trois cent quatre-vingt volts, Nourredine</cite>
 
-<h4 style="color: black">mon père voulait un fil (par Jaida)</h4>
+<h4 style="color: black">mon père voulait un fils (par Jaida)</h4>
 <audio controls src="/media/mon-pere-voulait-un-fils.mp3"></audio>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Mon père voulait un fils et quand le sien est parti<br>
@@ -111,12 +111,11 @@ Il m'a appris à poser de la faïence marocaine<br>
 À faire des dalles de sol, du ciment, du béton<br>
 Wo-oh, wo-oh, wo-oh<br>
 J'étais un vrai maçon<br>
-Même un jour mon oncle ne m'a pas reconnue<br>
+Même mon oncle un jour ne m'a pas reconnue<br>
 Moi sa nièce en jeans déchiré et casquette plein' d'peinture<br>
 Wo-oh, wo-oh, wo-oh<br>
 Il a dit c'est qui ce garçon qui t'aide à la peinture?<br>
-Il a dit c'est qui ce garçon qui t'aide à la peinture?<br>
-Mais j'étais pas un garçon car si j'avais été un garçon<br>
+Mais j'étais pas un garçon car si j'étais été un garçon<br>
 Ma vie aurait pris une autre direction<br>
 Les filles valent autant que les garçons<br>
 Les filles valent autant que les garçons<br>
