@@ -5,12 +5,17 @@ summary:
 ---
 
 <h1>dans mon enfance</h1>
+<main>
 <p class="intro-text"> D’avril à juillet 2020, ont eu lieu à Charolles en partenariat avec l’Association le Pont et son antenne de Paray le Monial et l’Udaf du Charollais-Brionnais une série d’ateliers d’écriture et de compositions de chansons sur les thèmes des souvenirs d’enfance à transmettre, des liens à ses parents, à ses grands-parents, et sur tout ce qu’on retient de son enfance quand on a quitté son pays d’origine et qu’on y a laissé sa famille. 
 </p>
 <p class="intro-text">Une restitution publique a eu lieu le 1er juillet à Charolles.
 </p>
-<h3 style="font-size:32px; color:#7551e1; text-align:left;">Quelques extraits de textes de chansons : </h3>
+</main>
+<h2>chansons de l'atelier</h2>
+
 <h4 style="color: black">Au plus profond de mon enfance (par Caroline)</h4>
+<audio controls src="/media/au-plus-profond-de-mon-enfance.mp3"></audio>
+<p class="cite">texte: Caroline Maillet, chant: Valérie Gaudissart, music: Morton Potash</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">Au plus profond de mon enfance<br>
 Vous avez marqué mes souvenirs<br>
 De ces moments où l’insouciance<br>
@@ -26,7 +31,11 @@ Tandis que dans nos habitudes<br>
 On vous oublie sur le parcours... 
 </cite>
 
-<h4 style="color: black">Lula Bore (par Shpresa)</h4>
+<h4 style="color: black">Lule Bore (par Shpresa)</h4>
+  <audio controls src="/media/eya-eya-lule-bore.mp3">
+  </audio>
+<p class="cite">chant: Valérie Gaudissart</p>
+
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Ma grand-mère, c’était des câlins tous les soirs<br>
 Et les soirées sur ses genoux<br>
@@ -62,6 +71,57 @@ Et plus personne sur le dos pour me dire ce que j’ai à faire<br>
 Je veux que mes filles soient libres<br>
 Qu’elles choisissent leur vie<br>
 Et surtout leur mari</cite>
+
+<h4 style="color: black">Nourredine (par Bachir)</h4>
+<audio controls src="/media/nourredine.mp3"></audio>
+<p class="cite">chant: Valérie Gaudissart & Morton Potash, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Nourredine tu étais mon frère ainé<br>
+Le tout premier<br>
+Sept frères et quatre soeurs se sont succédés<br>
+Nourredine tu étais trop gentil<br>
+Tu avais le coeur sur la main<br>
+C'est avec toi que j'ai appris à travailler<br>
+Un jour un voisin est passé<br>
+T'a demandé un coup de main<br>
+Et tu es allé réparer l'électricité<br>
+C'était quatr' heures de l'après-midi<br>
+Tu m'as dit « restes là, j'en ai pour dix minutes »<br>
+Et je t'ai entendu crier Nourredine<br>
+Nourredine<br>
+Depuis ce jour ton cri résonne dans ma tête, Nourredine<br>
+Nourredine<br>
+Et je sens l'électricité passer<br>
+Dans ton corps Nourredine<br>
+Notre père s'est mis à trembler<br>
+Au son de ta voix<br>
+Et depuis il a tremblé comme ça<br>
+Jusqu'au jour de sa mort<br>
+Nourredine, trois cent quatre-vingt volts, Nourredine<br>
+Trois cent quatre-vingt volts, Nourredine</cite>
+
+<h4 style="color: black">mon père voulait un fil (par Jaida)</h4>
+<audio controls src="/media/mon-pere-voulait-un-fils.mp3"></audio>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Mon père voulait un fils et quand le sien est parti<br>
+Je suis devenue son fils<br>
+J'allais travailler avec lui<br>
+Moi sa fille je suis devenue son fils<br>
+Il m'a appris à poser de la faïence marocaine<br>
+À faire des dalles de sol, du ciment, du béton<br>
+Wo-oh, wo-oh, wo-oh<br>
+J'étais un vrai maçon<br>
+Même un jour mon oncle ne m'a pas reconnue<br>
+Moi sa nièce en jeans déchiré et casquette plein' d'peinture<br>
+Wo-oh, wo-oh, wo-oh<br>
+Il a dit c'est qui ce garçon qui t'aide à la peinture?<br>
+Il a dit c'est qui ce garçon qui t'aide à la peinture?<br>
+Mais j'étais pas un garçon car si j'avais été un garçon<br>
+Ma vie aurait pris une autre direction<br>
+Les filles valent autant que les garçons<br>
+Les filles valent autant que les garçons<br>
+Je suis fille et je vaux autant qu'un garçon
+</cite>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
@@ -103,18 +163,6 @@ Et surtout leur mari</cite>
 </div>
 <br>
 <script type="text/javascript" src="/js/slideshow.js"></script>
-
-<h2>chansons de l'atelier</h2>
-<figure>
-    <figcaption>au plus profond de mon enfance</figcaption>
-<audio
-        controls
-        src="/media/au-plus-profond-de-mon-enfance.mp3">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
-</figure>
 
 <h2>presse</h2>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630642096/jsl-assemblage_w0mfsk.png">
