@@ -134,7 +134,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="numbertext">15 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/fille-ghizlane-en-l_air_xap2fv.png">
-      <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <figcaption class="figCap">©Lucie Moraillon</figcaption>
     </figure>
   </div>
 
