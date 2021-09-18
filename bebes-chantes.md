@@ -14,7 +14,7 @@ title: bébés chantés
     <figcaption>raphael:</figcaption>
     <audio
         controls
-        src="/media/raphael.mp3">
+        src="https://rth8.b-cdn.net/raphael.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -25,18 +25,19 @@ title: bébés chantés
     <figcaption>timeo:</figcaption>
     <audio
         controls
-        src="/media/timeo.mp3">
+        src="https://rth8.b-cdn.net/timeo.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
         <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 
 </figure>
+
 <figure>
     <figcaption>edgar:</figcaption>
     <audio
         controls
-        src="/media/edgar.mp3">
+        src="https://rth8.b-cdn.net/edgar.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
