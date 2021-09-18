@@ -47,22 +47,17 @@ J’ai appris au fil du temps à m’occuper de toi<br>
 Ton lever, tes repas, ta toilette, tes couchers<br>
 Tes moindres mouvements<br>
 Je te parlais tout le temps<br>
-Je te disais «n’aies pas peur maman, je suis là, accroche toi à moi»</p>
+Je te disais «n’aies pas peur maman, je suis là, accroche-toi à moi»</p>
 <div class="indented">
-<p class="chansons_spoken">J’ai essayé de me mettre à ta place, j’ai essayé de deviner tes pensées, j’ai essayé de te faire rire même quand ton sourire était éteint.</p></div>
-<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait&nbsp;?
-Est-ce que j’ai fait comme il fallait&nbsp;?</p>
-<div class="indented"><p class="chansons_spoken">J’ai rempli une tonne de dossiers. J’ai transformé mon chez moi en hôpital. Je te faisais manger. Et tu mangeais si doucement, que tes repas occupaient toutes mes journées. Mais j’avais si peur de t’étouffer. J’ai appris les gestes du kiné pour pouvoir le soir les répéter et te retourner dans ton lit sans te brusquer. Mais j’ai eu l’impression de te torturer.</p></div>
-<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait&nbsp;?
-Est-ce que j’ai fait comme il fallait&nbsp;?</p>
-<div class="indented"><p class="chansons_spoken">
-Un jour je t’ai vue nue, et cela m’a tant choquée. Mais je me suis tue, je me suis adaptée. Et  je culpabilise toujours, car je ne t’ai pas sauvée. Et je me sens fautive car ta vie d’avant, tu ne l’as  jamais retrouvée.</p></div>
-<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait&nbsp;?
-Est-ce que j’ai fait comme il fallait&nbsp;?</p>
+<p class="chansons_spoken">J’ai essayé de me mettre à ta place, j’ai essayé de deviner tes pensées, j’ai essayé de te faire rire même quand ton sourire était éteint. J’ai rempli une tonne de dossiers. J’ai transformé mon chez moi en hôpital. Je te faisais manger. Et tu mangeais si doucement, que tes repas occupaient toutes mes journées. Mais j’avais si peur de t’étouffer.</p></div>
+<p class="chansons_sung">Mais est-ce que j’ai été à la hauteur&nbsp;?
+Est-ce que j’ai été à la hauteur&nbsp;?</p>
+<div class="indented">
+<p class="chansons_spoken">J’ai appris les gestes du kiné pour pouvoir le soir les répéter et te retourner dans ton lit sans te brusquer. Mais j’ai eu l’impression de te torturer. Un jour je t’ai vue nue, et cela m’a tant choquée. Mais je me suis tue, je me suis adaptée. Et je culpabilise toujours, car je ne t’ai pas sauvée. Et je me sens fautive car ta vie d’avant, tu ne l’as jamais retrouvée.</p></div>
+<p class="chansons_sung">Mais est-ce que j’ai été à la hauteur&nbsp;?
+Est-ce que j’ai été à la hauteur&nbsp;?</p>
 <div class="indented"><p class="chansons_spoken"> 
-Et si j’avais su tout ce que je sais maintenant&nbsp;?  
-Si j’avais fait autrement&nbsp;? Ai-je eu des mots involontairement malheureux à son égard&nbsp;? Est-ce que j’ai eu des mots méchants&nbsp;? La fatigue peut  faire perdre patience. Quand tu es décédée, j’ai ressenti un grand vide. Je sais bien qu’avec des « si », on ne refait pas le monde. Mais tout me remonte et me revient. Alors je préfère rester seule ans mon coin
-Car je sais qu’il faut tourner la page, ne pas agacer les gens. Alors je dédramatise avec mes bons vieux jeux de mots pour voiler la face et tout le monde est content.</p></div>
+Et si j’avais su tout ce que je sais maintenant&nbsp;? Si j’avais fait autrement&nbsp;? Ai-je eu des mots involontairement malheureux à son égard&nbsp;? Est-ce que j’ai eu des mots méchants&nbsp;? Quand tu es décédée, j’ai ressenti un grand vide. Je sais bien qu’avec des « si », on ne refait pas le monde. Mais tout me remonte et me revient. Alors je préfère rester seule ans mon coin. Je sais qu’il faut tourner la page, ne pas agacer les gens. Alors je dédramatise avec mes bons vieux jeux de mots pour voiler la face et tout le monde est content.</p></div>
 
 <h4 style="color: black">Je t’ai bercé</h4>
 <audio controls src="https://rth8.b-cdn.net/je-tai-berce-choye.mp3"></audio>
