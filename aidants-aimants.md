@@ -50,24 +50,24 @@ Je te parlais tout le temps<br>
 Je te disais «n’aies pas peur maman, je suis là, accroche toi à moi»</p>
 <div class="indented">
 <p class="chansons_spoken">J’ai essayé de me mettre à ta place, j’ai essayé de deviner tes pensées, j’ai essayé de te faire rire même quand ton sourire était éteint.</p></div>
-<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait ?
-Est-ce que j’ai fait comme il fallait ?</p>
+<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait&nbsp;?
+Est-ce que j’ai fait comme il fallait&nbsp;?</p>
 <div class="indented"><p class="chansons_spoken">J’ai rempli une tonne de dossiers. J’ai transformé mon chez moi en hôpital. Je te faisais manger. Et tu mangeais si doucement, que tes repas occupaient toutes mes journées. Mais j’avais si peur de t’étouffer. J’ai appris les gestes du kiné pour pouvoir le soir les répéter et te retourner dans ton lit sans te brusquer. Mais j’ai eu l’impression de te torturer.</p></div>
-<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait ?
-Est-ce que j’ai fait comme il fallait ?</p>
+<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait&nbsp;?
+Est-ce que j’ai fait comme il fallait&nbsp;?</p>
 <div class="indented"><p class="chansons_spoken">
 Un jour je t’ai vue nue, et cela m’a tant choquée. Mais je me suis tue, je me suis adaptée. Et  je culpabilise toujours, car je ne t’ai pas sauvée. Et je me sens fautive car ta vie d’avant, tu ne l’as  jamais retrouvée.</p></div>
-<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait ?
-Est-ce que j’ai fait comme il fallait ?</p>
+<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait&nbsp;?
+Est-ce que j’ai fait comme il fallait&nbsp;?</p>
 <div class="indented"><p class="chansons_spoken"> 
-Et si j’avais su tout ce que je sais maintenant ?  
-Si j’avais fait autrement ? Ai-je eu des mots involontairement malheureux à son égard ? Est-ce que j’ai eu des mots méchants ? La fatigue peut  faire perdre patience. Quand tu es décédée, j’ai ressenti un grand vide. Je sais bien qu’avec des « si », on ne refait pas le monde. Mais tout me remonte et me revient. Alors je préfère rester seule ans mon coin
+Et si j’avais su tout ce que je sais maintenant&nbsp;?  
+Si j’avais fait autrement&nbsp;? Ai-je eu des mots involontairement malheureux à son égard&nbsp;? Est-ce que j’ai eu des mots méchants&nbsp;? La fatigue peut  faire perdre patience. Quand tu es décédée, j’ai ressenti un grand vide. Je sais bien qu’avec des « si », on ne refait pas le monde. Mais tout me remonte et me revient. Alors je préfère rester seule ans mon coin
 Car je sais qu’il faut tourner la page, ne pas agacer les gens. Alors je dédramatise avec mes bons vieux jeux de mots pour voiler la face et tout le monde est content.</p></div>
 
 <h4 style="color: black">Je t’ai bercé</h4>
 <audio controls src="https://rth8.b-cdn.net/je-tai-berce-choye.mp3"></audio>
 <p class="cite">chant&nbsp;: Valérie Gaudissart & Morton Potash, musique&nbsp;: Morton Potash</p>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<article class="chansons_sung">
 Je t’ai bercé, choyé<br>
 J'ai porté ton cartable,  ciré tes souliers.<br>
 J'ai coupé ton poisson, ôté les arêtes<br>
@@ -80,15 +80,15 @@ Je t’ai raconté des histoires,<br>
 J’ai rangé tes tiroirs,<br>
 J’ai pansé tes bleus à l'âme <br>
 Et je m’inquiète de tes retours de flamme...<br>
-Mais est-ce que j’ai fait tout ce qu’il fallait ?<br>
-Est-ce que j’ai fait tout ce qu’il fallait ?
-</cite>
+Mais est-ce que j’ai fait tout ce qu’il fallait&nbsp;?<br>
+Est-ce que j’ai fait tout ce qu’il fallait&nbsp;?
+</article>
 
 <h4 style="color: black">j'arrondis les angles</h4>
 
 <audio controls src="https://rth8.b-cdn.net/j'arrondis-les-angles.mp3"></audio>
 
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<article class="chansons_sung">
 J’arrondis les angles<br>
 Je suis un vrai robot<br>
 J’aplanis, je gère<br>
@@ -99,20 +99,44 @@ Je te dis que non, tu n’es pas inutile<br>
 Mais tu exiges tout de moi<br>
 ma présence, ma parole, tout<br>
 Je suis épuisée<br>
-</cite>
+</article>
 <div class="indented">
-<article class="chansons_spoken">Alors, quelle est la bonne question ? Est-ce que j'ai fait tout ce qu'il fallait ? Ou plutôt n'en ai-je pas trop fait ? Par amour, par manque d'humilité, par orgueil ? Qu’est-ce que je suis en train de payer ? 
-Tes douleurs d’enfance ? Et serais-je en train de réaliser que je me suis mise à sa disposition ? Que tout mon être obéit à tes exigences ? Pourquoi est-ce que je te donne tout ce surcroît d'attentions ? Alors que tu me harcèles tout le temps ? Ces questions me taraudent. Ces questions me taraudent.  
-Mais j'évolue. Je me laisse moins prendre au jeu de tes sentiments. Et au jeu de ton chantage, je te "montre les dents", je ne te cède plus si facilement. Ai-je raison, ai-je tort ? Mais pour continuer de vivre à deux, Il me faut mettre une limite à ton harcèlement.</article>
+<article class="chansons_spoken">Alors, quelle est la bonne question&nbsp;? Est-ce que j'ai fait tout ce qu'il fallait&nbsp;? Ou plutôt n'en ai-je pas trop fait&nbsp;? Par amour, par manque d'humilité, par orgueil&nbsp;? Qu’est-ce que je suis en train de payer&nbsp;? 
+Tes douleurs d’enfance&nbsp;? Et serais-je en train de réaliser que je me suis mise à sa disposition&nbsp;? Que tout mon être obéit à tes exigences&nbsp;? Pourquoi est-ce que je te donne tout ce surcroît d'attentions&nbsp;? Alors que tu me harcèles tout le temps&nbsp;? Ces questions me taraudent. Ces questions me taraudent.  
+Mais j'évolue. Je me laisse moins prendre au jeu de tes sentiments. Et au jeu de ton chantage, je te "montre les dents", je ne te cède plus si facilement. Ai-je raison, ai-je tort&nbsp;? Mais pour continuer de vivre à deux, Il me faut mettre une limite à ton harcèlement.</article>
 </div>
 
+<h4 style="color: black">je mets ma robe de chambre</h4>
+<audio controls src="https://rth8.b-cdn.net/je%20mets%20ma%20robe%20de%20chambre.mp3"></audio>
+<article class="chansons_sung">Je mets ma robe de chambre<br>
+J’ouvre les volets<br>
+Je me lève avant lui<br>
+J’ouvre les portes<br>
+Je prépare son linge à lui<br>
+Ses chaussures<br>
+Ses protections<br>
+Je sors le beurre<br>
+Je lui fais ses tartines<br>
+Je le sers avant moi<br>
+Je mange après lui<br>
+Je mange froid<br>
+Je mange mon dessert en cachette<br>
+Et chaque matin je me répète, <br>
+Quoiqu’il advienne<br>
+Il faut que je tienne<br>
+j’irai jusque bout
+</article>
+
+
 <h4 style="color: black">Dans ma main</h4>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<div class="indented">
+<article class="chansons_spoken">
 Dans ma main je tiens mon crayon. Voilà déjà à quoi elle me sert, merci.<br><br>
 Moi, à l’âge de 6 ans, j’ai compris à quoi mes mains étaient utiles.  J’ai été impressionnée devant une machine qui possédait des couronnes très brillantes que j’ai eu la curiosité de caresser. Résultat : un doigt machouillé, donc hôpital, donc un doigt en moins. Tout mon entourage m’a dit : tu ne pourras pas te marier, c’était l’annulaire gauche.<br><br>
 Mais le mariage est arrivé. L’alliance s’est mise à l’annulaire droit. Plus tard je me suis rendu compte de mon handicap surtout au travail avec mon mari. La main gauche n’a que trois doigts pour travailler. Je vis avec, ce sont mes seules douleurs. Pendant ma jeunesse, mes mains  me servaient à dialoguer avec un sourd muet qui était ouvrier chez mes parents.<br><br>
 En ce moment mes mains me servent à tenir les mains de mon mari comme jamais.
-</cite>
+</article>
+</div>
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
@@ -121,21 +145,21 @@ En ce moment mes mains me servent à tenir les mains de mon mari comme jamais.
     <div class="numbertext">1 / 3</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918470/many-hands533high_hvqdsq.svg">
-      <figcaption class="figCap"></figcaption>
+      <figcaption class="figCapCenter">atelier photo</figcaption>
     </figure>
 </div>
 <div class="mySlides">
     <div class="numbertext">2 / 3</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918848/finger-points533_p66gwx.svg">
-      <figcaption class="figCap"></figcaption>
+      <figcaption class="figCapCenter">atelier photo</figcaption>
     </figure>
 </div>
 <div class="mySlides">
     <div class="numbertext">3 / 3</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918848/frames533_xpfg1w.svg">
-      <figcaption class="figCap"></figcaption>
+      <figcaption class="figCapCenter">atelier photo</figcaption>
     </figure>
 </div>
 
