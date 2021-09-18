@@ -41,19 +41,31 @@ L’association Rêver Tout Haut propose aux aidants et aux proches de personne
 
 
 <h4 style="color: black">Au fil du temps</h4>
-
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<audio controls src="https://rth8.b-cdn.net/j'ai-appris-au-fil-du-temps.mp3"></audio>
+<p class="chansons_sung">
 J’ai appris au fil du temps à m’occuper de toi<br>
 Ton lever, tes repas, ta toilette, tes couchers<br>
 Tes moindres mouvements<br>
 Je te parlais tout le temps<br>
-Je te disais «n’aies pas peur maman, je suis là, accroche toi à moi»<br>
-J’ai essayé de me mettre à ta place, j’ai essayé de deviner tes pensées, j’ai essayé de te faire rire même quand ton sourire était éteint. <br>
-Mais est-ce que j’ai été à la hauteur ? Est-ce que j’ai été à la hauteur ? 
-</cite>
+Je te disais «n’aies pas peur maman, je suis là, accroche toi à moi»</p>
+<div class="indented">
+<p class="chansons_spoken">J’ai essayé de me mettre à ta place, j’ai essayé de deviner tes pensées, j’ai essayé de te faire rire même quand ton sourire était éteint.</p></div>
+<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait ?
+Est-ce que j’ai fait comme il fallait ?</p>
+<div class="indented"><p class="chansons_spoken">J’ai rempli une tonne de dossiers. J’ai transformé mon chez moi en hôpital. Je te faisais manger. Et tu mangeais si doucement, que tes repas occupaient toutes mes journées. Mais j’avais si peur de t’étouffer. J’ai appris les gestes du kiné pour pouvoir le soir les répéter et te retourner dans ton lit sans te brusquer. Mais j’ai eu l’impression de te torturer.</p></div>
+<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait ?
+Est-ce que j’ai fait comme il fallait ?</p>
+<div class="indented"><p class="chansons_spoken">
+Un jour je t’ai vue nue, et cela m’a tant choquée. Mais je me suis tue, je me suis adaptée. Et  je culpabilise toujours, car je ne t’ai pas sauvée. Et je me sens fautive car ta vie d’avant, tu ne l’as  jamais retrouvée.</p></div>
+<p class="chansons_sung">Mais est-ce que j’ai fait comme il fallait ?
+Est-ce que j’ai fait comme il fallait ?</p>
+<div class="indented"><p class="chansons_spoken"> 
+Et si j’avais su tout ce que je sais maintenant ?  
+Si j’avais fait autrement ? Ai-je eu des mots involontairement malheureux à son égard ? Est-ce que j’ai eu des mots méchants ? La fatigue peut  faire perdre patience. Quand tu es décédée, j’ai ressenti un grand vide. Je sais bien qu’avec des « si », on ne refait pas le monde. Mais tout me remonte et me revient. Alors je préfère rester seule ans mon coin
+Car je sais qu’il faut tourner la page, ne pas agacer les gens. Alors je dédramatise avec mes bons vieux jeux de mots pour voiler la face et tout le monde est content.</p></div>
 
 <h4 style="color: black">Je t’ai bercé</h4>
-<audio controls src="/media/je-tai-berce-choye.mp3"></audio>
+<audio controls src="https://rth8.b-cdn.net/je-tai-berce-choye.mp3"></audio>
 <p class="cite">chant&nbsp;: Valérie Gaudissart & Morton Potash, musique&nbsp;: Morton Potash</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Je t’ai bercé, choyé<br>
@@ -71,6 +83,28 @@ Et je m’inquiète de tes retours de flamme...<br>
 Mais est-ce que j’ai fait tout ce qu’il fallait ?<br>
 Est-ce que j’ai fait tout ce qu’il fallait ?
 </cite>
+
+<h4 style="color: black">j'arrondis les angles</h4>
+
+<audio controls src="https://rth8.b-cdn.net/j'arrondis-les-angles.mp3"></audio>
+
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+J’arrondis les angles<br>
+Je suis un vrai robot<br>
+J’aplanis, je gère<br>
+Je te vois te dégrader<br>
+T’accrocher à moi<br>
+Je te caresse la tête pour t’apaiser<br>
+Je te dis que non, tu n’es pas inutile<br>
+Mais tu exiges tout de moi<br>
+ma présence, ma parole, tout<br>
+Je suis épuisée<br>
+</cite>
+<div class="indented">
+<article class="chansons_spoken">Alors, quelle est la bonne question ? Est-ce que j'ai fait tout ce qu'il fallait ? Ou plutôt n'en ai-je pas trop fait ? Par amour, par manque d'humilité, par orgueil ? Qu’est-ce que je suis en train de payer ? 
+Tes douleurs d’enfance ? Et serais-je en train de réaliser que je me suis mise à sa disposition ? Que tout mon être obéit à tes exigences ? Pourquoi est-ce que je te donne tout ce surcroît d'attentions ? Alors que tu me harcèles tout le temps ? Ces questions me taraudent. Ces questions me taraudent.  
+Mais j'évolue. Je me laisse moins prendre au jeu de tes sentiments. Et au jeu de ton chantage, je te "montre les dents", je ne te cède plus si facilement. Ai-je raison, ai-je tort ? Mais pour continuer de vivre à deux, Il me faut mettre une limite à ton harcèlement.</article>
+</div>
 
 <h4 style="color: black">Dans ma main</h4>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
