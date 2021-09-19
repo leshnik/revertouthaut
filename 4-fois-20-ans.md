@@ -4,9 +4,47 @@ title: 4 fois 20 ans
 summary: 
 ---
 <h1>4 fois 20 ans</h1>
-<div class="slideshow-container">
+<div class="center-text">
+<h2>reportage France3/Bourgogne</h2>
+<video controls="controls" width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/v1631985559/ehpad-nevers-clap-uku_rhdmy3.jpg" alt="">
+<source src="https://rth8.b-cdn.net/reportage-FR3-ehpad-nevers.mp4"></video>
+</div>
 
-  <!-- Full-width images with number and caption text -->
+<p class="intro-text">De mars à juillet 2021, en partenariat avec La Roue Voilée (Chalon sur Saône) et à l’initiative de D'jazz Nevers, Sidonie Dubosc, chanteuse, Morton Potash, compositeur et pianiste, Valérie Gaudissart, parolière et metteuse en scène ont conçu un atelier créatif pour l’Ehpad Marion de Givry à Nevers.</p>
+
+<p class="intro-text">Ce projet pour personnes en perte d’autonomie et atteintes de maladies neuro-évolutives et leurs soignants, répondait à plusieurs objectifs: ranimer une créativité souvent enfouie, parfois niée, chez les participants, atténuer les effets de la dépression de la dernière partie de la vie, faire participer une institution à un projet artistique, et apporter de la culture commune.</p>
+
+
+<p class="intro-text">C’est en réécoutant «20 ans», cette chanson de Léo Ferré qui figure sur l’album de La Sido, que nous avons imaginé l’atelier. Voici deux extraits de la chanson : 
+
+<div class="quote"><em>«&nbsp;Pour tout bagage on a vingt ans<br>   
+On a l'expérience des parents<br>
+On se fout du tiers comme du quart<br>
+On prend l' bonheur toujours en retard<br>
+Quand on aime c'est pour tout' la vie»<br>
+<br>
+«Et en cherchant son cœur d'enfant<br>
+On dit qu'on a toujours vingt ans...»</em></div>
+<p class="cite">Léo Ferré</p>
+
+<video controls="controls" width="100%" poster="" alt="Clip vidéo par D'jazz Nevers qui présente l'atelier.">
+    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630497913/4_fois20ansDjazz480_ylhudn.mov">
+    <p>Your browser doesn't support HTML5 video. Here is a
+      <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1630497913/4_fois20ansDjazz480_ylhudn.mov">link to the video</a>
+      instead.</p>
+  </video>
+
+<p class="intro-text">En partant de cette chanson, nous sommes allés chercher les émotions de la jeunesse qui restent présentes, actives, prêtes à être ravivées car oui, même à 90 ans passés, même privés de langage et de mouvement du fait de la maladie, les personnes âgées restent les 20 ans qu’elles ont été. Nous avons composé des chansons personnelles à chacun.e, une chanson qui porte le prénom de la personne, qui raconte ce qui la caractérise à partir de nos ressentis, des rencontres faites avec elles, parfois même dans le silence.</p>
+<p class="intro-text">Une vingtaine de chansons ont été composées, ont résonné dans l’établissement et ont été présentées aux familles lors d’une restitution publique.</p>
+<p class="intro-text">Nous avons aussi proposé au moment du coucher, une déambulation musicale de chambre en chambre, pour ceux et celles qui le désirent, pour chanter de manière intime, une berceuse, même sans paroles, une chanson du répertoire ou bien la chanson écrite pour chaque résident.</p>
+
+<h2>quelques images de nos ateliers</h2>
+
+<div class="slideshow-container">
+<!-- Full-width images with number and caption text -->
+
+
+
 
   <div class="mySlides">
     <div class="numbertext">1 / 7</div>
@@ -14,6 +52,7 @@ summary:
     <video controls="controls" width="" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630832270/au-piano-monique_morton_smile_ojzwij.jpg" alt="">
     <source src="https://res.cloudinary.com/dnxcesebo/video/upload/q_auto,f_auto/v1630833673/au-piano-monique_morton-shorter_smq0sc.mov">
   </video>
+  <figcaption class="figCapCenter">La professeure du piano retrouve son instrument</figcaption>
   </div>
   </div>
 
@@ -73,33 +112,6 @@ summary:
 <script type="text/javascript" src="/js/slideshow.js"></script>
 
 
-<p class="intro-text">De mars à juillet 2021, en partenariat avec La Roue Voilée (Chalon sur Saône) et à l’initiative de D'jazz Nevers, Sidonie Dubosc, chanteuse, Morton Potash, compositeur et pianiste, Valérie Gaudissart, parolière et metteuse en scène ont conçu un atelier créatif pour l’Ehpad Marion de Givry à Nevers.</p>
-
-<p class="intro-text">Ce projet pour personnes en perte d’autonomie et atteintes de maladies neuro-évolutives et leurs soignants, répondait à plusieurs objectifs: ranimer une créativité souvent enfouie, parfois niée, chez les participants, atténuer les effets de la dépression de la dernière partie de la vie, faire participer une institution à un projet artistique, et apporter de la culture commune.</p>
-
-
-<p class="intro-text">C’est en réécoutant «20 ans», cette chanson de Léo Ferré qui figure sur l’album de La Sido, que nous avons imaginé l’atelier. Voici deux extraits de la chanson : 
-
-<div class="quote"><em>«&nbsp;Pour tout bagage on a vingt ans<br>   
-On a l'expérience des parents<br>
-On se fout du tiers comme du quart<br>
-On prend l' bonheur toujours en retard<br>
-Quand on aime c'est pour tout' la vie»<br>
-<br>
-«Et en cherchant son cœur d'enfant<br>
-On dit qu'on a toujours vingt ans...»</em></div>
-<p class="cite">Léo Ferré</p>
-
-<video controls="controls" width="100%" poster="" alt="Clip vidéo par D'jazz Nevers qui présente l'atelier.">
-    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630497913/4_fois20ansDjazz480_ylhudn.mov">
-    <p>Your browser doesn't support HTML5 video. Here is a
-      <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1630497913/4_fois20ansDjazz480_ylhudn.mov">link to the video</a>
-      instead.</p>
-  </video>
-
-<p class="intro-text">En partant de cette chanson, nous sommes allés chercher les émotions de la jeunesse qui restent présentes, actives, prêtes à être ravivées car oui, même à 90 ans passés, même privés de langage et de mouvement du fait de la maladie, les personnes âgées restent les 20 ans qu’elles ont été. Nous avons composé des chansons personnelles à chacun.e, une chanson qui porte le prénom de la personne, qui raconte ce qui la caractérise à partir de nos ressentis, des rencontres faites avec elles, parfois même dans le silence.</p>
-<p class="intro-text">Une vingtaine de chansons ont été composées, ont résonné dans l’établissement et ont été présentées aux familles lors d’une restitution publique.</p>
-<p class="intro-text">Nous avons aussi proposé au moment du coucher, une déambulation musicale de chambre en chambre, pour ceux et celles qui le désirent, pour chanter de manière intime, une berceuse, même sans paroles, une chanson du répertoire ou bien la chanson écrite pour chaque résident.</p>
 <h2>articles de presse</h2>
 <div class="center-text">
 <img class="center-big-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630509919/le-journal-du-centre_r3tgtr.jpg">
