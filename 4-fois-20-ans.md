@@ -27,12 +27,15 @@ Quand on aime c'est pour tout' la vie»<br>
 On dit qu'on a toujours vingt ans...»</em></div>
 <p class="cite">Léo Ferré</p>
 
-<video controls="controls" width="100%" poster="" alt="Clip vidéo par D'jazz Nevers qui présente l'atelier.">
+<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/7e846192-4ce6-41b6-84d2-a44d3f53de6b?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+<figcaption class="figCapCenter">Clip vidéo par D'jazz Nevers</figcaption>
+
+<!-- <video controls="controls" width="100%" poster="" alt="Clip vidéo par D'jazz Nevers qui présente l'atelier.">
     <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630497913/4_fois20ansDjazz480_ylhudn.mov">
     <p>Your browser doesn't support HTML5 video. Here is a
       <a href="https://res.cloudinary.com/dnxcesebo/video/upload/v1630497913/4_fois20ansDjazz480_ylhudn.mov">link to the video</a>
       instead.</p>
-  </video>
+  </video> -->
 
 <p class="intro-text">En partant de cette chanson, nous sommes allés chercher les émotions de la jeunesse qui restent présentes, actives, prêtes à être ravivées car oui, même à 90 ans passés, même privés de langage et de mouvement du fait de la maladie, les personnes âgées restent les 20 ans qu’elles ont été. Nous avons composé des chansons personnelles à chacun.e, une chanson qui porte le prénom de la personne, qui raconte ce qui la caractérise à partir de nos ressentis, des rencontres faites avec elles, parfois même dans le silence.</p>
 <p class="intro-text">Une vingtaine de chansons ont été composées, ont résonné dans l’établissement et ont été présentées aux familles lors d’une restitution publique.</p>
@@ -54,7 +57,7 @@ width: 100%;
 max-width: 400px;">
 <div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/98b902ed-5ef9-4daa-a105-df49066ee0b6?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 
-  <figcaption class="figCapCenter">La professeure du piano retrouve son instrument</figcaption>
+  <figcaption class="figCapCenter">L'ancienne professeure de piano retrouve son instrument...</figcaption>
   </div>
   </div>
 
@@ -65,7 +68,7 @@ margin-right: auto;
 width: 100%;
 max-width: 400px;">
 <div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/85cb013d-a758-49e0-8122-2dbca512b676?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
-<figcaption class="figCapCenter">dans les yeux clair de Monique</figcaption>
+<figcaption class="figCapCenter">Chanson: Les yeux clairs de Monique</figcaption>
   </div>
   </div>
 
@@ -76,7 +79,7 @@ margin-right: auto;
 width: 100%;
 max-width: 400px;">
 <div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/628c4a88-8327-41cd-a00c-b457b2fba430?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
-<figcaption class="figCapCenter">josiane c'est la beauté</figcaption>
+<figcaption class="figCapCenter">Poème pour Josiane et Maurice</figcaption>
 </div>
   </div>
   
@@ -84,7 +87,7 @@ max-width: 400px;">
     <div class="numbertext">4 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630383436/bate_din_palme_rodica_bjeqjg.png">
-      <figcaption class="figCapCenter">Bate Din Palme, Rodica</figcaption>
+      <figcaption class="figCapCenter">Bate Din Palme, chanson pour Rodica</figcaption>
     </figure>
   </div>
 
@@ -92,7 +95,7 @@ max-width: 400px;">
     <div class="numbertext">5 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384510/josianne-lisant-sa-chanson_am7pjv.png">
-      <figcaption class="figCapCenter">Josianne lisant sa chanson</figcaption>
+      <figcaption class="figCapCenter">Josiane lisant sa chanson</figcaption>
     </figure>
   </div>
 
@@ -100,7 +103,7 @@ max-width: 400px;">
     <div class="numbertext">6 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384935/andre%CC%81_sido_kalimba_xopn7l.png">
-      <figcaption class="figCapCenter">Dans le Rêve d'André</figcaption>
+      <figcaption class="figCapCenter">Chanson: Dans le Rêve d'André</figcaption>
     </figure>
   </div>
 
