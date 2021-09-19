@@ -48,30 +48,36 @@ On dit qu'on a toujours vingt ans...»</em></div>
 
   <div class="mySlides">
     <div class="numbertext">1 / 7</div>
-    <div class="center-text">
-    <video controls="controls" width="" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630832270/au-piano-monique_morton_smile_ojzwij.jpg" alt="">
-    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/q_auto,f_auto/v1630833673/au-piano-monique_morton-shorter_smq0sc.mov">
-  </video>
+    <div style="margin-left: auto;
+margin-right: auto;
+width: 100%;
+max-width: 400px;">
+<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/98b902ed-5ef9-4daa-a105-df49066ee0b6?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+
   <figcaption class="figCapCenter">La professeure du piano retrouve son instrument</figcaption>
   </div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">2 / 7</div>
-      <div class="center-text">
-        <video controls="controls" width="" poster="" alt="">
-          <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630502698/dans_les_yeux_clairs_u59x3u.mov">
-        </video>
-      </div>
+      <div style="margin-left: auto;
+margin-right: auto;
+width: 100%;
+max-width: 400px;">
+<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/85cb013d-a758-49e0-8122-2dbca512b676?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+<figcaption class="figCapCenter">dans les yeux clair de Monique</figcaption>
+  </div>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">3 / 7</div>
-      <div class="center-text">
-        <video controls="controls" width="" poster="" alt="">
-          <source src="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1630504413/josiane_et_maurice_jejkdo.mov">
-        </video>
-      </div>
+      <div style="margin-left: auto;
+margin-right: auto;
+width: 100%;
+max-width: 400px;">
+<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/628c4a88-8327-41cd-a00c-b457b2fba430?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+<figcaption class="figCapCenter">josiane c'est la beauté</figcaption>
+</div>
   </div>
   
   <div class="mySlides">
