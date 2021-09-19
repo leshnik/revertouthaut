@@ -10,6 +10,7 @@ summary:
 <source src="https://rth8.b-cdn.net/reportage-FR3-ehpad-nevers.mp4"></video>
 
 <figcaption class="figCapCenter">Reportage France3/Bourgogne, Juin 2021</figcaption>
+<figcaption class="figCapCenter">par Rémy Chidaine et Sophie Hemar ; Montage : Cécile Frèrebeau</figcaption>
 </div>
 <main>
 <p class="intro-text">De mars à juillet 2021, en partenariat avec La Roue Voilée (Chalon sur Saône) et à l’initiative de D'jazz Nevers, Sidonie Dubosc, chanteuse, Morton Potash, compositeur et pianiste, Valérie Gaudissart, parolière et metteuse en scène ont conçu un atelier créatif pour l’Ehpad Marion de Givry à Nevers.</p>
