@@ -31,7 +31,7 @@ On dit qu'on a toujours vingt ans...»</em></div>
 <p class="cite">Léo Ferré</p>
 
 <div class="center-max600-block">
-<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/7e846192-4ce6-41b6-84d2-a44d3f53de6b?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Scènes de la présentation publique et des ateliers réalisé par D'jazz Nevers"></iframe></div>
+<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/7e846192-4ce6-41b6-84d2-a44d3f53de6b?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Scènes de la présentation publique et des ateliers réalisé par D'jazz Nevers"></iframe></div>
 <figcaption class="figCapCenter">Clip vidéo par D'jazz Nevers</figcaption>
 </div>
 
@@ -56,7 +56,7 @@ On dit qu'on a toujours vingt ans...»</em></div>
 margin-right: auto;
 width: 100%;
 max-width: 400px;">
-<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/98b902ed-5ef9-4daa-a105-df49066ee0b6?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Monique sent les touches du piano sous ses mains et commence à jouer. Elle sourit et éclate de rire."></iframe></div>
+<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/98b902ed-5ef9-4daa-a105-df49066ee0b6?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Monique sent les touches du piano sous ses mains et commence à jouer. Elle sourit et éclate de rire."></iframe></div>
 
   <figcaption class="figCapCenter">L'ancienne professeure de piano retrouve son instrument...</figcaption>
   </div>
@@ -68,7 +68,7 @@ max-width: 400px;">
 margin-right: auto;
 width: 100%;
 max-width: 400px;">
-<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/85cb013d-a758-49e0-8122-2dbca512b676?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="On joue sa chanson et on voit qu'elle comprend et l'apprécie."></iframe></div>
+<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/85cb013d-a758-49e0-8122-2dbca512b676?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="On joue sa chanson et on voit qu'elle comprend et l'apprécie."></iframe></div>
 <figcaption class="figCapCenter">Chanson: Les yeux clairs de Monique</figcaption>
   </div>
   </div>
@@ -79,7 +79,7 @@ max-width: 400px;">
 margin-right: auto;
 width: 100%;
 max-width: 400px;">
-<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/628c4a88-8327-41cd-a00c-b457b2fba430?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Valérie récite, Morton l'accompagne au piano, et Maurice suit avec ses mains la musique."></iframe></div>
+<div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/628c4a88-8327-41cd-a00c-b457b2fba430?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Valérie récite, Morton l'accompagne au piano, et Maurice suit avec ses mains la musique."></iframe></div>
 <figcaption class="figCapCenter">Poème pour Josiane et Maurice</figcaption>
 </div>
   </div>
