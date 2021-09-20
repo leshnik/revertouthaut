@@ -208,7 +208,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
   <ul class="coming">
       
         <li>
-          <span style="color:red;">REPORTE A L'AUTOMNE 2021</span><br>
+          <span style="color:red;">REPORTE AU PRINTEMPS 2022</span><br>
           samedi 5 decembre 2020 à 20h<br>
           Cellier des Moines<br>
           Place de l'Abbaye<br>
