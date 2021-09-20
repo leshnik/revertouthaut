@@ -13,6 +13,65 @@ summary:
 
 <p class="intro-text">Rêver Tout Haut a donc proposé cette médiation dans différents cadres: celui de l’insertion, du handicap, de la parentalité, du grand âge, ... mais cette médiation s’adresse et s’adapte à toutes et tous.</p>
 
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+
+  <div class="mySlides">
+    <div class="numbertext">1 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157919/partition-sur-genoux_rjzsbs.jpg">
+      <figcaption class="figCapCenter"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157915/sid-uku-white-hair_gqphyv.jpg">
+      <figcaption class="figCapCenter"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157911/morton_christelle_raqzev.jpg">
+      <figcaption class="figCapCenter"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">4 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157919/morton-piano-ipad_groupe-au-loin_xruixe.jpg">
+      <figcaption class="figCapCenter"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157920/isis_sylvie_v_m-outside_fbwkmx.jpg">
+      <figcaption class="figCapCenter"></figcaption>
+    </figure>
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">6 / 6</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157922/magali_val_morton_restitution_fleixi.jpg">
+      <figcaption class="figCapCenter"></figcaption>
+    </figure>
+  </div>
+
+  
+ {% include next-prev-slide.html %}
+
+</div>
+<script type="text/javascript" src="/js/slideshow.js"></script>
+
 
 <p class="intro-text">Quelques exemples de chansons accessibles ici et aussi sur chacune des pages des ateliers concernés.</p>
 </main>
