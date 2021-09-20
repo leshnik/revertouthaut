@@ -11,11 +11,53 @@ summary:
 <p class="intro-text">Une restitution publique a eu lieu le 1er juillet à Charolles.
 </p>
 </main>
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+<div class="mySlides">
+    <div class="numbertext">1 / 4</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640804/whole-group1_yqxvc3.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+<div class="mySlides">
+    <div class="numbertext">2 / 4</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640798/bachir_co_fshtl9.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+<div class="mySlides">
+    <div class="numbertext">3 / 4</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640801/jaida_co_ctynk6.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+<div class="mySlides">
+    <div class="numbertext">4 / 4</div>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640799/whole-group2_gra1k4.png">
+      <figcaption class="figCap"></figcaption>
+    </figure>
+</div>
+
+
+
+{% include next-prev-slide.html %}
+
+</div>
+<br>
+<script type="text/javascript" src="/js/slideshow.js"></script>
+
 <h2>chansons de l'atelier</h2>
 
 <h4 style="color: black">Au plus profond de mon enfance (par Caroline)</h4>
 <audio controls src="/media/au-plus-profond-de-mon-enfance.mp3"></audio>
-<p class="cite">texte: Caroline Maillet, chant: Valérie Gaudissart, music: Morton Potash</p>
+<p class="cite">texte: Caroline Maillet, chant: Valérie Gaudissart, musique: Morton Potash</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">Au plus profond de mon enfance<br>
 Vous avez marqué mes souvenirs<br>
 De ces moments où l’insouciance<br>
@@ -122,46 +164,7 @@ Les filles valent autant que les garçons<br>
 Je suis fille et je vaux autant qu'un garçon
 </cite>
 
-<!-- Slideshow container -->
-<div class="slideshow-container">
 
-  <!-- Full-width images with number and caption text -->
-<div class="mySlides">
-    <div class="numbertext">1 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640804/whole-group1_yqxvc3.png">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-</div>
-<div class="mySlides">
-    <div class="numbertext">2 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640798/bachir_co_fshtl9.png">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-</div>
-<div class="mySlides">
-    <div class="numbertext">3 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640801/jaida_co_ctynk6.png">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-</div>
-<div class="mySlides">
-    <div class="numbertext">4 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640799/whole-group2_gra1k4.png">
-      <figcaption class="figCap"></figcaption>
-    </figure>
-</div>
-
-
-
-{% include next-prev-slide.html %}
-
-</div>
-<br>
-<script type="text/javascript" src="/js/slideshow.js"></script>
 
 <h2>presse</h2>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630642096/jsl-assemblage_w0mfsk.png">
