@@ -21,26 +21,29 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
   <p class="intro-text">
     Et l’enfant manquant c'est l’enfant idéal, celui qu’il faut parfois oublier pour pouvoir accueillir l’enfant réel&hellip;
   </p>
-  <h3 style="font-size:32px; color:hsl(171, 93%, 25%); text-align:left;">
+  <h3 class="centered">
     pour visionner quelques extraits de la pièce
   </h3>
-  <video controls="controls" width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1555399096/revertouthaut-presente_giqsdi.png" alt="des témoignages de mères et de sages-femmes, pour explorer lesliens mère/enfant, et questionner l'expérience intime, universelle et complexe de la maternité">
-    <source src="https://res.cloudinary.com/dnxcesebo/video/upload/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">
-    <p>Your browser doesn't support HTML5 video. Here is a
-      <a href="https://res.cloudinary.com/dnxcesebo/video/upload/f_auto,q_auto/v1555328661/bercer-trailer-768-h264_kvpyle.mp4">link to the video</a>
-      instead.</p>
-  </video>
+<div class="center-max600-block">
+<div style="position: relative; padding-top: 57.599999999999994%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/e2823cae-6a84-4c7b-b8cb-ec57a8fa92b8?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+</div>
+  
   <p class="intro-text">
     Cette pièce est ouverte à tous et toutes, à partir de douze ans. Chaque représentation est suivie d’un temps d’échanges. Textes, chants, piano et percussions composent ce voyage en terre intime et universelle. Avec Valérie Gaudissart, Sidonie Dubosc, Morton Potash, Mariama Boina, Sylvia Etcheto et Florian Girard à la lumière.
   </p>
   <ul style="text-align:right;list-style-type:none">
     <li>
-      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="bercer-l-enfant-manquant-dossier.pdf" download="download">●&nbsp;Cliquer pour télécharger le dossier</a>
-    </li>
-    <li>
-      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html">●&nbsp;reportage sur france3-bourgogne par Maryline Barate, publié le 08/02/2019.</a>
+      <a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="bercer-l-enfant-manquant-dossier.pdf" download="download">●&nbsp;Cliquer pour télécharger le dossier</a>
     </li>
   </ul>
+  <h3 class="centered">
+    reportage sur France3/Bourgogne
+  </h3>
+  <div class="center-max600-block">
+      <div style="position: relative; padding-top: 56.09375%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/655f5a6d-62ad-4615-90e5-343fced103ee?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+      <figcaption class="figCapCenter">reportage sur France3/Bourgogne par Maryline BARATE, publié le 08/02/2019</figcaption>
+      <figcaption class="figCapCenter"><a style="color:hsl(171,93.5%,36.5%); font-size:1.5rem" href="https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html">●&nbsp;lien vers le reportage sur France3/Bourgogne</a></figcaption>
+    </div>
   <h2>photos du spectacle</h2>
   <!-- Slideshow container -->
   <div class="slideshow-container">
@@ -203,7 +206,21 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
   <div style="padding:15px">
 
   <ul class="coming">
-      <li>
+      
+        <li>
+          <span style="color:red;">REPORTE A L'AUTOMNE 2021</span><br>
+          samedi 5 decembre 2020 à 20h<br>
+          Cellier des Moines<br>
+          Place de l'Abbaye<br>
+          71700 Tournus<br>
+          en partenariat avec l’Association Vivre au Féminin
+        </li>        
+      </ul>
+      <hr>
+
+  <h2>représentations passées</h2>
+      <ul class="past">
+        <li>
           vendredi 25 juin 2021 à 20h<br>
           Foyer Municipal<br>
           71130 Gueugnon<br>
@@ -218,21 +235,6 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           précédé d'un atelier de création ouvert aux parents le samedi 12 juin dans la matinée
         </li>
         <hr>
-        <li>
-          <span style="color:red;">REPORTE A L'AUTOMNE 2021</span><br>
-          samedi 5 decembre 2020 à 20h<br>
-          Cellier des Moines<br>
-          Place de l'Abbaye<br>
-          71700 Tournus<br>
-          en partenariat avec l’Association Vivre au Féminin
-        </li>
-        <hr>
-        
-      </ul>
-      <hr>
-
-  <h2>représentations passées</h2>
-      <ul class="past">
         <li>
           vendredi 23 octobre 2020 à 20h<br>
           Salle du VOX<br>
