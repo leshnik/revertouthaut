@@ -121,6 +121,54 @@ max-width: 400px;">
 </div>
 <script type="text/javascript" src="/js/slideshow.js"></script>
 
+<h2>chansons composées avec les résidents</h2>
+<h4 style="color: black">fabien et rené</h4>
+  
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/fabien-et-rene.mp3"></audio>
+<p class="cite">chant: Valérie &amp; Morton, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">Fabien et René y’a qu’à les r’garder<br>
+pour comprendre c'que c’est qu’l'amitié<br>
+Fabien et René y’a qu’à les r’gar-der<br>
+quand ils font semblant de boxer<br>
+ces deux gamins en train de jouer<br>
+pour comprendr’ c’qu’ c’est qu’l'amitié<br>Fabien et René<br>y’a qu’à les r’garder s’amuser<br>les r’garder s’amuser </cite>
+</div>
+<h4 style="color: black">la fille au ruban rouge</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/la-fille-au-ruban-rouge.mp3"></audio>
+<p class="cite">chant: Valérie &amp; Morton, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+il faut la voir danser<br>dès minuit passé<br>il faut la voir danser<br>dans sa chambre fermée<br>
+il faut la voir danser<br>
+quand elle se croit cachée<br>
+Anne-Marie, Anne-Marie, Anne Marie<br> 
+car toujours elle est restée<br>la fille au ruban rouge<br>et dans son coeur, Anne-Marie<br>
+résonnent les pas des danseurs endiablés<br>
+car toujours elle est restée<br>
+la fille au ruban rouge<br>
+et dans son corps, Anne-Marie,<br>
+virevolte une ronde enivrée<br> 
+il faut la voir danser. il faut la voir danser,<br> Anne-Marie, Anne-Marie, Anne-Marie
+</cite>
+</div>
+<h4 style="color: black">dans les yeux clairs de Monique</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/dans-les-yeux-clairs-de-Monique.mp3"></audio>
+<p class="cite">chant: Valérie &amp; Morton,paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+dans les yeux clairs<br>
+de Monique se lève le jour<br>
+dans ses yeux clairs<br>se reflètent les gens,<br>
+se dessinent les contours du temps<br>dans ses yeux clairs<br>
+se promène la nuit<br>dans les yeux clairs<br>
+de Monique se lit son amour de la vie<br>
+dans les yeux clairs<br>
+de Monique se lève le jour<br>
+dans ses yeux clairs<br>
+s’écrivent des mots d’a-mour, s’écrivent des mots d’amour, s’écrivent des mots d’amour
+</cite>
+</div>
 
 <h2>articles de presse</h2>
 <div class="center-text">
@@ -150,6 +198,4 @@ Quatre fois 20 ans est le nom du projet. Il s’adresse aux personnes en perte d
 
 <a href="https://www.nevers.fr/actualites/on-reconnait-la-chanson-a-lehpad-marion-de-givry">●&nbsp;Le site de la Mairie de Nevers - actualités</a><br>
 <a href="https://djazznevers.com/autres-projets">●&nbsp;Le site de D'jazz Nevers</a><br>
-
 </div>
-
