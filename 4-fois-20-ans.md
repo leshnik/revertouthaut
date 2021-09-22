@@ -122,7 +122,8 @@ max-width: 400px;">
 <script type="text/javascript" src="/js/slideshow.js"></script>
 
 <h2>chansons composées avec les résidents</h2>
-<h4 style="color: black">fabien et rené</h4>
+<h4 class="h4song-titles">fabien et rené</h4>
+<h5>instants de complicité entre un soignant et un résident</h5>
   
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/fabien-et-rene.mp3"></audio>
@@ -134,7 +135,7 @@ quand ils font semblant de boxer<br>
 ces deux gamins en train de jouer<br>
 pour comprendr’ c’qu’ c’est qu’l'amitié<br>Fabien et René<br>y’a qu’à les r’garder s’amuser<br>les r’garder s’amuser </cite>
 </div>
-<h4 style="color: black">la fille au ruban rouge</h4>
+<h4 class="h4song-titles">la fille au ruban rouge</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/la-fille-au-ruban-rouge.mp3"></audio>
 <p class="cite">chant: Valérie &amp; Morton, paroles: Valérie Gaudissart, musique: Morton Potash</p>
@@ -152,7 +153,7 @@ virevolte une ronde enivrée<br>
 il faut la voir danser. il faut la voir danser,<br> Anne-Marie, Anne-Marie, Anne-Marie
 </cite>
 </div>
-<h4 style="color: black">dans les yeux clairs de Monique</h4>
+<h4 class="h4song-titles">dans les yeux clairs de Monique</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/dans-les-yeux-clairs-de-Monique.mp3"></audio>
 <p class="cite">chant: Valérie &amp; Morton,paroles: Valérie Gaudissart, musique: Morton Potash</p>
@@ -166,7 +167,7 @@ de Monique se lit son amour de la vie<br>
 dans les yeux clairs<br>
 de Monique se lève le jour<br>
 dans ses yeux clairs<br>
-s’écrivent des mots d’a-mour, s’écrivent des mots d’amour, s’écrivent des mots d’amour
+s’écrivent des mots d’amour, s’écrivent des mots d’amour, s’écrivent des mots d’amour
 </cite>
 </div>
 
