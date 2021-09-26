@@ -49,7 +49,7 @@ Tète, tète, tète<br>
 Le sein de ta mère...
 </p>
 <div class="center-max600-block">
-<img src="/scores/raphael.svg">
+<a class="subtle-hover" href="/scores/raphael.svg" target="_blank"><img src="/scores/raphael.svg"></a>
 </div>
 
 <figure>
@@ -91,7 +91,7 @@ timéo le cascadeur court vers son père <br>
 quand timéo retrouve son père, respire sa mère [refrain]
 </p>
 <div class="center-max600-block">
-<img src="/scores/timeo.svg">
+<a class="subtle-hover" href="/scores/timeo.svg" target="_blank"><img src="/scores/timeo.svg"></a>
 </div>
 
 <figure>
@@ -125,5 +125,5 @@ chaque jour qui passe le rend plus marrant, Edgar<br>
 ‘faut le voir danser avec ses parents, Edgar
 </p>
 <div class="center-max600-block">
-<img src="/scores/edgar.svg">
+<a class="subtle-hover" href="/scores/edgar.svg" target="_blank"><img src="/scores/edgar.svg"></a>
 </div>
