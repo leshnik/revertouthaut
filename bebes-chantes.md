@@ -22,17 +22,17 @@ title: bébés chantés
 
 </figure>
 <p class="quote">
-Raphael, Raphael (2xs)<br>
-Rouler rouler roule<br>
-Rouler rouler roule<br>
-Raphal le beau bébé<br>
+Raphaël, Raphaël (2xs)<br>
+Roule roule roule<br>
+Roule roule roule<br>
+Raphaël le beau bébé<br>
 <br>
-Raphael, Raphael (2xs)<br>
+Raphaël, Raphaël (2xs)<br>
 Tape tape tape<br>
 Tape sur le tambour<br>
-Rouler rouler roule<br>
-Rouler rouler roule<br>
-Raphal le beau bébé<br>
+Roule roule roule<br>
+Roule roule roule<br>
+Raphaël le beau bébé<br>
 <br>
 (rajouter chaque fois une phrase de plus)<br>
 <br>
@@ -113,16 +113,16 @@ de sa jolie mère aux yeux bleus, Edgar<br>
 de sa jolie mère aux yeux bleus, Edgar<br>
 
 depuis avant hier il a deux dents, Edgar<br>
-il arrive aussi a dire «&nbsp;maman&nbsp;», Edgar<br>
+il arrive aussi à dire «&nbsp;maman&nbsp;», Edgar<br>
 chaque jour qui passe le rend plus grand, Edgar<br>
-dans le doux regard maman, Edgar<br>
-dans le doux regard de maman, Edgar<br>
+dans le doux regard de sa maman, Edgar<br>
+dans le doux regard de sa maman, Edgar<br>
 
 depuis ce matin il a quatre dents, Edgar<br>
-il arrive aussi a dire papa, Edgar<br>
+il arrive aussi à dire papa, Edgar<br>
 chaque jour qui passe le rend plus marrant, Edgar<br>
 ‘faut le voir danser avec ses parents, Edgar<br>
-‘faut le voir danser avec ses parents, Edga
+‘faut le voir danser avec ses parents, Edgar
 </p>
 <div class="center-max600-block">
 <img src="/scores/edgar.svg">
