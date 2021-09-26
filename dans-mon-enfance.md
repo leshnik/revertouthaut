@@ -58,7 +58,7 @@ summary:
 <h4 style="color: black">Au plus profond de mon enfance (par Caroline)</h4>
 <audio controls src="/media/au-plus-profond-de-mon-enfance.mp3"></audio>
 <p class="cite">texte: Caroline Maillet, chant: Valérie Gaudissart, musique: Morton Potash</p>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">Au plus profond de mon enfance<br>
+<p class="quote">Au plus profond de mon enfance<br>
 Vous avez marqué mes souvenirs<br>
 De ces moments où l’insouciance<br>
 Ne vous voyait pas vieillir<br>
@@ -71,14 +71,14 @@ Su comprendre la solitude<br>
 Qui vous ronge jour après jour<br>
 Tandis que dans nos habitudes<br>
 On vous oublie sur le parcours... 
-</cite>
+</p>
 
 <h4 style="color: black">Lule Bore (par Shpresa)</h4>
   <audio controls src="/media/eya-eya-lule-bore.mp3">
   </audio>
 <p class="cite">chant: Valérie Gaudissart</p>
 
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<p class="quote">
 Ma grand-mère, c’était des câlins tous les soirs<br>
 Et les soirées sur ses genoux<br>
 Et ma tête sur son sein<br>
@@ -90,10 +90,10 @@ Les fleurs qui poussent <br>
 La Terre qui nous protège<br>
 Elle m’a appris à donner de l’amour maintenant<br>
 Dans le présent<br>
-Car elle disait que demain, c’est trop loin</cite>
+Car elle disait que demain, c’est trop loin</p>
 
 <h4 style="color: black">Sortir de la cage (par Jaida)</h4>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<p class="quote">
 Sortir de la cage<br>
 Trouver la clé<br>
 Changer de pays<br>
@@ -112,12 +112,12 @@ Changer de pays pour respirer<br>
 Et plus personne sur le dos pour me dire ce que j’ai à faire<br>
 Je veux que mes filles soient libres<br>
 Qu’elles choisissent leur vie<br>
-Et surtout leur mari</cite>
+Et surtout leur mari</p>
 
 <h4 style="color: black">Nourredine (par Bachir)</h4>
 <audio controls src="/media/nourredine.mp3"></audio>
 <p class="cite">chant: Valérie Gaudissart & Morton Potash, musique: Morton Potash</p>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<p class="quote">
 Nourredine tu étais mon frère ainé<br>
 Le tout premier<br>
 Sept frères et quatre soeurs se sont succédés<br>
@@ -140,11 +140,12 @@ Au son de ta voix<br>
 Et depuis il a tremblé comme ça<br>
 Jusqu'au jour de sa mort<br>
 Nourredine, trois cent quatre-vingt volts, Nourredine<br>
-Trois cent quatre-vingt volts, Nourredine</cite>
+Trois cent quatre-vingt volts, Nourredine</p>
 
 <h4 style="color: black">mon père voulait un fils (par Jaida)</h4>
+
 <audio controls src="/media/mon-pere-voulait-un-fils.mp3"></audio>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+<p class="quote">
 Mon père voulait un fils et quand le sien est parti<br>
 Je suis devenue son fils<br>
 J'allais travailler avec lui<br>
@@ -162,7 +163,7 @@ Ma vie aurait pris une autre direction<br>
 Les filles valent autant que les garçons<br>
 Les filles valent autant que les garçons<br>
 Je suis fille et je vaux autant qu'un garçon
-</cite>
+</p>
 
 
 
