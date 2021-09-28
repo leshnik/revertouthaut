@@ -14,6 +14,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </h2>
   <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632671928/affiche-tournee-2022_o0gbht.jpg">
+  <figcaption class="figCap">pour tout renseignement contacter<br>parentsolorth@gmail.com</figcaption>
   </div>
 
 <!-- Slideshow container -->
