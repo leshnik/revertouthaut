@@ -22,6 +22,8 @@ redirect_from:
 <li><a href="#lucie" style="color: #7c0a24">Lucie Moraillon: photographe</a></li>
 
 <li><a href="#florian" style="color:  #990099">Florian Girard: musicien, parolier, et régisseur</a></li>
+
+<li><a href="#sidonie" class="sido-color">Sidonie Dubosc : chanteuse, autrice, compositrice</a></li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute et metteuse en scène
@@ -78,3 +80,10 @@ Florian Girard griffonne depuis plus de vingt ans, des poèmes sur un coin de ta
 Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses ateliers d’écriture, enfants, adultes, professionnels, amateurs, différents, improbables, depuis des années, à leur grande surprise et satisfaction.
 
 47 ans, intermittent du spectacle depuis 20 ans, auteur, compositeur, interprète, musicien, metteur en scène, régisseur, pour différents projets de spectacle vivant… et avant cela des études scientifiques, quelques années d’enseignement. Voilà son parcours en quelques phrases, un parcours de flâneur-bosseur-cueilleur, en zig zag, en liberté !
+
+<div id="sidonie"></div>
+## Sidonie Dubosc : chanteuse, autrice, compositrice
+{: .sido-color}
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632970564/69083084_2998676670174302_8033193834143809536_n_nxeb6f.jpg"></div>
+Sidonie débute le chant à 13 ans alors qu‘elle enregistre pour un film de Valérie Gaudissart (Ich bin eine terroristin). Morton Potash (compositeur des musiques du film) et Olivier Marcaud lui enseignent le chant jusqu‘à ses 16 ans, âge auquel elle intègre le Conservatoire du Grand Chalon avec Aude Husson Patru pour professeure. Elle y étudie le chant, la danse contemporaine, le trombone et le théâtre et s‘oriente vers la chanson française. En 2016, elle créé «&nbsp;Les gardiens de phare&nbsp;» et entame la création de «&nbsp;Pour tout bagage on a 20 ans&nbsp;» avec son groupe La Sido (premier disque en 2018). Sidonie chante aussi avec les Momitcheta (ensemble polyphonique de chant bulgare) jusqu’en 2020, dans le spectacle sur le lien mère/enfant «&nbsp;Bercer l’enfant manquant&nbsp;», dans le conte musical «&nbsp;Cette mémoire des étoiles&nbsp;» inspiré de «&nbsp;La folle allure&nbsp;» de Christian Bobin, dans le duo avec Morton Potash «&nbsp;Berceuses pour adultes&nbsp;» dont Valérie Gaudissart signe avec elle les paroles (premier disque en 2020) et récemment dans le spectacle «&nbsp;Parent solo et ses marmots&nbsp;» autour de la mono-parentalité. L'été 2021, Sidonie sort son premier spectacle musical en solo chant/kalimba : «&nbsp;Portraits des miens&nbsp;». En parallèle, la chanteuse propose également des ateliers de médiation artistique en EHPAD, en école et en hôpital. 
+
