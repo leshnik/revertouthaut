@@ -10,7 +10,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </h1>
   <hr class="styled-hr">
   <h2 style="color:white; text-align:center; font-size:32px;letter-spacing: 0.2rem;">
-    atelier créatif et spectacle sur le thème de la parentalité
+    spectacle sur le thème de la monoparentalité
   </h2>
   <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632671928/affiche-tournee-2022_o0gbht.jpg">
@@ -164,6 +164,9 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   </p>
 
   <p class="intro-text">Nous contacter au 07 69 29 53 27, ou revertouthaut@gmail.com pour devis et conditions techniques.</p>
+  <ul style="text-align:right;list-style-type:none">
+    <li><a href="dossier_parent_solo.pdf" download="download">télécharger le dossier</a></li>
+  </ul>
 
   <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1620449662/Affiche_parent_solo_iqp2vn.jpg">
