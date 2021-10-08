@@ -138,17 +138,61 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 
 <h2>Quelques unes des<br> chansons composées</h2>
 <figure>
-    <figcaption>dans le miroir:</figcaption>
+    <h4 style="color: black">devant le miroir:</h4>
     <audio
         controls
         src="/media/dans-le-miroir-compo-chant-florian.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Florian Girard</figcaption>
+    <figcaption class="figCapCenter">© Florian Girard, chant: Florian Girard</figcaption>
 </figure>
+<p class="quote">
+quand je me regarde dans le miroir<br>
+je vois cette tête qui est moi sans l’être vraiment<br>
+me regarde dans les yeux<br>
+en voyant cette âme consumée<br>
+ces yeux bleus qu’on dit beaux<br>
+ces oreilles qu’on voit grandes<br>
+et je revois mes visages d’avant<br>
+ceux qui ont été tués par le temps<br>
+et en me voyant les yeux déchirés<br>
+par tous ces joints fumés<br>
+mon empathie joue avec mes souvenirs<br>
+<br>
+devant le miroir<br>
+devant le miroir<br>
+je vois alors cet homme plein de rage<br>
+pourtant rempli de gentillesse<br>
+mais que le temps a rendu méfiant<br>
+hésitant, blessant parfois<br>
+même envers lui trop méchant<br>
+et crois moi c’est chiant<br>
+alors je pose un chant devant ce moi même<br>
+je clashe contre moi même<br>
+je me fâche dans les insultes<br>
+et je me lâche<br>
+t’es con ou quoi t’aurais du faire ça<br>
+t’es con ou quoi t’aurais du faire ça<br>
+<br>
+devant le miroir<br>
+quand je retrouve une certaine raison<br>
+je me fais un doigt d’honneur<br>
+à moi pas au miroir<br>
+me lamentant de mes états dérisoires<br>
+de désespoir, dans l’envie de boire<br>
+devant le miroir<br>
+deuxième doigt d’honneur<br>
+sur moi même et mes douleurs<br>
+mon pét’ m’attend pour soulager mes erreurs<br>
+même pas peur<br>
+salut l’enculé dans le miroir<br>
+c’est l’heure de me dire bonsoir.
+</p>
+
+
 <figure>
-    <figcaption>mes mains mon gagne-pain:</figcaption>
+    <h4 style="color: black">mes mains mon gagne-pain:</h4>
     <audio
         controls
         src="/media/mes-mains-mon-gagne-pain.mp3">
@@ -157,18 +201,76 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
     </audio>
     <figcaption class="figCapCenter">© Morton Potash, chant: Sidonie Dubosc</figcaption>
 </figure>
+<p class="quote">
+mes mains mon gagne-pain<br>
+manger à ma faim<br>
+hiver été les champs et les prés<br>
+la faux et la bêche<br>
+la hache et la scie<br>
+pommiers pêchers mes mains sont transies<br>
+la calligraphie tracée par le givre<br>
+moments de répit<br>
+pensées qui m'enivrent
+</p>
 <figure>
-    <figcaption>retourne chez toi :</figcaption>
+    <h4 style="color: black">retourne chez toi :</h4>
     <audio
         controls
         src="/media/retourne-chez-toi-compo-chant-morton.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash</figcaption>
+    <figcaption class="figCapCenter">© Morton Potash, chant: Morton Potash</figcaption>
 </figure>
+<p class="quote">
+retourne chez toi<br>
+et oublie moi<br>
+me prends pas la tête sinon,<br>
+je vais me vener<br>
+je reste calme<br>
+m'enflamme pas ça va chauffer<br>
+<br>
+pourquoi tu m'cherches<br>
+tu fais pitié<br>
+on n'a rien en commun que dalle<br>
+on n'est pas copains<br>
+qu'est-ce que tu m'veux ?<br>
+dégage que j'te revois plus
+</p>
 <figure>
-    <figcaption>douceur:</figcaption>
+  <h4 style="color: black">dans le miroir:</h4>
+  <audio controls src="/media/dans-le-miroir-val.mp3">
+  Your browser does not support the
+            <code>audio</code> element.
+  </audio>
+  <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+  </figure>
+
+  <p class="quote">
+  des fois le matin<br>
+quand je me regarde dans le miroir<br>
+j'ai pas vu le temps passé<br>
+et pourtant<br>
+tout est bien loin<br>
+j'ai un grand vide comme si un tsunami<br>
+avait emporté tous ces années<br>
+j'ai le sentiment<br>
+d'avoir oublié<br>
+et pourtant je me souviens<br>
+de tous ces moments<br>
+et plus j'y pense plus ils sont nombreux<br>
+et puis<br>
+finalement<br>
+jour après jour année après année<br>
+le reflet du miroir<br>
+me rappelle que ce temps-là<br>
+est bien passé<br>
+est bien passé
+</p>
+
+
+<figure>
+    <h4 style="color: black">douceur:</h4>
     <audio
         controls
         src="/media/douceur.mp3">
@@ -177,8 +279,25 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
     </audio>
     <figcaption class="figCapCenter">© Morton Potash, chant: Sidonie Dubosc</figcaption>
 </figure>
+<p class="quote">
+douceur<br>
+les yeux fermés<br>
+trop de crier<br>
+je suis fatigué<br>
+de toi<br>
+mon ange<br>
+<br>
+douleur<br>
+les mains serrées<br>
+trop de pleurer<br>
+je suis énervée<br>
+de moi ma biche<br>
+de moi ma biche<br>
+de moi<br>
+mon ange
+</p>
 <figure>
-    <figcaption>j'avance:</figcaption>
+    <h4 style="color: black">j'avance:</h4>
     <audio
         controls
         src="/media/j-avance-chant-valerie.mp3">
@@ -188,5 +307,28 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
         <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 
 </figure>
+<p class="quote">
+j'avance<br>
+je suis une délinquante<br>
+j'avance<br>
+je ne regrette rien<br>
+car le regret n'efface rien<br>
+j'avance, j'avance<br>
+quand je m'engage<br>
+j'obtiens ce que je veux<br>
+j'avance<br>
+j'ai été punie<br>
+pour ce que j'ai commis<br>
+j'avance<br>
+je ne veux pas changer<br>
+j'aime comme je suis<br>
+j'avance<br>
+faut pas m'emmerder<br>
+on ne peut pas me déstabiliser<br>
+j'avance<br>
+pour ma gueule j'avance<br>
+pour mes filles j'avance<br>
+j'avance, j'avance, j'avance
+</p>
 
 <p class="intro-text">Ateliers animés par Valérie Gaudissart, Lucie Moraillon, Patricia Rigo, Florian Girard, et Morton Potash</p>
