@@ -210,7 +210,14 @@ la hache et la scie<br>
 pommiers pêchers mes mains sont transies<br>
 la calligraphie tracée par le givre<br>
 moments de répit<br>
-pensées qui m'enivrent
+pensées qui m'enivrent<br>
+dans l’avenir elles feraient bien d’écrire des bouquins<br>
+pour découvrir l'autre face d'une planète cachée<br>
+ou aller dans la cuisine, faire fondre<br>
+du chocolat<br>
+ajouter des œufs de la farine<br>
+et faire des crêpes avec tout ça
+
 </p>
 <figure>
     <h4 style="color: black">retourne chez toi :</h4>
