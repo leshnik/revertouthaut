@@ -174,7 +174,7 @@ je me fâche dans les insultes<br>
 et je me lâche<br>
 t’es con ou quoi t’aurais du faire ça<br>
 t’es con ou quoi t’aurais du faire ça<br>
-<br>
+etcetera<br>
 devant le miroir<br>
 quand je retrouve une certaine raison<br>
 je me fais un doigt d’honneur<br>
