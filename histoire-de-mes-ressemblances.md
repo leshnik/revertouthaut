@@ -72,12 +72,12 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
 </p>
 <p class="intro-text">Il y a dans ces ressemblances que nous portons malgré nous ou que nous revendiquons, l’histoire que l’on se raconte, celle que l’on transmet, celle qui nous est racontée, celle que l’on arrange ou celle que l’on rêve.
 </p>
-<p class="intro-text">Différents supports sont proposés (évocations d’objets, écriture, parole, photographie.), et seront réunis dans un livret destiné aux participants, à leurs familles et à la jeune génération.
+<p class="intro-text">Différents supports sont proposés (évocations d’objets, écriture, parole, photographie.), et sont réunis dans un livret destiné aux participants, à leurs familles et à la jeune génération.
 </p>
 
-<ul style="text-align:center;list-style-type:none">
+<ul style="text-align:right;list-style-type:none">
     <li>
-      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="LivretHistoiresV4.pdf">Livret Histoire de Mes Resemblances </a>
+      <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="LivretHistoiresV4.pdf">●&nbsp;cliquer pour télécharger le livret </a>
   </li>
  </ul>
 <p class="intro-text">Les ateliers ont débuté en novembre 2019 et se sont terminés en octobre 2020.
