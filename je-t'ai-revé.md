@@ -106,10 +106,20 @@ Mon cher Asticot&nbsp;:
 </p></div>
 <p class="quote">
 Tu ne m’as jamais rien demandé<br>
-À toi tout te va, tout te va.<br>
+À toi tout te va, tout te va.
+</p>
+<div class="indented">
+<p class="chansons_spoken">
+Tu t'es toujours adapté à ce qui vient. Mais ne souffres-tu pas de tous ces va et vient quotidiens&nbsp;? Ce n'est pas toi qui le diras.
+</p></div>
+<p class="quote">
 Et moi je suis fière de vous trois.<br>
 La souffrance ne nous gagnera pas.
 </p>
+<div class="indented">
+<p class="chansons_spoken">
+Nos huit bras nous portent et nous soutiennent. Nos huit bras nous enlaçent. Nos huit bras mènent le combat. Pour que ne reste que la joie. Ou presque...
+</p></div>
 
 <figure>
     <h4 class="song-title">quel sera ton avenir ?</h4>
