@@ -7,6 +7,10 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <h1>ateliers</h1>
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span>, en réponse à des demandes individuelles, groupales ou institutionnelles conçoit, organise et anime des ateliers divers, souvent complémentaires, et menés par toute une équipe d’intervenant.es qui communiquent entre elles/eux afin de permettre et d’inventer le meilleur accompagnement possible.
 </p>
+<div class="center-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1634185061/val-abo-2021-10-12_rwfi4a.jpg" alt="pastel d'inspiration aborigène">
+</div>
+
 <p class="intro-text">Nous intervenons à domicile, en cabinet et en institution.
 </p>
 <p class="intro-text">En partenariat ou au sein d’institutions, nous intervenons dans le champ de l’insertion, des seniors, des aidants, des questions de parentalité, du handicap et du travail social.</p>
