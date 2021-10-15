@@ -113,7 +113,7 @@ toute seule
 </p>
 
 <figure>
-    <h4 class="song-title">ludivine elle divine</h4>
+    <h4 class="song-title">ludivine elle devine</h4>
 <audio
         controls
         src="https://rth8.b-cdn.net/Ludivine%20et%20Coralie.mp3">
