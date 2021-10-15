@@ -77,15 +77,76 @@ summary:
 </main>
 <h2>Chansons</h2>
 <figure>
-    <figcaption class="figCapCenter">toute seule je suis partie</figcaption>
+    <h4 class="song-title">toute seule je suis partie</h4>
     <audio
         controls
         src="/media/toute-seule-je-suis-partie.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+    <figcaption class="figCapCenter">musique&nbsp;: Morton Potash, paroles et chant&nbsp;: Valérie Gaudissart<br><a href="http://www.revertouthaut.fr/de-l-air">de l'air!</a></figcaption>
 </figure>
+<p class="quote">
+Toute seule je suis partie de Ligny <br>
+toute seule dans un train jaune et rouge <br>
+j’ai visité Paris <br>
+la Tour Eiffel était jolie <br>
+j’ai marché dans les rues toute seule <br>
+j’ai traversé des avenues toute seule <br>
+je suis entrée dans un magasin <br>
+mon coeur battait si fort <br>
+j’ai dit s’il vous plaît <br>
+je voudrais ces chaussures là dans la vitrine <br>
+s’il vous plaît ces chaussures blanches à talons aiguilles <br>
+celles dont j’ai rêvées à Ligny <br>
+ces hauts talons dont j’ai rêvés <br>
+Toute seule je suis revenue à Ligny <br>
+toute seule dans un train jaune et rouge <br>
+je marche dans les rues <br>
+dans les rues de Ligny <br>
+avec aux pieds les chaussures blanches <br>
+à talons aiguilles <br>
+que j’ai achetées à Paris <br>
+toute seule dans un magasin à Paris <br>
+toute seule quand je sui<br>s allée à Paris 
+toute seule 
+</p>
 
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630924858/toute-seule-je-suis-partie_f9bv5x.png">
-
+<figure>
+    <h4 class="song-title">ludivine elle divine</h4>
+<audio
+        controls
+        src="https://rth8.b-cdn.net/Ludivine%20et%20Coralie.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+        <figcaption class="figCapCenter">musique&nbsp;: Morton Potash, paroles et chant&nbsp;: Sidonie Dubosc<br><a href="http://www.revertouthaut.fr/4-fois-20-ans">4 fois 20 ans</a></figcaption>
+</figure>
+<p class="quote">
+Ludivine elle devine<br>
+les mots cachés derrière le coeur <br>
+les premiers pas d’un enfant de 100 ans <br>
+les «&nbsp;je t’aime&nbsp;» <br>
+les «&nbsp;j’ai soif&nbsp;» <br>
+les «&nbsp;j’ai peur&nbsp;» <br>
+Coralie elle délit <br>
+les mains croisées sur les genoux <br>
+les langues inventées <br>
+les mots oubliés <br>
+les «&nbsp;je veux&nbsp;» <br>
+les «&nbsp;j’en ai marre&nbsp;» <br>
+les «&nbsp;je pars&nbsp;» <br>
+Ludivine elle chemine <br>
+dans les couloirs de la tendresse <br>
+au bras de ceux qui déambulent <br>
+Et des «&nbsp;j’ai mal&nbsp;», <br>
+des «&nbsp;je suis perdu&nbsp;» <br>
+des «&nbsp;je suis où?&nbsp;» <br>
+Coralie elle relie <br>
+des bribes de vie emmêlées <br>
+les souvenirs <br>
+les secrets enfermés <br>
+et les «&nbsp;je ne sais plus&nbsp;» <br>
+les «&nbsp;je me souviens&nbsp;» <br>
+les «&nbsp;merci beaucoup&nbsp;» 
+</p>
