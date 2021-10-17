@@ -59,35 +59,121 @@ Sur une proposition du Foyer de Vie et du Foyer d’Accueil Médicalisé les Avo
 </p>
 
 <figure>
-    <figcaption>j'ai jamais vu la mer:</figcaption>
+    <h4 class="song-title">j'ai jamais vu la mer:</h4>
     <audio
         controls
         src="/media/j-ai-jamais-vu-la-mer.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+    <figcaption class="figCapCenter">musique&nbsp;: Morton Potash, paroles et chant&nbsp;: Valérie Gaudissart</figcaption>
 </figure>
+<p class="quote">
+j’ai jamais vu la mer<br>
+j’ai jamais vu la Bavière<br>
+j’ai jamais vu les vagues<br>
+je voudrais marcher sur une plage<br>
+explorer la forêt noire<br>
+et puis porter des robes, aller au bal<br>
+comme Sissi l’impératrice<br>
+la jeune femme aux fleurs de lys<br>
+Mais j’ai jamais vu la mer<br>
+Ni le roi de la Bavière<br>
+J’ai jamais vu les vagues<br>
+ <br>
+Mais j’ai bien connu le grenier de ma mère<br>
+Celui où je dormais été comme hiver<br>
+Lors de ses jours de colère<br>
+Oui j’ai bien vu le grenier de ma mère
+</p>
 <figure>
-    <figcaption>j'ai cinq amis:</figcaption>
+    <h4 class="song-title">j'ai cinq amis:</h4>
     <audio
         controls
         src="/media/j-ai-cinq-amis.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+    <figcaption class="figCapCenter">musique&nbsp;: Morton Potash, paroles et chant&nbsp;: Valérie Gaudissart</figcaption>
 </figure>
+<p class="quote">
+J’ai cinq amis qui tous les jours<br>
+m’attendent sagement dans mon lit<br>
+ <br>
+Le soir je leur raconte ma journée<br>
+Ils me disent que je suis courageuse<br>
+Que je leur ai manqué<br>
+Dans ma chambre je les tiens enfermés<br>
+Sinon on me traite de bébé<br>
+ <br>
+Mais moi je sais qu’ils ont une vie<br>
+Leur caractère et leurs envies<br>
+ <br>
+Edelweiss fume sur le balcon<br>
+Coquelicot vide le frigo<br>
+Grincheux grinche<br>
+Panpan se tient sage<br>
+Gertrude fait sa feignasse<br>
+ <br>
+J’ai cinq amis qui tous les jours<br>
+m’attendent sagement dans mon lit
+</p>
 <figure>
-    <figcaption>mon amant imaginaire:</figcaption>
+    <h4 class="song-title">mon amant imaginaire:</h4>
     <audio
         controls
         src="/media/mon-amant-imaginaire.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+    <figcaption class="figCapCenter">musique&nbsp;: Morton Potash, paroles et chant&nbsp;: Valérie Gaudissart</figcaption>
 </figure>
+<p class="quote">
+Je pense à lui<br>
+Tous les jours<br>
+Toutes les nuits<br>
+Lui, Walter<br>
+Mon grand amour<br>
+Mon amant imaginaire<br>
+<br>
+Je pense à lui<br>
+Tous les jours<br>
+Toutes les nuits<br>
+<br>
+Il est très grand<br>
+Il est rouquin<br>
+Il me dit des mots très doux<br>
+Lui, Walter<br>
+Mon grand amour<br>
+Mon amant imaginaire<br>
+<br>
+Le soir<br>
+Il grimpe sur mon balcon<br>
+Il frappe à ma fenêtre<br>
+On se retrouve tous les deux<br>
+On se regarde les yeux dans les yeux<br>
+Lui Walter<br>
+Mon grand amour<br>
+Mon amant imaginaire<br>
+<br>
+On se met côte à côte<br>
+Main dans la main<br>
+Il me parle du passé<br>
+Du passé heureux<br>
+Quand on dansait tous les deux<br>
+sur la butte de Suin<br>
+<br>
+Lui Walter<br>
+Mon grand amour<br>
+Mon amant imaginaire<br>
+<br>
+Il est le père de mon fils<br>
+Personne ne le sait<br>
+Je garde le secret<br>
+De Walter<br>
+Mon grand amour<br>
+Mon amant imaginaire
+</p>
 <div class="center-big-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601760758/gatsby-cloudinary/le-soir-vient-le-blues.jpg" alt="partition pour 'le soir vient le blues.'">
   </div>
