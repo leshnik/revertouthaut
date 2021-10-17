@@ -81,8 +81,9 @@ Mais j’ai jamais vu la mer<br>
 Ni le roi de la Bavière<br>
 J’ai jamais vu les vagues<br>
  <br>
-Mais j’ai bien connu le grenier de ma mère<br>
+Mais j’ai bien vu le grenier de ma mère<br>
 Celui où je dormais été comme hiver<br>
+Celui où je dormais par terre<br>
 Lors de ses jours de colère<br>
 Oui j’ai bien vu le grenier de ma mère
 </p>
