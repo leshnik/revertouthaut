@@ -76,7 +76,7 @@ je voudrais marcher sur une plage<br>
 explorer la forêt noire<br>
 et puis porter des robes, aller au bal<br>
 comme Sissi l’impératrice<br>
-la jeune femme aux fleurs de lys<br>
+comme Sissi la jeune femme aux fleurs de lys<br>
 Mais j’ai jamais vu la mer<br>
 Ni le roi de la Bavière<br>
 J’ai jamais vu les vagues<br>
