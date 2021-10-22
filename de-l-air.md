@@ -175,11 +175,16 @@ De Walter<br>
 Mon grand amour<br>
 Mon amant imaginaire
 </p>
+<h4 class="song-title">le blues vient le soir</h4>
+<audio controls src="https://rth8.b-cdn.net/le%20blues%20vient%20le%20soir.mp3"></audio>
 <div class="center-big-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601760758/gatsby-cloudinary/le-soir-vient-le-blues.jpg" alt="partition pour 'le soir vient le blues.'">
   </div>
+  <h4 class="song-title">ma clope</h4>
+  <audio controls src="https://rth8.b-cdn.net/ma%20clope.mp3">
+  </audio>
   <div class="center-big-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601761356/gatsby-cloudinary/ma-clope.jpg" alt="partition pour 'ma clope'.">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601761356/gatsby-cloudinary/ma-clope.jpg" alt="partition pour 'ma clope'."> 
   </div>
   <h2>matins d'été</h2>
   <p class="intro-text">«Matins d’Eté» est un film documentaire réalisé par Jean-Michel Dury,  qui garde trace de nos ateliers art-thérapie, sophrologie, et composition de chansons. Le film suit les évolutions de chacun des participants, de leur créativité en mouvement, et témoignent des liens qui se nouent.</p>
