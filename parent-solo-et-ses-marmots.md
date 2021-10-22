@@ -165,7 +165,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 
   <p class="intro-text">Nous contacter au 07 69 29 53 27, ou revertouthaut@gmail.com pour devis et conditions techniques.</p>
   <ul style="text-align:right;list-style-type:none">
-    <li><a href="dossier_parent_solo.pdf" download="download">télécharger le dossier</a></li>
+    <li><a href="dossier_parent_solo.pdf" download="Dossier-Présentation-Parent-Solo-et-ses-Marmots">télécharger le dossier</a></li>
   </ul>
 
   <div class="center-max600-block">
