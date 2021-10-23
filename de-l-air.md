@@ -186,6 +186,23 @@ Mon amant imaginaire
   <div class="center-big-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601761356/gatsby-cloudinary/ma-clope.jpg" alt="partition pour 'ma clope'."> 
   </div>
+  <h4 class="song-title">les bons souvenirs de l'enfance</h4>
+  <audio controls src="https://rth8.b-cdn.net/les%20bons%20souvenirs%20de%20l'enfance.mp3">
+  </audio>
+  <p class="quote">
+    Les bons souvenirs de l'enfance<br>
+    Ça m'arrive d'y penser<br>
+    Ça me fait du bien, ça me fait planer<br>
+    L'enfance c'est l'innocence, la naïveté<br>
+    Une période que j'ai toujours aimée<br>
+    La vie d'adulte, c'est monotone<br>
+    C'est compliquée<br>
+    S'ouvrir aux autres<br>
+    C'est compliqué<br>
+    Vraiment compliqué<br>
+    Très très compliqué<br>
+    Archi-compliqué&nbsp;!
+  </p>
   <h2>matins d'été</h2>
   <p class="intro-text">«Matins d’Eté» est un film documentaire réalisé par Jean-Michel Dury,  qui garde trace de nos ateliers art-thérapie, sophrologie, et composition de chansons. Le film suit les évolutions de chacun des participants, de leur créativité en mouvement, et témoignent des liens qui se nouent.</p>
 <div class="space-below"></div>
