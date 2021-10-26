@@ -290,7 +290,7 @@ est bien passé
 douceur<br>
 les yeux fermés<br>
 trop de crier<br>
-je suis fatigué<br>
+je suis fatiguée<br>
 de toi<br>
 mon ange<br>
 <br>
