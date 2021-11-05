@@ -7,7 +7,7 @@ summary:
 <h2>Novembre 2021</h2>
 <article class="center-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636139611/lucet-gOkeeffe_lkg2ld.jpg">
-<p class="intro-text">Il fait mauvais&nbsp;? 
+<p class="intro-text"> 
 </p>
 </article>
 <h2>Septembre 2021</h2>
