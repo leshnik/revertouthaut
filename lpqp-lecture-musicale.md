@@ -18,33 +18,24 @@ title: les plus que proches - lecture musicale
   <p class="intro-text ">
     Après avoir recueilli des témoignages d’aidants et de soignants, Rêver Tout Haut a conçu une lecture musicale, «Les Plus que Proches». Lecture d’une heure, faite par deux comédiennes, accompagnées par un pianiste. Un moment privilégié pour réfléchir ensemble à tout ce que l’aidant.e doit assumer, traverser et tout ce qu’elle/il doit trouver en elle et en lui comme ressources.
   </p>
-  <p class="intro-text ">
-    Dernière lecture en date: le 30 septembre 2020 à Paray le Monial à 15h, lors de la Journée Nationale des Aidants. Organisée par le Réseau des Aidants SUD-71, entrée gratuite. Contact: 03 85 21 62 10
-
-  </p>
-
-  <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
-
-  <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193760/joune%CC%81eNationaleAidants2020p2_hkeflc.jpg" alt="flyer p2: masque obligatoire, conditions sanitaires respectées, 15h lecture théàtralisée Les Plus Que Proches avec 2 comédiennes et un musicien de l'association rêver tout haut. 16h échanges avec la salle. Organisé par le Réseaux des Aidants SUD 71."></div>
 
 <cite>« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »</cite>
 
-  <ul style="text-align:right; list-style-type:none">
-    <li>
-      <a style="color:hsl(171,93.5%,36.5%); font-size:30px;" href="FLYER A5 - PLUS QUE PROCHES-2020.pdf" download="download">●&nbsp;Cliquer pour télécharger le flyer</a>
-    </li>
-  </ul>
-
-  <h2>prochaines lectures</h2>
+  <h2>prochaines dates</h2>
   <ul class="coming">
     <li>
       vendredi 10 décembre 2021<br>
-      à Mâcon<br>
-      en partenariat avec l’ASSAD Mâcon<br>
-      <span style="font-size: 0.8em">infos pratiques à venir</span>
-    </li><hr>
+      CISL Ethic Etapes Lyon<br>
+      103 Bd des États-Unis<br>
+      69008 Lyon<br>
+      Gratuit - Pass sanitaire obligatoire<br>
+    </li>
+    <div class="center-big-block">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
+      </div>
+    <hr>
     <li>
-      jeudi 20 mai 2021<br>
+      mai 2022, date à préciser<br>
       à Ladoix Serrigny<br>
       21550 Ladoix Serrigny<br>
       avec le RESEDA<br>
@@ -56,6 +47,7 @@ title: les plus que proches - lecture musicale
   <hr>
   <h2>lectures passées</h2>
   <ul class="past">
+
     <li>
       mercredi 30 septembre 2020 de 15h à 17h<br>
       Théâtre Municipal Sauvageot<br>
@@ -63,7 +55,12 @@ title: les plus que proches - lecture musicale
       71600 PARAY LE MONIAL<br>
       03 85 81 11 62<br>
       avec le Réseau des Aidants Sud 71
-    </li><hr>
+    </li>
+    <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
+
+  <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193760/joune%CC%81eNationaleAidants2020p2_hkeflc.jpg" alt="flyer p2: masque obligatoire, conditions sanitaires respectées, 15h lecture théàtralisée Les Plus Que Proches avec 2 comédiennes et un musicien de l'association rêver tout haut. 16h échanges avec la salle. Organisé par le Réseaux des Aidants SUD 71."></div>
+    
+    <hr>
     <li>
       11 octobre 2019 de 13h30 à 17h<br>
       Médiathèque<br>

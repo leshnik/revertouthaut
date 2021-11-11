@@ -4,7 +4,13 @@ title: actualités
 summary: 
 ---
 <h1>actualités</h1>
-<h2>Novembre 2021</h2>
+<h2>décembre</h2>
+<article class="center-big-block">
+<p class="intro-text">Et déjà une info pour le mois de décembre</p>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
+</article>
+
+<h2>novembre 2021</h2>
 <article class="center-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636139611/lucet-gOkeeffe_lkg2ld.jpg">
 <p class="intro-text"> Nous voilà mi-novembre, alors que s’est-il passé ces derniers temps pour Rêver Tout Haut&nbsp;? Ce fut une rentrée bien chargée avec des projets qui se terminent ou qui démarrent, et des idées qui se développent de partout. Tant mieux&nbsp;! 
@@ -24,7 +30,7 @@ summary:
 
 </ul>
 </article>
-<h2>Septembre 2021</h2>
+<h2>septembre 2021</h2>
 
 <p class="intro-text">Voilà déjà septembre et nous reprenons activement nos accompagnements, ateliers et spectacles: </p>
 
