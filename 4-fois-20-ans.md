@@ -127,7 +127,7 @@ max-width: 400px;">
 <audio controls src="https://rth8.b-cdn.net/Bienvenue%201.mp3"></audio><br>
 <audio controls src="https://rth8.b-cdn.net/Bienvenue%202.mp3"></audio><br>
 <audio controls src="https://rth8.b-cdn.net/Bienvenue%203%20take%202.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, Valérie Gaudissart, Morton Potash<br> paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, Valérie Gaudissart, Morton Potash<br> paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 
 </cite>
@@ -139,7 +139,7 @@ max-width: 400px;">
   
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/fabien-et-rene_sido.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Fabien et René y’a qu’à les r’garder<br>
 pour comprendre c'que c’est qu’l'amitié<br>
@@ -157,7 +157,7 @@ les r’garder s’amuser
 <h4 class="h4song-titles">la fille au ruban rouge</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/La%20fille%20au%20ruban%20rouge.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 il faut la voir danser<br>dès minuit passé<br>il faut la voir danser<br>dans sa chambre fermée<br>
 il faut la voir danser<br>
@@ -177,7 +177,7 @@ il faut la voir danser. il faut la voir danser,<br> Anne-Marie, Anne-Marie, Anne
 <audio controls src="https://rth8.b-cdn.net/dans-les-yeux-clairs-de-Monique.mp3"></audio>
 <p class="cite">chant: Valérie &amp; Morton,paroles: Valérie Gaudissart, musique: Morton Potash</p>
 <audio controls src="https://rth8.b-cdn.net/Dans%20les%20yeux%20clairs%20de%20Monique.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 dans les yeux clairs<br>
 de Monique se lève le jour<br>
@@ -195,7 +195,7 @@ s’écrivent des mots d’amour, s’écrivent des mots d’amour, s’écriven
 <h4 class="h4song-titles">dans les rêves d'André</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/dans-les-reves-d'Andre.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 dans les rêves d'André<br>
 sous ses paupières baissées<br>
@@ -211,7 +211,7 @@ ah
 <h4 class="h4song-titles">michel c'est d'l'électricité</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/michel-c'est-de-l'electricite.mp3"></audio>
-<p class="cite">chant, paroles, et musique: Morton Potash</p>
+<p class="cite">chant, paroles, et musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Michel c'est d'l'électricité<br>
 c'est une nuit blanche en pleine journée<br>
@@ -232,7 +232,7 @@ Michael's here and we're feelin' just fine
 <h4 class="h4song-titles">Monique et le piano</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Monique%20et%20le%20piano.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 sur les touches ivoires du piano noir<br>
 les doigts de Monique se posent<br>
@@ -249,7 +249,7 @@ et s'arrête le temps
 <h4 class="h4song-titles">quand Rodica frappe dans ses mains</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Bate%20din%20palme.mp3"></audio>
-<p class="cite">chant et paroles: Sidonie Dubosc, musique: Morton Potash</p>
+<p class="cite">chant et paroles: Sidonie Dubosc, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 quand Rodica frappe dans ses mains <br>
 les coeurs se remettent à danser<br>
@@ -270,7 +270,7 @@ bate din palme Rodica bate din palme
 <h4 class="h4song-titles">Christiane, elle est nature</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Christiane%20elle%20est%20Nature.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Christiane, elle est nature<br>
 la faire sourire c'est pas très dur<br>
@@ -292,7 +292,7 @@ la faire sourire c'est pas très dur
 <h4 class="h4song-titles">sur le sable fin de la plage de Dunquerque</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Sur%20le%20sable%20fin%20de%20la%20plage%20de%20Dunkerque.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 l'empreinte de ses pieds nus<br>
 sur le sable fin de la plage de Dunquerque<br>
@@ -313,7 +313,7 @@ sur le sable fin de la plage de Dunquerque<br>
 <h4 class="h4song-titles">dans les carnets de Suzanne</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Dans%20les%20carnets%20de%20Suzanne.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 dans les carnets de Suzanne<br>
 le rouge le vert et le violet<br>
@@ -336,7 +336,7 @@ toutes les couleurs qui donnent une vie<br>
 <h4 class="h4song-titles">Denise pense à ses enfants</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Denise-pense-a-ses-enfants.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Denise pense à ses enfants tout le temps<br>
 elle les sent sur ses genoux<br>
@@ -354,7 +354,7 @@ maman est là, maman est là
 <h4 class="h4song-titles">Ghislaine a une passion</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Depuis%20ses%20premiers%20pas.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 depuis ses premiers pas <br>
 et ses premiers chaussons<br>
@@ -383,7 +383,7 @@ Ghislaine a une passion
 <h4 class="h4song-titles">Jacqueline et Baudelaire</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Jaqueline%20et%20Baudelaire.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Jacqueline a mille poèmes dans la tête<br>
 le rimes de Baudelaire<br>
@@ -404,7 +404,7 @@ Jacqueline, Jacqueline
 <h4 class="h4song-titles">Maurice et Josiane</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Maurice%20et%20Josiane.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Josiane c'est la beauté, c'est un jardin d'été, c'est comme un voile de volupté. Josianne et Maurice un jour se sont aimés.
 Maurice c'est la bonté, c'est un regard de ciel bleuté, c'est comme un voile de volupté, Josiane et Maurice depuis se jour se sont aimés. Josiane c'est la beauté. Maurice c'est la bonté. Josiane et Maurice depuis ce jour pas un seul jour ne se sont quittés.<br>
@@ -422,7 +422,7 @@ jardin d'été
 <h4 class="h4song-titles">Mireille, quand elle ferme ses yeux</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Quand%20elle%20ferme%20ses%20yeux.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Quand elle ferme ses yeux<br>
 Mireille entend<br>
