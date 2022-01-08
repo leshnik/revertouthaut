@@ -23,16 +23,7 @@ title: les plus que proches - lecture musicale
 
   <h2>prochaines dates</h2>
   <ul class="coming">
-    <li>
-      vendredi 10 décembre 2021<br>
-      CISL Ethic Etapes Lyon<br>
-      103 Bd des États-Unis<br>
-      69008 Lyon<br>
-      Gratuit - Pass sanitaire obligatoire<br>
-    </li>
-    <div class="center-big-block">
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
-      </div>
+    
     <hr>
     <li>
       mai 2022, date à préciser<br>
@@ -47,6 +38,16 @@ title: les plus que proches - lecture musicale
   <hr>
   <h2>lectures passées</h2>
   <ul class="past">
+  <li>
+      vendredi 10 décembre 2021<br>
+      CISL Ethic Etapes Lyon<br>
+      103 Bd des États-Unis<br>
+      69008 Lyon<br>
+      Gratuit - Pass sanitaire obligatoire<br>
+    </li>
+    <div class="center-max600-block">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
+      </div>
 
     <li>
       mercredi 30 septembre 2020 de 15h à 17h<br>
