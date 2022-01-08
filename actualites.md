@@ -25,6 +25,9 @@ summary:
     Et une très intense journée organisée par la CAF 71, proposée à des travailleuses sociales du Maconnais et du Clunysois, accompagnant les questions de  parentalité. Atelier collage, et compositions de chansons autour de la vocation, du sens du métier, des rencontres qui ont fondé et marqué le parcours professionnel. Des créations de cette journée du 9 décembre seront bientôt visibles sur la page <a href="/accompagner-la-parentalite">accompagner la parentalité</a> </li>
 <li>
     Et le 10 décembre, lecture musicale <a href="/lpqp-lecture-musicale">Les Plus que Proches</a>, pour la Métropole Aidante de Lyon. Là aussi, l’occasion de rencontres sincères, pendant lesquelles nos propositions prennent tout leur sens.</li>
+    <div class="center-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
+    </div>
 </ul>
 
 
