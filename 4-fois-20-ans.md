@@ -121,24 +121,43 @@ max-width: 400px;">
 </div>
 <script type="text/javascript" src="/js/slideshow.js"></script>
 
+<h2>les chansons de bienvenue</h2>
+<h5>accueil en musique pendant que les soignants installent les résidents</h5>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Bienvenue%201.mp3"></audio><br>
+<audio controls src="https://rth8.b-cdn.net/Bienvenue%202.mp3"></audio><br>
+<audio controls src="https://rth8.b-cdn.net/Bienvenue%203%20take%202.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, Valérie Gaudissart, Morton Potash<br> paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+
+</cite>
+</div>
+
 <h2>chansons composées avec les résidents</h2>
 <h4 class="h4song-titles">fabien et rené</h4>
 <h5>instants de complicité entre un soignant et un résident</h5>
   
 <div class="institutions">
-<audio controls src="https://rth8.b-cdn.net/fabien-et-rene.mp3"></audio>
-<p class="cite">chant: Valérie &amp; Morton, paroles: Valérie Gaudissart, musique: Morton Potash</p>
-<cite style="line-height: 1.5rem;letter-spacing:.13rem;">Fabien et René y’a qu’à les r’garder<br>
+<audio controls src="https://rth8.b-cdn.net/fabien-et-rene_sido.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Fabien et René y’a qu’à les r’garder<br>
 pour comprendre c'que c’est qu’l'amitié<br>
 Fabien et René y’a qu’à les r’gar-der<br>
+pour savoir qu'ça va durer des années.<br>
+Fabien et René y’a qu’à les r’gar-der<br>
 quand ils font semblant de boxer<br>
-ces deux gamins en train de jouer<br>
-pour comprendr’ c’qu’ c’est qu’l'amitié<br>Fabien et René<br>y’a qu’à les r’garder s’amuser<br>les r’garder s’amuser </cite>
+Ces deux gamins en train de jouer<br>
+pour comprendr’ c’qu’ c’est qu’l'amitié<br>
+Fabien et René<br>
+y’a qu’à les r’garder s’amuser<br>
+les r’garder s’amuser 
+</cite>
 </div>
 <h4 class="h4song-titles">la fille au ruban rouge</h4>
 <div class="institutions">
-<audio controls src="https://rth8.b-cdn.net/la-fille-au-ruban-rouge.mp3"></audio>
-<p class="cite">chant: Valérie &amp; Morton, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<audio controls src="https://rth8.b-cdn.net/La%20fille%20au%20ruban%20rouge.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 il faut la voir danser<br>dès minuit passé<br>il faut la voir danser<br>dans sa chambre fermée<br>
 il faut la voir danser<br>
@@ -157,6 +176,8 @@ il faut la voir danser. il faut la voir danser,<br> Anne-Marie, Anne-Marie, Anne
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/dans-les-yeux-clairs-de-Monique.mp3"></audio>
 <p class="cite">chant: Valérie &amp; Morton,paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<audio controls src="https://rth8.b-cdn.net/Dans%20les%20yeux%20clairs%20de%20Monique.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles Valérie Gaudissart, musique: Morton Potash</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 dans les yeux clairs<br>
 de Monique se lève le jour<br>
@@ -168,6 +189,291 @@ dans les yeux clairs<br>
 de Monique se lève le jour<br>
 dans ses yeux clairs<br>
 s’écrivent des mots d’amour, s’écrivent des mots d’amour, s’écrivent des mots d’amour
+</cite>
+</div>
+
+<h4 class="h4song-titles">dans les rêves d'André</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/dans-les-reves-d'Andre.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+dans les rêves d'André<br>
+sous ses paupières baissées<br>
+défilent des pays lointains<br>
+des villes visitées, des voyages inachevé<br>
+et dans sa nuit étoilée pour lui seul comme invité<br>
+la voix de Callas résonne sous la voie lactée<br>
+ah
+</cite>
+</div>
+
+
+<h4 class="h4song-titles">michel c'est d'l'électricité</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/michel-c'est-de-l'electricite.mp3"></audio>
+<p class="cite">chant, paroles, et musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Michel c'est d'l'électricité<br>
+c'est une nuit blanche en pleine journée<br>
+un parquet de bal improvisé<br>
+et un coeur qui bat comme un damné<br>
+Michel faites nous vibrer<br>
+éclaire la nuit qu'on puisse danser<br>
+Michael make us dance<br>
+hey Michael make us laugh<br>
+hey Michael make us sing<br>
+hey Michael make us swing<br>
+come on come on let's have a good time<br>
+Michael's here and we're feelin' just fine
+</cite>
+</div>
+
+
+<h4 class="h4song-titles">Monique et le piano</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Monique%20et%20le%20piano.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+sur les touches ivoires du piano noir<br>
+les doigts de Monique se posent<br>
+et s'arrête le temps<br>
+et sous ses mains virtuoses se ranconte une histoire<br>
+le prelude du matin, la sonate du midi, le nocturne du soir<br>
+et la fugue de la nuit<br>
+sur les touches ivoires du piano noir<br>
+les doigts de Monique se posent<br>
+et s'arrête le temps
+</cite>
+</div>
+
+<h4 class="h4song-titles">quand Rodica frappe dans ses mains</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Bate%20din%20palme.mp3"></audio>
+<p class="cite">chant et paroles: Sidonie Dubosc, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+quand Rodica frappe dans ses mains <br>
+les coeurs se remettent à danser<br>
+la terre s'éveille sous ses pieds<br>
+bate din palme Rodica bate din palme<br>
+quand Rodica se mette à rire <br>
+le printemps frappe à toutes les portes<br>
+et dans la joie il nous emporte<br>
+bate din palme Rodica bate din palme<br>
+quand Rodica plonge dans mes yeux <br>
+je ne vois plus que son grand coeur<br>
+battant comme un oiseau joueur<br>
+bate din palme Rodica bate din palme
+</cite>
+</div>
+
+
+<h4 class="h4song-titles">Christiane, elle est nature</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Christiane%20elle%20est%20Nature.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Christiane, elle est nature<br>
+la faire sourire c'est pas très dur<br>
+de bon matin elle nous tend la main<br>
+nous envoie des baisers<br>
+Christiane, elle a les jambes croisées<br>
+le regard tout éveillé<br>
+le sourire bien accroché<br>
+et au pied, oh là là<br>
+des chausettes super stylés<br>
+Christiane, comment tu vas ce matin&nbsp;?<br>
+ça va moyen ou ça va bien&nbsp;?<br>
+ça va super&nbsp;? alors ça c'est super c'est super&nbsp;!<br>
+Christiane, elle est nature<br>
+la faire sourire c'est pas très dur
+</cite>
+</div>
+
+<h4 class="h4song-titles">sur le sable fin de la plage de Dunquerque</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Sur%20le%20sable%20fin%20de%20la%20plage%20de%20Dunkerque.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+l'empreinte de ses pieds nus<br>
+sur le sable fin de la plage de Dunquerque<br>
+les jeux des ses cousins<br>
+sur le sable fin de la plage de Dunquerque<br>
+les echos des la guerre, les voix de ses parents<br>
+sur le sable fin de la plage de Dunquerque<br>
+les premiers pas de ses enfants<br>
+sur le sable fin de la plage de Dunquerque<br>
+la trace de ses souvenirs, les bons les gais et les méchants<br>
+sur le sable fin de la plage de Dunquerque<br>
+le ciel est gris, la mer est bleue<br>
+la mer est grise, le ciel est bleu<br>
+sur le sable fin de la plage de Dunquerque<br>
+</cite>
+</div>
+
+<h4 class="h4song-titles">dans les carnets de Suzanne</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Dans%20les%20carnets%20de%20Suzanne.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+dans les carnets de Suzanne<br>
+le rouge le vert et le violet<br>
+le jaune le noir et le bleuet<br>
+les fruits de Césanne, les fleurs de Monet<br>
+les cercles de Sonia Delaunay<br>
+et sur son chevalet<br>
+les émotions de ses journées<br>
+le vert émeraude des jours d'été<br>
+le céladon des jours passées<br>
+le gris acier des jours d'hiver<br>
+le rouge garance des grands passions<br>
+le blanc ivoire le bleu céleste<br>
+et l'outremer tout mélangés<br>
+toutes les couleurs qui donnent une vie<br>
+à ses pensées
+</cite>
+</div>
+
+<h4 class="h4song-titles">Denise pense à ses enfants</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Denise-pense-a-ses-enfants.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Denise pense à ses enfants tout le temps<br>
+elle les sent sur ses genoux<br>
+comme avant qu'ils deviennent grands<br>
+Ses enfants pensent à elle tout le temps<br>
+et se blotissent dans son cou<br>
+comme avant qu'ils deviennent grands<br>
+et de Nevers jusqu'au Canada<br>
+Denise les tient dans ses grands bras<br>
+et leur murmure<br>
+maman est là, maman est là
+</cite>
+</div>
+
+<h4 class="h4song-titles">Ghislaine a une passion</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Depuis%20ses%20premiers%20pas.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+depuis ses premiers pas <br>
+et ses premiers chaussons<br>
+Ghislaine a une passion<br>
+des timbres&nbsp;? ah non&nbsp;!<br>
+des fleurs&nbsp;? ah non&nbsp;!<br>
+les bonbons&nbsp;? mais non, mais non&nbsp;!<br>
+ce qu'elle préfère par-dessus tout<br>
+tenez vous bien<br>
+c'est une vraie collection<br>
+les nus pieds les bottes fourrées<br>
+les talons aiguilles<br>
+les espadrilles les bottines à boutons<br>
+les ballerines à pompom<br>
+des blanches des noires ou à petits pois<br>
+les moccasins dorés<br>
+les sabots en bois<br>
+et même des bottes en caoutchouc<br>
+pour marcher dans la gadoue<br>
+depuis ses premiers pas<br>
+et ses premiers chaussons<br>
+Ghislaine a une passion
+</cite>
+</div>
+
+<h4 class="h4song-titles">Jacqueline et Baudelaire</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Jaqueline%20et%20Baudelaire.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Jacqueline a mille poèmes dans la tête<br>
+le rimes de Baudelaire<br>
+les mots de Rimbaud<br>
+les vers d'Appolinaire<br>
+les chansons de Prévert<br>
+Jacqueline, Jacqueline<br>
+Jacqueline a mille sourires dans la tête<br>
+et les rires des enfants<br>
+qui découvrent la vie<br>
+la faim, la soif, et les envies<br>
+qui découvrent la vie<br>
+et son grand livre de poésie<br>
+Jacqueline, Jacqueline
+</cite>
+</div>
+
+<h4 class="h4song-titles">Maurice et Josiane</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Maurice%20et%20Josiane.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Josiane c'est la beauté, c'est un jardin d'été, c'est comme un voile de volupté. Josianne et Maurice un jour se sont aimés.
+Maurice c'est la bonté, c'est un regard de ciel bleuté, c'est comme un voile de volupté, Josiane et Maurice depuis se jour se sont aimés. Josiane c'est la beauté. Maurice c'est la bonté. Josiane et Maurice depuis ce jour pas un seul jour ne se sont quittés.<br>
+C'est la beauté<br>
+c'est la bonté<br>
+jardin d'été<br>
+ciel bleuté<br>
+C'est la beauté<br>
+c'est la bonté<br>
+ciel bleuté<br>
+jardin d'été
+</cite>
+</div>
+
+<h4 class="h4song-titles">Mireille, quand elle ferme ses yeux</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Quand%20elle%20ferme%20ses%20yeux.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Quand elle ferme ses yeux<br>
+Mireille entend<br>
+un refrain fredonné<br>
+fredonné par son père<br>
+O sole mio<br>
+résonne dans les rues<br>
+résonne dans les rues de Nevers<br>
+et le soleil revient<br>
+et la ville s'émerveille<br>
+son père est un vrai magicien<br>
+Quand elle ferme ses yeux<br>
+Mireille se souvient<br>
+de cet air italien<br>
+fredonné par son père<br>
+elle se laisse bercé<br>
+par cette voix qui lui est chère<br>
+qui résonne dans les rues de Nevers<br>
+et le soleil revient<br>
+et la ville s'émerveille<br>
+son père est un vrai magicien
+</cite>
+</div>
+
+<h4 class="h4song-titles">sous le ciel de Nevers</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Sous%20le%20ciel%20de%20Nevers.mp3"></audio>
+<p class="cite">chant: Sidonie Dubosc et Valérie Gaudissart, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Depuis les plaines de Roumanie, depuis les avenues de Paris, depuis l'étendu de la banquise, depuis les ports de Tanger, depuis les rues de Bar-le-Duc, depuis les usines d'Umphy, depuis l'église de Fourchambault, depuis les bords de Marne de Maisons Alfort, depuis la cathédrale de Limoges, depuis la gare de Dijon, depuis le canal de Bourgogne, depuis les montagnes marocaines, depuis les prairies de la Nièvre, depuis les volcans d'Auvergne, depuis les plages de Dunquerque<br>
+Aujourd'hui nous voici<br>
+sous le ciel de Nevers<br>
+plus de mille printemps à nous tous réunis<br>
+Et nos seize prénoms<br>
+dans une seule chanson<br>
+et nos seize prénoms<br>
+sont une seule mélodie<br>
+Suzanne, Jacqueline<br>
+Monique, Gilbert<br>
+André, Gislène, Maurice, Mireille<br>
+Rodica, Anne-Marie<br>
+Denise, Josiane, Jojo<br>
+Christiane, René, Michel<br>
+Aujourd'hui nous voici<br>
+sous le ciel de Nevers<br>
+plus de mille printemps à nous tous réunis<br>
+Et nos seize prénoms<br>
+dans une seule chanson<br>
+et nos seize prénoms<br>
+sont une seule mélodie<br>
+
 </cite>
 </div>
 
