@@ -4,6 +4,30 @@ title: actualités
 summary: 
 ---
 <h1>actualités</h1>
+<h2>Janvier 2022</h2>
+<p class="intro-text">En 2022, plein de projets qui se concrétisent pour Rêver tout Haut&nbsp;! </p>
+<ul class="institutions">
+    <li>A partir de mars, démarrage d’un atelier innovant <a href="/re-inventer-sa-vie">Ré-Inventer sa vie</a>, qui va proposer art postal, écriture et mise en scène d’un spectacle de théâtre d’objets au sein de l’établissement Ugecam-les Villandières de Charnay les Mâcon. Projet soutenu par la DRAC Bourgogne et Culture et Santé.</li>
+    <li>Dès janvier, reprise de notre atelier créatif pour aidants, <a href="/aidants-aimants">Aidants, Aimants</a>. Possibilité aux nouveaux aidants de rejoindre le groupe déjà constitué. Projet soutenu par la Conférence des Financeurs 71.</li>
+    <li>Dès janvier aussi, reprise de notre proposition d’accompagnement à domicile, <a href="/presences">Présences</a>, ouverte aux aidants en proie au deuil et à l’isolement. Proposition ouverte aux habitants du Maconnais, du Clunysois et maintenant aux habitants du Charollais. Projet soutenu par la FDVA 71.</li>
+    <li>A partir de janvier, organisation de la tournée prévue à l’automne 22 de notre spectacle autour de la mono-parentalité, <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>. Tournée soutenue par la CAF 71 et le Conseil Départemental 71. </li>
+    <li>A partir de mars, reprise de notre spectacle de chansons <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a> avec les résidents de la Novelline de Cluny et les usagers du Groupe d’Entraide Mutuelle de Mâcon. Ouvert aux participants de l’atelier de juin 2020 et aux nouveaux résidents. Les représentations sont prévues pour avril 22.</li>
+    <li>Création d’un nouveau spectacle réunissant quelques unes des 89 chansons composées en 2020 lors de nos différents ateliers. Ces chansons, qui sont comme des portraits de toutes ces personnes que nous accompagnons, qui sont souvent invisibles et qui pourtant ont tant de choses à transmettre de leur vécu, de leur pudeur, de leur univers intérieur, de leurs désirs et tourments souvent bien enfouis. </li>
+    <li>Nous attendons la réponse de la MSA concernant un autre projet de médiations artistiques et de spectacle, «Histoire de transmissions» qui va traiter des difficultés de transmission dans les familles d’agriculteurs d’aujourd’hui. Qu’est-ce que cela fait vivre aux familles de ne pas avoir de repreneur, de descendant pour reprendre une exploitation au moment du départ à la retraite du parent ? </li>
+</ul>
+
+
+<h2>Décembre 2021</h2>
+<ul class="institutions">
+<li>
+    Ça y est, le clip «&nbsp;Je Veux Vivre&nbsp;» est terminé ! Il sera bientôt disponible <a href="/je-veux-vivre">ici</a> pour visionner ce morceau de joie de vivre, d’échanges et d’énergie. </li>
+<li>
+    Et une très intense journée organisée par la CAF 71, proposée à des travailleuses sociales du Maconnais et du Clunysois, accompagnant les questions de  parentalité. Atelier collage, et compositions de chansons autour de la vocation, du sens du métier, des rencontres qui ont fondé et marqué le parcours professionnel. Des créations de cette journée du 9 décembre seront bientôt visibles sur la page <a href="/accompagner-la-parentalite">accompagner la parentalité</a> </li>
+<li>
+    Et le 10 décembre, lecture musicale <a href="/lpqp-lecture-musicale">Les Plus que Proches</a>, pour la Métropole Aidante de Lyon. Là aussi, l’occasion de rencontres sincères, pendant lesquelles nos propositions prennent tout leur sens.</li>
+</ul>
+
+
 <h2>Novembre 2021</h2>
 <article class="center-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636139611/lucet-gOkeeffe_lkg2ld.jpg">
