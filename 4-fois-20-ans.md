@@ -42,7 +42,7 @@ On dit qu'on a toujours vingt ans...»</em></div>
       instead.</p>
   </video> -->
 
-<p class="intro-text">En partant de cette chanson, nous sommes allés chercher les émotions de la jeunesse qui restent présentes, actives, prêtes à être ravivées car oui, même à 90 ans passés, même privés de langage et de mouvement du fait de la maladie, les personnes âgées restent les 20 ans qu’elles ont été. Nous avons composé des chansons personnelles à chacun.e, une chanson qui porte le prénom de la personne, qui raconte ce qui la caractérise à partir de nos ressentis, des rencontres faites avec elles, parfois même dans le silence.</p>
+<p class="intro-text">En partant de cette chanson, nous sommes allés chercher les émotions de la jeunesse qui restent présentes, actives, prêtes à être ravivées car oui, même à 90 ans passés, même privées de langage et de mouvement du fait de la maladie, les personnes âgées restent les 20 ans qu’elles ont été. Nous avons composé des chansons personnelles à chacun.e, une chanson qui porte le prénom de la personne, qui raconte ce qui la caractérise à partir de nos ressentis, des rencontres faites avec elles, parfois même dans le silence.</p>
 <p class="intro-text">Une vingtaine de chansons ont été composées, ont résonné dans l’établissement et ont été présentées aux familles lors d’une restitution publique.</p>
 <p class="intro-text">Nous avons aussi proposé au moment du coucher, une déambulation musicale de chambre en chambre, pour ceux et celles qui le désirent, pour chanter de manière intime, une berceuse, même sans paroles, une chanson du répertoire ou bien la chanson écrite pour chaque résident.</p>
 
