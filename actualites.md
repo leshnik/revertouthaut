@@ -20,7 +20,7 @@ summary:
 <h2>Décembre 2021</h2>
 <ul class="institutions">
 <li>
-    Ça y est, le clip «&nbsp;Je Veux Vivre&nbsp;» est terminé ! Il sera bientôt disponible <a href="/je-veux-vivre">ici</a> pour visionner ce morceau de joie de vivre, d’échanges et d’énergie. </li>
+    Ça y est, le clip «&nbsp;Je Veux Vivre&nbsp;» est terminé ! Il <span style="text-decoration: line-through"> sera bientôt</span> est disponible <a href="/je-veux-vivre">ici</a> pour visionner ce morceau de joie de vivre, d’échanges et d’énergie. </li>
 <li>
     Et une très intense journée organisée par la CAF 71, proposée à des travailleuses sociales du Maconnais et du Clunysois, accompagnant les questions de  parentalité. Atelier collage, et compositions de chansons autour de la vocation, du sens du métier, des rencontres qui ont fondé et marqué le parcours professionnel. Des créations de cette journée du 9 décembre seront bientôt visibles sur la page <a href="/accompagner-la-parentalite">accompagner la parentalité</a> </li>
 <li>
