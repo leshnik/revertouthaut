@@ -450,7 +450,7 @@ son père est un vrai magicien
 <h4 class="h4song-titles">sous le ciel de Nevers</h4>
 <div class="institutions">
 <audio controls src="https://rth8.b-cdn.net/Sous%20le%20ciel%20de%20Nevers.mp3"></audio>
-<p class="cite">chant: Sidonie Dubosc et Valérie Gaudissart, paroles: Valérie Gaudissart, musique: Morton Potash</p>
+<p class="cite">chant: Sidonie Dubosc et Valérie Gaudissart <br>paroles: Valérie Gaudissart, musique: Morton Potash<br><br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Depuis les plaines de Roumanie, depuis les avenues de Paris, depuis l'étendu de la banquise, depuis les ports de Tanger, depuis les rues de Bar-le-Duc, depuis les usines d'Umphy, depuis l'église de Fourchambault, depuis les bords de Marne de Maisons Alfort, depuis la cathédrale de Limoges, depuis la gare de Dijon, depuis le canal de Bourgogne, depuis les montagnes marocaines, depuis les prairies de la Nièvre, depuis les volcans d'Auvergne, depuis les plages de Dunquerque<br>
 Aujourd'hui nous voici<br>
@@ -476,6 +476,43 @@ sont une seule mélodie<br>
 
 </cite>
 </div>
+
+<h2>chanson pour Coralie, psychologue, et Ludivine, musicothérapeute</h2>
+<h4 class="h4song-titles">ludivine elle devine</h4>
+<div class="institutions">
+<audio controls src="https://rth8.b-cdn.net/Ludivine%20et%20Coralie.mp3"></audio>
+<p class="cite">chant et paroles: Sidonie Dubosc, musique Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Ludivine elle devine<br>
+les mots cachés derrière le coeur <br>
+les premiers pas d’un enfant de 100 ans <br>
+les «&nbsp;je t’aime&nbsp;» <br>
+les «&nbsp;j’ai soif&nbsp;» <br>
+les «&nbsp;j’ai peur&nbsp;» <br>
+Coralie elle délit <br>
+les mains croisées sur les genoux <br>
+les langues inventées <br>
+les mots oubliés <br>
+les «&nbsp;je veux&nbsp;» <br>
+les «&nbsp;j’en ai marre&nbsp;» <br>
+les «&nbsp;je pars&nbsp;» <br>
+Ludivine elle chemine <br>
+dans les couloirs de la tendresse <br>
+au bras de ceux qui déambulent <br>
+Et des «&nbsp;j’ai mal&nbsp;», <br>
+des «&nbsp;je suis perdu&nbsp;» <br>
+des «&nbsp;je suis où?&nbsp;» <br>
+Coralie elle relie <br>
+des bribes de vie emmêlées <br>
+les souvenirs <br>
+les secrets enfermés <br>
+et les «&nbsp;je ne sais plus&nbsp;» <br>
+les «&nbsp;je me souviens&nbsp;» <br>
+les «&nbsp;merci beaucoup&nbsp;»
+</cite>
+</div>
+
+
 
 <h2>articles de presse</h2>
 <div class="center-text">
