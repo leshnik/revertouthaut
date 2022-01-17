@@ -4,6 +4,9 @@ title: Je veux vivre
 summary: 
 ---
 <h1>je veux vivre</h1>
+<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/bb65a658-b11a-4baf-9f65-131185d5b087?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<p class="intro-text">À la demande de l’Association Atelier Pluriel (Chissey les Macon) qui propose des activités rapprochant personnes valides et invalides, <span class="rever-typog">rever tout haut</span> a conçu un atelier qui revendique de l’énergie et de l’envie de vivre après une année bien déstabilisante et pleine d’empêchements.</p>
 <div class="center-big-block">
 <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632146607/Je-veux-vivre-R_mawpnh.png">
@@ -15,7 +18,6 @@ summary:
       <figcaption class="figCapCenter"></figcaption>
     </figure>
 </div>
-<p class="intro-text">À la demande de l’Association Atelier Pluriel (Chissey les Macon) qui propose des activités rapprochant personnes valides et invalides, <span class="rever-typog">rever tout haut</span> a conçu un atelier qui revendique de l’énergie et de l’envie de vivre après une année bien déstabilisante et pleine d’empêchements.</p>
 
 <p class="intro-text">«Je veux vivre» est un atelier créatif étalé sur plusieurs mois de juillet à novembre 2021, qui va permettre collectivement d’exprimer et de garder traces par des mots, par des rimes, par des rythmes et des gestes, et  par des images, ce que cette dernière année nous aura fait traverser.</p>
 
@@ -80,7 +82,7 @@ Valérie Gaudissart, qui coordonne le projet dans sa globalité propose de tenir
 
 
 <h2>journal de bord</h2>
-<h2 style="color: #aaa;">1er week end</h2>
+<!-- <h2 style="color: #aaa;">1er week end</h2> -->
 <div class="institutions">
 <p class="chansons_spoken">Je Veux Vivre/ par Valérie Gaudissart<br><br>
 
