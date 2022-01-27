@@ -212,7 +212,10 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           Cellier des Moines<br>
           Place de l'Abbaye<br>
           71700 Tournus<br>
-          en partenariat avec l’Association Vivre au Féminin
+          en partenariat avec l’Association Vivre au Féminin<br><br>
+          <div class="center-big-block">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg" alt="affiche Tournus">
+          </div>
         </li>        
       </ul>
       <hr>
