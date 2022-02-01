@@ -18,7 +18,11 @@ Oui, on peut être dépendant tout en revendiquant une part d’autonomie et son
 </div>
 <p class="intro-text">Deuxième étape : la conception d’un spectacle de théâtre d’objets, joué par les personnes, à partir de leurs écrits, de leurs témoignages recueillis lors de la première étape, et qui par le biais du détournement d’objets du quotidien, sensibilisera le public à la vie, certes avec des empêchements, mais pleine et entière des personnes porteuses de handicap.</p>
 
-<p class="intro-text">Être considéré comme un adulte doué d’une part d’autonomie, c’est pouvoir prendre la parole publiquement et être entendu.</p> 
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113624_-_copie_zlhsqo.jpg">
+</div>
+<p class="intro-text">Être considéré comme un adulte doué d’une part d’autonomie, c’est pouvoir prendre la parole publiquement et être entendu.</p>
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643735368/atelier-correspondances-small_wwb4oj.jpg">
 </div>
