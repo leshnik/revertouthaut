@@ -4,6 +4,18 @@ title: actualités
 summary: 
 ---
 <h1>actualités</h1>
+<h2>Février 2022</h2>
+<ul class="institutions">
+    <li>Démarrage d’un nouveau projet, <a href="/histoires-de-transmission">Histoires de Transmission</a> qui va s’intéresser par le biais du recueil de témoignages et d’un travail photographique aux transmissions dans les familles d’agriculteurs partant à la retraite sans repreneur au sein de la famille. Qu’est-ce que la famille traverse dans cette période complexe de la fin d’une exploitation ? Projet soutenu par la MSA. </li>
+
+    <li>Démarrage d’un atelier innovant <a href="/re-inventer-sa-vie">Ré-Inventer sa vie</a> qui va proposer art postal, écriture et mise en scène d’un spectacle de théâtre d’objets au sein de l’établissement Ugecam-les Villandières de Charnay les Mâcon. Projet soutenu par la DRAC Bourgogne, l’ARS  et Culture et Santé.</li>
+
+    <li>A partir d’avril, reprise de notre spectacle de chansons <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a> avec les résidents de la Novelline de Cluny et les usagers du Groupe d’Entraide Mutuelle de Mâcon. Ouvert aux participants de l’atelier de juin 2021 et aux nouveaux résidents. Les représentations sont prévues en juin 22.</li>
+
+    <li>Création d’un nouveau spectacle «Chansons pour ceux qui ne font pas de bruit», réunissant quelques unes des chansons composées en 2021 lors de nos différents ateliers. Ces chansons, qui sont comme des portraits de toutes ces personnes que nous accompagnons, qui sont souvent invisibles et qui pourtant ont tant de choses à transmettre de leur vécu, de leur pudeur, de leur univers intérieur, de leurs désirs et tourments souvent bien enfouis.</li>
+
+    <li>Suite de notre dispositif <a href="/presences">Présences</a>, de notre atelier <a href="/aidants-aimants">Aidants, Aimants</a>, de l’organisation de la tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
+</ul>
 <h2>Janvier 2022</h2>
 <p class="intro-text">En 2022, plein de projets qui se concrétisent pour Rêver tout Haut&nbsp;! </p>
 <ul class="institutions">
