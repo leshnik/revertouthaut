@@ -12,7 +12,7 @@ summary:
 
     <li>A partir d’avril, reprise de notre spectacle de chansons <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a> avec les résidents de la Novelline de Cluny et les usagers du Groupe d’Entraide Mutuelle de Mâcon. Ouvert aux participants de l’atelier de juin 2021 et aux nouveaux résidents. Les représentations sont prévues en juin 22.</li>
 
-    <li>Création d’un nouveau spectacle «Chansons pour ceux qui ne font pas de bruit», réunissant quelques unes des chansons composées en 2021 lors de nos différents ateliers. Ces chansons, qui sont comme des portraits de toutes ces personnes que nous accompagnons, qui sont souvent invisibles et qui pourtant ont tant de choses à transmettre de leur vécu, de leur pudeur, de leur univers intérieur, de leurs désirs et tourments souvent bien enfouis.</li>
+    <li>Création d’un nouveau spectacle «Chansons pour ceux qui ne font pas de bruit», réunissant quelques unes des chansons composées en 2021 lors de nos différents ateliers. Ces chansons sont comme des portraits de toutes ces personnes que nous accompagnons, qui sont souvent invisibles et qui pourtant ont tant de choses à transmettre de leur vécu, de leur pudeur, de leur univers intérieur, de leurs désirs et tourments souvent bien enfouis.</li>
 
     <li>Suite de notre dispositif <a href="/presences">Présences</a>, de notre atelier <a href="/aidants-aimants">Aidants, Aimants</a>, de l’organisation de la tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
 </ul>
