@@ -12,7 +12,7 @@ summary:
     <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
     <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></li>
     <hr>
-    <li>Le 3 avril à Buffières&nbsp;: extraits de notre nouvelle création, «Chansons pour ceux qui ne font pas de bruit», dans le cadre du Printemps des Poètes</li>
+    <li>Le 3 avril à Buffières&nbsp;: extraits de notre nouvelle création, <a href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">Chansons pour ceux qui ne font pas de bruit</a>, dans le cadre du Printemps des Poètes</li>
     <hr>
     <li>Le 6 avril&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents</li>
     <hr>
