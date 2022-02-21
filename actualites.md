@@ -5,18 +5,24 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>Le 5 mars 2022 à 17h: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></li>
+    <li>Le 5 mars 2022 à 17h&nbsp;: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></li>
     <hr>
-    <li>Les 8 et 9 mars à Lyon: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></li>
+    <li>Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></li>
     <hr>
-    <li>Le 11 mars à Charnay les Mâcon: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
+    <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
     <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></li>
     <hr>
-    <li>Le 6 avril, représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents</li>
+    <li>Le 3 avril à Buffières&nbsp;: extraits de notre nouvelle création, «Chansons pour ceux qui ne font pas de bruit», dans le cadre du Printemps des Poètes</li>
     <hr>
-    <li>Le 21 mai: lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la <a href="https://www.franceparkinson.fr/journee-mondiale-2020/">La journée mondiale Parkinson</a> à Paray-le-Monial, en partenariat avec France Parkinson 71.</li>
+    <li>Le 6 avril&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents</li>
     <hr>
-    <li>Le 3 juin: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
+    <li>Le 21 mai&nbsp;: lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la <a href="https://www.franceparkinson.fr/journee-mondiale-2020/">La journée mondiale Parkinson</a> à Paray-le-Monial, en partenariat avec France Parkinson 71.</li>
+    <hr>
+    <li>Le 3 juin&nbsp;: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
+    <hr>
+    <li>Le 11 juin à Cortembert à 18h&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
+    <hr>
+    <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
 </ul>
 <h1>actualités</h1>
 <h2>Février 2022</h2>
@@ -38,7 +44,7 @@ summary:
     <li>Dès janvier, reprise de notre atelier créatif pour aidants, <a href="/aidants-aimants">Aidants, Aimants</a>. Possibilité aux nouveaux aidants de rejoindre le groupe déjà constitué. Projet soutenu par la Conférence des Financeurs 71.</li>
     <li>Dès janvier aussi, reprise de notre proposition d’accompagnement à domicile, <a href="/presences">Présences</a>, ouverte aux aidants en proie au deuil et à l’isolement. Proposition ouverte aux habitants du Maconnais, du Clunysois et maintenant aux habitants du Charollais. Projet soutenu par la FDVA 71.</li>
     <li>A partir de janvier, organisation de la tournée prévue à l’automne 22 de notre spectacle autour de la mono-parentalité, <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>. Tournée soutenue par la CAF 71 et le Conseil Départemental 71. </li>
-    <li>A partir de mars, reprise de notre spectacle de chansons <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a> avec les résidents de la Novelline de Cluny et les usagers du Groupe d’Entraide Mutuelle de Mâcon. Ouvert aux participants de l’atelier de juin 2021 et aux nouveaux résidents. Les représentations sont prévues pour avril 22.</li>
+    <li>A partir de mars, reprise de notre spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents de la Novelline de Cluny et les usagers du Groupe d’Entraide Mutuelle de Mâcon. Ouvert aux participants de l’atelier de juin 2021 et aux nouveaux résidents. Les représentations sont prévues pour avril 22.</li>
     <li>Création d’un nouveau spectacle réunissant quelques unes des 89 chansons composées en 2021 lors de nos différents ateliers. Ces chansons, qui sont comme des portraits de toutes ces personnes que nous accompagnons, qui sont souvent invisibles et qui pourtant ont tant de choses à transmettre de leur vécu, de leur pudeur, de leur univers intérieur, de leurs désirs et tourments souvent bien enfouis. </li>
     <li>Nous attendons la réponse de la MSA concernant un autre projet de médiations artistiques et de spectacle, «Histoire de transmissions» qui va traiter des difficultés de transmission dans les familles d’agriculteurs d’aujourd’hui. Qu’est-ce que cela fait vivre aux familles de ne pas avoir de repreneur, de descendant pour reprendre une exploitation au moment du départ à la retraite du parent ? </li>
 </ul>
