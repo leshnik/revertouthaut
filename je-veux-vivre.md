@@ -30,7 +30,7 @@ Valérie Gaudissart, qui coordonne le projet dans sa globalité propose de tenir
 <h2>carnet de stage</h2>
 <div class="center-max600-block">
 <a href="https://fr.calameo.com/read/005110350a2ab4940bb33?view=book&page=1"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645705568/je-veux-vivre-couverture-carnet_dazir0.jpg"></a><br>
-<figcaption class="figCapCenter"><a style="color:hsl(171,93.5%,36.5%); font-size:1.5rem" href="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645705568/je-veux-vivre-couverture-carnet_dazir0.jpg">●&nbsp;cliquer pour voir ou télécharger le carnet</a></figcaption>
+<figcaption class="figCapCenter"><a style="color:hsl(171,93.5%,36.5%); font-size:1.5rem" href="https://fr.calameo.com/read/005110350a2ab4940bb33?view=book&page=1">●&nbsp;cliquer pour voir ou télécharger le carnet</a></figcaption>
 </div>
 
 <!-- Slideshow container -->
