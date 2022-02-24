@@ -27,8 +27,11 @@ Je veux vivre où ? Je veux vivre comment? Avec qui ? Pour qui ? Pour quoi faire
 
 <p class="intro-text">Ainsi Florian Girard, musicien et compositeur, propose un atelier d’écriture de chansons, Thomas Casey, danseur et chorégraphe propose un atelier danse, Laurence Malval, plasticienne propose un atelier Arts Plastiques, et Yannick Coutheron, réalisateur propose le tournage et la réalisation d’un clip musical et dansé. 
 Valérie Gaudissart, qui coordonne le projet dans sa globalité propose de tenir un journal de bord de ces journées passées ensemble afin de garder traces de ces moments précieux, et de tout ce qui s’y joue, même de manière infime.</p>
-
-<p class="intro-text">Les ateliers vont se tenir durant 3 weekends et le tournage du clip sur 4 jours supplémentaires.</p>
+<h2>carnet de stage</h2>
+<div class="center-max600-block">
+<a href="https://fr.calameo.com/read/005110350a2ab4940bb33?view=book&page=1"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645705568/je-veux-vivre-couverture-carnet_dazir0.jpg"></a><br>
+<figcaption class="figCapCenter"><a style="color:hsl(171,93.5%,36.5%); font-size:1.5rem" href="https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/saone-loire-spectacle-questionner-lien-mere-enfant-1621247.html">●&nbsp;cliquer pour voir ou télécharger le carnet</a></figcaption>
+</div>
 
 <!-- Slideshow container -->
 <div class="slideshow-container">
