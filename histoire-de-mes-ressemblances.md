@@ -12,51 +12,57 @@ Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
+    
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001320/gatsby-cloudinary/bobine-fil-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 6</div>
   </div>
   
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
+    
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001322/gatsby-cloudinary/four-laughing-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
+    
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001317/gatsby-cloudinary/music-box-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">3 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
+    
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001322/gatsby-cloudinary/framed-picture-H.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">4 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
+    
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001317/gatsby-cloudinary/fagot-V.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">5 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
+    
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603001314/gatsby-cloudinary/unframed-marriage-V.svg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">6 / 6</div>
   </div>
   
   {% include next-prev-slide.html %}
