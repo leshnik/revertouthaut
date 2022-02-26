@@ -10,81 +10,81 @@ summary:
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894158/simone_bssywm.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894134/alfred_saifbh.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894142/monique_uacmvr.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">3 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894089/lucie-puits_orotfu.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">4 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894120/lucie-village_jcs7bx.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">5 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894159/suzanne_rcezcx.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">6 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">7 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894166/suzanne_grand-parents_do3mx9.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">7 / 10</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">8 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894080/albert_dj1ybo.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">8 / 10</div>
   </div>
     <div class="mySlides">
-    <div class="numbertext">9 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894108/anna_qlnwit.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">9 / 10</div>
   </div>
     <div class="mySlides">
-    <div class="numbertext">10 / 10</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1629894107/jeanne_qrcgok.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">10 / 10</div>
   </div>
  {% include next-prev-slide.html %}
 

@@ -12,78 +12,72 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">1 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_400/v1601539622/gatsby-cloudinary/photo-comme-miroir.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 9</div>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">2 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601542725/gatsby-cloudinary/hand-reach-tatoo.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 9</div>
   </div>
   
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">3 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601543186/gatsby-cloudinary/photo_1_lucarne.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">3 / 9</div>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">4 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601543803/gatsby-cloudinary/le-walk.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">4 / 9</div>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">5 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601544829/gatsby-cloudinary/cadres-blouse-grise.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">5 / 9</div>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">6 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601546026/gatsby-cloudinary/two-hands-text600.png" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">6 / 9</div>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">7 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601775006/gatsby-cloudinary/clay-catlike.jpg" style="width:100%">
-      <figcaption class="figCapCenter"></figcaption>
+      <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">7 / 9</div>
   </div>
   <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">8 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601547085/gatsby-cloudinary/dresseuse-dragons.jpg" style="width:100%">
-      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+      <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <div class="numbertext center-text">8 / 9</div>
   </div>
 <div class="mySlides" style="max-width:600px; margin:auto">
-    <div class="numbertext">9 / 9</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601774668/gatsby-cloudinary/portrait-blue-earrings4x6.jpg" style="width:100%">
     </figure>
+    <div class="numbertext center-text">9 / 9</div>
   </div>
 
   <!-- Next and previous buttons -->
-  <div style="display: flex; flex-wrap:nowrap; justify-content:space-around;">
-    <div>
-      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    </div>
-    <div>
-      <a class="next" onclick="plusSlides(1)" style="cursor:pointer; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
-    </div>
-  </div>
+  {% include next-prev-slide.html %}
+  
 
 </div>
 <br>
@@ -145,7 +139,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Florian Girard, chant: Florian Girard</figcaption>
+    <figcaption class="figCap">© Florian Girard, chant: Florian Girard</figcaption>
 </figure>
 <p class="quote">
 quand je me regarde dans le miroir<br>
@@ -199,7 +193,7 @@ c’est l’heure de me dire bonsoir.
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Sidonie Dubosc</figcaption>
+    <figcaption class="figCap">© Morton Potash, chant: Sidonie Dubosc</figcaption>
 </figure>
 <p class="quote">
 mes mains mon gagne-pain<br>
@@ -227,7 +221,7 @@ et faire des crêpes avec tout ça
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Morton Potash</figcaption>
+    <figcaption class="figCap">© Morton Potash, chant: Morton Potash</figcaption>
 </figure>
 <p class="quote">
 retourne chez toi<br>
@@ -250,7 +244,7 @@ dégage que j'te revois plus
   Your browser does not support the
             <code>audio</code> element.
   </audio>
-  <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+  <figcaption class="figCap">© Morton Potash, chant: Valérie Gaudissart</figcaption>
   </figure>
 
   <p class="quote">
@@ -284,7 +278,7 @@ est bien passé
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-    <figcaption class="figCapCenter">© Morton Potash, chant: Sidonie Dubosc</figcaption>
+    <figcaption class="figCap">© Morton Potash, chant: Sidonie Dubosc</figcaption>
 </figure>
 <p class="quote">
 douceur<br>
@@ -311,7 +305,7 @@ mon ange
             Your browser does not support the
             <code>audio</code> element.
     </audio>
-        <figcaption class="figCapCenter">© Morton Potash, chant: Valérie Gaudissart</figcaption>
+        <figcaption class="figCap">© Morton Potash, chant: Valérie Gaudissart</figcaption>
 
 </figure>
 <p class="quote">

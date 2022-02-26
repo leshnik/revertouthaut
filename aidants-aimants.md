@@ -137,25 +137,25 @@ En ce moment mes mains me servent à tenir les mains de mon mari comme jamais.
 
   <!-- Full-width images with number and caption text -->
 <div class="mySlides">
-    <div class="numbertext">1 / 3</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918470/many-hands533high_hvqdsq.svg">
       <figcaption class="figCapCenter">atelier photo</figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 3</div>
 </div>
 <div class="mySlides">
-    <div class="numbertext">2 / 3</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918848/finger-points533_p66gwx.svg">
       <figcaption class="figCapCenter">atelier photo</figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 3</div>
 </div>
 <div class="mySlides">
-    <div class="numbertext">3 / 3</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630918848/frames533_xpfg1w.svg">
       <figcaption class="figCapCenter">atelier photo</figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 3</div>
 </div>
 
 {% include next-prev-slide.html %}

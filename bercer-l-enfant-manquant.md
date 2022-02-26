@@ -51,146 +51,146 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
     <!-- Full-width images with number and caption text -->
 
   <div class="mySlides">
-      <div class="numbertext">1 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434054/sido_bonhomme_papier_3_800_clxd4a.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">1 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">2 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434083/sido_fil_%C3%A0_linge_et_coeur_muet_800_uzkire.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">2 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">3 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434087/sylvia_sido_nulle_comme_m%C3%A8re_800_obyyeb.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">3 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">4 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434075/mariama_sylvia_liste_2_copy_800_jm43xf.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">4 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">5 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434066/mariama_mon_oncle_2_800_z1zn3e.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">5 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">6 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1552386097/val_pupitre-re_wepc4e.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">6 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">7 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434066/val_et_sido_rite_800_h2l61b.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">7 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">8 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434072/mariama_sido_bain_copy_800_hakjtt.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">8 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">9 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434061/ombre_sido_800_vrtqfv.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">9 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">10 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434063/sido_mariama_radio_800_txi4ln.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">10 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">11 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434090/sido_et_radio_800_iwtmhn.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">11 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">12 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434087/sido_ado_2_800_s4by48.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">12 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">13 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551360515/ils_%C3%A9taient_gros_sylvia_800_ilrqqf.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">13 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">14 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434059/sylvia_et_jumeaux_800px_aopwrx.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">14 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">15 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434090/val_sylvia_mariama_elle_me_resemble_800_dhilxq.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">15 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">16 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551361607/tambours_d_eau_va_mo_si_800_itspop.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">16 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">17 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551361480/val_sido_morton_flou_en_fin_800_fnmisg.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">17 / 18</div>
       </figure>
     </div>
 
   <div class="mySlides">
-      <div class="numbertext">18 / 18</div>
       <figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551361014/ma_sy_mo_va_si_smile_800_sgrj4e.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
+        <div class="numbertext center-text">18 / 18</div>
       </figure>
     </div>
 

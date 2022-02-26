@@ -13,35 +13,35 @@ de l'air&nbsp;!
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603003999/gatsby-cloudinary/m-----ir.svg" style="width:100%;">
     </figure>
+    <div class="numbertext center-text">1 / 5</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 5</div>
     <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603004003/gatsby-cloudinary/st---2-2-short.svg" style="width:100%;">
     </figure>
+    <div class="numbertext center-text">2 / 5</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603003997/gatsby-cloudinary/avouards-clothesline-inside.svg" style="width:100%">
     </figure>
+    <div class="numbertext center-text">3 / 5</div>
   </div>
   <div class="mySlides">
-    <div class="numbertext">4 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603003988/gatsby-cloudinary/redface.svg" style="width:100%">
     </figure>
+    <div class="numbertext center-text">4 / 5</div>
   </div>
   <div class="mySlides">
-    <div class="numbertext">5 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1603004001/gatsby-cloudinary/avouards-fil-dehors.svg" style="width:100%">
     </figure>
+    <div class="numbertext center-text">5 / 5</div>
   </div>
 {% include next-prev-slide.html %}
 </div>

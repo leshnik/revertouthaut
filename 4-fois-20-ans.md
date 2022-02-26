@@ -59,6 +59,7 @@ max-width: 400px;">
 <div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/98b902ed-5ef9-4daa-a105-df49066ee0b6?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Monique sent les touches du piano sous ses mains et commence à jouer. Elle sourit et éclate de rire."></iframe></div>
 
   <figcaption class="figCapCenter">L'ancienne professeure de piano retrouve son instrument...</figcaption>
+  <div class="numbertext center-text">1 / 7</div>
   </div>
   </div>
 
@@ -70,6 +71,7 @@ width: 100%;
 max-width: 400px;">
 <div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/85cb013d-a758-49e0-8122-2dbca512b676?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="On joue sa chanson et on voit qu'elle comprend et l'apprécie."></iframe></div>
 <figcaption class="figCapCenter">Chanson: Les yeux clairs de Monique</figcaption>
+<div class="numbertext center-text">2 / 7</div>
   </div>
   </div>
 
@@ -81,6 +83,7 @@ width: 100%;
 max-width: 400px;">
 <div style="position: relative; padding-top: 177.3399014778325%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/628c4a88-8327-41cd-a00c-b457b2fba430?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; encrypted-media; picture-in-picture;" allowfullscreen="true" alt="Valérie récite, Morton l'accompagne au piano, et Maurice suit avec ses mains la musique."></iframe></div>
 <figcaption class="figCapCenter">Poème pour Josiane et Maurice</figcaption>
+<div class="numbertext center-text">3 / 7</div>
 </div>
   </div>
   
@@ -89,6 +92,7 @@ max-width: 400px;">
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630383436/bate_din_palme_rodica_bjeqjg.png" alt="Gros plan sur Rodica qui tend ses bras pour nous embrasser.">
       <figcaption class="figCapCenter">Bate Din Palme, chanson pour Rodica</figcaption>
+      <div class="numbertext center-text">4 / 7</div>
     </figure>
   </div>
 
@@ -97,6 +101,7 @@ max-width: 400px;">
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384510/josianne-lisant-sa-chanson_am7pjv.png" alt="Josiane tient la partition de sa chanson et la regarde">
       <figcaption class="figCapCenter">Josiane lisant sa chanson</figcaption>
+      <div class="numbertext center-text">5 / 7</div>
     </figure>
   </div>
 
@@ -105,14 +110,16 @@ max-width: 400px;">
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384935/andre%CC%81_sido_kalimba_xopn7l.png" alt="Sidonie joue le kalimba pour André qui la regarde intensément">
       <figcaption class="figCapCenter">Chanson: Dans le Rêve d'André</figcaption>
+      <div class="numbertext center-text">6 / 7</div>
     </figure>
   </div>
 
   <div class="mySlides">
     <div class="numbertext">7 / 7</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630412251/pre%CC%81sentation2_yhnrnn.png" alt="Les résidents et le publique regardent Sidonie, Morton, et Valérie qui chantent>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630412251/pre%CC%81sentation2_yhnrnn.png" alt="Les résidents et le publique regardent Sidonie, Morton, et Valérie qui chantent">
       <figcaption class="figCapCenter">Présentation publique</figcaption>
+      <div class="numbertext center-text">7 / 7</div>
     </figure>
   </div>
   

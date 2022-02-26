@@ -22,123 +22,123 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 
   <!-- Full-width images with number and caption text -->
     <div class="mySlides">
-    <div class="numbertext">1 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630685080/ahmed-danse-tous_jabm9x.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <div class="numbertext center-text">1 /15</div>
     </figure>
   </div>
 
 
   <div class="mySlides">
-    <div class="numbertext">2 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684488/isis-dance-sido-smile-grouped_dk0mda.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">2 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685072/charlottes-aich_ghiz_zetqzc.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <div class="numbertext center-text">3 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/isis-smile-feet-up_oetajg.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">4 /15</div>
     </figure>
   </div>
 <div class="mySlides">
-    <div class="numbertext">5 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685078/aicha_shiva_hqisof.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <div class="numbertext center-text">5 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684490/sara-sido-et-al-singing_rcsmp0.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">6 /15</div>
     </figure>
   </div>
 <div class="mySlides">
-    <div class="numbertext">7 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684474/ghiz-red-cup-debout-table_nel_aich_jlekmr.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">7 /15</div>
     </figure>
   </div>
 
 
   <div class="mySlides">
-    <div class="numbertext">8 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685070/sid-micro-pe%CC%81luches_m-piano_rlhwui.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <div class="numbertext center-text">8 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">9 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684479/hand-high-chorus-danse_yflvg2.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">9 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">10 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684475/aicha-table-serious_benlkb.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">10 /15</div>
     </figure>
   </div>
 <div class="mySlides">
-    <div class="numbertext">11 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684469/cora-ghiz-framed_qyuyy5.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">11 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">12 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685076/morton-fer_nwxsi8.png">
       <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
+      <div class="numbertext center-text">12 /15</div>
     </figure>
   </div>
 
 
 
 <div class="mySlides">
-    <div class="numbertext">13 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684492/val-wig_ghiz_cora-rehearsal_hs462t.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">13 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">14 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630684467/sid_ghiz_aich-hands-on-ears_jrozbd.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">14 /15</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">15 /15</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/fille-ghizlane-en-l_air_xap2fv.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      <div class="numbertext center-text">15 /15</div>
     </figure>
   </div>
 

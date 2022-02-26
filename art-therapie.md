@@ -13,50 +13,50 @@ redirect_from:
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1562654372/art-therapie-jardin-still-life-rect_nc0p7e.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 6</div>
   </div>
   
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1598455399/gatsby-cloudinary/IMG_1396.jpg" style="width:80%; margin-left:10%">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 6</div>
     </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1598455377/gatsby-cloudinary/IMG_1401.jpg" style="width:80%; margin-left:10%">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">3 / 6</div>
     </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1598455355/gatsby-cloudinary/IMG_1349.jpg" style="width:80%; margin-left:10%">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">4 / 6</div>
     </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601229059/gatsby-cloudinary/gilda_dessin_oeil.jpg" style="width:84%; margin-left:8%">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">5 / 6</div>
     </div>
 <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1601880766/gatsby-cloudinary/g_papillon.jpg" style="width:82%; margin-left:9%">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">6 / 6</div>
     </div>
  {% include next-prev-slide.html %}
 

@@ -149,18 +149,18 @@ Saurons nous continuer à soutenir ta joie de vivre, ton caractère de feu&nbsp;
   <!-- Full-width images with number and caption text -->
 
 <div class="mySlides">
-    <div class="numbertext">1 / 2</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630667517/mains-famille-coeur_vhiwug.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 2</div>
 </div>
 <div class="mySlides">
-    <div class="numbertext">2 / 2</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630667521/mains-adeline_vg8plb.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 2</div>
 </div>
 {% include next-prev-slide.html %}
 

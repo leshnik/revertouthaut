@@ -19,51 +19,51 @@ summary:
   <!-- Full-width images with number and caption text -->
 
   <div class="mySlides">
-    <div class="numbertext">1 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157919/partition-sur-genoux_rjzsbs.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157915/sid-uku-white-hair_gqphyv.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157911/morton_christelle_raqzev.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
+    <div class="numbertext center-text">3 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157919/morton-piano-ipad_groupe-au-loin_xruixe.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
+    <div class="numbertext center-text">4 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157920/isis_sylvie_v_m-outside_fbwkmx.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
+    <div class="numbertext center-text">5 / 6</div>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">6 / 6</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157922/magali_val_morton_restitution_fleixi.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
+    <div class="numbertext center-text">6 / 6</div>
   </div>
 
   

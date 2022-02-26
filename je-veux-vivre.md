@@ -39,42 +39,42 @@ Valérie Gaudissart, qui coordonne le projet dans sa globalité propose de tenir
   <!-- Full-width images with number and caption text -->
 
   <div class="mySlides">
-    <div class="numbertext">1 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630406353/laurence-a%CC%80-l_oeuvre_i4qnty.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">1 / 5</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">2 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630406598/flo_thomas_wheel-chair-smile_zxmv4h.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">2 / 5</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">3 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630406842/dans-atelier-dessin-vertical_oqbyzl.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">3 / 5</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">4 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630407039/flo-a%CC%80-l_oeuvre_lorf3a.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">4 / 5</div>
     </figure>
   </div>
 
   <div class="mySlides">
-    <div class="numbertext">5 / 5</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630407330/oeuvre-collectif-dehors_mgorsl.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">5 / 5</div>
     </figure>
   </div>
   

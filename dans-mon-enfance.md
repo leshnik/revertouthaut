@@ -17,32 +17,32 @@ summary:
 
   <!-- Full-width images with number and caption text -->
 <div class="mySlides">
-    <div class="numbertext">1 / 4</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640804/whole-group1_yqxvc3.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">1 / 4</div>
 </div>
 <div class="mySlides">
-    <div class="numbertext">2 / 4</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640798/bachir_co_fshtl9.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">2 / 4</div>
 </div>
 <div class="mySlides">
-    <div class="numbertext">3 / 4</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640801/jaida_co_ctynk6.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">3 / 4</div>
 </div>
 <div class="mySlides">
-    <div class="numbertext">4 / 4</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630640799/whole-group2_gra1k4.png">
       <figcaption class="figCap"></figcaption>
     </figure>
+    <div class="numbertext center-text">4 / 4</div>
 </div>
 
 

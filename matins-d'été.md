@@ -9,52 +9,52 @@ summary: «Matins d’Eté» est un film documentaire réalisé par Jean-Michel 
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    <div class="numbertext">1 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630071923/jean-jacques-bells-morton-seated_ey6jui.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">1 / 7</div>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">2 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630068685/drawing-held-high-vertical_xhqg1c.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">2 / 7</div>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">3 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630067984/nathalie-dehors-partoche_c7jaww.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">3 / 7</div>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">4 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630067906/val-dehors-sylvie-bienvenue_oe6d2y.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">4 / 7</div>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">5 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630068002/isis-bras-en-croix_tr1pio.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">5 / 7</div>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">6 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630067933/remy_val_magali-aqurelles_wcazwg.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">6 / 7</div>
     </figure>
   </div>
   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630067977/tambours-dehors_yq4cpd.png">
       <figcaption class="figCapCenter"></figcaption>
+      <div class="numbertext center-text">7 / 7</div>
     </figure>
   </div>
   
