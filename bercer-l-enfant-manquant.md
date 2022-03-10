@@ -206,22 +206,28 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
   <div style="padding:15px">
 
   <ul class="coming">
-      
+        <li>
+          mardi 10 mai 18h30<br>
+          CCVA - Centre Culturel & de la Vie Associative de Villeurbanne<br>
+          234, Cours émile Zola<br>
+          69100 Villeurbanne<br>
+          en partenariat avec l'Association La Cause des Parents<br>
+          Maison de la Parentalité et de la Naissance<br>
+        </li>
+                
+      </ul>
+      <hr>
+
+  <h2>représentations passées</h2>
+      <ul class="past">
         <li>
           samedi 5 mars 2022 à 17h<br>
           Cellier des Moines<br>
           Place de l'Abbaye<br>
           71700 Tournus<br>
           en partenariat avec l’Association Vivre au Féminin<br><br>
-          <div class="center-big-block">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg" alt="affiche Tournus">
-          </div>
-        </li>        
-      </ul>
-      <hr>
-
-  <h2>représentations passées</h2>
-      <ul class="past">
+          <img style="width: 40%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg" alt="affiche Tournus">
+        </li>
         <li>
           vendredi 25 juin 2021 à 20h<br>
           Foyer Municipal<br>
