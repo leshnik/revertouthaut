@@ -213,6 +213,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           69100 Villeurbanne<br>
           en partenariat avec l'Association La Cause des Parents<br>
           Maison de la Parentalité et de la Naissance<br>
+          et l'Association Maman Blues
         </li>
                 
       </ul>
