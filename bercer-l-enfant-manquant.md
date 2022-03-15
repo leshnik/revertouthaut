@@ -207,14 +207,18 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <ul class="coming">
         <li>
-          mardi 10 mai 18h30<br>
+          mardi 10 mai 19h<br>
           CCVA - Centre Culturel & de la Vie Associative de Villeurbanne<br>
           234, Cours émile Zola<br>
           69100 Villeurbanne<br>
           en partenariat avec l'Association La Cause des Parents<br>
           Maison de la Parentalité et de la Naissance<br>
-          et l'Association Maman Blues
+          et l'Association Maman Blues<br>
+          
         </li>
+        <div class="center-max600-block">
+          <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/v1647372143/Spectacle_bercer..._-_10_mai_2022_btar4k.jpg">
+          </div>
                 
       </ul>
       <hr>
