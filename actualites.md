@@ -5,13 +5,7 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>Le 5 mars 2022 à 17h&nbsp;: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></li>
-    <hr>
-    <li>Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></li>
-    <hr>
-    <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
-    <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></li>
-    <hr>
+    
     <li>Le 3 avril à Buffières&nbsp;: extraits de notre nouvelle création, <a href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">Chansons pour ceux qui ne font pas de bruit</a>, dans le cadre du Printemps des Poètes</li>
     <hr>
     <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
@@ -25,6 +19,15 @@ summary:
     <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
 </ul>
 <h1>actualités</h1>
+<h2>Mars 2022</h2>
+<ul class="institutions">
+    <li>Le 5 mars 2022 à 17h&nbsp;: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></li>
+    <hr>
+    <li>Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></li>
+    <hr>
+    <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
+    <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></li>
+    <hr>
 <h2>Février 2022</h2>
 <ul class="institutions">
     <li>Démarrage d’un nouveau projet, <a href="/histoires-de-transmission">Histoires de Transmission</a> qui va s’intéresser par le biais du recueil de témoignages et d’un travail photographique aux transmissions dans les familles d’agriculteurs partant à la retraite sans repreneur au sein de la famille. Qu’est-ce que la famille traverse dans cette période complexe de la fin d’une exploitation ? Projet soutenu par la MSA. </li>
