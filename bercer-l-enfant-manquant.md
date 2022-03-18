@@ -217,7 +217,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           
         </li>
         <div class="center-max600-block">
-          <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/v1647372143/Spectacle_bercer..._-_10_mai_2022_btar4k.jpg">
+          <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1647621043/Spectacle_bercer..._-_10_mai_2022-1_tbqlg3.jpg">
           </div>
                 
       </ul>
