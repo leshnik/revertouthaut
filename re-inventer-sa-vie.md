@@ -13,6 +13,7 @@ Oui, on peut être dépendant tout en revendiquant une part d’autonomie et son
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113445_-_copie_zud5r5.jpg">
 </div>
 <p class="intro-text">Première étape: un travail d’écriture, de dessins et de collage, qui prendra la forme de correspondances, de  lettres et d’envois adressés à des personnes réelles, des proches, des personnes lointaines, manquantes, rêvées. Il y sera question de dire des choses de toutes sortes, qu’elles soient réelles, imaginaires, fantaisistes ou fantasmées et qui concernent la vie telle qu’elle est et telle qu’on la souhaiterait pour soi-même dans l’avenir.</p> 
+<p class="intro-text">Pour ce faire, l’équipe artistique propose chaque semaine une représentation sous la forme d’une performance réunissant chansons, lectures de textes, dessins en direct, improvisations et interactions avec les participants.</p>
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072544/IMG_20211006_112536_-_copie_vkp7ap.jpg">
 </div>
