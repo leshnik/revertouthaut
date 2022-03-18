@@ -11,7 +11,16 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <p class="intro-text">Voici une liste des établissements, structures, associations avec lesquels nous avons travaillé depuis 2018 :</p>
 
 <ul class="institutions">
-<li>Plate-forme de Répit, Mâcon</li>
+<li>Association France Répit</li>
+<li>UGECAM Charnay-les-Mâcon</li>
+<li>La Cause des Parents, Lyon</li>
+<li> Maman Blues, Lyon</li>
+<li>CAF 71</li>
+<li>Ils Scènent, Mâcon</li>
+<li>France Parkinson 71</li>
+<li>Le Centre d'Animation, Bourbon-Lancy</li>
+<li>Plateforme de Répit, Mâcon</li>
+<li>Mutuelle Sociale Agricole 71</li>
 
 <li>Reseda, Réseau des Maladies Neuro-Evolutives, Bourgogne-Franche-Comté</li>
 
@@ -73,4 +82,4 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 
 <li>Ciné-Ressources 71</li>
 </ul>
-<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu par la Conférence des Financeurs, le Conseil Départemental de Saône et Loire et le Fonds Départemental de la Vie Associative</p>
+<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu par la Conférence des Financeurs, le Conseil Départemental de Saône et Loire, la DRAC Bourgogne-Franche-Comté et le Fonds Départemental de la Vie Associative</p>
