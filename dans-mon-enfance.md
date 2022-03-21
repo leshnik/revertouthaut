@@ -6,7 +6,7 @@ summary:
 
 <h1>dans mon enfance</h1>
 <main>
-<p class="intro-text"> D’avril à juillet 2020, ont eu lieu à Charolles en partenariat avec l’Association le Pont et son antenne de Paray le Monial et l’Udaf du Charollais-Brionnais une série d’ateliers d’écriture et de compositions de chansons sur les thèmes des souvenirs d’enfance à transmettre, des liens à ses parents, à ses grands-parents, et sur tout ce qu’on retient de son enfance quand on a quitté son pays d’origine et qu’on y a laissé sa famille. 
+<p class="intro-text"> D’avril à juillet 2021, ont eu lieu à Charolles en partenariat avec l’Association le Pont et son antenne de Paray le Monial et l’Udaf du Charollais-Brionnais une série d’ateliers d’écriture et de compositions de chansons sur les thèmes des souvenirs d’enfance à transmettre, des liens à ses parents, à ses grands-parents, et sur tout ce qu’on retient de son enfance quand on a quitté son pays d’origine et qu’on y a laissé sa famille. 
 </p>
 <p class="intro-text">Une restitution publique a eu lieu le 1er juillet à Charolles.
 </p>
