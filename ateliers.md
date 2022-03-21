@@ -24,7 +24,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   <li><a style="color: hsl(120,50%,42%)" href="/presences">●&nbsp;présences (2021/23)</a></li>
   <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
   <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
-  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/20)</a></li>
+  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/22)</a></li>
   <li><a style="color: #02b45b" href="/journee-nationale-des-aidants"
         >●&nbsp;Journée Nationale des Aidants</a
       ></li>
@@ -42,7 +42,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   <li><a style="color: hsl(120,50%,42%)" href="/liens-familiaux">●&nbsp;liens familiaux défaits, renoués (2021/22)</a>
   </li>
   <li><a style="color: hsl(200,50%,42%)" href="/dans-mon-enfance">●&nbsp;dans mon enfance (2021)</a></li>
-  <li><a style="color: hsl(240,50%,42%)" href="/je-t'ai-revé">●&nbsp;je t'ai rêvé (2020/21)</a></li>
+  <li><a style="color: hsl(240,50%,42%)" href="/je-t-ai-reve">●&nbsp;je t'ai rêvé (2020/21)</a></li>
 </ul>
 
 <h2>seniors</h2>
