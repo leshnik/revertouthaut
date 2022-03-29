@@ -20,21 +20,24 @@ title: les plus que proches - lecture musicale
   </p>
 
 <cite>« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »</cite>
+<h2>3ème congrès francophone sur le répit et l'accompagnement des aidants</h2>
+ <div class="center-max600-block">
+    <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/b48b7c8f-cd2a-4504-b25c-a12486fc32e9?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+  </div>
 
   <h2>prochaines dates</h2>
   <ul class="coming">
     
     <hr>
     <li>
-      mai 2022, date à préciser<br>
-      à Ladoix Serrigny<br>
-      21550 Ladoix Serrigny<br>
-      avec le RESEDA<br>
-      Réseau des Maladies Neuro-Evolutives<br>
-      Bourgogne Franche-Comté<br>
+      vendredi 3 juin 2022<br>
+      à Bourbon Lancy<br>
+      71140 Bourbon Lancy<br>
+      en partenariat avec la Ville de Bourbon Lancy<br>
       <span style="font-size: 0.8em">infos pratiques à venir</span>
     </li>
   </ul>
+ 
   <hr>
   <h2>lectures passées</h2>
   <ul class="past">
