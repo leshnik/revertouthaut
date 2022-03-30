@@ -24,6 +24,10 @@ redirect_from:
 <li><a href="#florian" style="color:  #990099">Florian Girard: musicien, parolier, et régisseur</a></li>
 
 <li><a href="#sidonie" class="sido-color">Sidonie Dubosc : chanteuse, autrice, compositrice</a></li>
+
+<li><a href="#romane" style="color: #29c" >Romane Lasserre: marionnettiste et céramiste</a></li>
+
+<li><a href="#flore" style="color: #7551e1">Flore Simon: comédienne et metteuse en scène</a></li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute et metteuse en scène
@@ -87,3 +91,19 @@ Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses atelier
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632970564/69083084_2998676670174302_8033193834143809536_n_nxeb6f.jpg"></div>
 Sidonie débute le chant à 13 ans alors qu‘elle enregistre pour un film de Valérie Gaudissart (Ich bin eine terroristin). Morton Potash (compositeur des musiques du film) et Olivier Marcaud lui enseignent le chant jusqu‘à ses 16 ans, âge auquel elle intègre le Conservatoire du Grand Chalon avec Aude Husson Patru pour professeure. Elle y étudie le chant, la danse contemporaine, le trombone et le théâtre et s‘oriente vers la chanson française. En 2016, elle créé «&nbsp;Les gardiens de phare&nbsp;» et entame la création de «&nbsp;Pour tout bagage on a 20 ans&nbsp;» avec son groupe La Sido (premier disque en 2018). Sidonie chante aussi avec les Momitcheta (ensemble polyphonique de chant bulgare) jusqu’en 2020, dans le spectacle sur le lien mère/enfant «&nbsp;Bercer l’enfant manquant&nbsp;», dans le conte musical «&nbsp;Cette mémoire des étoiles&nbsp;» inspiré de «&nbsp;La folle allure&nbsp;» de Christian Bobin, dans le duo avec Morton Potash «&nbsp;Berceuses pour adultes&nbsp;» dont Valérie Gaudissart signe avec elle les paroles (premier disque en 2020) et récemment dans le spectacle «&nbsp;Parent solo et ses marmots&nbsp;» autour de la mono-parentalité. L'été 2021, Sidonie sort son premier spectacle musical en solo chant/kalimba : «&nbsp;Portraits des miens&nbsp;». En parallèle, la chanteuse propose également des ateliers de médiation artistique en EHPAD, en école et en hôpital. 
 
+<div id="romane"></div>
+<h2 style="color: #29c"> Romane Lasserre: marionnettiste et céramiste</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648632329/romane01_diravd.jpg"></div>
+Jeune diplômée des Arts décoratifs de Strasbourg à 24 ans, Romane Lasserre explore l’objet et plus particulièrement la céramique dans sa dimension narrative et théâtrale.
+Pendant 3 ans, elle étudie à l’École Supérieure d’Art de Lorraine d’Épinal spécialisée dans le travail de l’image et de la narration. Elle y cultive différents champs artistiques avec enthousiasme. Que ce soit des formes dessinées, vidéos, installées, animées, écrites ou même vivantes et mises en scène. Imaginer une relation entre le fond et la forme l’a très vite intéressée et petit à petit emmenée vers des envies de formes sculpturales et vers une affection toute particulière pour le travail de la terre et la céramique.
+Elle présente pour son DNA, avec une amie, un premier spectacle de théâtre d’objet intitulé Mécanolie, au même titre qu’une installation de sculptures ouvertes et participatives en céramique, tous deux à destination du jeune public.
+Par la suite, elle monte une nouvelle forme théâtrale avec sa compagnie Ecoutilles : Mon gosier de métal parle toutes les langues, et OIZO, dans lequelles elle fabrique des objets hybrides en céramique.
+Elle rencontre la compagnie La Mâchoire 36. S’ensuit une collaboration artistique foisonnante (interventions artistiques dans différents lieux culturels et théâtre en France, fabrication d’objets de spectacles, résidences...). Elle anime des médiations pour des centres sociaux et des personnes en situation de handicap dans lesquelles elle propose son approche du théâtre d’objets et de la marionnette. 
+
+<div id="flore"></div>
+<h2 style="color: #7551e1" >Flore Simon: comédienne, metteur en scène, assistante</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648630231/flore_carre%CC%81_zjantt.jpg"></div>
+Formée au Conservatoire Régional de Chalon-sur-Saône puis en Master-pro mise en scène et dramaturgie à Paris X, elle assiste divers metteurs en scène entre 2012 et 2019 : Jean-Yves Ruf (Hughie), Laurent Fréchuret (Revenez demain, Ervart ou les derniers jours de F.Nietzche) Vincent Thomasset (Les Lettres de non-motivation, Ensemble, ensemble, Médail décor), Lancelot Hamelin (Light House), Édouard Signolet (Zerballodu), Pierre Hoden (De beaux héros en vérité !, Prologue, Land an freedom)… Elle est également amenée à jouer ou tenir des régies sur différents projets (Le Bossu, Douze hommes en colère, Titouane, Le Moche, Projet Nituür…). En 2018, elle rejoint le projet Tapis Noir de la compagnie Les Affranchis en Seine Saint-Denis.
+En 2018 et 2019, elle met en scène Juliette, suite et fin trop précoce, d’après un texte de Sylvain Levey puis le conte musical Cette mémoire des étoiles, à partir du roman La Folle allure de Christian Bobin. Elle collabore régulièrement avec des groupe de musique (La Sido, Jon and the minou’s).
+De 2019 à 2021, elle a été assistante de direction du Studio-Théâtre de la Comédie-Française.
+Elle anime des ateliers théâtre avec différents publics, enfants, adolescents et adultes. 
