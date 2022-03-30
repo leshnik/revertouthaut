@@ -20,7 +20,7 @@ title: les plus que proches - lecture musicale
   </p>
 
 <cite>« D'ailleurs, souvent je fais la faute, ou le lapsus… Aimants au lieu d'aidants... parce que cette force incroyable, qu'est ce que c'est sinon de l'amour? »</cite>
-<h2>3ème congrès francophone sur le répit et l'accompagnement des aidants</h2>
+<h2>lecture pour le 3ème congrès francophone sur le répit et l'accompagnement des aidants</h2>
  <div class="center-max600-block">
     <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/b48b7c8f-cd2a-4504-b25c-a12486fc32e9?autoplay=true" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
   </div>
