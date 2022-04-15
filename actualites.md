@@ -4,8 +4,7 @@ title: actualités
 summary: 
 ---
 <h1>Événements à venir</h1>
-<ul class="institutions">
-    
+<ul class="institutions">   
     <li>Le 3 avril à Buffières&nbsp;: extraits de notre nouvelle création, <a href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">Chansons pour ceux qui ne font pas de bruit</a>, dans le cadre du Printemps des Poètes</li>
     <hr>
     <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
@@ -17,7 +16,15 @@ summary:
     <li>Le 11 juin à Cortembert à 18h&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
     <hr>
     <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
-</ul>
+    <hr>
+    <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
+        Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
+        Réprésentations&nbsp;:&nbsp; <br>
+        le 21 octobre à Sanvignes les Mines<br>
+        le 28 octobre à Louhans<br>
+        le 25 novembre à Paray le Monial<br>
+        le 3 décembre à Cluny
+        <hr>
 <h1>actualités</h1>
 <h2>Mars 2022</h2>
 <ul class="institutions">
