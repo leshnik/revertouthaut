@@ -16,7 +16,14 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632671928/affiche-tournee-2022_o0gbht.jpg">
   <figcaption class="figCap">pour tout renseignement contacter<br>Asso Rêver Tout Haut <revertouthaut@gmail.com></figcaption>
   </div>
-
+<ul>
+<li>Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre</li>
+        Réprésentations 2022&nbsp;:&nbsp;
+        <li>le 21 octobre à Sanvignes les Mines</li>
+        <li>le 28 octobre à Louhans</li>
+        <li>le 25 novembre à Paray le Monial</li>
+        <li>le 3 décembre à Cluny</li>
+</ul>
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
