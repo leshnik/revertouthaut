@@ -13,9 +13,12 @@ summary:
     <hr>
     <li>Le 3 juin&nbsp;: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
     <hr>
-    <li>Le 11 juin à Cortembert à 18h&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
+    <li>Le 11 juin à Cortembert à 18h&nbsp;: Cabossés: spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
+    <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1650875380/Cabosse%CC%81s_Partition_02_kmhfot.jpg"></div>
     <hr>
-    <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Spectacle de chansons <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
+    <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo</li>
+    <hr>
+    <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Cabossés</li>
     <hr>
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
         Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
@@ -26,6 +29,7 @@ summary:
         le 3 décembre à Cluny
         <hr>
 <h1>actualités</h1>
+
 <h2>Mars 2022</h2>
 <ul class="institutions">
     <li>Le 5 mars 2022 à 17h&nbsp;: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></li>
