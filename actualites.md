@@ -29,6 +29,24 @@ summary:
         le 3 décembre à Cluny
         <hr>
 <h1>actualités</h1>
+<h2>Avril 2022</h2>
+<ul class="institutions">
+    <li>Démarrage de notre recueil de témoignages et de travail photographique "Histoires de transmission" autour de la question des départs à la retraite au sein des familles d'agriculteurs. Signature de la convention avec la MSA.
+        <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
+</li>
+</ul>
+<ul class="institutions">
+    <hr>
+    <li>Continuité de notre cycle de performances artistiques <a href="/re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon
+        <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159519/IMG-20220422-WA0000_vrk8hx.jpg"></div></li>
+    <hr>
+    <li>Préparation de notre prochaine lecture musicale basée sur des témoignages de personnes porteuses de la maladie de Parkinson.</li>
+    <hr>
+    <li>Nouvelles séances de création de chansons pour les résidents de la Novelline de Cluny et les usagers du GEM de Mâcon en préparation du spectacle de chansons "Cabossés", dans le cadre du travail artistique <a href="/reapprendre-a-aimer">Ré-apprendre à aimer"</a></li>
+    <hr>
+    <li>Le 3 avril à Buffières : extraits de notre nouvelle création, <a href="/chansons-pour-ceux-qui-ne-font-pas-de-bruit">Chansons pour ceux qui ne font pas de bruit</a> dans le cadre du Printemps des Poètes, par Valérie Gaudissart et Morton Potash </li>
+</ul>
+
 
 <h2>Mars 2022</h2>
 <ul class="institutions">
