@@ -38,3 +38,4 @@ Avec Morton Potash au piano<br>
 Sidonie Dubosc au chant<br>
 Valérie Gaudissart au chant et à la lecture
 </p>
+<p class="cite"><a href="https://www.lejsl.com/culture-loisirs/2022/04/04/le-printemps-des-poetes-un-moment-recueilli-pour-le-public-emu-par-les-poesies">Article dans le JSL</a></p>
