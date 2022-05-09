@@ -5,8 +5,6 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">   
-    <li>Le 3 avril à Buffières&nbsp;: extraits de notre nouvelle création, <a href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">Chansons pour ceux qui ne font pas de bruit</a>, dans le cadre du Printemps des Poètes</li>
-    <hr>
     <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
     <hr>
     <li>Le 21 mai&nbsp;: lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la <a href="https://www.franceparkinson.fr/journee-mondiale-2020/">La journée mondiale Parkinson</a> à Paray-le-Monial, en partenariat avec France Parkinson 71.</li>
