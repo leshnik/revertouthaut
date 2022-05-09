@@ -39,6 +39,13 @@
     margin-right: auto;
     width: 85%;
   }
+  .flex-container{
+    display: flex;
+  }
+  .column {
+    flex: 45%;
+    padding: 5%;
+  }
   //only in psesm
   .center-max600-block {
     margin-left: auto;
