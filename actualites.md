@@ -20,6 +20,8 @@ summary:
     <hr>
     <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Cabossés</li>
     <hr>
+    <li>Le jeudi 29 septembre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
+    <hr>
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
         Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
         Réprésentations&nbsp;:&nbsp; <br>
