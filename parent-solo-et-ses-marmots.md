@@ -21,6 +21,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
         Réprésentations 2022&nbsp;:&nbsp;
         <li>le 21 octobre à Sanvignes les Mines</li>
         <li>le 28 octobre à Louhans</li>
+        <li>le 18 novembre à Mâcon</li>
         <li>le 25 novembre à Paray le Monial</li>
         <li>le 3 décembre à Cluny</li>
 </ul>

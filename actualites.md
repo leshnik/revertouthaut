@@ -19,6 +19,8 @@ summary:
     <hr>
     <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Cabossés</li>
     <hr>
+    <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
+    <hr>
     <li>Le jeudi 29 septembre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
     <hr>
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
@@ -26,6 +28,7 @@ summary:
         Réprésentations&nbsp;:&nbsp; <br>
         le 21 octobre à Sanvignes les Mines<br>
         le 28 octobre à Louhans<br>
+        le 18 novembre à Mâcon<br>
         le 25 novembre à Paray le Monial<br>
         le 3 décembre à Cluny
         <hr>
