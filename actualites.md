@@ -10,6 +10,7 @@ summary:
     <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
     <hr>
     <li>Le 21 mai&nbsp;: lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la <a href="https://www.franceparkinson.fr/journee-mondiale-2020/">La journée mondiale Parkinson</a> à Paray-le-Monial, en partenariat avec France Parkinson 71.</li>
+    <div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71_phihkp.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71p2_ab5fe4.jpg"></div></div>
     <hr>
     <li>Le 3 juin&nbsp;: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
     <hr>
