@@ -5,12 +5,12 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">   
-    <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
-    <hr>
+    
     <li>Le 21 mai&nbsp;: lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la <a href="https://www.franceparkinson.fr/journee-mondiale-2020/">La journée mondiale Parkinson</a> à Paray-le-Monial, en partenariat avec France Parkinson 71.</li>
     <div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71_phihkp.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71p2_ab5fe4.jpg"></div></div>
     <hr>
     <li>Le 3 juin&nbsp;: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
+    <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg"></div>
     <hr>
     <li>Le 11 juin à Cortembert à 18h&nbsp;: Cabossés: spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
     <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1650875380/Cabosse%CC%81s_Partition_02_kmhfot.jpg"></div>
@@ -30,12 +30,28 @@ summary:
         le 28 octobre à Louhans<br>
         le 18 novembre à Mâcon<br>
         le 25 novembre à Paray le Monial<br>
-        le 3 décembre à Cluny
+        le 3 décembre à Cluny</li>
         <hr>
+    </ul>
 <h1>actualités</h1>
+<h2>Mai 2022</h2>
+<ul class="institutions">
+    <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
+    <hr>
+    <li>En partenariat avec <em>La Roue Voilée</em>, notre atelier de compositions de chansons <em>«&nbsp;Portraits des miens&nbsp;»</em> pour l’Hôpital Spécialisé de Sevrey a bien démarré. Déjà huit chansons composées et beaucoup de participants.</li>
+    <hr>
+    <li>Les quatre nouveaux résidents de la Novelline de Cluny et les usagers du GEM de Mâcon ont bien créé chacun leur chanson pour le spectacle de chansons "Cabossés", dans le cadre du travail artistique <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a>. </li>
+    <hr>
+    <li>Notre cycle de performances artistiques <a href="/re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon continue.</li>
+    <hr>
+    <li>Plusieurs séances de recueil de témoignages et de prise de vue avec des agriculteurs de la région dans le cadre du projet <a href="/histoires-de-transmission">Histoires de transmission</a>.</li>
+    <hr>
+    <li>En partenariat avec le réseau des Aidants 71, un cycle d'ateliers créatifs qui réuniront collage, écriture, musique, peinture, et qui permettront de transformer ensemble, l'expérience de l'aidant.e.<br>
+    4 séances sont prévues à la salle des associations de Semur-en-Brionnais, rue Bouthier de Rochefort&nbsp;:&nbsp;le mardi 7 juin, le mardi 5 juillet, le mardi 30 août, le mardi 13 septembre de 10h à 12h</li>
+</ul>
 <h2>Avril 2022</h2>
 <ul class="institutions">
-    <li>Démarrage de notre recueil de témoignages et de travail photographique "Histoires de transmission" autour de la question des départs à la retraite au sein des familles d'agriculteurs. Signature de la convention avec la MSA.
+    <li>Démarrage de notre recueil de témoignages et de travail photographique <a href="/histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Signature de la convention avec la MSA.
         <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
 </li>
 </ul>
