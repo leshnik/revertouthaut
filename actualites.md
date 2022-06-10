@@ -13,7 +13,7 @@ summary:
     <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg"></div>
     <hr>
     <li>Le 11 juin à Cortembert à 18h&nbsp;: Cabossés: spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
-    <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1650875380/Cabosse%CC%81s_Partition_02_kmhfot.jpg"></div>
+    <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
     <hr>
     <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo</li>
     <hr>
@@ -22,6 +22,8 @@ summary:
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     <hr>
     <li>Le jeudi 29 septembre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
+    <hr>
+    <li>le 6 octobre, Lyon, 3e arrondissement, lecture musicale <a href="lpqp-lecture-musicale">les plus que proches</a> de témoignages d'aidants, dont des aidants toujours en activités et qui doivent conjuguer aidance et carrière professionnelle. En partenariat avec la Métropole du Grand Lyon</li>
     <hr>
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
         Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
