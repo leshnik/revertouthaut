@@ -32,6 +32,7 @@ summary:
         Réprésentations&nbsp;:&nbsp; <br>
         le 21 octobre à Sanvignes les Mines<br>
         le 28 octobre à Louhans<br>
+        le 4 novembre au Creusot<br>
         le 18 novembre à Mâcon<br>
         le 25 novembre à Paray le Monial<br>
         le 2 décembre à Chalon<br>
