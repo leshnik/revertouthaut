@@ -19,7 +19,7 @@ summary:
     <hr>
     <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: <a href="/cabosses">Cabossés</a></li>
     <hr>
-    <li>le lundi 27 juin à Paris:&nbsp;:&nbsp;lecture en musique <span class="rever-typog" style="color: #FBA39D">Vivre avec parkinson</span> pour l'association France Parkinson</li>
+    <li>le lundi 27 juin, 19h, rue de la Terre au Curé à Paris XIIIéme:&nbsp;:&nbsp;lecture en musique <span class="rever-typog" style="color: #FBA39D">Vivre avec parkinson</span> pour l'association France Parkinson</li>
     <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     <hr>
