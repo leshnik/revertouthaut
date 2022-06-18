@@ -12,16 +12,18 @@ summary:
     <li>Le 3 juin&nbsp;: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
     <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg"></div>
     <hr>
-    <li>Le 11 juin à Cortembert à 18h&nbsp;: Cabossés: spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
+    <li>Le 11 juin à Cortembert à 18h&nbsp;: <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
     <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
     <hr>
     <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo</li>
     <hr>
-    <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: Cabossés</li>
+    <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: <a href="/cabosses">Cabossés</a></li>
+    <hr>
+    <li>le lundi 27 juin à Paris:&nbsp;:&nbsp;lecture en musique <span class="rever-typog" style="color: #FBA39D">Vivre avec parkinson</span> pour l'association France Parkinson</li>
     <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     <hr>
-    <li>Le jeudi 29 septembre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
+    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
     <hr>
     <li>le 6 octobre, Lyon, 3e arrondissement, lecture musicale <a href="lpqp-lecture-musicale">les plus que proches</a> de témoignages d'aidants, dont des aidants toujours en activités et qui doivent conjuguer aidance et carrière professionnelle. En partenariat avec la Métropole du Grand Lyon</li>
     <hr>
@@ -32,7 +34,10 @@ summary:
         le 28 octobre à Louhans<br>
         le 18 novembre à Mâcon<br>
         le 25 novembre à Paray le Monial<br>
-        le 3 décembre à Cluny</li>
+        le 2 décembre à Chalon<br>
+        le 3 décembre à Cluny<br>
+        le 9 décembre à Couches</li>
+        
         <hr>
     </ul>
 <h1>actualités</h1>
