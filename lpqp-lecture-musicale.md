@@ -28,19 +28,23 @@ title: les plus que proches - lecture musicale
   <h2>prochaines dates</h2>
   <ul class="coming">
     
-    <hr>
-    <li>
+  
+    
+  </ul>
+ 
+  <hr>
+  <h2>lectures passées</h2>
+  <ul class="past">
+  <li>
       vendredi 3 juin 2022<br>
       à Bourbon Lancy<br>
       71140 Bourbon Lancy<br>
       en partenariat avec la Ville de Bourbon Lancy<br>
       <span style="font-size: 0.8em">infos pratiques à venir</span>
     </li>
-  </ul>
- 
-  <hr>
-  <h2>lectures passées</h2>
-  <ul class="past">
+    <hr>
+    <li>Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></li>
+    <hr>
   <li>
       vendredi 10 décembre 2021<br>
       CISL Ethic Etapes Lyon<br>
