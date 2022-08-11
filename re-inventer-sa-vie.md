@@ -4,20 +4,21 @@ title: ré-inventer sa vie
 summary: 
 ---
 <h1>ré-inventer sa vie</h1>
-<p class="intro-text">«Ré-inventer sa vie» est un projet artistique conçu pour les résidents de l’Établissement d’Accueil Spécialisé Ugecam les Villandières de Charnay les Mâcon, qui va démarrer en mars 22 et durer toute l’année. Il sera animé par une jeune équipe d’artistes pluridisciplinaire.</p>
+<p class="intro-text">«Ré-inventer sa vie» est un projet artistique conçu pour les résidents de l’Établissement d’Accueil Spécialisé Ugecam les Villandières de Charnay les Mâcon, qui a démarré en mars 22 et se terminera en novembre 2022.  Il est animé par une jeune équipe d’artistes pluridisciplinaire du spectacle vivant.</p>
 
-<p class="intro-text">Il prend comme axe la nécessité de travailler sur l’autodétermination des personnes, et sur leur accès à une vraie citoyenneté.
+<p class="intro-text">Il prend comme axe la nécessité de travailler sur l’autodétermination des personnes, et sur leur accès à une vraie citoyenneté, et sur la reconnaissance de leur monde poétique, imaginaire et philosophique.
 Oui, on peut être dépendant tout en revendiquant une part d’autonomie et son statut d’adulte, avec tout ce que l’adulte est censé pouvoir faire pour sa propre existence : consentir, choisir, dire non, se révolter, argumenter, se raconter avec ses propres mots, prendre des décisions, rêver son  avenir, et ré-inventer son futur selon ses désirs.</p> 
 
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113445_-_copie_zud5r5.jpg">
 </div>
-<p class="intro-text">Première étape: un travail d’écriture, de dessins et de collage, qui prendra la forme de correspondances, de  lettres et d’envois adressés à des personnes réelles, des proches, des personnes lointaines, manquantes, rêvées. Il y sera question de dire des choses de toutes sortes, qu’elles soient réelles, imaginaires, fantaisistes ou fantasmées et qui concernent la vie telle qu’elle est et telle qu’on la souhaiterait pour soi-même dans l’avenir.</p> 
-<p class="intro-text">Pour ce faire, l’équipe artistique propose chaque semaine une représentation sous la forme d’une performance réunissant chansons, lectures de textes, dessins en direct, improvisations et interactions avec les participants.</p>
+<p class="intro-text">Première étape: <em>un travail d’écriture de textes et de chansons, de dessins et de collage</em>, qui prendra la forme de <em>correspondances</em>, de lettres et d’envois adressés à des personnes réelles, des proches, des personnes lointaines, manquantes, rêvées. Il y sera question de dire des choses de toutes sortes, qu’elles soient réelles, imaginaires, fantaisistes ou fantasmées et qui concernent la vie telle qu’elle est et telle qu’on la souhaiterait pour soi-même dans l’avenir.
+.</p> 
+<p class="intro-text">Pour ce faire, l’équipe artistique a proposé chaque semaine une performance réunissant chansons, lectures de textes, dessins en direct, improvisations et interactions avec les participants</p>
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072544/IMG_20211006_112536_-_copie_vkp7ap.jpg">
 </div>
-<p class="intro-text">Deuxième étape : la conception d’un spectacle de théâtre d’objets, joué par les personnes, à partir de leurs écrits, de leurs témoignages recueillis lors de la première étape, et qui par le biais du détournement d’objets du quotidien, sensibilisera le public à la vie, certes avec des empêchements, mais pleine et entière des personnes porteuses de handicap.</p>
+<p class="intro-text">Deuxième étape : la conception d’un <em>spectacle de théâtre d’objets</em>, joué par les personnes et par l’équipe artistique, à partir des écrits, des témoignages recueillis lors de la première étape, et qui par le biais du détournement d’objets du quotidien, sensibilisera le public à la vie, certes avec des empêchements, mais pleine et entière des personnes porteuses de handicap.</p>
 
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113624_-_copie_zlhsqo.jpg">
@@ -27,3 +28,209 @@ Oui, on peut être dépendant tout en revendiquant une part d’autonomie et son
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643735368/atelier-correspondances-small_wwb4oj.jpg">
 </div>
+
+<p class="intro-text">Voici quelques unes des créations réalisées entre mars et juin 2022 et qui intégreront le spectacle du mois de novembre.</p>
+
+<p class="chansons_spoken_title">Dans mon enfance</p>
+<p class="chansons_spoken">Dans mon enfance, il y avait des fêtes avec des oncles, des tantes, des cousins, des cousines<br>
+c’est quand l’enfance ? L’enfance c’est dans la tête. L’enfance, c’est toute la vie.<br>
+Dans mon enfance il y avait les montagnes du Morvan<br>
+il y avait la neige l’hiver et les jeux de luge<br>
+il y avait du bonheur<br>
+il y a eut mes premiers pas à l’âge de 7 ans, et le début de mon autonomie<br>
+il y a eut des aller-retour à l’hôpital à Lyon<br>
+il y avait un couverture par terre sur laquelle ma mère m’installait et me calait pour que je puisse jouer<br>
+il y avait moi dans une chaise de bébé jusqu’à mes 6 ans<br>
+il y avait les bras de mes parents qui ne tenaient pour que je puisse manger<br>
+il y avait un déambulateur à ma taille d’enfant<br>
+il y avait mon copain Gérard et mon copain Antonio<br>
+il y avait ma sœur avec qui j’arrosais les fleurs<br>
+Dans mon enfance il y a eut une opération des jambes<br>
+il y a eut un circuit électrique, des jeux de cartes<br>
+il y a eut Dolly le chien<br>
+il y a eut les étoiles la nuit<br>
+Dans mon enfance, il y avait une petite fille qui s’appelait Patricia qui s’était rendu compte que je ne marchais pas et qui m’aidait à enlever mon blouson.<br>
+Il y avait aussi d’autres enfants à qui je faisais peur et qui se réfugiaient dans les bras de leur mère quand ils me voyaient.</p>
+<hr>
+ 
+<p class="chansons_spoken_title">La manif de la vaisselle cassée</p>
+ 
+<p class="chansons_spoken">Je suis le verre brisé<br>
+Je suis l’assiette fêlée<br>
+Je suis la tasse sans anse<br>
+Je suis le couteau sans manche<br>
+Je suis le seau percé<br>
+Je suis la fourchette tordue<br>
+Je suis la roue voilée<br>
+Je suis le pneu crevé<br>
+Je suis le vase ébréché<br>
+Je suis le clou rouillé<br>
+Je suis le bois vermoulu<br>
+Je suis le mouchoir déchiré<br>
+Je suis la photo jaunie<br>
+Je suis l’horloge aux aiguilles arrêtées<br>
+Je suis la bougie fondue<br>
+Je suis le bas filé<br>
+Je suis le gant troué<br>
+Je suis le livre corné<br>
+Je suis l’échelle branlante<br>
+Je suis la table bancale<br>
+Je suis le volet qui laisse passer le jour<br>
+Je suis la chaussure aux semelles élimées<br>
+Je suis la lampe qui n’éclaire pas assez<br>
+Je suis le collier aux perles perdues<br>
+Je suis l’allumette brûlée<br>
+Je suis le mégot consumé  <br>
+Je suis la voiture qui ne démarre plus<br>
+Je suis la chaise à laquelle il manque un pied</p>
+ <hr>
+ 
+<p class="chansons_spoken_title">Derrière ma porte il y a :</p>
+ 
+<p class="chansons_spoken">plein de bonbons au chocolat<br>
+le néant<br>
+l’univers, les planètes, les étoiles<br>
+des voyages dans l’air<br>
+mon papa et mon frère partis au paradis et qui me disent de ne plus avoir peur de la mort, c’est un endroit paisible<br>
+des licornes et des arcs en ciel<br>
+la mer bleue turquoise d’été, où l’on peut se baigner<br>
+des bouquets de tulipes<br>
+des îles paradisiaques<br>
+un cabanon en bois pour faire de l’ombre<br>
+de l’amour et de l’amitié<br>
+la gentillesse de mon amie Dominique que j’aime beaucoup<br>
+des vacances en famille<br>
+des discussions et des moments de partage avec mes parents<br>
+un paysage vert rempli de pommiers<br>
+des balades et des après midi de pêche<br>
+un grand mélange de couleurs<br>
+une bonne compagnie<br>
+de la vie<br>
+de la liberté<br>
+de la lumière<br>
+la montagne en été (mais pas celle d’hiver, car la neige est belle mais elle cache toute la nature, et moi j’aime la nature)<br>
+de longues siestes à l’ombre des arbres<br>
+mes proches décédés, mes amis, tous ceux que j’aime<br>
+un verre de coca<br>
+un verre de cocktail<br>
+une musique douce avec du violon, du piano, de la guitare, de la basse, de la trompette (mais douce, attention) et de l’harmonica)<br>
+l’odeur de la brume et du feu de bois<br>
+l’odeur de la campagne après la pluie, et l’herbe fraîchement coupée<br>
+un petit café dans un bar<br>
+des pensées qui s’en vont et qui reviennent<br>
+de la musique disco<br>
+des gnocchis à la tomate, comme en Italie</p>
+ <hr>
+ 
+<p class="chansons_spoken_title">La  météo des sentiments</p>
+ 
+<p class="chansons_spoken">La  météo des sentiments<br>
+Une carte du monde en projection<br>
+Des émotions en prévision<br>
+La pluie, le vent<br>
+Le réchauffement<br>
+Les nuages blancs<br>
+Soleil couchant<br>
+Les turbulences des sentiments<br>
+Et l’alternance de c’qu’on ressent<br>
+Demain je serai comment ?<br>
+ <br>
+Je serai triste ?<br>
+Brumes matinales<br>
+ <br>
+Je serai changeant ?<br>
+Giboulées de mars<br>
+ <br>
+Je serai gai ?<br>
+Longues éclaircies<br>
+ <br>
+J’serai fatigué ?<br>
+Anti-cyclone<br>
+ <br>
+Je serai fâché?<br>
+Pluie verglaçante<br>
+ <br>
+J’aurais le sourire ?<br>
+Flocons de neige<br>
+ <br>
+Je serai colère ?<br>
+Orages qui grondent<br>
+Coup de tonnerre<br>
+ </p>
+<hr> 
+<p class="chansons_spoken_title">Je tremble</p>
+ 
+<p class="chansons_spoken">Je n’aime pas t’entendre crier<br>
+Car quand tu cris<br>
+Mes jambes se mettent à trembler<br>
+Et je ne peux plus les arrêter<br>
+ <br>
+Je tremble et c’est la terre qui tremble<br>
+Et tout s’écroule, les maisons, ma gaieté<br>
+Je tremble comme les feuilles dans le vent<br>
+Je tremble comme le reflet dans l’eau<br>
+Je tremble comme l’enfant fiévreux<br>
+Je tremble comme l’animal peureux<br>
+Comme l’oiseau dans le froid<br>
+Je tremble de colère et d’effroi mélangés<br>
+ <br>
+Je tremble de n’être plus aimé<br>
+De n’être pas compris<br>
+Je tremble de ma fragilité<br>
+ <br>
+Je n’aime pas t’entendre crier<br>
+Je n’aime pas t’entendre crier</p>
+<hr> 
+ 
+<p class="chansons_spoken_title">Les correspondants</p>
+<p class="chansons_spoken">Jean-Luc écrit à la terre entière<br>
+Jean-Luc ne fait pas les choses à moitié<br>
+ <br>
+Béatrice écrit à son père<br>
+Pour lui dire que derrière ses yeux fermés, elle le voit, elle l’entend et lui parle souvent.<br> 
+Alors ils boivent le café et discutent comme avant.<br>
+<br>
+Raphael écrira peut-être à quelqu’un et je crois bien que ce quelqu’un, c’est lui-même, un lui-même un peu secret mais bien présent<br>
+ <br>
+Leïla écrit à celui qu’elle aime, en lettres d’or car l’amour, elle pense que c’est ce qu’il y a de plus précieux<br>
+ <br>
+Jean-Pierre écrit à ceux qui fuient la guerre, car la guerre, c’est du malheur qui est trop lourd à porter, alors il faut le partager<br>
+<br>
+Franck écrit aux filles qui chantent aigü car quand les filles chantent aïgu, il a l’impression de décoller et alors là, le quotidien n’existe plus<br>
+<br> 
+Isabelle écrit à ses enfants, des lettres toute brodées comme des couvertures qui bercent les bébés<br>
+<br>
+Loïc écrit à sa mère, car là où elle est, elle le regarde, elle veille sur lui, et là où il est, il veille sur elle, car les gens que nous aimons, même morts, ne sont jamais très loin<br>
+<br>
+Philippe écrit à Isabelle car Philippe est amoureux, alors chaque jour, pour lui, même en plein hiver, c’est le printemps<br>
+ <br>
+Pauline écrit à ses parents, un long poème plein de trésors, de cachettes, de questions et de réponses aussi<br>
+ <br>
+Ludivine écrira plus tard, elle n’est pas pressée, car de toute façon, le courrier, ça part à toutes les heures, même en pleine nuit, quand on pense très fort à quelqu’un<br>
+<br> 
+Adrien écrit aux chaussures à crampon de Griezman, au short de Zidane et aux cheveux de Neymar parce que ça le fait marrer, et que pour se marrer, il est très doué<br>
+<br> 
+Christine écrit au Père Noël pour lui demander de passer plus souvent parce qu’un jour par an, c’est vraiment des clopinettes<br>
+<br> 
+Nadia écrit à sa famille, et ça fait un gros paquet de lettres pour plein de gens, avec plein de mots doux dedans. Sa famille est loin, mais en lui écrivant, elle la sent toute proche, comme si ils étaient tous là, avec elle, dans sa chambre la nuit<br>
+<br> 
+Pascal, qui est haltérophile écrit des lettres très très lourdes,  et tellement lourdes qu’il faut faire attention à ne pas les faire tomber sur ses pieds. Elles sont lourdes car dedans il y raconte des tonnes de trucs qu’il ne dit d’habitude à personne.<br>
+<br> 
+Nicolas écrit à des personnages qu’il aime bien, il écrit au Petit Poucet, au Chat Botté, aux trois mousquetaires, aux personnages qui peuplent les enfances et qui leur donnent de la force<br>
+<br> 
+Didier écrit à sa maison et aux bouts de ferraille qui l’attendent dans son jardin. Le fer, le métal, c’est solide, ça ne se brise pas, comme lui.<br>
+<br> 
+Sid écrit à sa soeur, car sa soeur, elle le défendra toute sa vie, elle le portera toute vie et avec elle, adieu les ennuis !<br>
+<br> 
+Frédéric écrit à sa nièce et à ses vingt ans, parce que 20 ans, c’est important, il faut lui dire qu’elle profite de chaque instant, et que lui son oncle, sera toujours fier d’elle<br>
+<br> 
+Rita écrit à Dominique, l’amie fidèle de chaque jour pour lui dire merci d’être là auprès de moi<br>
+<br> 
+Florence écrit à l’homme aveugle, celui qui n’a peur de rien, et surtout pas du noir et qui descend les pentes de montagne sur ses skis vertigineux. Le blanc de la neige et le noir de ses yeux, ça ne fait pas du gris, ça fait du bleu, comme le ciel pur, celui qui permet de voir et de s’envoler loin<br>
+<br> 
+Albano écrit à son fils pour lui dire  meu querido filho, eu te amo, sinto sua falta, espero vê-lo novamente em breve. Obrigado por tudo. seu pai<br>
+<br> 
+Jonathan écrit à toutes les notes de son piano, tous les fa sol la si do, les dièses, les bémols, les trémolos, car quand il pose sa main droite sur le clavier du piano, il devient léger, comme un moineau<br>
+<br> 
+Jérémy écrit à un paysage coloré, car pour Jérémy, la gaieté, c’est sacrée et son sourire est comme l’arc en ciel, bien accroché et visible de très loin, même du Mont Blanc qu’on voit des fois depuis Mâcon les jours de beau temps</p>
+ 

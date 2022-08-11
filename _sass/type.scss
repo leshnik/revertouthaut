@@ -34,7 +34,7 @@ h2 {
 h3 {
   font-family: "amatic sc";
   font-size: 32px;
-  color: hsl(171, 93%, 25%);
+  color: #a27c55;
   text-align: left;
 }
 .centered {
@@ -53,6 +53,14 @@ h5 {
   text-shadow: 4.0px 4.0px 5.5px #afa972;
   letter-spacing: 0.2em;
   font-size: 24px;
+}
+h6 {
+  font-family: "Amatic SC";
+  font-weight: 700;
+  color: #a27c55;
+  text-align: left;
+  font-size: 24px;
+
 }
 .nav-list-heading {
   font-size: 32px;
@@ -125,6 +133,11 @@ a:hover {
 .chansons_spoken {
   font-family: "Open Sans Condensed", sans;
   font-size: 1.1rem;
+  letter-spacing: 0.15rem;
+}
+.chansons_spoken_title {
+  font-family: "Open Sans Condensed", sans;
+  font-size: 1.3rem;
   letter-spacing: 0.15rem;
 }
 .chansons_sung {
