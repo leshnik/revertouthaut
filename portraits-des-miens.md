@@ -152,6 +152,12 @@ Avant d’être absent, papa était présent<br>
 et avant d’être orphelin, j’étais un enfant</p>
 <hr>
 <p class="chansons_spoken_title">Ceux de M. transformés aussi:</p>
+<audio
+        controls
+        src="https://rth8.b-cdn.net/matteo-chaos.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
 <p class="chansons_spoken">Mon nom  signifie en hébreu<br>
 sourire de Dieu<br>
 moi je me nomme Chaos<br>
@@ -270,16 +276,22 @@ dans l’enfer vietnamien<br>
 mais moi je voudrais la vie normale<br>
 Et rattraper le temps perdu</p>
 <hr>
-<p class="chansons_spoken_title">A. et une amorce de désir</p> 
-<p class="chansons_spoken">je m’appelle Allan, avec deux L<br>
-deux ailes dans le dos<br>
-des ailes pour voler jusqu’au paradis<br>
+<p class="chansons_spoken_title">A. et une amorce de désir</p>
+<audio
+        controls
+        src="https://rth8.b-cdn.net/allan-avec-deux-l.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+<p class="chansons_spoken">je m’appelle Allan, Allan avec deux L<br>
+avec deux ailes dans le dos<br>
+pour voler jusqu’au paradis<br>
 la vie sur terre, c’est pas tout le temps marrant<br>
 la vie, c’est  dur<br>
 la vie, c’est long<br>
 la vie, c’est épuisant<br>
-Allan, avec deux L<br>
-deux ailes dans le dos pour s’envoler loin d’ici<br>
+Allan, Allan avec deux L<br>
+avec deux ailes dans le dos pour s’envoler loin d’ici<br>
 et vivre une nouvelle vie<br>
 dans un nouveau pays<br>
 où la vie serait moins dure<br>
@@ -288,6 +300,12 @@ moins épuisante<br>
 et moins violente</p>
 <hr>
 <p class="chansons_spoken_title">T. et la description de son rapport au temps:</p> 
+<audio
+        controls
+        src="https://rth8.b-cdn.net/Thomas%20Voyage%20temporel%20V1.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
 <p class="chansons_spoken">voyage temporel<br>
 mettre mes pouvoirs au service de l’humanité<br>
 pas le choix sinon finir encore brûlé pendant des éternités<br>
