@@ -8,11 +8,22 @@ summary:
 <p class="intro-text">En partenariat avec la Roue Voilée, nous sommes intervenus au sein du Centre Hospitalier Spécialisé de Sevrey pour animer des ateliers de compositions de chansons en mai et juin 2022. 
 L’équipe artistique était composée de Sidonie Dubosc, chanteuse et parolière, Morton Potash, pianiste et compositeur, Valérie Gaudissart, comédienne et parolière. 
 Médéric Roquesalane était chargé de la coordination, du matériel et de l’installation technique et de garder une trace photographique du projet. Nous avons travaillé et organisé ce cycle en lien avec une équipe soignante. </p>
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660384251/P5250155_e14u0x.jpg">
+</div>
 
 <p class="intro-text">En introduction aux ateliers, un concert solo de Sidonie Dubosc, appelé «Portraits des miens» a été proposé aux patients. Ce récital de chansons originales, dessinant en musique et textes des portraits poétiques des membres de sa famille a permis de présenter la proposition artistique faite aux patients: composer pour et avec eux des chansons et des textes qui évoquent les êtres qui leur sont chers, et auxquels il serait peut-être bon de dire des choses. 
 Des chansons et des textes qui évoquent les liens aux proches, qu’ils soient vécus de manière positive, négative, toxique, morbide, manquante, et qu’il s’agisse de liens qui soutiennent, de liens qui font mal, de liens qui enchaînent ou empêchent.</p> 
 
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660384938/P6160058_pr3uyx.jpg">
+</div>
+
 <p class="intro-text">Une quarantaine de patients sont venus travailler avec les artistes, certains sur toute la durée de leur résidence, certains sur la durée de leur propre hospitalisation qui s’est terminée avant la restitution finale. Une bonne vingtaine d’autres patients sont venus assistés aux travaux des autres durant les ateliers.</p>
+
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660388433/P6160057-val_sunglasses2_g7jpaf.jpg">
+</div>
 
 <p class="intro-text">Une quarantaine de chansons ou slams ont été composés. 38 en tout ont été chantés lors de la restitution publique qui a duré deux heures. </p>
 
@@ -21,9 +32,14 @@ Certains patients ont écrit des textes tout seuls, d’autres ont raconté des 
 
 <p class="intro-text">En tout cas, chacun des participants s’est emparé de son histoire, de ses compositions, les a faites siennes, les a enregistrées, les a répétées et les a revendiquées sur scène et ce jusqu’au bout. Parmi toutes les créations, il y eut quelques styles différents: chansons mélodiques, slam, rap électro. </p>
 
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660384681/P5250152_bb1m8r.jpg">
+</div>
+
 <p class="intro-text">Ce travail artistique a été du point de vue des artistes très intense, vivant, et a dépassé leurs attentes en terme de nombre de compositions, d’engagement, fidélité sincérité et progrès des patients, en terme d’évolutions et de transformations visibles de certains d’entre eux et de liens détendus et confiants entre patients et artistes. </p>
 
 <h2>Quelques extraits de textes, <br>quelques traces de ces intenses journées</h2>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660384087/le-miroir-partition-p1_c7fjm0.jpg">
 <p class="chansons_spoken_title">V.et sa chanson adressée à ses enfants, «&nbsp;LE MIROIR&nbsp;»</p> 
 <p class="chansons_spoken">
 Je ne veux pas vous faire de mal<br>
