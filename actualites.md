@@ -4,23 +4,9 @@ title: actualités
 summary: 
 ---
 <h1>Événements à venir</h1>
-<ul class="institutions">   
+<ul class="institutions"> 
+    <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li><hr>
     
-    <li>Le 21 mai&nbsp;: lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la <a href="https://www.franceparkinson.fr/journee-mondiale-2020/">La journée mondiale Parkinson</a> à Paray-le-Monial, en partenariat avec France Parkinson 71.</li>
-    <div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71_phihkp.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71p2_ab5fe4.jpg"></div></div>
-    <hr>
-    <li>Le 3 juin&nbsp;: lecture en musique <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy</li>
-    <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg"></div>
-    <hr>
-    <li>Le 11 juin à Cortembert à 18h&nbsp;: <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon</li>
-    <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
-    <hr>
-    <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo</li>
-    <hr>
-    <li>Le 25 juin à Mâcon à la MJC de l’Héritan&nbsp;: <a href="/cabosses">Cabossés</a></li>
-    <hr>
-    <li>le lundi 27 juin, 19h, rue de la Terre au Curé à Paris XIIIéme:&nbsp;:&nbsp;lecture en musique <span class="rever-typog" style="color: #FBA39D">Vivre avec parkinson</span> pour l'association France Parkinson</li>
-    <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     <hr>
     <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
@@ -38,10 +24,40 @@ summary:
         le 2 décembre à Chalon<br>
         le 3 décembre à Cluny<br>
         le 9 décembre à Couches</li>
-        
         <hr>
+        <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li><hr>
+    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray le Monial.</li>
+    <hr>
+    <li>Et tout 2023, réalisation d’un film photographique, <a href="histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     </ul>
 <h1>actualités</h1>
+<h2>Juillet/Août</h2>
+<ul class="institutions">
+<li>Mois d’été, mois rêvés pour écrire. Nous avons donc travaillé à la conception et l’écriture de <a href="re-inventer-sa-vie">Ré-inventer sa vie</a>, dont nous démarrerons les répétitions fin septembre avec les résidents des Villandières de Charnay.</li>
+ <hr>
+<li>Nous avons aussi été recueillir de nouveaux témoignages d’aidants, notamment autour de l’expérience de l’aidant qui continue de mener une carrière professionnelle et qui doit conjuguer une double responsabilité. Recueil fait le but de nourrir notre lecture <a href="les-plus-que-proches">les plus que proches</a> en diversifiant les parcours des personnes qui témoignent.</li>
+<hr>
+<li>Nous avons aussi commencé à recueillir des témoignages des familles reconstituées et de familles homo-parentales avec cette idée: comment se rêvent, s’inventent les nouvelles familles d’aujourd’hui ? Dans le but d’en donner une lecture le 4 octobre à Montchanin lors d’une journée des professionnel.les de la parentalité et aussi dans l’idée de réfléchir, pourquoi pas à une nouvelle réalisation. Spectacle, film ? On verra bien !</li>
+<hr> 
+<li>Et en partenariat avec le réseau des Aidants 71 et la petite ville de Semur en Brionnais, nous proposons un cycle d'ateliers créatifs qui réunit collage, écriture, musique, peinture, et y accueillons des aidants pour quelques séances dans la salle des associations  rue Bouthier de Rochefort : le mardi 7 juin, le mardi 5 juillet, le mardi 30 août, le mardi 13 septembre de 10h à 12h.</li>
+</ul>
+<h2>Juin 2022</h2>
+<ul class="institutions"> 
+<li>Mois bien chargé et très fructueux, en rencontres, en créations et représentations !</li>
+ 
+<li>Une lecture <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy le 3 juin</li>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg"></div>
+<hr>
+ 
+<li>Une série de répétitions et de compositions,  suivies de deux représentations de <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon. Un superbe accueil et une énorme envie de la part de la troupe et du public de nous voir partir en tournée ! Pourquoi pas ?<br>Le 11 juin à Cortembert et Le 25 juin à Mâcon à la MJC de l’Héritan</li>
+    <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
+    <hr>
+    <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo. Et oui, nous avons maintenant une petite antenne en Bretagne !</li>
+    <hr>
+    <li>Fin de la première étape pour l’atelier <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> aux Villandières de Charnay les Mâcon avec une trentaine de résidents. Là aussi de très beaux textes, chansons, dessins créés. Belle moisson pour notre spectacle prévu pour la fin de l’année !</li>
+    <hr>
+    <li>En enfin, lecture en musique <a href="/vivre-avec-parkinson">Vivre avec parkinson</a> pour l'association France Parkinson National, le lundi 27 juin, 19h, rue de la Terre au Curé à Paris XIIIéme.</li>
+</ul>
 <h2>Mai 2022</h2>
 <ul class="institutions">
     <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
@@ -56,6 +72,7 @@ summary:
     <hr>
     <li>En partenariat avec le réseau des Aidants 71, un cycle d'ateliers créatifs qui réuniront collage, écriture, musique, peinture, et qui permettront de transformer ensemble, l'expérience de l'aidant.e.<br>
     4 séances sont prévues à la salle des associations de Semur-en-Brionnais, rue Bouthier de Rochefort&nbsp;:&nbsp;le mardi 7 juin, le mardi 5 juillet, le mardi 30 août, le mardi 13 septembre de 10h à 12h</li>
+    <li>Le 21 mai : lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la La journée mondiale Parkinson à Paray-le-Monial, en partenariat avec France Parkinson 71.</li><div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71_phihkp.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71p2_ab5fe4.jpg"></div></div>
 </ul>
 <h2>Avril 2022</h2>
 <ul class="institutions">
