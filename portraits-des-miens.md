@@ -27,8 +27,16 @@ Des chansons et des textes qui évoquent les liens aux proches, qu’ils soient 
 
 <p class="intro-text">Une quarantaine de chansons ou slams ont été composés. 38 en tout ont été chantés lors de la restitution publique qui a duré deux heures. </p>
 
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660400442/P6170077_etytgn.jpg">
+</div>
+
 <p class="intro-text">La méthode des artistes a d’abord consister à s’adapter aux troubles psychiques et au jaillissement dans le moment présent des expressions et des désirs des patients. Leurs ateliers prenaient donc l’allure de performance musicale pendant lesquelles tout ce qui pouvait être capté, écrit se voyait déjà et très rapidement transformé par un accompagnement musical. Il y a donc eu des improvisations, qui ont par la suite été gardées et il y a eut aussi beaucoup de choses plus élaborées et composées par les artistes en dehors des séances et rapportées aux patients à la séance suivante. 
 Certains patients ont écrit des textes tout seuls, d’autres ont raconté des choses à partir de consignes proposées par les artistes et notées et mises en forme par eux. D’autres textes et chansons ont été écrits par les artistes à partir des ressentis ou des bribes d’informations qu’ils sont arrivés à saisir des personnes. </p>
+
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660400041/Pierre_zsj5zd.jpg">
+</div>
 
 <p class="intro-text">En tout cas, chacun des participants s’est emparé de son histoire, de ses compositions, les a faites siennes, les a enregistrées, les a répétées et les a revendiquées sur scène et ce jusqu’au bout. Parmi toutes les créations, il y eut quelques styles différents: chansons mélodiques, slam, rap électro. </p>
 
