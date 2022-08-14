@@ -54,28 +54,29 @@ nuit.</li><hr>
 <li>Mois bien chargé et très fructueux, en rencontres, en créations et représentations !</li>
  
 <li>Une lecture <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy le 3 juin</li>
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg"></div>
-<hr>
- 
-<li>Une série de répétitions et de compositions,  suivies de deux représentations de <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon. Un superbe accueil et une énorme envie de la part de la troupe et du public de nous voir partir en tournée ! Pourquoi pas ?<br>Le 11 juin à Cortembert et Le 25 juin à Mâcon à la MJC de l’Héritan</li>
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
-<hr>
-<li>Un cycle d’ateliers, <a href="portrait-des-miens">portrait des miens</a> très créatifs et assez exaltants avec les patients de du Centre Hospitalier Spécialisé de Sevrey. Nous avons composé avec et pour les patients 40 chansons et monté avec une vingtaine d’entre eux un spectacle de 2 heures le 17 juin. Beaucoup d’émotions, de transformations et de consolations aussi...<li>
-<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660472198/affiche-sevrey_zd1i1p.jpg">
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg">
 </div>
 <hr>
-
+<li>Une série de répétitions et de compositions,  suivies de deux représentations de <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon. Un superbe accueil et une énorme envie de la part de la troupe et du public de nous voir partir en tournée ! Pourquoi pas ?<br>Le 11 juin à Cortembert et Le 25 juin à Mâcon à la MJC de l’Héritan</li>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg">
+</div>
+<hr>
+<li>Un cycle d’ateliers, <a href="portrait-des-miens">portrait des miens</a> très créatifs et assez exaltants avec les patients de du Centre Hospitalier Spécialisé de Sevrey. Nous avons composé avec et pour les patients 40 chansons et monté avec une vingtaine d’entre eux un spectacle de 2 heures le 17 juin. Beaucoup d’émotions, de transformations et de consolations aussi...</li>
+<hr>
 <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo. Et oui, nous avons maintenant une petite antenne en Bretagne !</li>
-    <hr>
-    <li>Fin de la première étape pour l’atelier <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> aux Villandières de Charnay les Mâcon avec une trentaine de résidents. Là aussi de très beaux textes, chansons, dessins créés. Belle moisson pour notre spectacle prévu pour la fin de l’année !</li>
-    <hr>
-    <li>En enfin, lecture en musique <a href="/vivre-avec-parkinson">Vivre avec parkinson</a> pour l'association France Parkinson National, le lundi 27 juin, 19h, rue de la Terre au Curé à Paris XIIIéme.</li>
+<hr>
+<li>Fin de la première étape pour l’atelier <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> aux Villandières de Charnay les Mâcon avec une trentaine de résidents. Là aussi de très beaux textes, chansons, dessins créés. Belle moisson pour notre spectacle prévu pour la fin de l’année !</li>
+<hr>
+<li>En enfin, lecture en musique <a href="/vivre-avec-parkinson">Vivre avec parkinson</a> pour l'association France Parkinson National, le lundi 27 juin, 19h, rue de la Terre au Curé à Paris XIIIéme.</li>
 </ul>
+
 <h2>Mai 2022</h2>
 <ul class="institutions">
     <li>Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</li>
     <hr>
-    <li>En partenariat avec <em>La Roue Voilée</em>, notre atelier de compositions de chansons <em>«&nbsp;Portraits des miens&nbsp;»</em> pour l’Hôpital Spécialisé de Sevrey a bien démarré. Déjà huit chansons composées et beaucoup de participants.</li>
+    <li>En partenariat avec <em>La Roue Voilée</em>, notre atelier de compositions de chansons <a href="portraits-des-miens">Portraits des miens</a> pour l’Hôpital Spécialisé de Sevrey a bien démarré. Déjà huit chansons composées et beaucoup de participants.</li>
+    <div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660472198/affiche-sevrey_zd1i1p.jpg">
+</div>
     <hr>
     <li>Les quatre nouveaux résidents de la Novelline de Cluny et les usagers du GEM de Mâcon ont bien créé chacun leur chanson pour le spectacle de chansons "Cabossés", dans le cadre du travail artistique <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a>. </li>
     <hr>
@@ -114,6 +115,7 @@ nuit.</li><hr>
     <hr>
     <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
     <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></li>
+</ul>
     <hr>
 <h2>Février 2022</h2>
 <ul class="institutions">
