@@ -48,7 +48,13 @@ Certains patients ont écrit des textes tout seuls, d’autres ont raconté des 
 
 <h2>Quelques extraits de textes, <br>quelques traces de ces intenses journées</h2>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1660384087/le-miroir-partition-p1_c7fjm0.jpg">
-<p class="chansons_spoken_title">V.et sa chanson adressée à ses enfants, «&nbsp;LE MIROIR&nbsp;»</p> 
+<p class="chansons_spoken_title">V.et sa chanson adressée à ses enfants, «&nbsp;dans le miroir&nbsp;»</p> 
+<audio
+        controls
+        src="https://rth8.b-cdn.net/dans-le-miroir.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
 <p class="chansons_spoken">
 Je ne veux pas vous faire de mal<br>
 Je vous ai tant désirés<br>
@@ -79,51 +85,51 @@ Les termites continuent de grignoter
 </p>
 <hr>
 <p class="chansons_spoken_title">L. et la chanson sur le deuil de sa mère</p>
-<p class="chansons_spoken">Je chante pour toi maman
-Je te vois dans les étoiles
-Pardonne-moi maman
-Maman chérie je rêve de toi chaque nuit
-Mais quand je me réveille tu n’est plus là
-Tout le temps je pense à toi,
-Je pense à toi tout le temps (X2)
-j’ai bien du mal à vivre
-maman, tes éclats de rire me manquent
-je suis désolée de t’avoir frappée
-mon cœur pleure sans s’arrêter, pleure sans s’arrêter
-Tout le temps je pense à toi,
+<p class="chansons_spoken">Je chante pour toi maman<br>
+Je te vois dans les étoiles<br>
+Pardonne-moi maman<br>
+Maman chérie je rêve de toi chaque nuit<br>
+Mais quand je me réveille tu n’est plus là<br>
+Tout le temps je pense à toi,<br>
+Je pense à toi tout le temps (X2)<br>
+j’ai bien du mal à vivre<br>
+maman, tes éclats de rire me manquent<br>
+je suis désolée de t’avoir frappée<br>
+mon cœur pleure sans s’arrêter, pleure sans s’arrêter<br>
+Tout le temps je pense à toi,<br>
 Je pense à toi tout le temps (X2)</p>
 <hr>
 <p class="chansons_spoken_title">G. et la chanson sur sa fiancée regrettée:</p> 
-<p class="chansons_spoken">ma fiancée
-on aurait dû se marier
-mais tu es décédée
-tu n’es plus de ce monde
-et mon monde est chamboulé
-je pense toujours à ce que tu m’as donné
-des kebabs, un zipo, une chaîne en or, une bague de fiançailles
-4 années de bonheur
-et moi je t’ai donné mon cœur
+<p class="chansons_spoken">ma fiancée<br>
+on aurait dû se marier<br>
+mais tu es décédée<br>
+tu n’es plus de ce monde<br>
+et mon monde est chamboulé<br>
+je pense toujours à ce que tu m’as donné<br>
+des kebabs, un zipo, une chaîne en or, une bague de fiançailles<br>
+4 années de bonheur<br>
+et moi je t’ai donné mon cœur<br>
 je t’ai donné mon cœur (impro)</p>
 <hr>
 <p class="chansons_spoken_title">M. et son slam pour sa grand-mère </p>
-<p class="chansons_spoken">J’ai écrit une chanson pour toi Mémé
-tu es une mamie formidable
-tu es la femme de ma vie Mémé
-tu nous as quittés
-tu es partie rejoindre le paradis 
-je pleure tous les soirs pour toi Mémé
-je regarde les photos tous les soirs
-tu es dans mon cœur pour toujours
-Mémé
-C’est dur pour toute la famille
-ta mort m’a fait péter les plombs Mémé
-car avant ta mort je te faisais souffrir
-avec mes crises de nerfs Mémé
-Je t’ai tapée Mémé
-je t’ai insultée
-je t’ai menacée avec un couteau
-je m’excuse Mémé de t’avoir fait ça
-de t’avoir fait du mal
+<p class="chansons_spoken">J’ai écrit une chanson pour toi Mémé<br>
+tu es une mamie formidable<br>
+tu es la femme de ma vie Mémé<br>
+tu nous as quittés<br>
+tu es partie rejoindre le paradis <br>
+je pleure tous les soirs pour toi Mémé<br>
+je regarde les photos tous les soirs<br>
+tu es dans mon cœur pour toujours<br>
+Mémé<br>
+C’est dur pour toute la famille<br>
+ta mort m’a fait péter les plombs Mémé<br>
+car avant ta mort je te faisais souffrir<br>
+avec mes crises de nerfs Mémé<br>
+Je t’ai tapée Mémé<br>
+je t’ai insultée<br>
+je t’ai menacée avec un couteau<br>
+je m’excuse Mémé de t’avoir fait ça<br>
+de t’avoir fait du mal<br>
 J’ai trop mal au cœur de t’avoir vu pleurer, Mémé</p>
 <hr>
 <p class="intro-text">Il y a eut aussi l’évocation de l’enfance, ses bons et ses affreux souvenirs, transformés en slam</p>
@@ -333,20 +339,29 @@ Un jour mon père m’a offert un peignoir noir<br>
 Le ciel n’est jamais totalement bleu</p>
 <hr>
 <p class="chansons_spoken_title">S. et le fait de se sentir perdue.</p>
+<audio
+        controls
+        src="https://rth8.b-cdn.net/je%20ne%20sais%20pas%20qui%20je%20suis.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
 <p class="chansons_spoken">Je ne sais pas qui je suis<br>
 Je ne sais où je vais<br>
 Je suis perdue<br>
 Je t’ai rencontré un jour<br>
-Je t’ai apprécié, et je t’ai aimé, je t’ai aimé<br>
+Je t’ai apprécié, et je t’ai aimé, et je t’ai aimé<br>
 Je t’ai regardé, mon cœur a basculé<br>
-Avec tes 27 ans et tes yeux bleus attentionnés<br>
+Avec tes 27 ans, tes yeux bleus attentionnés<br>
 Je n’ai pas su résister<br>
 On vivait dans une bulle où l’amour n’avait pas d’âge<br>
-Nous étions bien <br>
+Nous étions si bien <br>
 Mais il faut désormais tourner la page, tourner la page<br>
 Je ne sais pas qui je suis<br>
 Je ne sais où je vais<br>
-Je suis perdue</p>
+Je suis perdue<br>
+Je t'ai rencontré un jour<br>
+Et je t'ai perdu<br>
+Mais je t'ai aimé, mais je t'ai aimé</p>
 <hr>
 <p class="chansons_spoken_title">S. et la différence entre monde intérieur et le monde réel</p>  
 <p class="chansons_spoken">à l’intérieur je renais<br>
