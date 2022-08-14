@@ -4,7 +4,11 @@ title: actualités
 summary: 
 ---
 <h1>Événements à venir</h1>
-<ul class="institutions"> 
+<ul class="institutions">
+    <li>15 septembre 2022, restitution publique et concert des chansons
+composées avec et pour les résidents de l'Ehpad de Cluny, dans le
+cadre du projet <a href="contre-jour">Contre-Jour</a>.</li>
+    <hr>
     <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li><hr>
     
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
@@ -37,6 +41,10 @@ summary:
  <hr>
 <li>Nous avons aussi été recueillir de nouveaux témoignages d’aidants, notamment autour de l’expérience de l’aidant qui continue de mener une carrière professionnelle et qui doit conjuguer une double responsabilité. Recueil fait le but de nourrir notre lecture <a href="les-plus-que-proches">les plus que proches</a> en diversifiant les parcours des personnes qui témoignent.</li>
 <hr>
+<li>Démarrage de <a href="contre-jour">Contre jour</a>, atelier de compositions de chansons
+destinées aux résidents de l'Ehpad de Cluny, chansons qui apaisent et
+accompagnent particulièrement les inquiétudes de la tombée de la
+nuit.</li><hr>
 <li>Nous avons aussi commencé à recueillir des témoignages des familles reconstituées et de familles homo-parentales avec cette idée: comment se rêvent, s’inventent les nouvelles familles d’aujourd’hui ? Dans le but d’en donner une lecture le 4 octobre à Montchanin lors d’une journée des professionnel.les de la parentalité et aussi dans l’idée de réfléchir, pourquoi pas à une nouvelle réalisation. Spectacle, film ? On verra bien !</li>
 <hr> 
 <li>Et en partenariat avec le réseau des Aidants 71 et la petite ville de Semur en Brionnais, nous proposons un cycle d'ateliers créatifs qui réunit collage, écriture, musique, peinture, et y accueillons des aidants pour quelques séances dans la salle des associations  rue Bouthier de Rochefort : le mardi 7 juin, le mardi 5 juillet, le mardi 30 août, le mardi 13 septembre de 10h à 12h.</li>
