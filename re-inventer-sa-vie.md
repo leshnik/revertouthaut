@@ -52,7 +52,15 @@ il y a eut les étoiles la nuit<br>
 Dans mon enfance, il y avait une petite fille qui s’appelait Patricia qui s’était rendu compte que je ne marchais pas et qui m’aidait à enlever mon blouson.<br>
 Il y avait aussi d’autres enfants à qui je faisais peur et qui se réfugiaient dans les bras de leur mère quand ils me voyaient.</p>
 <hr>
- 
+<div class="center-block">
+<figure>
+ <video controls width="95%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660481892/j-aime-l-amour-thumb_bekknh.jpg">
+    <source src="https://rth8.b-cdn.net/j'aime-l-amour.mp4" type="video/mp4">
+</video>
+<figcaption class="chansons_caption"><em>J'aime l'amour&nbsp;:&nbsp; musique et chant de Sidonie Dubosc</em></figcaption>
+</figure>
+</div>
+
 <p class="chansons_spoken_title">La manif de la vaisselle cassée</p>
  
 <p class="chansons_spoken">Je suis le verre brisé<br>
@@ -84,7 +92,9 @@ Je suis le mégot consumé  <br>
 Je suis la voiture qui ne démarre plus<br>
 Je suis la chaise à laquelle il manque un pied</p>
  <hr>
- 
+ <div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660478011/rosana_at2z2w.jpg"> 
+</div>
 <p class="chansons_spoken_title">Derrière ma porte il y a :</p>
  
 <p class="chansons_spoken">plein de bonbons au chocolat<br>
@@ -121,7 +131,9 @@ des pensées qui s’en vont et qui reviennent<br>
 de la musique disco<br>
 des gnocchis à la tomate, comme en Italie</p>
  <hr>
- 
+ <div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660478390/franck_erkyns.jpg">
+ </div>
 <p class="chansons_spoken_title">La  météo des sentiments</p>
  
 <p class="chansons_spoken">La  météo des sentiments<br>
@@ -159,8 +171,15 @@ Coup de tonnerre<br>
  </p>
 <hr> 
 <p class="chansons_spoken_title">Je tremble</p>
- 
-<p class="chansons_spoken">Je n’aime pas t’entendre crier<br>
+<figure>
+    <audio controls src="https://rth8.b-cdn.net/je%20tremble%20par%20Sidonie%20Dubosc.mp3">
+            Your browser does not support the <code>audio</code> element.
+    </audio>
+    <figcaption class="chansons_caption"><em>musique &nbsp;:&nbsp;Sidonie Dubosc</em></figcaption>
+</figure>
+    
+<p class="chansons_spoken">
+Je n’aime pas t’entendre crier<br>
 Car quand tu cris<br>
 Mes jambes se mettent à trembler<br>
 Et je ne peux plus les arrêter<br>
@@ -181,7 +200,9 @@ Je tremble de ma fragilité<br>
 Je n’aime pas t’entendre crier<br>
 Je n’aime pas t’entendre crier</p>
 <hr> 
- 
+ <div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660484760/writing-20-ans_h5jpgj.jpg">
+ </div>
 <p class="chansons_spoken_title">Les correspondants</p>
 <p class="chansons_spoken">Jean-Luc écrit à la terre entière<br>
 Jean-Luc ne fait pas les choses à moitié<br>
@@ -207,7 +228,11 @@ Philippe écrit à Isabelle car Philippe est amoureux, alors chaque jour, pour l
 Pauline écrit à ses parents, un long poème plein de trésors, de cachettes, de questions et de réponses aussi<br>
  <br>
 Ludivine écrira plus tard, elle n’est pas pressée, car de toute façon, le courrier, ça part à toutes les heures, même en pleine nuit, quand on pense très fort à quelqu’un<br>
-<br> 
+</p>
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485581/adrien_gbitnl.jpg">
+</div>
+<p class="chansons_spoken">
 Adrien écrit aux chaussures à crampon de Griezman, au short de Zidane et aux cheveux de Neymar parce que ça le fait marrer, et que pour se marrer, il est très doué<br>
 <br> 
 Christine écrit au Père Noël pour lui demander de passer plus souvent parce qu’un jour par an, c’est vraiment des clopinettes<br>
@@ -217,8 +242,11 @@ Nadia écrit à sa famille, et ça fait un gros paquet de lettres pour plein de 
 Pascal, qui est haltérophile écrit des lettres très très lourdes,  et tellement lourdes qu’il faut faire attention à ne pas les faire tomber sur ses pieds. Elles sont lourdes car dedans il y raconte des tonnes de trucs qu’il ne dit d’habitude à personne.<br>
 <br> 
 Nicolas écrit à des personnages qu’il aime bien, il écrit au Petit Poucet, au Chat Botté, aux trois mousquetaires, aux personnages qui peuplent les enfances et qui leur donnent de la force<br>
-<br> 
-Didier écrit à sa maison et aux bouts de ferraille qui l’attendent dans son jardin. Le fer, le métal, c’est solide, ça ne se brise pas, comme lui.<br>
+</p>
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485818/didier_g6rstu.jpg">
+</div> 
+<p class="chansons_spoken">Didier écrit à sa maison et aux bouts de ferraille qui l’attendent dans son jardin. Le fer, le métal, c’est solide, ça ne se brise pas, comme lui.<br>
 <br> 
 Sid écrit à sa soeur, car sa soeur, elle le défendra toute sa vie, elle le portera toute vie et avec elle, adieu les ennuis !<br>
 <br> 
@@ -233,4 +261,7 @@ Albano écrit à son fils pour lui dire  meu querido filho, eu te amo, sinto sua
 Jonathan écrit à toutes les notes de son piano, tous les fa sol la si do, les dièses, les bémols, les trémolos, car quand il pose sa main droite sur le clavier du piano, il devient léger, comme un moineau<br>
 <br> 
 Jérémy écrit à un paysage coloré, car pour Jérémy, la gaieté, c’est sacrée et son sourire est comme l’arc en ciel, bien accroché et visible de très loin, même du Mont Blanc qu’on voit des fois depuis Mâcon les jours de beau temps</p>
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485320/alexis_c0qb2y.jpg">
+</div>
  
