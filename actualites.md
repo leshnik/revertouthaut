@@ -58,9 +58,14 @@ nuit.</li><hr>
 <hr>
  
 <li>Une série de répétitions et de compositions,  suivies de deux représentations de <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon. Un superbe accueil et une énorme envie de la part de la troupe et du public de nous voir partir en tournée ! Pourquoi pas ?<br>Le 11 juin à Cortembert et Le 25 juin à Mâcon à la MJC de l’Héritan</li>
-    <br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
-    <hr>
-    <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo. Et oui, nous avons maintenant une petite antenne en Bretagne !</li>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg"></div>
+<hr>
+<li>Un cycle d’ateliers, <a href="portrait-des-miens">portrait des miens</a> très créatifs et assez exaltants avec les patients de du Centre Hospitalier Spécialisé de Sevrey. Nous avons composé avec et pour les patients 40 chansons et monté avec une vingtaine d’entre eux un spectacle de 2 heures le 17 juin. Beaucoup d’émotions, de transformations et de consolations aussi...<li>
+<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660472198/affiche-sevrey_zd1i1p.jpg">
+</div>
+<hr>
+
+<li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo. Et oui, nous avons maintenant une petite antenne en Bretagne !</li>
     <hr>
     <li>Fin de la première étape pour l’atelier <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> aux Villandières de Charnay les Mâcon avec une trentaine de résidents. Là aussi de très beaux textes, chansons, dessins créés. Belle moisson pour notre spectacle prévu pour la fin de l’année !</li>
     <hr>
