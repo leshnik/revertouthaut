@@ -64,7 +64,15 @@ h6 {
 }
 .nav-list-heading {
   font-size: 32px;
+  color: white;
+  font-family: "Amatic Sc";
 }
+.nav-list-item {
+  color: white;
+  font-family: "Crimson";
+   font-size: 1.2rem;
+}
+
 .coming li {
   color: $dark-green;
 }
