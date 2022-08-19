@@ -9,13 +9,13 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
   <p class="intro-text">
     Basée sur des témoignages recueillis auprès de mères, de sages-femmes, et de soignantes, « Bercer l’enfant manquant » explore lesliens qui se tissent, se vivent, s’installent et parfois ont du mal à se nouer, entre les mères et leurs enfants.
   </p>
-  <p class="shadow" style="background-color: hsl(171,93.5%,36.5%);transform:rotate(2deg);">
+  <p class="shadow" style="background-color: #5B879E; transform:rotate(2deg);">
     devenir mère: toute une palette de sentiments complexes
   </p>
   <p class="intro-text">
     Devenir mère, c’est traverser surprise, énigme, doute, inquiétude, angoisse, émerveillement, tout une palette de sentiments complexes et nouveaux. C’est se confronter à certains clichés, ou injonctions de la société ou de sa propre famille. Et c’est aussi faire l’expérience d’un parcours médical, qui va de l’échographie jusqu’à l’accouchement et qui peut parfois faire vivre une amniocentèse, une PMA, une prématurité, une césarienne en urgence&hellip;
   </p>
-  <p class="shadow" style="background-color: #7551e1;">
+  <p class="shadow" style="background-color: #965556;">
     l'enfant manquant c'est l'enfant rêvé
   </p>
   <p class="intro-text">
