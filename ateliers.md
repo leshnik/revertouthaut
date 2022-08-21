@@ -19,17 +19,65 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 
 <p class="intro-text">Voici quelques uns de nos ateliers à venir, en cours, ou effectués depuis 2019.
 </p>
-<h2>aidant.es</h2>
-<ul class="center-text">
-  <li><a style="color: hsl(120,50%,42%)" href="/presences">●&nbsp;présences (2021/23)</a></li>
-  <li><a style="color: #29c" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
-  <li><a style="color: hsl(40.6,50.5%,42%)" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
-  <li><a style="color: hsl(165, 50%, 42%)" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/22)</a></li>
-  <li><a style="color: #02b45b" href="/journee-nationale-des-aidants"
-        >●&nbsp;Journée Nationale des Aidants</a
-      ></li>
-</ul>
-<h2>insertion/travail social</h2>
+<div id="siteMap" class="space-around--wrap">
+<p class="shadow" style="background: #728fa6 ; width: 50ch"><span style="color: #9bfafa" class="nav-list-heading">Aidant.es</span><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-mains-tendues">●&nbsp;les mains tendues 2023</a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/presences">●&nbsp;présences 2021/2023</a><br/>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/aidants-aimants">●&nbsp;aidants, aimants 2020/2022</a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé 2020/2021</a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie 2020/2022</a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-plus-que-proches">●&nbsp;les plus que proches 2019/2022</a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/journee-nationale-des-aidants">●&nbsp;Journée Nationale des Aidants 2019/2020</a>
+</p>
+<p class="shadow" style="background: #767ba5; width: 50ch"><span style="color:#fbd7ae" class="nav-list-heading">insertion/travail social</span><br>
+  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/changer-de-pays">●&nbsp;changer de pays 2020 Taizé</a><br>
+  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/les-petites-lucarnes">●&nbsp;les petites lucarnes 2019/2020 Mâcon, Chalon</a><br>
+  <a style="color:#fbd7ae" class="nav-list-item subtlehover" href="/pour-travailleurs-sociaux-et-soignants">●&nbsp;pour travailleurs sociaux et soignants</a>
+</p>
+<p class="shadow" style="background: #664d69; width: 50ch"><span style="color: #c8f7c5" class="nav-list-heading">Parentalité</span><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/familles-d-aujourd-hui">●&nbsp;familles d'aujourd'hui 2022</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/accompagner-la-parentalite">●&nbsp;accompagner la parentalité</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/bebes-chantes">●&nbsp;bébés chantés 2015</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/dans-mon-enfance">●&nbsp;dans mon enfance 2021 Charolles</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/je-t-ai-reve">●&nbsp;je t'ai rêvé 2020/2021</a>
+</p>
+<p class="shadow" style="background: #d43702; width: 50ch"><span style="color: #ffe3ca" class="nav-list-heading">Seniors</span><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour 2022 Cluny</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/rencontres">●&nbsp;rencontres</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances 2019/2020 Saint Bonnay de Joux</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="veillees-du-matin">●&nbsp;veillées du matin 2021 Saint Bonnet de Joux</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/4-fois-20-ans">●&nbsp;4 fois 20 ans 2021 Nevers</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;sophrologie 2020/2022</a>
+</p>
+<p class="shadow" style="background: #653a4c; width: 50ch"><span style="color: #f5d76e;" class="nav-list-heading">Handicap/Inclusion</span><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/re-inventer-sa-vie">●&nbsp;ré-inventer sa vie 2022/2023 Mâcon</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé 2021 Chalon</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/de-l-air">●&nbsp;de l'air ! 2020 Bonnay</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/reapprendre-a-aimer">●&nbsp;réapprendre à aimer 2020/2022 Cluny</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-veux-vivre">●&nbsp;je veux vivre 2021</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/chez-soi">●&nbsp;chez soi</a>
+</p>
+<p class="shadow" style="background: #8db3d2; width: 50ch"><span style="color: #00008b" class="nav-list-heading">Troubles Psychiques</span><br>
+  <a style="color: #00008b" class="nav-list-item"  href="/portraits-des-miens">●&nbsp;portraits des miens 2022 Sevrey</a><br>
+</p>
+<p class="shadow" style="background: #7fa090; width: 50ch"><span style="color:#97f9f7" class="nav-list-heading">Maladies Neuro-évolutives</span><br>
+  <a style="color:#aafdfc" class="nav-list-item"  href="/vivre-avec-parkinson">●&nbsp;vivre avec Parkinson</a><br>
+</p>
+<p class="shadow" style="background: #f5ae1f; width: 50ch"><span style="color: #550055" class="nav-list-heading">monde rural</span><br>
+  <a style="color: #550055" class="nav-list-item" href="/histoires-de-transmission">●&nbsp;histoires de transmission</a>
+</p>
+</div>
+
+<!-- <ul class="center-text">
+  <li><a href="/les-mains-tendues">●&nbsp;les mains tendues</a></li>
+  <li><a style="color: #000" href="/presences">●&nbsp;présences (2021/23)</a></li>
+  <li><a style="color: #000" href="/aidants-aimants">●&nbsp;aidants, aimants (2020/22)</a></li>
+  <li><a style="color: #000" href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie (2020/21)</a></li>
+  <li><a style="color:#000" class="nav-list-item"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé</a></li>
+  <li><a style="color: #000" href="/les-plus-que-proches">●&nbsp;les plus que proches (2019/22)</a></li>
+  <li><a style="color: #000" href="/journee-nationale-des-aidants">●&nbsp;Journée Nationale des Aidants</a></li>
+</ul> -->
+<!-- <h2>insertion/travail social</h2>
 <ul class="center-text">
   <li><a style="color: #29c" href="/les-petites-lucarnes">●&nbsp;les petites lucarnes (2019/20)</a></li>
   <li><a style="color: hsl(330,50%,42%)" href="/changer-de-pays">●&nbsp;changer de pays (2020)</a></li>
@@ -61,7 +109,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   </li>
   <li><a style="color: hsl(230,50%,42%)" href="/je-veux-vivre">●&nbsp;je veux vivre (2021)</a></li>
   <li><a style="color:hsl(213, 50%, 42%)" href="/chez-soi">●&nbsp;chez soi</a></li>
-</ul>
+</ul> -->
 
 <div class="space-below"></div>
 <!-- Slideshow container -->
