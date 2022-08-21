@@ -42,7 +42,7 @@ et je suis fière d’être ta maman,<br> d’être ta maman.
     <h4 class="song-title">mon mini-moi</h4>
 <audio
         controls
-        src="/media/maëlle_mon-mini-moi.mp3">
+        src="/media/maelle_mon-mini-moi.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
