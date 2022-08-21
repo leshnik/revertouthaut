@@ -21,44 +21,44 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 </p>
 <div id="siteMap" class="space-around--wrap">
 <p class="shadow" style="background: #728fa6 ; width: 50ch"><span style="color: #9bfafa" class="nav-list-heading">Aidant.es</span><br>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-mains-tendues">●&nbsp;les mains tendues 2023</a><br>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/presences">●&nbsp;présences 2021/2023</a><br/>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/aidants-aimants">●&nbsp;aidants, aimants 2020/2022</a><br>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé 2020/2021</a><br>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie 2020/2022</a><br>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-plus-que-proches">●&nbsp;les plus que proches 2019/2022</a><br>
-  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/journee-nationale-des-aidants">●&nbsp;Journée Nationale des Aidants 2019/2020</a>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-mains-tendues">●&nbsp;les mains tendues <span style="font-size: smaller">2023</span></a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/presences">●&nbsp;présences <span style="font-size: smaller">2021/2023</span></a><br/>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/aidants-aimants">●&nbsp;aidants, aimants <span style="font-size: smaller">2020/2022</span></a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé <span style="font-size: smaller">2020/2021</span></a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;cycles de sophrologie <span style="font-size: smaller">2020/2022</span></a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-plus-que-proches">●&nbsp;les plus que proches <span style="font-size: smaller">2019/2022</span></a><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/journee-nationale-des-aidants">●&nbsp;Journée Nationale des Aidants <span style="font-size: smaller">2019/2020</span></a>
 </p>
 <p class="shadow" style="background: #767ba5; width: 50ch"><span style="color:#fbd7ae" class="nav-list-heading">insertion/travail social</span><br>
-  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/changer-de-pays">●&nbsp;changer de pays 2020 Taizé</a><br>
-  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/les-petites-lucarnes">●&nbsp;les petites lucarnes 2019/2020 Mâcon, Chalon</a><br>
+  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/changer-de-pays">●&nbsp;changer de pays <span style="font-size: smaller">2020</span>, Taizé</a><br>
+  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/les-petites-lucarnes">●&nbsp;les petites lucarnes <span style="font-size: smaller">2019/2020</span>, Mâcon, Chalon</a><br>
   <a style="color:#fbd7ae" class="nav-list-item subtlehover" href="/pour-travailleurs-sociaux-et-soignants">●&nbsp;pour travailleurs sociaux et soignants</a>
 </p>
 <p class="shadow" style="background: #664d69; width: 50ch"><span style="color: #c8f7c5" class="nav-list-heading">Parentalité</span><br>
-  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/familles-d-aujourd-hui">●&nbsp;familles d'aujourd'hui 2022</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/familles-d-aujourd-hui">●&nbsp;familles d'aujourd'hui <span style="font-size: smaller">2022</span></a><br>
   <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/accompagner-la-parentalite">●&nbsp;accompagner la parentalité</a><br>
-  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/bebes-chantes">●&nbsp;bébés chantés 2015</a><br>
-  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/dans-mon-enfance">●&nbsp;dans mon enfance 2021 Charolles</a><br>
-  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/je-t-ai-reve">●&nbsp;je t'ai rêvé 2020/2021</a>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/bebes-chantes">●&nbsp;bébés chantés <span style="font-size: smaller">2015</span>, Chalon</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/dans-mon-enfance">●&nbsp;dans mon enfance <span style="font-size: smaller">2021</span>, Charolles</a><br>
+  <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/je-t-ai-reve">●&nbsp;je t'ai rêvé <span style="font-size: smaller">2020/2021</span></a>
 </p>
 <p class="shadow" style="background: #d43702; width: 50ch"><span style="color: #ffe3ca" class="nav-list-heading">Seniors</span><br>
-  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour 2022 Cluny</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour <span style="font-size: smaller">2022</span>, Cluny</a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/rencontres">●&nbsp;rencontres</a><br>
-  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances 2019/2020 Saint Bonnay de Joux</a><br>
-  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="veillees-du-matin">●&nbsp;veillées du matin 2021 Saint Bonnet de Joux</a><br>
-  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/4-fois-20-ans">●&nbsp;4 fois 20 ans 2021 Nevers</a><br>
-  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;sophrologie 2020/2022</a>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances <span style="font-size: smaller">2019/2020</span>, Saint Bonnay de Joux</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="veillees-du-matin">●&nbsp;veillées du matin <span style="font-size: smaller">2021</span>, Saint Bonnet de Joux</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/4-fois-20-ans">●&nbsp;4 fois 20 ans <span style="font-size: smaller">2021</span>, Nevers</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;sophrologie <span style="font-size: smaller">2020/2022</span></a>
 </p>
 <p class="shadow" style="background: #653a4c; width: 50ch"><span style="color: #f5d76e;" class="nav-list-heading">Handicap/Inclusion</span><br>
-  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/re-inventer-sa-vie">●&nbsp;ré-inventer sa vie 2022/2023 Mâcon</a><br>
-  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé 2021 Chalon</a><br>
-  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/de-l-air">●&nbsp;de l'air ! 2020 Bonnay</a><br>
-  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/reapprendre-a-aimer">●&nbsp;réapprendre à aimer 2020/2022 Cluny</a><br>
-  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-veux-vivre">●&nbsp;je veux vivre 2021</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/re-inventer-sa-vie">●&nbsp;ré-inventer sa vie <span style="font-size: smaller">2022</span>, Charnay-lès-Mâcon</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé <span style="font-size: smaller">2021</span>, Chalon</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/de-l-air">●&nbsp;de l'air ! <span style="font-size: smaller">2020</span>, Bonnay</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/reapprendre-a-aimer">●&nbsp;réapprendre à aimer <span style="font-size: smaller">2020/2022</span>, Cluny</a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-veux-vivre">●&nbsp;je veux vivre <span style="font-size: smaller">2021</span></a><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/chez-soi">●&nbsp;chez soi</a>
 </p>
 <p class="shadow" style="background: #8db3d2; width: 50ch"><span style="color: #00008b" class="nav-list-heading">Troubles Psychiques</span><br>
-  <a style="color: #00008b" class="nav-list-item"  href="/portraits-des-miens">●&nbsp;portraits des miens 2022 Sevrey</a><br>
+  <a style="color: #00008b" class="nav-list-item"  href="/portraits-des-miens">●&nbsp;portraits des miens <span style="font-size: smaller">2022</span>, Sevrey</a><br>
 </p>
 <p class="shadow" style="background: #7fa090; width: 50ch"><span style="color:#97f9f7" class="nav-list-heading">Maladies Neuro-évolutives</span><br>
   <a style="color:#aafdfc" class="nav-list-item"  href="/vivre-avec-parkinson">●&nbsp;vivre avec Parkinson</a><br>
