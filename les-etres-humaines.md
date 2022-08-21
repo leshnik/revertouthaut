@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Les êtres humaines, spectacle autour des violences conjugales
-summary: Joué par des femmes anciennement victimes et des comédiennes professionnelles, le spectacle a été crée à partir d’ateliers artistiques menés en CHRS à Chalon sur Saône et des témoignages donnés aussi bien par les femmes accueillies que par les travailleuses sociales qui les accompagnent. Le spectacle a été joué de 2011 à 2013.
+summary: Joué par des femmes anciennement victimes et des comédiennes professionnelles, le spectacle a été crée à partir d’ateliers artistiques menés en CHRS à Chalon-sur-Saône et des témoignages donnés aussi bien par les femmes accueillies que par les travailleuses sociales qui les accompagnent. Le spectacle a été joué de 2011 à 2013.
 ---
 
 <h1>Les êtres humaines</h1> 
@@ -11,7 +11,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 
 <img alt="répétition, mireille danse mboya, son fils participe sur son tracteur, tout le monde chante" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_700/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg"/>
 <main>
-<p class="intro-text"><em>Les êtres humaines</em>, spectacle joué de 2011 à 2013 en Saône et Loire, en partenariat avec l’Association Ciné-Ressources 71, traitait de l’intimité et de la complexité de la violence conjugale et intra-familiale. Basé sur des témoignages récoltés lors d’ateliers à médiations organisées au CHRS de l’Ecluse, à Chalon sur Saône, et qui regroupaient différents média, comme la peinture, l’écriture, la musique, le portrait photographique, <em>les êtres humaines</em> a été joué par des comédiennes professionnelles et des femmes anciennement victimes de violence rencontrées lors de ces ateliers.</p>
+<p class="intro-text"><em>Les êtres humaines</em>, spectacle joué de 2011 à 2013 en Saône et Loire, en partenariat avec l’Association Ciné-Ressources 71, traitait de l’intimité et de la complexité de la violence conjugale et intra-familiale. Basé sur des témoignages récoltés lors d’ateliers à médiations organisées au CHRS de l’Ecluse, à Chalon-sur-Saône, et qui regroupaient différents média, comme la peinture, l’écriture, la musique, le portrait photographique, <em>les êtres humaines</em> a été joué par des comédiennes professionnelles et des femmes anciennement victimes de violence rencontrées lors de ces ateliers.</p>
 </main>
 <div class="center-text">
 <h3 class="centered">extraits: 29 novembre 2011 à la Maison Verte, Plateau Saint-Jean, Chalon-sur-Saône</h3>

@@ -6,7 +6,7 @@ summary: Lecture musicale de témoignages d'aidants familiaux et professionnels 
 
 <h1>Journée nationale des aidants</h1>
 
-<h2>30 septembre 2020 au Théâtre Sauvageot, Paray le Monial</h2>
+<h2>30 septembre 2020 au Théâtre Sauvageot, Paray-le-Monial</h2>
 
 <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
 

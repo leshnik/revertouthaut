@@ -23,7 +23,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
         <li>le 28 octobre à Louhans</li>
         <li>le 4 novembre au Creusot</li>
         <li>le 18 novembre à Mâcon</li>
-        <li>le 25 novembre à Paray le Monial</li>
+        <li>le 25 novembre à Paray-le-Monial</li>
         <li>le 2 décembre à Chalon</li>
         <li>le 3 décembre à Cluny</li>
         <li>le 9 décembre à Couches</li>

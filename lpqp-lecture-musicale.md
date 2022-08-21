@@ -60,7 +60,7 @@ title: les plus que proches - lecture musicale
       mercredi 30 septembre 2020 de 15h à 17h<br>
       Théâtre Municipal Sauvageot<br>
       28 avenue Charles de Gaulle<br>
-      71600 PARAY LE MONIAL<br>
+      71600 PARAY-LE-MONIAL<br>
       03 85 81 11 62<br>
       avec le Réseau des Aidants Sud 71
     </li>

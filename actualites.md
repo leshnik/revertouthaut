@@ -24,13 +24,13 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.</li>
         le 28 octobre à Louhans<br>
         le 4 novembre au Creusot<br>
         le 18 novembre à Mâcon<br>
-        le 25 novembre à Paray le Monial<br>
+        le 25 novembre à Paray-le-Monial<br>
         le 2 décembre à Chalon<br>
         le 3 décembre à Cluny<br>
         le 9 décembre à Couches</li>
         <hr>
         <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li><hr>
-    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray le Monial.</li>
+    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
     <hr>
     <li>Et tout 2023, réalisation d’un film photographique, <a href="histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     </ul>
@@ -41,7 +41,7 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.</li>
  <hr>
 <li>Nous avons aussi été recueillir de nouveaux témoignages d’aidants, notamment autour de l’expérience de l’aidant qui continue de mener une carrière professionnelle et qui doit conjuguer une double responsabilité. Recueil fait le but de nourrir notre lecture <a href="les-plus-que-proches">les plus que proches</a> en diversifiant les parcours des personnes qui témoignent.</li>
 <hr>
-<li>Démarrage de <a href="contre-jour">Contre jour</a>, atelier de compositions de chansons
+<li>Démarrage de <a href="contre-jour">Contre-jour</a>, atelier de compositions de chansons
 destinées aux résidents de l'Ehpad de Cluny, chansons qui apaisent et
 accompagnent particulièrement les inquiétudes de la tombée de la
 nuit.</li><hr>

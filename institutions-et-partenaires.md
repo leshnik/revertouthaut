@@ -48,14 +48,14 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Maternité, Hôpital de Mâcon</li>
 <li>CIAS Grand Autunois-Morvan</li>
 <li>Maison des Parents, le Creusot</li>
-<li>Maison de la Famille, Chalon sur Saône</li>
+<li>Maison de la Famille, Chalon-sur-Saône</li>
 </ul> 
  
 <h2>Organismes Sociaux :</h2>
  <ul class="institutions">
 <li>Mutuelle Sociale Agricole 71</li>
 <li>Chambre d’Agriculture, Mâcon</li>
-<li>Association le Pont, Mâcon, Chalon sur Saône, Paray le Monial</li>
+<li>Association le Pont, Mâcon, Chalon-sur-Saône, Paray-le-Monial</li>
 <li>CCAS Mâcon</li>
 </ul> 
  
@@ -68,7 +68,7 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Centre Social l’Orange Bleue, Saint Marcel</li>
 <li>Centre Social, Mairie de Sanvignes les Mines</li>
 <li>Centre Social, Semur en Brionnais</li>
-<li>Espace Culturel, Paray le Monial</li>
+<li>Espace Culturel, Paray-le-Monial</li>
 <li>Association Vivre au Féminin, Tournus</li>
 <li>Le Réservoir, Saint Marcel, salle de spectacle</li>
 <li>La Roue Voilée</li>

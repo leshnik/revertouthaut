@@ -122,7 +122,7 @@ summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant
 </script>
 
 <p class="intro-text">
-À la demande de l’Association le Pont, Rêver Tout Haut a participé au dispositif «Revitalisation», proposé d’octobre 2019 à juillet 2020 à une dizaine de participants sur Chalon sur Saône et Mâcon. L’objectif était de permettre à des personnes loin de l’emploi et dans un certain isolement social, accompagnés par une équipe éducative, de mettre en mouvement créativité et image de soi souvent bien mise à mal. </p>
+À la demande de l’Association le Pont, Rêver Tout Haut a participé au dispositif «Revitalisation», proposé d’octobre 2019 à juillet 2020 à une dizaine de participants sur Chalon-sur-Saône et Mâcon. L’objectif était de permettre à des personnes loin de l’emploi et dans un certain isolement social, accompagnés par une équipe éducative, de mettre en mouvement créativité et image de soi souvent bien mise à mal. </p>
 
 <p class="intro-text">La temporalité des ateliers, étendue sur plusieurs mois permettant aux personnes de cheminer au travers de leur histoire, leurs résistances. Ouvrir des petites fenêtres, dégager un horizon, éclairer la vie sociale, tels étaient les buts de nos ateliers complémentaires. </p>
 

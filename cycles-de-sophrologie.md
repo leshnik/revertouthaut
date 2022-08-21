@@ -13,7 +13,7 @@ summary: Cycles gratuits de sophrologie en groupe pour les seniors dans le cadre
 </p>
 <div class="space-below"></div>
 <hr style="margin:auto">
-<h2>Cycle bien-être pour Aidant à Paray le Monial</h2>
+<h2>Cycle bien-être pour Aidant à Paray-le-Monial</h2>
 
 <p class="intro-text">Vous accompagnez au quotidien un proche en perte d’autonomie ou malade, et vous vous sentez stressé(e), fatigué(e), dépassé(e) ... ?
 </p>
@@ -32,7 +32,7 @@ pour contribuer aux échanges.
 </p>
 
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1599133724/lpqproches-jeudis-nov2020_qfk4ce.jpg" alt="flyer cycle bien-être pour aidants à Paray le Monnial, les jeudis 12 novembre, 26 novembre, 10 décembre, et 7 janvier. Contact: 03 85 21 62 10">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1599133724/lpqproches-jeudis-nov2020_qfk4ce.jpg" alt="flyer cycle bien-être pour aidants à Paray-le-Monnial, les jeudis 12 novembre, 26 novembre, 10 décembre, et 7 janvier. Contact: 03 85 21 62 10">
 </div>
 <ul style="text-align:right;list-style-type:none">
     <li>

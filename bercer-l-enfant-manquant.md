@@ -266,7 +266,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           mardi 13 octobre 2020 à 20h<br/>
           Théâtre Municipal Sauvageot<br/>
           28 avenue Charles de Gaulle<br/>
-          71600 PARAY LE MONIAL<br/>
+          71600 PARAY-LE-MONIAL<br/>
           03 85 81 11 62<br>
           <img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601621589/gatsby-cloudinary/blemParay.jpg" alt="flyer Paray-le-Monial le 13 octobre 2020 au Théâtre Sauvageot">
 
@@ -410,7 +410,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           vendredi 7 décembre 2018 à 14h30<br/>
           Studio 70<br/>
           3bis rue de Lyon<br/>
-          Chalon sur Saône<br/>
+          Chalon-sur-Saône<br/>
           gratuit — réservation : 06 14 40 46 61<br/>
           <a href="https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)" style="font-family: Crimson Text, serif;
   font-size: 1.3rem;

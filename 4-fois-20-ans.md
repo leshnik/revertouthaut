@@ -13,7 +13,7 @@ summary:
 <figcaption class="figCapCenter">par Rémy Chidaine et Sophie Hemar ; Montage : Cécile Frèrebeau</figcaption>
 </div>
 <main>
-<p class="intro-text">De mars à juillet 2021, en partenariat avec La Roue Voilée (Chalon sur Saône) et à l’initiative de D'jazz Nevers, Sidonie Dubosc, chanteuse, Morton Potash, compositeur et pianiste, Valérie Gaudissart, parolière et metteuse en scène ont conçu un atelier créatif pour l’Ehpad Marion de Givry à Nevers.</p>
+<p class="intro-text">De mars à juillet 2021, en partenariat avec La Roue Voilée (Chalon-sur-Saône) et à l’initiative de D'jazz Nevers, Sidonie Dubosc, chanteuse, Morton Potash, compositeur et pianiste, Valérie Gaudissart, parolière et metteuse en scène ont conçu un atelier créatif pour l’Ehpad Marion de Givry à Nevers.</p>
 
 <p class="intro-text">Ce projet pour personnes en perte d’autonomie et atteintes de maladies neuro-évolutives et leurs soignants, répondait à plusieurs objectifs: ranimer une créativité souvent enfouie, parfois niée, chez les participants, atténuer les effets de la dépression de la dernière partie de la vie, faire participer une institution à un projet artistique, et apporter de la culture commune.</p>
 
