@@ -48,7 +48,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 </p>
 
 <p class="shadow" style="background: #d43702; width: 50ch"><span style="color: #ffe3ca" class="nav-list-heading">Seniors</span><br>
-  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour <span style="font-size: smaller">2022>, Cluny</span</a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour <span style="font-size: smaller">2022, Cluny</span</a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/rencontres">●&nbsp;rencontres <span style="font-size: smaller">2023, St Bonnet de Joux</span></a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances <span style="font-size: smaller">2019/2020, <br>St Bonnet de Joux</span></a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="veillees-du-matin">●&nbsp;veillées du matin <span style="font-size: smaller">2021, St Bonnet de Joux</span></a><br>
