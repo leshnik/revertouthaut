@@ -72,6 +72,9 @@ h6 {
   font-family: "Crimson";
    font-size: 1.2rem;
 }
+.nav-list-item.subtlehover:hover {
+  background-color: #989790;
+}
 
 .coming li {
   color: $dark-green;
