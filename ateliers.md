@@ -34,6 +34,11 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 </p>
 <p class="intro-text">Être aidant, ça s’apprend ! Et ça s’accepte parfois avec difficulté, ou ambivalence. Que l’on soit parent, enfant, conjoint.e, ami.e, il n’est jamais anodin de devenir l’aidant de son proche dépendant et cela impacte souvent non seulement le quotidien, mais aussi tous les liens et les projections d’avenir. Et si l’aidant était aussi l’aidé quelque part ? Difficile parfois de s’y retrouver tant les liens sont imbriqués. </p>
 <p class="intro-text">Pouvoir partager cette expérience là, la transformer, et la rendre un peu plus légère, éviter l’isolement qu’il peut en découler, tels sont les objectifs des actions que nous menons envers tous les aidant.es, «aimant.es». </p>
+
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
+
 <p class="shadow" style="background: #767ba5; width: 50ch"><span style="color:#fbd7ae" class="nav-list-heading">insertion/travail social</span><br>
   <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/changer-de-pays">●&nbsp;changer de pays <span style="font-size: smaller">2020, Taizé</span></a><br>
   <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/les-petites-lucarnes">●&nbsp;les petites lucarnes <span style="font-size: smaller">2019/2020, Mâcon, Chalon</span></a><br>
@@ -44,6 +49,10 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <p class="intro-text">Quitter la rue, quitter l’errance, quitter la précarité, quitter l’isolement. Là aussi, long chemin pour celles et ceux qui ont connu des ruptures à répétition et ce, très souvent depuis l’enfance et qui même dans leur propre pays, pour de multiples raisons n’ont pas trouvé de chez eux.</p>
 
 <p class="intro-text">Tous ces changements, ces parcours accidentés, peuvent heureusement se transformés, s’adoucir, ou au moins se partager. </p>
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
+
 <p class="shadow" style="background: #664d69; width: 50ch"><span style="color: #c8f7c5" class="nav-list-heading">Parentalité</span><br>
   <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/familles-d-aujourd-hui">●&nbsp;familles d'aujourd'hui <span style="font-size: smaller">2022</span></a><br>
   <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color:#c8f7c5" href="/accompagner-la-parentalite">●&nbsp;accompagner la parentalité <span style="font-size: smaller">2021, Cluny</span></a><br>
@@ -52,6 +61,9 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   <a style="color: #c8f7c5" class="nav-list-item subtlehover" style="color: #c8f7c5" href="/je-t-ai-reve">●&nbsp;je t'ai rêvé <span style="font-size: smaller">2020/2021, Chalon</span></a>
 </p>
 <p class="intro-text">Qui a dit qu’être parent était facile, sans embûche et sans culpabilité ? Entre remises en cause des modèles et des injonctions sociales et adaptations aux réalités de sa propre famille,  être parent, devenir parent, s’accepter parent, se projeter parent, est un cheminement intime plein de questions, de doutes. Voici quelques accompagnements de parents et quelques propositions pour tenter de répondre à certaines questions, ou certains silences.</p>
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
 <p class="shadow" style="background: #d43702; width: 50ch"><span style="color: #ffe3ca" class="nav-list-heading">Seniors</span><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour <span style="font-size: smaller">2022, Cluny</span></a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/rencontres">●&nbsp;rencontres <span style="font-size: smaller">2023, St Bonnet de Joux</span></a><br>
@@ -61,7 +73,9 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/cycles-de-sophrologie">●&nbsp;sophrologie <span style="font-size: smaller">2020/2022</span></a>
   </p>
   <p class="intro-text">Accompagner le grand âge, c’est permettre que les émotions restent intactes, que les liens d’affections restent vifs, que des rencontres continuent de se faire, que des traces soient laissées. C’est miser sur le meilleur des liens humains, c’est miser sur ce qui reste d’essentiel et qui ne demande qu’à être transmis. Quelques exemples ici d’accompagnements destinés aux seniors, et aux institutions qui les accueillent. </p>
-
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
 <p class="shadow" style="background: #653a4c; width: 50ch"><span style="color: #f5d76e;" class="nav-list-heading">Handicap/Inclusion</span><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/re-inventer-sa-vie">●&nbsp;ré-inventer sa vie <span style="font-size: smaller">2022, Charnay-lès-Mâcon</span></a><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé <span style="font-size: smaller">2021, Chalon</span></a><br>
@@ -71,18 +85,31 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/chez-soi">●&nbsp;chez soi</a>
 </p>
 <p class="intro-text">Il n’est pas besoin de longs préambules pour que les personnes porteuses de troubles psychiques et des artistes s’entendent et se comprennent. Magie de l’imaginaire, du langage singulier, de la communication décalée, de la présence dans le présent, les relations sont immédiates et fructueuses. Et il faut saisir le jaillissement créatif des uns et des autres, et vite, le transformer, le rendre audible, le rendre visible, en garder trace, pour que les personnes porteuses de ces troubles psychiques qui souvent les excluent et le retranchent du monde, y retrouvent une toute petite place.</p>
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
 <p class="shadow" style="background: #8db3d2; width: 50ch"><span style="color: #00008b" class="nav-list-heading">Troubles Psychiques</span><br>
   <a style="color: #00008b" class="nav-list-item"  href="/portraits-des-miens">●&nbsp;portraits des miens <span style="font-size: smaller">2022, Sevrey</span></a><br>
 </p>
 <p class="intro-text">Il n’est pas besoin de longs préambules pour que les personnes porteuses de troubles psychiques et des artistes s’entendent et se comprennent. Magie de l’imaginaire, du langage singulier, de la communication décalée, de la présence dans le présent, les relations sont immédiates et fructueuses. Et il faut saisir le jaillissement créatif des uns et des autres, et vite, le transformer, le rendre audible, le rendre visible, en garder trace, pour que les personnes porteuses de ces troubles psychiques qui souvent les excluent et le retranchent du monde, y retrouvent une toute petite place.</p>
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
 <p class="shadow" style="background: #7fa090; width: 50ch"><span style="color:#97f9f7" class="nav-list-heading">Maladies Neuro-évolutives</span><br>
   <a style="color:#aafdfc" class="nav-list-item"  href="/vivre-avec-parkinson">●&nbsp;vivre avec Parkinson 2022</a><br>
 </p>
 <p class="intro-text">Les maladies évoluent, grignotent le quotidien et les repères, sont dévorantes mais il reste toujours des espaces intimes protégés, des sensations, des souvenirs, des états de conscience, des imaginaires où les symptômes se font moins présents et moins violents. Et les personnes porteuses de la maladie de Alzheimer, Parkinson, ou Corps de Lévy ont bien des choses à nous dire sur ce qu’elles traversent, sur leur attachement aux autres et à l’existence. </p>
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
 <p class="shadow" style="background: #f5ae1f; width: 50ch"><span style="color: #550055" class="nav-list-heading">monde rural</span><br>
   <a style="color: #550055" class="nav-list-item" href="/histoires-de-transmission">●&nbsp;histoires de transmission 2022/2023</a><br>
 </p>
 <p class="intro-text">En mutation, et en constante adaptation aux changements climatiques et sociaux, le monde rural n’est pas une abstraction ni une statistique. Ce sont des vraies personnes, souvent peu visibles, peu revendicatives, mais essentielles à la vie sociale, qui traversent des bouleversements professionnels, familiaux, climatiques, économiques. Leur regard sur le monde et sur leur monde, est important à considérer et à rendre public. Leurs paroles sont à écouter et à partager pour que de l’extérieur, les mutations profondes du monde rural soient entendues et perçues dans leur étendue. </p>
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
+        
 <div class="slideshow-container">
 
 <div class="mySlides">
