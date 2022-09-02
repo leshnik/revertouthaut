@@ -15,7 +15,7 @@ redirect_from:
 
 <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
 
-<li><a href="#morton" class="music-color">Morton Potash: musicien, mime, et danseur</a></li>
+<li><a href="#morton" class="music-color">Morton Potash: compositeur, musicien, mime, et danseur</a></li>
 
 <li><a href="#patricia" style="color: #29c">Patricia Rigo: art-thérapeute et plasticienne</a></li>
 
@@ -28,6 +28,8 @@ redirect_from:
 <li><a href="#romane" style="color: #29c" >Romane Lasserre: marionnettiste et céramiste</a></li>
 
 <li><a href="#flore" style="color: #7551e1">Flore Simon: comédienne et metteuse en scène</a></li>
+
+<li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute et metteuse en scène
@@ -47,7 +49,7 @@ Après un parcours de comédienne, Isis décide de devenir sophrologue suite à 
 Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2016 des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est installée en 2017.
 <div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
 <div id="morton"></div>
-<h2 class="music-color"> Morton Potash : musicien, mime, et danseur</h2>
+<h2 class="music-color"> Morton Potash : compositeur, musicien, mime, et danseur</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
 Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.
 
@@ -107,3 +109,13 @@ Formée au Conservatoire Régional de Chalon-sur-Saône puis en Master-pro mise 
 En 2018 et 2019, elle met en scène Juliette, suite et fin trop précoce, d’après un texte de Sylvain Levey puis le conte musical Cette mémoire des étoiles, à partir du roman La Folle allure de Christian Bobin. Elle collabore régulièrement avec des groupe de musique (La Sido, Jon and the minou’s).
 De 2019 à 2021, elle a été assistante de direction du Studio-Théâtre de la Comédie-Française.
 Elle anime des ateliers théâtre avec différents publics, enfants, adolescents et adultes. 
+
+<div id="estelle"></div>
+<h2 class="music-color">Estelle Bernigal: musicienne, comédienne, compositirice</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662108436/photo_estel_mu0o6g.jpg"></div>
+Elle débute la musique par l'accordéon et dès l'âge de 14 ans, joue dans les bals.
+Elle découvre la composition et compose des pièces pour plusieurs spectacles et compagnies "Yeyette", comédie musicale de Alain Chambosse, "Labora" de Jean Michel Debarbat – Cie Lug, Et pour une dizaine d'albums C.D.
+Elle chante, joue de l'accordéon, de la clarinette et de la flûte au sein de plusieurs formations de chanson française et de musique traditionnelle : Les Trapettistes pendant 10 ans, le Petit Cruq, Tandem, ça tient chaud Nougaro. Elle anime des ateliers musicaux auprès des plus jeunes (R.A.M, crèches) mais aussi des plus âgés avec son accordéon (EPHAD).
+Passionnée de pédagogie, elle obtient en 2014 un Diplôme d'état de professeur de musique et enseigne dans diverses écoles de musique dont celle du Grand Charolais. En 2017, elle rejoint la Compagnie "A tirelarigot" au sein de laquelle elle jouera plusieurs spectacles pour enfants au côté de Christine Laveder "Hola l'eau là", "Haut les branches", "Ohlala l'arbre" "Tutti Frutti et peau de banane" et créera le spectacle "Vent du voyage" à destination des tout-petits.
+Le clown et le jardinage sont ces passions.
+Elle s'est installé depuis 20 ans dans un petit village de Saône et Loire.
