@@ -5,12 +5,15 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>15 septembre 2022, restitution publique et concert des chansons
+   <li>15 septembre 2022, restitution publique et concert des chansons
 composées avec et pour les résidents de l'Ehpad de Cluny, dans le
-cadre du projet <a href="contre-jour">Contre-Jour</a>.</li>
+cadre du projet <a href="contre-jour">Contre-Jour</a>.
+   </li>
+   <div class="center-block" style="border: .1rem solid">
+       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
+    </div>
+   <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
     <hr>
-    <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li><hr>
-    
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     <hr>
     <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
