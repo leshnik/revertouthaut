@@ -11,7 +11,7 @@ redirect_from:
 <h1>les membres de notre équipe</h1>
 
 <ul class="center-text">
-<li><a href="#valerie" style="color: #7C984A">Valérie Gaudissart: art-thérapeute et metteuse en scène</a></li>
+<li><a href="#valerie" style="color: #7C984A">Valérie Gaudissart: art-thérapeute, autrice, comédienne et metteuse en scène</a></li>
 
 <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
 
@@ -32,7 +32,7 @@ redirect_from:
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
 </ul>
 <div id="valerie"></div>
-## Valérie Gaudissart : art-thérapeute et metteuse en scène
+## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
 {: .art-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601709554/gatsby-cloudinary/portraitVal.jpg"></div>
 Après des études théâtrales à Paris III, Valérie se forme, en étudiant les films des autres, au scénario et à la réalisation audiovisuelle. Elle réalise une huitaine de courts-métrages, tous primés en festival et un long-métrage de fiction, sorti en 2012. Ayant toujours ressenti la nécessité d’allier son travail fictionnel à un travail plus relié au monde social et à ses problématiques, elle monte à Chalon-sur-Saône un long projet de médiations théâtrales pour femmes victimes de violences conjugales. Elle crée la pièce «&nbsp;Les êtres humaines&nbsp;»  qui traite de l’intimité de ces violences, et qui tournera trois ans en Saône et Loire. Cette expérience riche et fondatrice lui a donné le désir de se former à l’art-thérapie. Elle est depuis 2017, diplômée de l’Institut de Psychologie de Lyon II et est titulaire du Diplôme Universitaire «&nbsp;Soins Psychiques, créativité et expression artistique&nbsp;».
