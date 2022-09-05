@@ -31,7 +31,7 @@ Des chansons et des textes qui évoquent les liens aux proches, qu’ils soient 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660400442/P6170077_etytgn.jpg">
 </div>
 
-<p class="intro-text">La méthode des artistes a d’abord consister à s’adapter aux troubles psychiques et au jaillissement dans le moment présent des expressions et des désirs des patients. Leurs ateliers prenaient donc l’allure de performance musicale pendant lesquelles tout ce qui pouvait être capté, écrit se voyait déjà et très rapidement transformé par un accompagnement musical. Il y a donc eu des improvisations, qui ont par la suite été gardées et il y a eut aussi beaucoup de choses plus élaborées et composées par les artistes en dehors des séances et rapportées aux patients à la séance suivante. 
+<p class="intro-text">La méthode des artistes a d’abord consisté à s’adapter aux troubles psychiques et au jaillissement dans le moment présent des expressions et des désirs des patients. Leurs ateliers prenaient donc l’allure de performance musicale pendant lesquelles tout ce qui pouvait être capté, écrit se voyait déjà et très rapidement transformé par un accompagnement musical. Il y a donc eu des improvisations, qui ont par la suite été gardées et il y a eut aussi beaucoup de choses plus élaborées et composées par les artistes en dehors des séances et rapportées aux patients à la séance suivante. 
 Certains patients ont écrit des textes tout seuls, d’autres ont raconté des choses à partir de consignes proposées par les artistes et notées et mises en forme par eux. D’autres textes et chansons ont été écrits par les artistes à partir des ressentis ou des bribes d’informations qu’ils sont arrivés à saisir des personnes. </p>
 
 <div class="center-block">
