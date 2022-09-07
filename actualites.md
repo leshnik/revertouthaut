@@ -12,12 +12,13 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
    <div class="center-block" style="border: .1rem solid">
        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
     </div>
-<hr>
+    <hr>
    <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
     <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     <hr>
-    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages autour des nouvelles façons de faire famille aujourd'hui.</li>
+    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</li>
+    <div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></div></div>
     <hr>
     <li>le 6 octobre, Lyon, 3e arrondissement, lecture musicale <a href="lpqp-lecture-musicale">les plus que proches</a> de témoignages d'aidants, dont des aidants toujours en activités et qui doivent conjuguer aidance et carrière professionnelle. En partenariat avec la Métropole du Grand Lyon</li>
     <hr>
