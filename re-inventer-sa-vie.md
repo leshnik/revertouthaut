@@ -5,7 +5,8 @@ summary:
 ---
 <h1>ré-inventer sa vie</h1>
 <p class="intro-text">«Ré-inventer sa vie» est un projet artistique conçu pour les résidents de l’Établissement d’Accueil Spécialisé Ugecam les Villandières de Charnay les Mâcon, qui a démarré en mars 22 et se terminera en novembre 2022.  Il est animé par une jeune équipe d’artistes pluridisciplinaire du spectacle vivant.</p>
-
+<div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
+</div>
 <p class="intro-text">Il prend comme axe la nécessité de travailler sur l’autodétermination des personnes, et sur leur accès à une vraie citoyenneté, et sur la reconnaissance de leur monde poétique, imaginaire et philosophique.
 Oui, on peut être dépendant tout en revendiquant une part d’autonomie et son statut d’adulte, avec tout ce que l’adulte est censé pouvoir faire pour sa propre existence : consentir, choisir, dire non, se révolter, argumenter, se raconter avec ses propres mots, prendre des décisions, rêver son  avenir, et ré-inventer son futur selon ses désirs.</p> 
 

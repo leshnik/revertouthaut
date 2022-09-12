@@ -41,10 +41,14 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
         le 3 décembre à Cluny<br>
         le 9 décembre à Couches</li>
         <hr>
-        <li>le 27 novembre, deux représentations du spectacle "Derrière nos
+    <li>le 27 novembre, deux représentations du spectacle "Derrière nos
 portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">Ré-inventer sa
 vie</a>, avec et pour les résidents du Foyer de Vie les Villandières, à
 Charnay les Macon.</li>
+    <div class="center-big-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
+    </div>
+
 <hr>
         <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li><hr>
     <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
