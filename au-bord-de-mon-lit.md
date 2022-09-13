@@ -4,7 +4,7 @@ title: au bord de mon lit
 summary:
 ---
 <h1>au bord de mon lit</h1>
-<p class="intro-text">Puisque la vie émotionnelle de l’être humain et tous les liens qui la fonde sont bien là jusqu’au dernier souffle, nous proposons un accompagnement au chevet des personnes alitées. Un accompagnement qui apaise les personnes et leurs proches, qui permet d’exprimer des choses, de les partager et d’en garder traces.</p>
+<p class="intro-text">Puisque la vie émotionnelle de l’être humain et tous les liens qui la fondent sont bien là jusqu’au dernier souffle, nous proposons un accompagnement au chevet des personnes alitées. Un accompagnement qui apaise les personnes et leurs proches, qui permet d’exprimer des choses, de les partager et d’en garder traces.</p>
 
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662968999/sido-au-bord-du-lit_fcg20b.jpg">
