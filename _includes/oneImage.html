@@ -3,11 +3,14 @@
 
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
-    
+    <div class="content-container-horizontal">
+      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601288714/gatsby-cloudinary/_MG_2254.jpg" style="width:100%;" alt="main qui cache longue texte écrite dans l'atelier 'les petites lucarnes'">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
+    <a class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+  </div>
     <div class="numbertext center-text">1 / 10</div>
   </div>
   <div class="mySlides">
@@ -74,13 +77,17 @@
     </figure>
     <div class="numbertext center-text">9 / 10</div>
   </div>
+
   <div class="mySlides">
-    
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601387366/gatsby-cloudinary/atelier-domicile-totem.jpg" style="width:100%">
+    <div class="content-container-horizontal">
+      <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601387366/gatsby-cloudinary/atelier-domicile-totem.jpg" style="width:100%"> 
     </figure>
+    <a class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+  </div>
     <div class="numbertext center-text">10 / 10</div>
   </div>
-  {% include next-prev-slide.html %}
+  
 </div>
 <br>
 <script type="text/javascript" src="/js/slideshow.js"></script>

@@ -41,6 +41,12 @@
     flex-direction: column; 
     width: 95%;
   }
+  .content-container-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    max-width: 95%;
+  }
   .shadow {
     -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
     -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
