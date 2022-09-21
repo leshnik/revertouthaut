@@ -65,6 +65,10 @@ Depuis tôt le matin jusqu’à tard le soir, fallait que ça brille, fallait qu
 
 <h2>texte collectif sur le langage des mains</h2>
 <p class="intro-text">Nous avons aussi, pour conclure cette série de textes individuels, écrit un texte collectif sur ce langage des mains :</p>
+<div class="flex-container space-around--wrap">
+<img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663789581/P9130089_af43y3.jpg">
+<img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663790289/P9130033_kauqwg.jpg">
+</div>
 <p class="intro-text">
 Toutes vos mains qui se souviennent des gestes de leur métier<br>
 Celles d’André, de Mauricette, de Jeanne, de Bernadette, de Lucie<br>
