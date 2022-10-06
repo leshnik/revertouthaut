@@ -5,30 +5,7 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-   <li>15 septembre 2022, restitution publique et concert des chansons
-composées avec et pour les résidents de l'Ehpad de Cluny, dans le
-cadre du projet <a href="contre-jour">Contre-Jour</a>.
-   </li>
-   <div class="center-block" style="border: .1rem solid">
-       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
-    </div>
-    <hr>
-   <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
-    <hr>
-    <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
-    <hr>
-    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</li>
-    <div class="flex-container">
-        <div class="column">
-            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
-        </div>
-        <div class="column">
-            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
-        </div>
-    </div>
-    <hr>
-    <!-- <li>le 6 octobre, Lyon, 3e arrondissement, lecture musicale <a href="lpqp-lecture-musicale">les plus que proches</a> de témoignages d'aidants, dont des aidants toujours en activités et qui doivent conjuguer aidance et carrière professionnelle. En partenariat avec la Métropole du Grand Lyon</li>
-    <hr> -->
+    <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
     <div class="flex-container">
         <div class="column">
             <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665057960/parent-solo-flyer-recto_q7xluz.jpg"></a>
@@ -38,7 +15,7 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
         </div>
     </div>
     
-    <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
+    <li>
         Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
         Réprésentations&nbsp;:&nbsp; <br>
         le 21 octobre à Sanvignes les Mines<br>
@@ -63,8 +40,33 @@ Charnay les Macon.</li>
     <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
     <hr>
     <li>Et tout 2023, réalisation d’un film photographique, <a href="histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
-    </ul>
+</ul>
 <h1>actualités</h1>
+<h2>Septembre</h2>
+<ul class="institutions">
+    <li>15 septembre 2022, restitution publique et concert des chansons
+composées avec et pour les résidents de l'Ehpad de Cluny, dans le
+cadre du projet <a href="contre-jour">Contre-Jour</a>.
+   </li>
+   <div class="center-block" style="border: .1rem solid">
+       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
+    </div>
+    <hr>
+   <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
+    <hr>
+    <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
+    <hr>
+    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</li>
+    <div class="flex-container">
+        <div class="column">
+            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
+        </div>
+        <div class="column">
+            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
+        </div>
+    </div>
+    <hr>
+</ul>
 <h2>Juillet/Août</h2>
 <ul class="institutions">
 <li>Mois d’été, mois rêvés pour écrire. Nous avons donc travaillé à la conception et l’écriture de <a href="re-inventer-sa-vie">Ré-inventer sa vie</a>, dont nous démarrerons les répétitions fin septembre avec les résidents des Villandières de Charnay.</li>
