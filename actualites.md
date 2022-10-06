@@ -29,6 +29,15 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
     <hr>
     <!-- <li>le 6 octobre, Lyon, 3e arrondissement, lecture musicale <a href="lpqp-lecture-musicale">les plus que proches</a> de témoignages d'aidants, dont des aidants toujours en activités et qui doivent conjuguer aidance et carrière professionnelle. En partenariat avec la Métropole du Grand Lyon</li>
     <hr> -->
+    <div class="flex-container">
+        <div class="column">
+            <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665057960/parent-solo-flyer-recto_q7xluz.jpg"></a>
+        </div>
+        <div class="column">
+            <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
+        </div>
+    </div>
+    
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>&nbsp;:&nbsp;<br>
         Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
         Réprésentations&nbsp;:&nbsp; <br>
