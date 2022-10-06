@@ -5,6 +5,16 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
+    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</li>
+    <div class="flex-container">
+        <div class="column">
+            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
+        </div>
+        <div class="column">
+            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
+        </div>
+    </div>
+    <hr>
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
     <div class="flex-container">
         <div class="column">
