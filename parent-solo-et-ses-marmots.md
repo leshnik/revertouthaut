@@ -171,7 +171,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
 
    
   <p class="intro-text">
-    Avec Aïcha Broutin, Sara Lahziri, Ghizlane Harrak, Sidonie Dubosc, Flore Simon, Valérie Gaudissart et Morton Potash.
+    Avec Aïcha Broutin, Sara Lahrizi, Ghizlane Harrak, Sidonie Dubosc, Flore Simon, Valérie Gaudissart et Morton Potash.
   </p>
 
   <p class="intro-text">Nous contacter au 07 69 29 53 27, ou revertouthaut@gmail.com pour devis et conditions techniques.</p>
