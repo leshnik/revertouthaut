@@ -18,10 +18,10 @@ summary:
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
     <div class="flex-container">
         <div class="column">
-            <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665057960/parent-solo-flyer-recto_q7xluz.jpg"></a>
+            <a href="parent-solo-et-ses-marmots"> <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg"></a>
         </div>
         <div class="column">
-            <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
+            <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
         </div>
     </div>
     
