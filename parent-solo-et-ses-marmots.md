@@ -13,10 +13,11 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     spectacle sur le thème de la monoparentalité
   </h2>
   <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632671928/affiche-tournee-2022_o0gbht.jpg">
-  <figcaption class="figCap">pour tout renseignement contacter<br>Asso Rêver Tout Haut <revertouthaut@gmail.com></figcaption>
-  </div>
-<ul>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665057960/parent-solo-flyer-recto_q7xluz.jpg" alt="affiche, pour toute renseignement contacter  07 69 29 53 27, revertouthaut@gmail.com">
+  </div><br>
+  <div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg">
+<!-- <ul>
 <li>Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre</li>
         Réprésentations 2022&nbsp;:&nbsp;
         <li>le 21 octobre à Sanvignes les Mines</li>
@@ -27,7 +28,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
         <li>le 2 décembre à Chalon</li>
         <li>le 3 décembre à Cluny</li>
         <li>le 9 décembre à Couches</li>
-</ul>
+</ul> -->
 <!-- Slideshow container -->
 <div class="slideshow-container">
 
