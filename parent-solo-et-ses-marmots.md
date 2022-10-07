@@ -40,8 +40,10 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">1 / 15</div>
+    <div class="numbertext center-text">1 / 29</div>
   </div>
+
+
 
 
   <div class="mySlides">
@@ -53,7 +55,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">2 / 15</div>
+    <div class="numbertext center-text">2 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -65,7 +67,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">3 / 15</div>
+    <div class="numbertext center-text">3 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -77,7 +79,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">4 / 15</div>
+    <div class="numbertext center-text">4 / 29</div>
   </div>
 
 <div class="mySlides">
@@ -89,7 +91,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">5 / 15</div>
+    <div class="numbertext center-text">5 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -101,7 +103,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">6 / 15</div>
+    <div class="numbertext center-text">6 / 29</div>
   </div>
 
 <div class="mySlides">
@@ -112,7 +114,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
     </figure><a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">7 / 15</div>
+    <div class="numbertext center-text">7 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -124,7 +126,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">8 / 15</div>
+    <div class="numbertext center-text">8 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -136,7 +138,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">9 / 15</div>
+    <div class="numbertext center-text">9 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -148,7 +150,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">10 / 15</div>
+    <div class="numbertext center-text">10 / 29</div>
   </div>
 
 <div class="mySlides">
@@ -160,7 +162,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">11 / 15</div>
+    <div class="numbertext center-text">11 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -172,7 +174,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">12 / 15</div>
+    <div class="numbertext center-text">12 / 29</div>
   </div>
 
 <div class="mySlides">
@@ -184,7 +186,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">13 / 15</div>
+    <div class="numbertext center-text">13 / 29</div>
   </div>
 
   <div class="mySlides">
@@ -196,20 +198,191 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">14 / 15</div>
+    <div class="numbertext center-text">14 / 29</div>
   </div>
 
   <div class="mySlides">
-  <div class="content-container-horizontal">
-  <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/fille-ghizlane-en-l_air_xap2fv.png">
-      <figcaption class="figCap">©Lucie Moraillon</figcaption>
-    </figure>
-    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684491/fille-ghizlane-en-l_air_xap2fv.png">
+        <figcaption class="figCap">©Lucie Moraillon</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
-    <div class="numbertext center-text">15 / 15</div>
+    <div class="numbertext center-text">15 / 29</div>
   </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135669/vite_debout_copy_v6qibo.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">16 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/flore_caddie_copy_hbrmdv.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">17 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135669/usine_copy_rclc2q.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">18 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/sid-micro-table-all-girls_copy_md6fto.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">19 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/ghizalne_place_a%CC%80_table_copy_hx9qgh.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">20 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/poings_leve%CC%81s_copy_vfbgup.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">21 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/flore_boxe_poigne_copy_l28p2h.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">22 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/fautive_copy_lzplpt.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">23 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/danse-finale-girl-in-red_copy_iwn53l.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">24 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/aicha_eiooxo.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">25 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/danse-finale_copy_fimqjy.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">26 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/deces_groupe_copy_mpznfq.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">27 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135667/aicha-shiva_copy_hyqhty.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">28 / 29</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+      <figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/clown_copy_hjcxmm.jpg">
+        <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
+      </figure>
+      <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">29 / 29</div>
+  </div>
+
+
+
 </div>
 <br>
 <script type="text/javascript" src="/js/slideshow.js"></script>  
