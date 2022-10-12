@@ -39,13 +39,13 @@
   .content-container {
     display: flex; 
     flex-direction: column; 
-    width: 99%;
+    width: 100%;
   }
   .content-container-horizontal {
     display: inline-flex;
     flex-direction: row;
     justify-content: space-around;
-    max-width: 99%;
+    width: 100%;
   }
   .content-container-horizontal>figure {
     margin: 0 2px;
