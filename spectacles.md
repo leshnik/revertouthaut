@@ -14,16 +14,19 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
 <p class="intro-text">Le spectacle vivant peut en effet être un aboutissement à des ateliers particulièrement riches et la représentation publique peut faire partie de la démarche thérapeutique, aussi bien pour les participants que pour des spectateurs concernés par les thématiques abordées.
 </p>
 <p class="intro-text">Voici nos spectacles en tournée, en cours de création, et nos spectacles passés.
-
 </p>
 
-<ul class="center-text">
-  <li><a href="/bercer-l-enfant-manquant" style="color:color:hsl(171, 93%, 25%); font-size:30px">●&nbsp;bercer l'enfant manquant</a></li>
-  <li><a href="/parent-solo-et-ses-marmots" style="color:#f6c172; font-size:30px">●&nbsp;parent solo et ses marmots</a></li>
-  <li><a href="lpqp-lecture-musicale" style="color:#51bbe1; font-size:30px">●&nbsp;les plus que proches - lecture musicale</a></li>
-  <li><a href="/cabosses" style="color:#DE1608; font-size:30px">●&nbsp;cabossés</a></li>
-  
-<!--   <li><a href="l-hibernance-des-betes" style="font-size:26px; color:hsl(120,25.1%,64.9%)">●&nbsp;l'hibernance des bêtes (2022)</a></li> --> 
-  <li><a href="les-etres-humaines" style="font-size:26px">●&nbsp;les êtres humaines (2015 - 2018)</a></li>
-       
-</ul>
+<div class="space-around--wrap">
+  <p class="shadow" style="background: #9d1737; width: 50ch">
+      <a style="color: #72fc3b" class="nav-list-heading subtlehover" href="/spectacles">●&nbsp;Spectacles</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/bercer-l-enfant-manquant">●&nbsp;Bercer l'enfant manquant (2019 - )</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/parent-solo-et-ses-marmots">●&nbsp;Parent solo et ses marmots (2021 - )</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover"  href="/lpqp-lecture-musicale">●&nbsp;Les plus que proches (2019 - )</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/vivre-avec-parkinson">●&nbsp;Vivre avec Parkinson (2022 - )</a><br>
+      <a class="nav-list-item subtlehover" style="color: #aafc89" href="/cabosses">●&nbsp;Cabossés (2022 - )</a>
+      <br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">●&nbsp;Chansons pour ceux qui ne font pas de bruit (2022 - )</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover"  href="les-etres-humaines">●&nbsp;Les&nbsp;Étres&nbsp;Humaines&nbsp;(2015 - 2018)</a>
+    </p>
+</div>
+
