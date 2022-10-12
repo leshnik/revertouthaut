@@ -23,7 +23,7 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
   <li><a href="lpqp-lecture-musicale" style="color:#51bbe1; font-size:30px">●&nbsp;les plus que proches - lecture musicale</a></li>
   <li><a href="/cabosses" style="color:#DE1608; font-size:30px">●&nbsp;cabossés</a></li>
   
-  <li><a href="l-hibernance-des-betes" style="font-size:26px; color:hsl(120,25.1%,64.9%)">●&nbsp;l'hibernance des bêtes (2022)</a></li> 
+<!--   <li><a href="l-hibernance-des-betes" style="font-size:26px; color:hsl(120,25.1%,64.9%)">●&nbsp;l'hibernance des bêtes (2022)</a></li> --> 
   <li><a href="les-etres-humaines" style="font-size:26px">●&nbsp;les êtres humaines (2015 - 2018)</a></li>
        
 </ul>
