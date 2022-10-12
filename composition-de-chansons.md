@@ -108,7 +108,7 @@ avec aux pieds les chaussures blanches <br>
 à talons aiguilles <br>
 que j’ai achetées à Paris <br>
 toute seule dans un magasin à Paris <br>
-toute seule quand je sui<br>s allée à Paris 
+toute seule quand je suis allée à Paris<br> 
 toute seule 
 </p>
 
