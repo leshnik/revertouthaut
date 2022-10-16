@@ -15,8 +15,8 @@ summary: Concert de textes chantés crées et interprétés par des personnes c�
 </div>
 <h2>captation du spectacle du 25 juin</h2>
 <div class="center-max600-block">
-  <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/18c06086-d8e7-4e74-bef5-73a930031415?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
-<!-- <video controls="contols" width="100%"><source src="https://rth8.b-cdn.net/SpectacleCabosses-25062022.mp4"></video> -->
+  <!-- <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/18c06086-d8e7-4e74-bef5-73a930031415?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div> -->
+<video controls="contols" width="100%" poster="https://vz-90b963c8-6e8.b-cdn.net/18c06086-d8e7-4e74-bef5-73a930031415/thumbnail_dcbadeb5.jpg"><source src="https://rth8.b-cdn.net/SpectacleCabosses-25062022.mp4"></video>
 </div>
 
 <h2>le livret avec une partie des textes et des dessins des participants</h2>
