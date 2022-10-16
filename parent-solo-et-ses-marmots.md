@@ -392,7 +392,9 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <p class="intro-text"><cite>«Parent solo et ses marmots»</cite> mêle textes et chansons, met en scène la formidable énergie des familles mono-parentales, partage les difficultés de certaines situations, et est joué par des comédiennes professionnelles, et des mamans solo qui montent pour la première fois sur scène.</p>
 
 <div class="center-max600-block">
-  <video controls="controls" width="100%" poster="https://vz-90b963c8-6e8.b-cdn.net/8f234d6a-ccbe-415d-a97f-4dc6343ac06a/thumbnail_bb175d0d.jpg"><source src="https://video.bunnycdn.com/play/13613/8f234d6a-ccbe-415d-a97f-4dc6343ac06a"></video>  
+  <div style="position: relative; padding-top: 56.25%;">
+    <iframe poster="https://vz-90b963c8-6e8.b-cdn.net/8f234d6a-ccbe-415d-a97f-4dc6343ac06a/thumbnail_bb175d0d.jpg" src="https://iframe.mediadelivery.net/embed/13613/8f234d6a-ccbe-415d-a97f-4dc6343ac06a?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe>
+  </div>
 </div>
 
   <p class="intro-text">Le spectacle est né d’ateliers de création et de partages de témoignages, mené par <span class="rever-typog">Rêver Tout Haut</span> depuis mai 2019, en partenariat avec la Ville de Saint Marcel, le Centre Social l’Orange Bleue et la CAF 71. Il a été créé en juin 2021 au Réservoir de Saint Marcel (71) partira en tournée à partir de 2022 en Bourgogne Franche-Comté et Auvergne-Rhône-Alpes.</p>
