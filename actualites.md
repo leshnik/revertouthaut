@@ -5,6 +5,59 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
+    <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
+        <div class="flex-container">
+            <div class="column">
+                <a href="parent-solo-et-ses-marmots"> <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg"></a>
+            </div>
+            <div class="column">
+                <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
+            </div>
+        </div>
+        <li>
+            Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
+            Réprésentations&nbsp;:&nbsp; <br>
+            le 21 octobre à Sanvignes les Mines<br>
+            le 28 octobre à Louhans<br>
+            le 4 novembre au Creusot<br>
+            le 18 novembre à Mâcon<br>
+            le 25 novembre à Paray-le-Monial<br>
+            le 2 décembre à Chalon<br>
+            le 3 décembre à Cluny<br>
+            le 9 décembre à Couches</li>
+    <hr>
+    <li>le 14 novembre à la Galerie les Mains Libres à Cluny, clôture de l’atelier <a href="aidants-aimants">Aidants Aimants</a>, en musique et en photos. Un livret qui réunira tout ce qui a été créé pendant ces deux ans est en cours et verra le jour à la fin de l’année.</li>
+    <hr>
+    <li>le 27 novembre, deux représentations du spectacle "Derrière nos
+portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">Ré-inventer sa
+vie</a>, avec et pour les résidents du Foyer de Vie les Villandières, à
+Charnay les Macon.</li>
+        <div class="center-big-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
+        </div>
+    <hr>
+    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
+    <hr>
+    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
+    <hr>
+    <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li>
+    <hr>
+    <li>2023, réalisation d’un film photographique, <a href="histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
+    <hr>
+</ul>
+<h1>actualités</h1>
+<h2>Octobre</h2>
+<ul class="institutions">
+    <li>Début d’automne à vive allure pour Rêver Tout Haut ! Sur les routes de Saône et Loire avec <a href="parent-solo-et-ses-marmots">Parent Solo et ses marmots</a>, dans nos ateliers en train de préparer notre spectacle <a href="re-inventer-sa-vie">Derrière nos portes</a>,  et entre temps, le nez dans des dossiers, avec des projets plus passionnants les uns que les autres. Il faut bien ça pour garder du sens et de la vitalité en cette période lourde et moche. </li>
+    <hr>
+    <li>Donc, un projet de tournée avec une quinzaine de personnes cérébro-lésées avec un nouveau spectacle «Maintenant il y a», qui raconte comment on (re)-vit après un accident, pour l’an prochain. Dépôt de dossiers et partenariats en pagaille pour ce projet ambitieux et réparateur, dont l’objectif est de pouvoir être représenté dans des lieux culturels, des établissements scolaires et des centres de rééducation fonctionnelle.<br>
+    Porteurs du projet avec nous: Le GEM «Un sourire pour la vie» de Mâcon, la Novelline de Cluny, l’Association des Familles de Traumatisés Crâniens de Besançon. Et partenariats multiples sur le territoire de la Bourgogne Franche-Comté.</li>
+    <hr>
+    <li>Un autre projet passionnant pour l’an prochain, avec le service d’Addictologie de l’Hôpital de Montceau les Mines : un spectacle musical avec et par des patientes et des soignantes du service, «Cachettes secrètes», qui accompagnera et racontera tout ce qui reste vivace, désirable, transformable dans l’existence et l’abstinence. Là aussi, pas mal de partenariats qui se mettent en place.</li>
+<hr>
+    <li>Et une autre idée qui vient de jaillir: proposer à des jeunes aidants, voire très jeunes, un atelier créatif danse/écriture/musique qui les réunirait autour de leurs expériences d’enfant, de frère, de sœur d’un proche porteur d’une maladie ou d’un handicap. Idée à creuser mais bien partie !
+    </li>
+    <hr>
     <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</li>
     <div class="flex-container">
         <div class="column">
@@ -14,44 +67,7 @@ summary:
             <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
         </div>
     </div>
-    <hr>
-    <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
-    <div class="flex-container">
-        <div class="column">
-            <a href="parent-solo-et-ses-marmots"> <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg"></a>
-        </div>
-        <div class="column">
-            <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
-        </div>
-    </div>
-    
-    <li>
-        Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre<br>
-        Réprésentations&nbsp;:&nbsp; <br>
-        le 21 octobre à Sanvignes les Mines<br>
-        le 28 octobre à Louhans<br>
-        le 4 novembre au Creusot<br>
-        le 18 novembre à Mâcon<br>
-        le 25 novembre à Paray-le-Monial<br>
-        le 2 décembre à Chalon<br>
-        le 3 décembre à Cluny<br>
-        le 9 décembre à Couches</li>
-        <hr>
-    <li>le 27 novembre, deux représentations du spectacle "Derrière nos
-portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">Ré-inventer sa
-vie</a>, avec et pour les résidents du Foyer de Vie les Villandières, à
-Charnay les Macon.</li>
-    <div class="center-big-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
-    </div>
-
-<hr>
-        <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li><hr>
-    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
-    <hr>
-    <li>Et tout 2023, réalisation d’un film photographique, <a href="histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
 </ul>
-<h1>actualités</h1>
 <h2>Septembre</h2>
 <ul class="institutions">
     <li>15 septembre 2022, restitution publique et concert des chansons
@@ -65,18 +81,7 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
    <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
     <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
-    <hr>
-    <li>Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</li>
-    <div class="flex-container">
-        <div class="column">
-            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
-        </div>
-        <div class="column">
-            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
-        </div>
-    </div>
-    <hr>
-</ul>
+    </ul>
 <h2>Juillet/Août</h2>
 <ul class="institutions">
 <li>Mois d’été, mois rêvés pour écrire. Nous avons donc travaillé à la conception et l’écriture de <a href="re-inventer-sa-vie">Ré-inventer sa vie</a>, dont nous démarrerons les répétitions fin septembre avec les résidents des Villandières de Charnay.</li>
