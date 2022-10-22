@@ -46,6 +46,11 @@
   .flex-container{
     display: flex;
   }
+  .flex-container-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
   .column {
     flex: 45%;
     padding: 5%;
