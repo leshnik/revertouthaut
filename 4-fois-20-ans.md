@@ -68,50 +68,26 @@ On dit qu'on a toujours vingt ans...»</em></div>
     <figcaption class="figCapCenter">Poème pour Josiane et Maurice</figcaption>
   </div>
 </div>
-
-<div class="slideshow-container">
-
-  
-  <div class="mySlides">
-    <div class="numbertext">1 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630383436/bate_din_palme_rodica_bjeqjg.png" alt="Gros plan sur Rodica qui tend ses bras pour nous embrasser.">
-      <figcaption class="figCapCenter">Bate Din Palme, chanson pour Rodica</figcaption>
-      <div class="numbertext center-text">1 / 4</div>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">2 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384510/josianne-lisant-sa-chanson_am7pjv.png" alt="Josiane tient la partition de sa chanson et la regarde">
-      <figcaption class="figCapCenter">Josiane lisant sa chanson</figcaption>
-      <div class="numbertext center-text">2 / 4</div>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">3 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630384935/andre%CC%81_sido_kalimba_xopn7l.png" alt="Sidonie joue le kalimba pour André qui la regarde intensément">
-      <figcaption class="figCapCenter">Chanson: Dans le Rêve d'André</figcaption>
-      <div class="numbertext center-text">3 / 4</div>
-    </figure>
-  </div>
-
-  <div class="mySlides">
-    <div class="numbertext">4 / 4</div>
-    <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_800/v1630412251/pre%CC%81sentation2_yhnrnn.png" alt="Les résidents et le publique regardent Sidonie, Morton, et Valérie qui chantent">
+<br>
+<div class="center-max600-block">
+  <figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630383436/bate_din_palme_rodica_bjeqjg.png" alt="Gros plan sur Rodica qui tend ses bras pour nous embrasser.">
+    <figcaption class="figCapCenter">Bate Din Palme, chanson pour Rodica</figcaption>
+  </figure>
+  <figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630384510/josianne-lisant-sa-chanson_am7pjv.png" alt="Josiane tient la partition de sa chanson et la regarde">
+    <figcaption class="figCapCenter">Josiane lisant sa chanson</figcaption>
+  </figure>
+  <figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630384935/andre%CC%81_sido_kalimba_xopn7l.png" alt="Sidonie joue le kalimba pour André qui la regarde intensément">
+    <figcaption class="figCapCenter">Chanson: Dans le Rêve d'André</figcaption>
+  </figure>
+  <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630412251/pre%CC%81sentation2_yhnrnn.png" alt="Les résidents et le publique regardent Sidonie, Morton, et Valérie qui chantent">
       <figcaption class="figCapCenter">Présentation publique</figcaption>
-      <div class="numbertext center-text">4 / 4</div>
-    </figure>
-  </div>
-  
- {% include next-prev-slide.html %}
-
+  </figure>
 </div>
-<script type="text/javascript" src="/js/slideshow.js"></script>
+
 
 <h2>les chansons de bienvenue</h2>
 <h5>accueil en musique pendant que les soignants installent les résidents</h5>
