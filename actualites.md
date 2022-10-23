@@ -5,7 +5,7 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>Tournée de <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a></li>
+    <li>Tournée de <a href="/parent-solo-et-ses-marmots">parent solo et ses marmots</a></li>
         <div class="flex-container">
             <div class="column">
                 <a href="parent-solo-et-ses-marmots"> <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg"></a>
@@ -26,15 +26,18 @@ summary:
             le 3 décembre à Cluny<br>
             le 9 décembre à Couches</li>
     <hr>
-    <li>le 14 novembre à la Galerie les Mains Libres à Cluny, clôture de l’atelier <a href="aidants-aimants">Aidants Aimants</a>, en musique et en photos. Un livret qui réunira tout ce qui a été créé pendant ces deux ans est en cours et verra le jour à la fin de l’année.</li>
+    <li>le 14 novembre à la Galerie les Mains Libres à Cluny, clôture de l’atelier <a href="aidants-aimants">aidants aimants</a>, en musique et en photos. Un livret qui réunira tout ce qui a été créé pendant ces deux ans est en cours et verra le jour à la fin de l’année.</li>
     <hr>
     <li>le 27 novembre, deux représentations du spectacle "Derrière nos
-portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">Ré-inventer sa
+portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">ré-inventer sa
 vie</a>, avec et pour les résidents du Foyer de Vie les Villandières, à
 Charnay les Macon.</li>
         <div class="center-big-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
         </div>
+    <hr>
+    <li>le 30 novembre, concert <a href="accordeon-quizz">accordéon quizz</a> pour l'Ehpad Hôtel-Dieu du Centre Hospitalier de Mâcon. Comment accorder grâce à la musique, l'amusement et le soin cognitif.
+    </li>
     <hr>
     <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
     <hr>
@@ -42,13 +45,13 @@ Charnay les Macon.</li>
     <hr>
     <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li>
     <hr>
-    <li>2023, réalisation d’un film photographique, <a href="histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
+    <li>2023, réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
 </ul>
 <h1>actualités</h1>
 <h2>Octobre</h2>
 <ul class="institutions">
-    <li>Début d’automne à vive allure pour Rêver Tout Haut ! Sur les routes de Saône et Loire avec <a href="parent-solo-et-ses-marmots">Parent Solo et ses marmots</a>, dans nos ateliers en train de préparer notre spectacle <a href="re-inventer-sa-vie">Derrière nos portes</a>,  et entre temps, le nez dans des dossiers, avec des projets plus passionnants les uns que les autres. Il faut bien ça pour garder du sens et de la vitalité en cette période lourde et moche. </li>
+    <li>Début d’automne à vive allure pour Rêver Tout Haut ! Sur les routes de Saône et Loire avec <a href="parent-solo-et-ses-marmots">parent Solo et ses marmots</a>, dans nos ateliers en train de préparer notre spectacle <a href="re-inventer-sa-vie">derrière nos portes</a>,  et entre temps, le nez dans des dossiers, avec des projets plus passionnants les uns que les autres. Il faut bien ça pour garder du sens et de la vitalité en cette période lourde et moche. </li>
     <hr>
     <li>Donc, un projet de tournée avec une quinzaine de personnes cérébro-lésées avec un nouveau spectacle «Maintenant il y a», qui raconte comment on (re)-vit après un accident, pour l’an prochain. Dépôt de dossiers et partenariats en pagaille pour ce projet ambitieux et réparateur, dont l’objectif est de pouvoir être représenté dans des lieux culturels, des établissements scolaires et des centres de rééducation fonctionnelle.<br>
     Porteurs du projet avec nous: Le GEM «Un sourire pour la vie» de Mâcon, la Novelline de Cluny, l’Association des Familles de Traumatisés Crâniens de Besançon. Et partenariats multiples sur le territoire de la Bourgogne Franche-Comté.</li>
