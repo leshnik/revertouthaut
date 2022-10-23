@@ -205,10 +205,10 @@ Michael's here and we're feelin' just fine
 sur les touches ivoires du piano noir<br>
 les doigts de Monique se posent<br>
 et s'arrête le temps<br>
-et sous ses mains virtuoses se ranconte une histoire<br>
-le prelude du matin, la sonate du midi, le nocturne du soir<br>
+et sous ses mains virtuoses se raconte une histoire<br>
+le prélude du matin, la sonate du midi, le nocturne du soir<br>
 et la fugue de la nuit<br>
-sur les touches ivoires du piano noir<br>
+sur les touches ivoire du piano noir<br>
 les doigts de Monique se posent<br>
 et s'arrête le temps
 </cite>
