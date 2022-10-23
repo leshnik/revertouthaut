@@ -202,7 +202,7 @@ Michael's here and we're feelin' just fine
 <audio controls src="https://rth8.b-cdn.net/Monique%20et%20le%20piano.mp3"></audio>
 <p class="cite">chant: Sidonie Dubosc, paroles: Valérie Gaudissart, musique: Morton Potash<br>enregistrement par Leo Aubry et La Roue Voilée</p>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
-sur les touches ivoires du piano noir<br>
+sur les touches ivoire du piano noir<br>
 les doigts de Monique se posent<br>
 et s'arrête le temps<br>
 et sous ses mains virtuoses se raconte une histoire<br>
