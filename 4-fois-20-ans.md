@@ -50,7 +50,7 @@ On dit qu'on a toujours vingt ans...»</em></div>
 
 <div class="flex-container-wrap">
   <div>
-    <video controls poster="https://vz-90b963c8-6e8.b-cdn.net/98b902ed-5ef9-4daa-a105-df49066ee0b6/thumbnail_e286c80d.jpg">
+    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666776341/monique-piano-thumbnail_rnszq1.jpg">
       <source src="https://rth8.b-cdn.net/au-piano-monique+morton-gmail-large.mp4">
     </video>
     <figcaption class="figCapCenter">L'ancienne professeure de piano<br>retrouve son instrument...</figcaption>
