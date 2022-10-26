@@ -47,7 +47,7 @@
     display: flex;
   }
   .flex-container-wrap {
-    width:95%;
+    max-width:calc(100% - 3px);
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
