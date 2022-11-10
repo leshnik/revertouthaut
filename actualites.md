@@ -39,7 +39,9 @@ Charnay les Macon.</li>
     <li>le 30 novembre, concert <a href="accordeon-quizz">accordéon quizz</a> pour l'Ehpad Hôtel-Dieu du Centre Hospitalier de Mâcon. Comment accorder grâce à la musique, l'amusement et le soin cognitif.
     </li>
     <hr>
-    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
+    <li>le mardi 4 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">Les Plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
+organisée par la MSA des Portes de Bretagne
+    </li>
     <hr>
     <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
     <hr>
@@ -47,6 +49,7 @@ Charnay les Macon.</li>
     <hr>
     <li>2023, réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
+    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
 </ul>
 <h1>actualités</h1>
 <h2>Octobre</h2>
