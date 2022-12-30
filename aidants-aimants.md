@@ -12,7 +12,7 @@ tags: [aidants, journée nationale des aidants]
 <p class="intro-text">De participer à tout un chemiment créatif, qui se veut un répit et une manière de de retrouver vitalité, espace personnel, dynamique de groupe, vie sociale, soutien et élaboration autour de l’accompagnement de son proche.
 </p>
 
-<p class="intro-text">On peut visionner <a href="aidantes-aimantes-le-livret">Le Livret Aidantes Aimantes</a> qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers ou le télécharger en cliquant ici&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a>
+<p class="intro-text">Vous pouvez suivre le lien <a href="aidantes-aimantes-le-livret">Le Livret Aidantes Aimantes</a> pour visionner le livret qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers ou le télécharger en cliquant sur l'image&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a>
 </p>
 
 
