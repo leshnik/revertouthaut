@@ -102,13 +102,13 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
     </div>
     <hr>
-   <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
+   <li>A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="re-inventer-sa-vie">derrière nos portes</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</li>
     <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     </ul>
 <h2>Juillet/Août</h2>
 <ul class="institutions">
-<li>Mois d’été, mois rêvés pour écrire. Nous avons donc travaillé à la conception et l’écriture de <a href="re-inventer-sa-vie">Ré-inventer sa vie</a>, dont nous démarrerons les répétitions fin septembre avec les résidents des Villandières de Charnay.</li>
+<li>Mois d’été, mois rêvés pour écrire. Nous avons donc travaillé à la conception et l’écriture de <a href="re-inventer-sa-vie">derrière nos portes</a>, dont nous démarrerons les répétitions fin septembre avec les résidents des Villandières de Charnay.</li>
  <hr>
 <li>Nous avons aussi été recueillir de nouveaux témoignages d’aidants, notamment autour de l’expérience de l’aidant qui continue de mener une carrière professionnelle et qui doit conjuguer une double responsabilité. Recueil fait le but de nourrir notre lecture <a href="les-plus-que-proches">les plus que proches</a> en diversifiant les parcours des personnes qui témoignent.</li>
 <hr>
@@ -136,7 +136,7 @@ nuit.</li><hr>
 <hr>
 <li>Le 18 juin à Saint Malo, lecture de témoignages d'aidants pour le CLIC, le CCAS et la Maison de la Famille, 1 place Anne de Bretagne, 35400 Saint-Malo. Et oui, nous avons maintenant une petite antenne en Bretagne !</li>
 <hr>
-<li>Fin de la première étape pour l’atelier <a href="re-inventer-sa-vie">Ré-inventer sa vie</a> aux Villandières de Charnay les Mâcon avec une trentaine de résidents. Là aussi de très beaux textes, chansons, dessins créés. Belle moisson pour notre spectacle prévu pour la fin de l’année !</li>
+<li>Fin de la première étape pour l’atelier <a href="re-inventer-sa-vie">derrière nos portes</a> aux Villandières de Charnay les Mâcon avec une trentaine de résidents. Là aussi de très beaux textes, chansons, dessins créés. Belle moisson pour notre spectacle prévu pour la fin de l’année !</li>
 <hr>
 <li>En enfin, lecture en musique <a href="/vivre-avec-parkinson">Vivre avec parkinson</a> pour l'association France Parkinson National, le lundi 27 juin, 19h, rue de la Terre au Curé à Paris XIIIéme.</li>
 </ul>
@@ -151,7 +151,7 @@ nuit.</li><hr>
     <hr>
     <li>Les quatre nouveaux résidents de la Novelline de Cluny et les usagers du GEM de Mâcon ont bien créé chacun leur chanson pour le spectacle de chansons "Cabossés", dans le cadre du travail artistique <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a>. </li>
     <hr>
-    <li>Notre cycle de performances artistiques <a href="/re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon continue.</li>
+    <li>Notre cycle de performances artistiques <a href="/re-inventer-sa-vie">derrière nos portes</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon continue.</li>
     <hr>
     <li>Plusieurs séances de recueil de témoignages et de prise de vue avec des agriculteurs de la région dans le cadre du projet <a href="/histoires-de-transmission">Histoires de transmission</a>.</li>
     <hr>
@@ -167,7 +167,7 @@ nuit.</li><hr>
 </ul>
 <ul class="institutions">
     <hr>
-    <li>Continuité de notre cycle de performances artistiques <a href="/re-inventer-sa-vie">Ré-inventer sa vie</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon
+    <li>Continuité de notre cycle de performances artistiques <a href="/re-inventer-sa-vie">derrière nos portes</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon
         <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159519/IMG-20220422-WA0000_vrk8hx.jpg"></div></li>
     <hr>
     <li>Préparation de notre prochaine lecture musicale basée sur des témoignages de personnes porteuses de la maladie de Parkinson.</li>
@@ -184,7 +184,7 @@ nuit.</li><hr>
     <hr>
     <li>Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></li>
     <hr>
-    <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">ré-inventer sa vie</a>
+    <li>Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/re-inventer-sa-vie">derrière nos portes</a>
     <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></li>
 </ul>
     <hr>
@@ -192,7 +192,7 @@ nuit.</li><hr>
 <ul class="institutions">
     <li>Démarrage d’un nouveau projet, <a href="/histoires-de-transmission">Histoires de Transmission</a> qui va s’intéresser par le biais du recueil de témoignages et d’un travail photographique aux transmissions dans les familles d’agriculteurs partant à la retraite sans repreneur au sein de la famille. Qu’est-ce que la famille traverse dans cette période complexe de la fin d’une exploitation ? Projet soutenu par la MSA. </li>
 
-    <li>Démarrage d’un atelier innovant <a href="/re-inventer-sa-vie">ré-Inventer sa vie</a> qui va proposer art postal, écriture et mise en scène d’un spectacle de théâtre d’objets au sein de l’établissement Ugecam-les Villandières de Charnay les Mâcon. Projet soutenu par la DRAC Bourgogne, l’ARS  et Culture et Santé.</li>
+    <li>Démarrage d’un atelier innovant <a href="/re-inventer-sa-vie">derrière nos portes</a> qui va proposer art postal, écriture et mise en scène d’un spectacle de théâtre d’objets au sein de l’établissement Ugecam-les Villandières de Charnay les Mâcon. Projet soutenu par la DRAC Bourgogne, l’ARS  et Culture et Santé.</li>
 
     <li>A partir d’avril, reprise de notre spectacle de chansons <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a> avec les résidents de la Novelline de Cluny et les usagers du Groupe d’Entraide Mutuelle de Mâcon. Ouvert aux participants de l’atelier de juin 2021 et aux nouveaux résidents. Les représentations sont prévues en juin 2022.</li>
 
@@ -203,7 +203,7 @@ nuit.</li><hr>
 <h2>Janvier 2022</h2>
 <p class="intro-text">En 2022, plein de projets qui se concrétisent pour Rêver tout Haut&nbsp;! </p>
 <ul class="institutions">
-    <li>A partir de mars, démarrage d’un atelier innovant <a href="/re-inventer-sa-vie">Ré-Inventer sa vie</a>, qui va proposer art postal, écriture et mise en scène d’un spectacle de théâtre d’objets au sein de l’établissement Ugecam-les Villandières de Charnay les Mâcon. Projet soutenu par la DRAC Bourgogne et Culture et Santé.</li>
+    <li>A partir de mars, démarrage d’un atelier innovant <a href="/re-inventer-sa-vie">derrière nos portes</a>, qui va proposer art postal, écriture et mise en scène d’un spectacle de théâtre d’objets au sein de l’établissement Ugecam-les Villandières de Charnay les Mâcon. Projet soutenu par la DRAC Bourgogne et Culture et Santé.</li>
     <li>Dès janvier, reprise de notre atelier créatif pour aidants, <a href="/aidants-aimants">Aidants, Aimants</a>. Possibilité aux nouveaux aidants de rejoindre le groupe déjà constitué. Projet soutenu par la Conférence des Financeurs 71.</li>
     <li>Dès janvier aussi, reprise de notre proposition d’accompagnement à domicile, <a href="/presences">Présences</a>, ouverte aux aidants en proie au deuil et à l’isolement. Proposition ouverte aux habitants du Maconnais, du Clunysois et maintenant aux habitants du Charollais. Projet soutenu par la FDVA 71.</li>
     <li>A partir de janvier, organisation de la tournée prévue à l’automne 22 de notre spectacle autour de la mono-parentalité, <a href="/parent-solo-et-ses-marmots">Parent solo et ses marmots</a>. Tournée soutenue par la CAF 71 et le Conseil Départemental 71. </li>
