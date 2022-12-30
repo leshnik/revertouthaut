@@ -84,7 +84,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-veux-vivre">●&nbsp;je veux vivre <span style="font-size: smaller">2021</span></a><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/chez-soi">●&nbsp;chez soi</a>
 </p>
-<p class="intro-text">Il n’est pas besoin de longs préambules pour que les personnes porteuses de troubles psychiques et des artistes s’entendent et se comprennent. Magie de l’imaginaire, du langage singulier, de la communication décalée, de la présence dans le présent, les relations sont immédiates et fructueuses. Et il faut saisir le jaillissement créatif des uns et des autres, et vite, le transformer, le rendre audible, le rendre visible, en garder trace, pour que les personnes porteuses de ces troubles psychiques qui souvent les excluent et le retranchent du monde, y retrouvent une toute petite place.</p>
+<p class="intro-text">Qu’est-ce que le handicap ? Un empêchement ? Un isolement ? Un ralentissement ? Oui bien-sûr, mais n’y aurait-il pas autre chose ? Du très sensible, du très affectif, du poétique, de l’énergique, et des capacités incroyables d’adaptation et des sacrées leçons de vie bonnes à prendre et à entendre ? Voici quelques accompagnements créatifs fort riches en émotions et en célébrations de la vie.</p>
 <hr style="width: 70%;
         margin-left: auto;
         margin-right: auto;">
