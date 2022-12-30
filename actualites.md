@@ -57,9 +57,8 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>le 14 novembre à la Galerie les Mains Libres à Cluny, clôture de l’atelier <a href="aidants-aimants">aidants aimants</a>, en musique et en photos. Un livret qui réunira tout ce qui a été créé pendant ces deux ans est en cours et verra le jour à la fin de l’année.</li>
     <hr>
-`   <li>le 27 novembre, deux représentations du spectacle "Derrière nos portes" écrit et composé à partir de nos ateliers <a href="/derriere-nos-portes">ré-inventer sa
-vie</a>, avec et pour les résidents du Foyer de Vie les Villandières, à
-Charnay les Macon.</li>
+`   <li>le 27 novembre, deux représentations du spectacle <a href="derriere-nos-portes">derrière nos portes</a> écrit et composé à partir de nos ateliers avec et pour les résidents du Foyer de Vie les Villandières, à
+Charnay-les-Mâcon.</li>
         <div class="center-big-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
         </div>
