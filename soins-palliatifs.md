@@ -5,7 +5,7 @@ summary:
 ---
 <h1>Soins Palliatifs</h1>
  
-<h2>Au bord de mon lit</h2>
+<h2>au bord du lit</h2>
 <p class="intro-text">Puisque la vie émotionnelle de l’être humain et tous les liens qui la fondent sont bien là jusqu’au dernier souffle, nous proposons un accompagnement au chevet des personnes alitées. Un accompagnement qui apaise les personnes et leurs proches, qui permet d’exprimer des choses, de les partager et d’en garder traces.</p>
 
 <div class="center-max600-block">

@@ -1,9 +1,9 @@
 ---
 layout: logoTop
-title: au bord de mon lit
+title: au bord du lit
 summary:
 ---
-<h1>au bord de mon lit</h1>
+<h1>au bord du lit</h1>
 <p class="intro-text">Puisque la vie émotionnelle de l’être humain et tous les liens qui la fondent sont bien là jusqu’au dernier souffle, nous proposons un accompagnement au chevet des personnes alitées. Un accompagnement qui apaise les personnes et leurs proches, qui permet d’exprimer des choses, de les partager et d’en garder traces.</p>
 
 <div class="center-max600-block">

@@ -102,6 +102,15 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <hr style="width: 70%;
         margin-left: auto;
         margin-right: auto;">
+<p class="shadow" style="background: #af9294; width: 50ch"><span style ="color: rgb(247, 255, 86)" class="nav-list-heading">soins palliatifs</span><br>
+  <a style="color: yellow" class="nav-list-item subtlehover" href="/au-bord-du-lit">●&nbsp;au bord du lit 2023/2024</a>
+<br></p>
+
+
+
+<hr style="width: 70%;
+        margin-left: auto;
+        margin-right: auto;">
 <p class="shadow" style="background: #f5ae1f; width: 50ch"><span style="color: #550055" class="nav-list-heading">monde rural</span><br>
   <a style="color: #550055" class="nav-list-item" href="/histoires-de-transmission">●&nbsp;histoires de transmission 2022/2023</a><br>
 </p>
