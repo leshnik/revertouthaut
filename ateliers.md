@@ -105,6 +105,18 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <p class="shadow" style="background: #af9294; width: 50ch"><span style ="color: rgb(247, 255, 86)" class="nav-list-heading">soins palliatifs</span><br>
   <a style="color: yellow" class="nav-list-item subtlehover" href="/au-bord-du-lit">●&nbsp;au bord du lit 2023/2024</a>
 <br></p>
+<p class="intro-text">Aborder l’autre rive, descendre du train, tourner le coin de la rue :
+les expressions, plus ou moins imagées ne manquent pas pour évoquer la
+fin de vie. Accompagner cette traversée, ce passage, ce flottement
+qu’est la fin de vie d’un proche ou d’un patient est toujours une
+expérience singulière, souvent forte, inédite. Elle l’est bien-sûr
+aussi pour la personne mourante. Il y a dans ces instants, dans cet
+espace-temps qu’est l’unité de soins palliatifs des expériences
+humaines partagées, des mots, des paroles, des désirs, des souvenirs,
+des gestes, des ambiances, des liens qui se font, qu’il est
+nécessaire de recueillir pour garder trace, et pour continuer
+d’apprendre ce que la conscience de la mort apporte à l’existence.
+</p>
 
 
 
