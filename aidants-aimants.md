@@ -11,6 +11,11 @@ tags: [aidants, journée nationale des aidants]
 
 <p class="intro-text">De participer à tout un chemiment créatif, qui se veut un répit et une manière de de retrouver vitalité, espace personnel, dynamique de groupe, vie sociale, soutien et élaboration autour de l’accompagnement de son proche.
 </p>
+
+<p class="intro-text">On peut visionner <a href="aidantes-aimantes-le-livret">Le Livret Aidantes Aimantes</a> qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers ou le télécharger en cliquant ici&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a>
+</p>
+
+
 <p class="intro-text">Le cycle démarre en décembre 2020 et se termine en juin 2022. Il n’est pas obligatoire d’être présent sur toute la durée. Car nous savons bien que la vie des aidants est compliqué dans le quotidien.<br>
 De décembre 2020 à juin 2021, les ateliers ont eu lieu en présentiel à Cluny à la Galerie les Mains Libres et en visio.</p>
 <p class="intro-text">A partir d’octobre 2021, les ateliers reprennent à Mâcon à la Salle Saint Antoine.</p>
