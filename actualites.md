@@ -15,7 +15,7 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
-    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
+    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="#">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
 </ul>
 <h1>actualités</h1>
 <h2>Décembre</h2>
@@ -26,7 +26,7 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>Le Livret <a href="aidantes-aimantes-le-livret">Aidantes Aimantes</a> qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers est en ligne ici: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a></li>
     <hr>
-    <li>Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour <a href="histoires-de-transimission">histoires de transmission</a>,  nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle «Chansons à garder dans sa table de nuit».</li>
+    <li>Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour <a href="histoires-de-transimission">histoires de transmission</a> et <a href="#">maintenant il y a&hellip;</a>,  nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a>.</li>
 </ul>
 <h2>Novembre</h2>
 <ul class="institutions">
