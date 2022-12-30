@@ -5,6 +5,35 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
+    <li>12 janvier: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.</li>
+    <hr>    
+    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
+    <hr>
+    <li>le mardi 4 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">les plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
+organisée par la MSA des Portes de Bretagne
+    </li>
+    <hr>
+    <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
+    <hr>
+    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
+</ul>
+<h1>actualités</h1>
+<h2>Décembre</h2>
+<ul class="institutions">
+    <li>Déjà décembre et la fin de la tournée de Parent Solo et ses marmots, avec les magnifiques représentations de Chalon et Cluny. Les messages du spectacle, son énergie sont bien passés et ont trouvé leur public. En tout cas, nous avons la furieuse envie de repartir sur les routes l’année prochaine&nbsp;!</li>
+    <hr>
+    <li>Une captation live de «Derrière nos portes» a été réalisée et la voici sur le site. Nous espérons que les émotions et l’intensité des représentations seront palpables pour ceux qui vont découvrir ce travail sur la vidéo.</li>
+    <hr>
+    <li>Le Livret <a href="aidantes-aimantes-le-livret">Aidantes Aimantes</a> qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers est en ligne ici: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a></li>
+    <hr>
+    <li>Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour Histoires de transmission, Maintenant il y a, nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle «Chansons à garder dans sa table de nuit».</li>
+</ul>
+<h2>Novembre</h2>
+<ul class="institutions">
+    <li>Et beh quel marathon ce mois de novembre ! Entre la tournée de Parent Solo et ses marmots, et les représentations au Creusot, Mâcon, Paray le Monial, et la création de notre spectacle «Derrière nos portes» avec les résidents du Foyer de Vie Ugecam de Charnay les Macon, nous en avons rencontré du monde, et fait des kilomètres, et répété des scènes, et envoyé des mails ! Et il a fallu se remettre de toutes ces émotions, car il y en a eut !<br>
+    Et au milieu de tout ça, une belle après-midi pour finir en beauté notre atelier Aidants Aimants, des tas de rendez-vous pour Histoires de Transmission et la première endiablée de Accordéon Quizz.<br>
+    Nous sommes ravies car tout cela a tellement de sens dans le monde d’aujourd’hui !</li>
+    <hr>
     <li>Tournée de <a href="/parent-solo-et-ses-marmots">parent solo et ses marmots</a></li>
         <div class="flex-container">
             <div class="column">
@@ -28,8 +57,7 @@ summary:
     <hr>
     <li>le 14 novembre à la Galerie les Mains Libres à Cluny, clôture de l’atelier <a href="aidants-aimants">aidants aimants</a>, en musique et en photos. Un livret qui réunira tout ce qui a été créé pendant ces deux ans est en cours et verra le jour à la fin de l’année.</li>
     <hr>
-    <li>le 27 novembre, deux représentations du spectacle "Derrière nos
-portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">ré-inventer sa
+`   <li>le 27 novembre, deux représentations du spectacle "Derrière nos portes" écrit et composé à partir de nos ateliers <a href="/re-inventer-sa-vie">ré-inventer sa
 vie</a>, avec et pour les résidents du Foyer de Vie les Villandières, à
 Charnay les Macon.</li>
         <div class="center-big-block">
@@ -38,20 +66,10 @@ Charnay les Macon.</li>
     <hr>
     <li>le 30 novembre, concert <a href="accordeon-quizz">accordéon quizz</a> pour l'Ehpad Hôtel-Dieu du Centre Hospitalier de Mâcon. Comment accorder grâce à la musique, l'amusement et le soin cognitif.
     </li>
-    <hr>
-    <li>le mardi 4 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">Les Plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
-organisée par la MSA des Portes de Bretagne
-    </li>
-    <hr>
-    <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
-    <hr>
-    <li>A partir de janvier 2023, démarrage des ateliers musicaux et préparation de concerts à la Résidence Seniors de Val de Joux.</li>
-    <hr>
-    <li>2023, réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
-    <hr>
-    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
+    <div class="center-max600-block">
+    <div style="position: relative; padding-top: 55.00000000000001%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/dcc4ab16-af29-4cbd-ab83-7d4424508876?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+</div>
 </ul>
-<h1>actualités</h1>
 <h2>Octobre</h2>
 <ul class="institutions">
     <li>Début d’automne à vive allure pour Rêver Tout Haut ! Sur les routes de Saône et Loire avec <a href="parent-solo-et-ses-marmots">parent Solo et ses marmots</a>, dans nos ateliers en train de préparer notre spectacle <a href="re-inventer-sa-vie">derrière nos portes</a>,  et entre temps, le nez dans des dossiers, avec des projets plus passionnants les uns que les autres. Il faut bien ça pour garder du sens et de la vitalité en cette période lourde et moche. </li>
