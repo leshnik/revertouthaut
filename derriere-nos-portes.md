@@ -4,26 +4,33 @@ title: derrière nos portes
 summary: 
 ---
 <h1>derrière nos portes</h1>
-<p class="intro-text">«Derrière nos portes» est un projet artistique conçu pour les résidents de l’Établissement d’Accueil Spécialisé Ugecam les Villandières de Charnay-les-Mâcon, qui a démarré en mars 22 et se terminera en novembre 2022.  Il est animé par une jeune équipe d’artistes pluridisciplinaire du spectacle vivant.</p>
+<div class="quote"><em>«Ce spectacle, c’est une lettre aux trottoirs, aux gravillons, aux dénivelés,
+ c’est une lettre à ceux qui nous regardent traverser sur les passages cloutés,
+ c’est  une lettre à ceux qui nous regardent dans la queue des supermarchés,
+à ceux qui nous sourient sans oser nous parler,
+ c’est une lettre à notre enfance,  c’est une lettre à nos secrets,  c’est une lettre à notre volonté,
+ c’est aussi une lettre d’amour,
+à ceux que nous aimons, qui nous aiment et qui nous ont aimés,
+dedans il y a nos mots, nos mots parlés, nos mots écrits, nos mots chantés,
+il y a aussi les mots de quelques poètes dont les courriers qui nous ont inspirés»</em>
+</div>
+
 <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
 </div>
-<p class="intro-text">Il prend comme axe la nécessité de travailler sur l’autodétermination des personnes, et sur leur accès à une vraie citoyenneté, et sur la reconnaissance de leur monde poétique, imaginaire et philosophique.
-Oui, on peut être dépendant tout en revendiquant une part d’autonomie et son statut d’adulte, avec tout ce que l’adulte est censé pouvoir faire pour sa propre existence : consentir, choisir, dire non, se révolter, argumenter, se raconter avec ses propres mots, prendre des décisions, rêver son  avenir, et ré-inventer son futur selon ses désirs.</p> 
+<p class="intro-text">«Derrière nos portes» est un projet artistique, musical et poétique, conçu pour les résidents de l’Établissement d’Accueil Spécialisé Ugecam les Villandières de Charnay les Mâcon, qui a démarré en mars 22 et s’est terminé en novembre 2022. 
+Quatre artistes du spectacle vivant, Sidonie Dubosc, Flore Simon, Valérie Gaudissart et Romane Lasserre ont animé 21 séances d’ateliers créatifs de deux heures, écrit des chansons et un texte théâtral, mis en scène un spectacle, animé une résidence de répétitions de 4 jours, et ont donné avec les résidents deux représentations publiques. Formidable expérience et magnifiques rencontres ! 
+Pour démarrer ce cycle d’ateliers, nous avons d’abord envoyé à chacun des 60 résidents une lettre d’invitation personnelle, en y faisant allusion à un élément biographique qui nous avait été confié par l’animatrice. </p>
 
-<div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113445_-_copie_zud5r5.jpg">
-</div>
-<p class="intro-text">Première étape: <em>un travail d’écriture de textes et de chansons, de dessins et de collage</em>, qui prendra la forme de <em>correspondances</em>, de lettres et d’envois adressés à des personnes réelles, des proches, des personnes lointaines, manquantes, rêvées. Il y sera question de dire des choses de toutes sortes, qu’elles soient réelles, imaginaires, fantaisistes ou fantasmées et qui concernent la vie telle qu’elle est et telle qu’on la souhaiterait pour soi-même dans l’avenir.
+<p class="intro-text">Et nous avons continué sur  le thème de la correspondance et  avons imaginé tout ce travail créatif comme étant une longue lettre envoyée aux proches, une lettre qui évoque l’enfance, les désirs, les secrets,  et des revendications adultes et citoyennes. 
+Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , la fantaisie, la sensibilité poétique, la philosophie de la vie  des résidents était nos objectifs. </p> 
+
+<p class="intro-text">À partir de toute la matière que nous avons recueillie à l’oral, à l’écrit pour certains d’entre eux, nous avons tout de suite composé des chansons, écrit des textes qui réunissaient tous nos échanges et imaginé toute un travail visuel.
 .</p> 
-<p class="intro-text">Pour ce faire, l’équipe artistique a proposé chaque semaine une performance réunissant chansons, lectures de textes, dessins en direct, improvisations et interactions avec les participants</p>
-<div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072544/IMG_20211006_112536_-_copie_vkp7ap.jpg">
-</div>
-<p class="intro-text">Deuxième étape : la conception d’un <em>spectacle de théâtre d’objets</em>, joué par les personnes et par l’équipe artistique, à partir des écrits, des témoignages recueillis lors de la première étape, et qui par le biais du détournement d’objets du quotidien, sensibilisera le public à la vie, certes avec des empêchements, mais pleine et entière des personnes porteuses de handicap.</p>
 
-<div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113624_-_copie_zlhsqo.jpg">
-</div>
+<p class="intro-text">Et nous avons avec 17 résidents monté un très beau spectacle, un moment complètement à part, suspendu, étonnant, avec des chansons, des scènes et de la magie visuelle.... </p>
+
+<div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/284dc2ae-2881-43d7-91bb-8cebfe3e3053?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
+
 <p class="intro-text">Être considéré comme un adulte doué d’une part d’autonomie, c’est pouvoir prendre la parole publiquement et être entendu.</p>
 
 <div class="center-max600-block">
@@ -204,6 +211,32 @@ Je n’aime pas t’entendre crier</p>
  <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660484760/writing-20-ans_h5jpgj.jpg">
  </div>
+<p class="chansons_spoken_title">Chanson pour Pauline</p>
+<p class="chansons_spoken">
+il y a des choses que je n’ose dire<br> 
+c’est pourquoi je veux les écrire<br> 
+Entendez-les mes mots soignés<br> 
+Regardez-les mes frêles pensées<br> 
+fragiles, peureuses et indomptées,<br> 
+<br>
+si je vous parle, vite, elles s’enfuient<br>
+elles font des nœuds dans mon esprit entendez-les mes mots soignés<br> 
+Regardez-les mes frêles pensées<br> 
+fragiles, peureuses et indomptées,<br> 
+
+alors je les couche par écrit<br> 
+voici mon cœur, voici ma vie<br>
+à travers une encre haletante<br> 
+sur une feuille frémissante<br> 
+dans une enveloppe palpitante<br> 
+<br>
+il y a des choses que je n’ose dire<br>
+c’est pourquoi je veux les écrire<br>
+entendez-les mes mots soignés<br> 
+Regardez-les mes frêles pensées<br> 
+fragiles, peureuses et indomptées
+</p>
+
 <p class="chansons_spoken_title">Les correspondants</p>
 <p class="chansons_spoken">Jean-Luc écrit à la terre entière<br>
 Jean-Luc ne fait pas les choses à moitié<br>
