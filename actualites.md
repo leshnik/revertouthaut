@@ -26,7 +26,7 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>Le Livret <a href="aidantes-aimantes-le-livret">Aidantes Aimantes</a> qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers est en ligne ici: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a></li>
     <hr>
-    <li>Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour Histoires de transmission, Maintenant il y a, nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle «Chansons à garder dans sa table de nuit».</li>
+    <li>Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour <a href="histoires-de-transimission">histoires de transmission</a>,  nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle «Chansons à garder dans sa table de nuit».</li>
 </ul>
 <h2>Novembre</h2>
 <ul class="institutions">
