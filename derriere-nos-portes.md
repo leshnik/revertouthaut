@@ -21,6 +21,8 @@ il y a aussi les mots de quelques poètes dont les courriers qui nous ont inspir
 Quatre artistes du spectacle vivant, Sidonie Dubosc, Flore Simon, Valérie Gaudissart et Romane Lasserre ont animé 21 séances d’ateliers créatifs de deux heures, écrit des chansons et un texte théâtral, mis en scène un spectacle, animé une résidence de répétitions de 4 jours, et ont donné avec les résidents deux représentations publiques. Formidable expérience et magnifiques rencontres ! 
 Pour démarrer ce cycle d’ateliers, nous avons d’abord envoyé à chacun des 60 résidents une lettre d’invitation personnelle, en y faisant allusion à un élément biographique qui nous avait été confié par l’animatrice. </p>
 
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113445_-_copie_zud5r5.jpg"></div>
+
 <p class="intro-text">Et nous avons continué sur  le thème de la correspondance et  avons imaginé tout ce travail créatif comme étant une longue lettre envoyée aux proches, une lettre qui évoque l’enfance, les désirs, les secrets,  et des revendications adultes et citoyennes. 
 Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , la fantaisie, la sensibilité poétique, la philosophie de la vie  des résidents était nos objectifs. </p> 
 
@@ -37,7 +39,10 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643735368/atelier-correspondances-small_wwb4oj.jpg">
 </div>
 
-<p class="intro-text">Voici quelques unes des créations réalisées entre mars et juin 2022 et qui intégreront le spectacle du mois de novembre.</p>
+
+
+<p class="intro-text">Voici quelques-unes des créations réalisées entre mars et juin 2022 qui ont intégré le spectacle du mois de novembre.
+</p>
 
 <p class="chansons_spoken_title">Dans mon enfance</p>
 <p class="chansons_spoken">Dans mon enfance, il y avait des fêtes avec des oncles, des tantes, des cousins, des cousines<br>
