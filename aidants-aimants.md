@@ -9,7 +9,7 @@ tags: [aidants, journée nationale des aidants]
 <h2>atelier créatif à destination des aidants</h2>
 <p class="intro-text">L’association <span class="rever-typog">rêver tout haut</span> propose aux aidants et aux proches de personnes souffrant de maladies neuro-évolutives de participer à un cycle d’ateliers conviviaux et de pratiquer en groupe des activités ressourçantes et complémentaires : échanges, écriture, sophrologie et pratique corporelle, composition de chansons, travail photographique et graphique.</p>
 
-<p class="intro-text">De participer à tout un chemiment créatif, qui se veut un répit et une manière de de retrouver vitalité, espace personnel, dynamique de groupe, vie sociale, soutien et élaboration autour de l’accompagnement de son proche.
+<p class="intro-text">De participer à tout un chemiment créatif, qui se veut un répit et une manière de retrouver vitalité, espace personnel, dynamique de groupe, vie sociale, soutien et élaboration autour de l’accompagnement de son proche.
 </p>
 
 <p class="intro-text">Vous pouvez suivre le lien <a href="aidantes-aimantes-le-livret">Le Livret Aidantes Aimantes</a> pour visionner le livret qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers ou le télécharger en cliquant sur l'image&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a>
