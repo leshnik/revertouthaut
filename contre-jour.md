@@ -337,7 +337,7 @@ Charles, le frère de Lucienne»
 
 <h4 class="h4song-titles">texte collectif sur le langage des mains</h4>
 <div class="institutions">
-<p class="intro-text">Nous avons aussi, pour conclure cette série de textes individuels, écrit un texte collectif sur ce langage des mains :</p>
+<p class="intro-text">Pour conclure cette série de textes individuels, nous avons écrit un texte collectif sur ce langage des mains :</p>
 <div class="flex-container space-around--wrap">
 <img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663789581/P9130089_af43y3.jpg">
 <img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663790289/P9130033_kauqwg.jpg">
