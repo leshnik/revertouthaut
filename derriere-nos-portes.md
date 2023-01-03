@@ -26,14 +26,82 @@ Pour démarrer ce cycle d’ateliers, nous avons d’abord envoyé à chacun des
 <p class="intro-text">Et nous avons continué sur  le thème de la correspondance et  avons imaginé tout ce travail créatif comme étant une longue lettre envoyée aux proches, une lettre qui évoque l’enfance, les désirs, les secrets,  et des revendications adultes et citoyennes. 
 Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , la fantaisie, la sensibilité poétique, la philosophie de la vie  des résidents était nos objectifs. </p> 
 
+<!-- Slideshow container -->
+<div class="center-max600-block">
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672746667/cher_Alexis_v74dph.png">
+    </figure>
+    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+  </div>
+    <div class="numbertext center-text">1 / 6</div>
+  </div>
+  
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/cher_Albano_ymmoht.png" style="width: 100%">
+    </figure>
+    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">2 / 6</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/chere_nadia_wqnwqs.png">
+    </figure>
+    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">3 / 6</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure>
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/cher_Emmanuel_i7rusi.png">
+    </figure>
+    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">4 / 6</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/chere_ludivine_aqkqj4.png">
+    </figure>
+    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">5 / 6</div>
+  </div>
+
+  <div class="mySlides">
+    <div class="content-container-horizontal">
+      <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/cher_Adrien_fjzdwp.png">
+    </figure>
+    <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
+    </div>
+    <div class="numbertext center-text">6 / 6</div>
+  </div>
+  </div> 
+</div>
+<script type="text/javascript" src="/js/slideshow.js"></script>
 <p class="intro-text">À partir de toute la matière que nous avons recueillie à l’oral, à l’écrit pour certains d’entre eux, nous avons tout de suite composé des chansons, écrit des textes qui réunissaient tous nos échanges et imaginé toute un travail visuel.
 .</p> 
 
-<p class="intro-text">Et nous avons avec 17 résidents monté un très beau spectacle, un moment complètement à part, suspendu, étonnant, avec des chansons, des scènes et de la magie visuelle.... </p>
-
 <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/284dc2ae-2881-43d7-91bb-8cebfe3e3053?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 
-<p class="intro-text">Être considéré comme un adulte doué d’une part d’autonomie, c’est pouvoir prendre la parole publiquement et être entendu.</p>
+<p class="intro-text">Et nous avons avec 17 résidents monté un très beau spectacle, un moment complètement à part, suspendu, étonnant, avec des chansons, des scènes et de la magie visuelle.... </p>
 
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643735368/atelier-correspondances-small_wwb4oj.jpg">
@@ -44,8 +112,9 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
 <p class="intro-text">Voici quelques-unes des créations réalisées entre mars et juin 2022 qui ont intégré le spectacle du mois de novembre.
 </p>
 
-<p class="chansons_spoken_title">Dans mon enfance</p>
-<p class="chansons_spoken">Dans mon enfance, il y avait des fêtes avec des oncles, des tantes, des cousins, des cousines<br>
+<h4 class="h4song-titles">Dans mon enfance</h4>
+<div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">Dans mon enfance, il y avait des fêtes avec des oncles, des tantes, des cousins, des cousines<br>
 c’est quand l’enfance ? L’enfance c’est dans la tête. L’enfance, c’est toute la vie.<br>
 Dans mon enfance il y avait les montagnes du Morvan<br>
 il y avait la neige l’hiver et les jeux de luge<br>
@@ -63,9 +132,9 @@ il y a eut un circuit électrique, des jeux de cartes<br>
 il y a eut Dolly le chien<br>
 il y a eut les étoiles la nuit<br>
 Dans mon enfance, il y avait une petite fille qui s’appelait Patricia qui s’était rendu compte que je ne marchais pas et qui m’aidait à enlever mon blouson.<br>
-Il y avait aussi d’autres enfants à qui je faisais peur et qui se réfugiaient dans les bras de leur mère quand ils me voyaient.</p>
-<hr>
-<div class="center-block">
+Il y avait aussi d’autres enfants à qui je faisais peur et qui se réfugiaient dans les bras de leur mère quand ils me voyaient.</cite>
+</div>
+<div class="center-max600-block">
 <figure>
  <video controls width="95%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660481892/j-aime-l-amour-thumb_bekknh.jpg">
     <source src="https://rth8.b-cdn.net/j'aime-l-amour.mp4" type="video/mp4">
@@ -74,9 +143,9 @@ Il y avait aussi d’autres enfants à qui je faisais peur et qui se réfugiaien
 </figure>
 </div>
 
-<p class="chansons_spoken_title">La manif de la vaisselle cassée</p>
- 
-<p class="chansons_spoken">Je suis le verre brisé<br>
+<h4 class="h4song-titles">La manif de la vaisselle cassée</h4>
+ <div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">Je suis le verre brisé<br>
 Je suis l’assiette fêlée<br>
 Je suis la tasse sans anse<br>
 Je suis le couteau sans manche<br>
@@ -103,53 +172,55 @@ Je suis le collier aux perles perdues<br>
 Je suis l’allumette brûlée<br>
 Je suis le mégot consumé  <br>
 Je suis la voiture qui ne démarre plus<br>
-Je suis la chaise à laquelle il manque un pied</p>
- <hr>
+Je suis la chaise à laquelle il manque un pied
+</cite>
+</div>
  <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660478011/rosana_at2z2w.jpg"> 
 </div>
-<p class="chansons_spoken_title">Derrière ma porte il y a :</p>
+<h4 class="h4song-titles">Derrière ma porte il y a&nbsp;:</h4>
  
-<p class="chansons_spoken">plein de bonbons au chocolat<br>
-le néant<br>
-l’univers, les planètes, les étoiles<br>
-des voyages dans l’air<br>
-mon papa et mon frère partis au paradis et qui me disent de ne plus avoir peur de la mort, c’est un endroit paisible<br>
-des licornes et des arcs en ciel<br>
-la mer bleue turquoise d’été, où l’on peut se baigner<br>
-des bouquets de tulipes<br>
-des îles paradisiaques<br>
-un cabanon en bois pour faire de l’ombre<br>
-de l’amour et de l’amitié<br>
-la gentillesse de mon amie Dominique que j’aime beaucoup<br>
-des vacances en famille<br>
-des discussions et des moments de partage avec mes parents<br>
-un paysage vert rempli de pommiers<br>
-des balades et des après midi de pêche<br>
-un grand mélange de couleurs<br>
-une bonne compagnie<br>
-de la vie<br>
-de la liberté<br>
-de la lumière<br>
-la montagne en été (mais pas celle d’hiver, car la neige est belle mais elle cache toute la nature, et moi j’aime la nature)<br>
-de longues siestes à l’ombre des arbres<br>
-mes proches décédés, mes amis, tous ceux que j’aime<br>
-un verre de coca<br>
-un verre de cocktail<br>
-une musique douce avec du violon, du piano, de la guitare, de la basse, de la trompette (mais douce, attention) et de l’harmonica)<br>
-l’odeur de la brume et du feu de bois<br>
-l’odeur de la campagne après la pluie, et l’herbe fraîchement coupée<br>
-un petit café dans un bar<br>
-des pensées qui s’en vont et qui reviennent<br>
-de la musique disco<br>
-des gnocchis à la tomate, comme en Italie</p>
- <hr>
+<div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">–plein de bonbons au chocolat<br>
+–le néant<br>
+–l’univers, les planètes, les étoiles<br>
+–des voyages dans l’air<br>
+–des licornes et des arcs en ciel<br>
+–la mer bleue turquoise d’été, où l’on peut se baigner<br>
+–des bouquets de tulipes<br>
+–des îles paradisiaques<br>
+–un cabanon en bois pour faire de l’ombre<br>
+–de l’amour et de l’amitié<br>
+–la gentillesse de mon amie Dominique que j’aime beaucoup<br>
+–des vacances en famille<br>
+–des discussions et des moments de partage avec mes parents<br>
+–un paysage vert rempli de pommiers<br>
+–des balades et des après midi de pêche<br>
+–un grand mélange de couleurs<br>
+–une bonne compagnie<br>
+–de la vie<br>
+–de la liberté<br>
+–de la lumière<br>
+–la montagne en été (mais pas celle d’hiver, car la neige est belle mais elle cache toute la nature, et moi j’aime la nature)<br>
+–de longues siestes à l’ombre des arbres<br>
+–mes proches décédés, mes amis, tous ceux que j’aime<br>
+–un verre de coca<br>
+–un verre de cocktail<br>
+–une musique douce avec du violon, du piano, de la guitare, de la basse, de la trompette (mais douce, attention) et de l’harmonica)<br>
+–l’odeur de la brume et du feu de bois<br>
+–l’odeur de la campagne après la pluie, et l’herbe fraîchement coupée<br>
+–un petit café dans un bar<br>
+–des pensées qui s’en vont et qui reviennent<br>
+–de la musique disco<br>
+–des gnocchis à la tomate, comme en Italie<br>
+–mon papa et mon frère partis au paradis et qui me disent de ne plus avoir peur de la mort, c’est un endroit paisible</cite>
+</div>
  <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660478390/franck_erkyns.jpg">
  </div>
-<p class="chansons_spoken_title">La  météo des sentiments</p>
- 
-<p class="chansons_spoken">La  météo des sentiments<br>
+<h4 class="h4song-titles">La  météo des sentiments</h4>
+ <div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">La  météo des sentiments<br>
 Une carte du monde en projection<br>
 Des émotions en prévision<br>
 La pluie, le vent<br>
@@ -181,17 +252,21 @@ Flocons de neige<br>
 Je serai colère ?<br>
 Orages qui grondent<br>
 Coup de tonnerre<br>
- </p>
-<hr> 
-<p class="chansons_spoken_title">Je tremble</p>
+ </cite>
+ <hr>
+</div> 
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672752273/1671618741230_mhx31x.jpg">
+</div>
+<h4 class="h4song-titles">Je tremble</h4>
 <figure>
     <audio controls src="https://rth8.b-cdn.net/je%20tremble%20par%20Sidonie%20Dubosc.mp3">
             Your browser does not support the <code>audio</code> element.
     </audio>
     <figcaption class="chansons_caption"><em>musique &nbsp;:&nbsp;Sidonie Dubosc</em></figcaption>
 </figure>
-    
-<p class="chansons_spoken">
+ <div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Je n’aime pas t’entendre crier<br>
 Car quand tu cris<br>
 Mes jambes se mettent à trembler<br>
@@ -211,13 +286,14 @@ De n’être pas compris<br>
 Je tremble de ma fragilité<br>
  <br>
 Je n’aime pas t’entendre crier<br>
-Je n’aime pas t’entendre crier</p>
-<hr> 
+Je n’aime pas t’entendre crier</cite>
+</div>> 
  <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660484760/writing-20-ans_h5jpgj.jpg">
  </div>
-<p class="chansons_spoken_title">Chanson pour Pauline</p>
-<p class="chansons_spoken">
+<h4 class="h4song-titles">Chanson pour Pauline</h4>
+<div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 il y a des choses que je n’ose dire<br> 
 c’est pourquoi je veux les écrire<br> 
 Entendez-les mes mots soignés<br> 
@@ -239,11 +315,16 @@ il y a des choses que je n’ose dire<br>
 c’est pourquoi je veux les écrire<br>
 entendez-les mes mots soignés<br> 
 Regardez-les mes frêles pensées<br> 
-fragiles, peureuses et indomptées
-</p>
-
-<p class="chansons_spoken_title">Les correspondants</p>
-<p class="chansons_spoken">Jean-Luc écrit à la terre entière<br>
+fragiles, peureuses et indomptées<br>
+</cite>
+<hr>
+</div>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672752553/1671618741234_ve3iml.jpg">
+</div>
+<h4 class="h4song-titles">Les correspondants</h4>
+<div class="institutions">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">Jean-Luc écrit à la terre entière<br>
 Jean-Luc ne fait pas les choses à moitié<br>
  <br>
 Béatrice écrit à son père<br>
@@ -251,6 +332,9 @@ Pour lui dire que derrière ses yeux fermés, elle le voit, elle l’entend et l
 Alors ils boivent le café et discutent comme avant.<br>
 <br>
 Raphael écrira peut-être à quelqu’un et je crois bien que ce quelqu’un, c’est lui-même, un lui-même un peu secret mais bien présent<br>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672752761/1671618741237_ntn8nt.jpg">
+</div>
  <br>
 Leïla écrit à celui qu’elle aime, en lettres d’or car l’amour, elle pense que c’est ce qu’il y a de plus précieux<br>
  <br>
@@ -267,11 +351,10 @@ Philippe écrit à Isabelle car Philippe est amoureux, alors chaque jour, pour l
 Pauline écrit à ses parents, un long poème plein de trésors, de cachettes, de questions et de réponses aussi<br>
  <br>
 Ludivine écrira plus tard, elle n’est pas pressée, car de toute façon, le courrier, ça part à toutes les heures, même en pleine nuit, quand on pense très fort à quelqu’un<br>
-</p>
+
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485581/adrien_gbitnl.jpg">
 </div>
-<p class="chansons_spoken">
 Adrien écrit aux chaussures à crampon de Griezman, au short de Zidane et aux cheveux de Neymar parce que ça le fait marrer, et que pour se marrer, il est très doué<br>
 <br> 
 Christine écrit au Père Noël pour lui demander de passer plus souvent parce qu’un jour par an, c’est vraiment des clopinettes<br>
@@ -281,11 +364,11 @@ Nadia écrit à sa famille, et ça fait un gros paquet de lettres pour plein de 
 Pascal, qui est haltérophile écrit des lettres très très lourdes,  et tellement lourdes qu’il faut faire attention à ne pas les faire tomber sur ses pieds. Elles sont lourdes car dedans il y raconte des tonnes de trucs qu’il ne dit d’habitude à personne.<br>
 <br> 
 Nicolas écrit à des personnages qu’il aime bien, il écrit au Petit Poucet, au Chat Botté, aux trois mousquetaires, aux personnages qui peuplent les enfances et qui leur donnent de la force<br>
-</p>
+
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485818/didier_g6rstu.jpg">
 </div> 
-<p class="chansons_spoken">Didier écrit à sa maison et aux bouts de ferraille qui l’attendent dans son jardin. Le fer, le métal, c’est solide, ça ne se brise pas, comme lui.<br>
+Didier écrit à sa maison et aux bouts de ferraille qui l’attendent dans son jardin. Le fer, le métal, c’est solide, ça ne se brise pas, comme lui.<br>
 <br> 
 Sid écrit à sa soeur, car sa soeur, elle le défendra toute sa vie, elle le portera toute vie et avec elle, adieu les ennuis !<br>
 <br> 
@@ -299,8 +382,10 @@ Albano écrit à son fils pour lui dire  meu querido filho, eu te amo, sinto sua
 <br> 
 Jonathan écrit à toutes les notes de son piano, tous les fa sol la si do, les dièses, les bémols, les trémolos, car quand il pose sa main droite sur le clavier du piano, il devient léger, comme un moineau<br>
 <br> 
-Jérémy écrit à un paysage coloré, car pour Jérémy, la gaieté, c’est sacrée et son sourire est comme l’arc en ciel, bien accroché et visible de très loin, même du Mont Blanc qu’on voit des fois depuis Mâcon les jours de beau temps</p>
+Jérémy écrit à un paysage coloré, car pour Jérémy, la gaieté, c’est sacrée et son sourire est comme l’arc en ciel, bien accroché et visible de très loin, même du Mont Blanc qu’on voit des fois depuis Mâcon les jours de beau temps
 <div class="center-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485320/alexis_c0qb2y.jpg">
+</div>
+</cite>
 </div>
  
