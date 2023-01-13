@@ -5,6 +5,13 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
+    <li>La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
+concernant ce fabuleux projet !</li>
+<div class="center-max600-block">
+    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
+    </div>
+
+<hr>
     <li>12 janvier: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.</li>
     <hr>    
     <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
