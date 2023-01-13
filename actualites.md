@@ -5,13 +5,6 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
-concernant ce fabuleux projet !</li>
-<div class="center-max600-block">
-    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
-    </div>
-
-<hr>
     <li>12 janvier: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.</li>
     <hr>    
     <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
@@ -22,7 +15,13 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
-    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="#">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.</li>
+    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.<br>
+    La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
+concernant ce fabuleux projet !
+    </li>
+    <div class="center-max600-block">
+    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
+    </div>
 </ul>
 <h1>actualités</h1>
 <h2>Décembre</h2>
@@ -30,6 +29,7 @@ organisée par la MSA des Portes de Bretagne
     <li>Déjà décembre et la fin de la tournée de Parent Solo et ses marmots, avec les magnifiques représentations de Chalon et Cluny. Les messages du spectacle, son énergie sont bien passés et ont trouvé leur public. En tout cas, nous avons la furieuse envie de repartir sur les routes l’année prochaine&nbsp;!</li>
     <hr>
     <li>Une captation live de «Derrière nos portes» a été réalisée et la voici sur le site. Nous espérons que les émotions et l’intensité des représentations seront palpables pour ceux qui vont découvrir ce travail sur la vidéo.</li>
+    <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/284dc2ae-2881-43d7-91bb-8cebfe3e3053?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
     <hr>
     <li>Suivre le lien <a href="aidantes-aimantes-le-livret">Aidantes Aimantes</a> pour visionner le livret qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers, ou le télécharger en cliquant sur l'image&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a></li>
     <hr>
