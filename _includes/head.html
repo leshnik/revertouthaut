@@ -5,11 +5,14 @@
   <link rel="canonical" href="https://www.revertouthaut.fr{{ page.url | replace:'index.html','' }}" />
   <!-- CSS -->
     <link rel="stylesheet" href="{{ site.baseurl }}css/styles.css">
-    
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
-    href="https://fonts.googleapis.com/css?family=Amatic+SC:700|Lora|Libre+Baskerville|Open+Sans+Condensed:300|Crimson+Text&display=swap"
+    href="https://fonts.googleapis.com/css?family=Amatic+SC:700|Lora|Libre+Baskerville|Open+Sans+Condensed:300|Crimson+Text:ital,wght@0,400;0,600;1,400&display=swap"
     rel="stylesheet"
   />
+  
   {% if page.summary %}
   <meta name="description" content="{{ page.summary | escape }}" />
   <meta
