@@ -203,6 +203,15 @@ li > ul {
 li {
   padding-bottom: 0.7em;
 }
+.bullet {
+  font-family: "Crimson Text", serif;
+  letter-spacing: 0.2rem;
+  font-size: 1.2rem;
+  list-style-type: disc;
+  max-width: 600px;
+  margin: auto;
+  padding-left: 3rem;
+}
 
 @media (max-width: 500px) {
   p {
