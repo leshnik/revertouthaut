@@ -5,7 +5,16 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>12 janvier: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.</li>
+    <li>12 janvier: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
+        </div>
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
+        </div>
+    </div>
+    </li>
     <hr>    
     <li>A partir de mars 2023, démarrage des Mains Tendues, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
     <hr>
