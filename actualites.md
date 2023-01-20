@@ -16,13 +16,13 @@ summary:
     </div>
     </li>
     <hr>    
-    <li>A partir d'avril 2023, démarrage des <a href="les-mains-tendues">mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.</li>
+    <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.</li>
     <hr>
     <li>le mardi 4 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">les plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
 organisée par la MSA des Portes de Bretagne
     </li>
     <hr>    
-    <li>A partir de septembre 2023, démarrage <a href="les-mains-tendues">mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
+    <li>A partir de septembre 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
     <hr>
     <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet
 de spectacle musical en lien avec le service Addictologie de l'Hôpital
@@ -38,6 +38,27 @@ concernant ce fabuleux projet !
     </div>
 </ul>
 <h1>actualités</h1>
+<h2>janvier 2023</h2>
+<ul class="institutions">
+<li>L’hiver est là mais ça se prend déjà le printemps dans nos idées ! Et en voilà des pleins paniers !</li>
+ 
+<li>Nous avons écrit et commençons à démarcher <a href="double-croche">double croche</a>, cycle de médiations musicales, bien originales car destinées à des grands-parents accompagnés de leurs petits enfants (ou l’inverse)! Complicité, connivence et liens qui se resserrent et se nourrissent grâce à la pratique et l’invention musicale.
+Des nouvelles très bientôt des partenariats qui se mettent en place avec plusieurs Relais Petite Enfance du territoire Charollais-Brionnais.</li>
+ 
+<li>Nous démarchons aussi un nouveau dispositif <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a>, qui devrait se tenir dans le Clunisois, destiné à soulager et apaiser le sentiment de solitude, de pertes de repères par une présence musicale, intime. Du tête à tête et du sur mesure, ou comment murmurer ce qui apaise et console aux oreilles de personnes âgées pour qui le coucher et l’arrivée de la nuit ne sont pas aisés.</li>
+ 
+<li>Nous avons démarré <a href="rencontres">rencontres</a>, cycle de concerts et de compositions de chansons et d’écriture de poèmes pour les résidents du Val de Joux. Douceur de l’enfance, souvenirs des pères qui reviennent de la guerre, des bals et des rencontres, voilà sur quoi nous chantons, écrivons et partageons.</li>
+ 
+<li><a href="histoires-de-transmission">histoires de transmission</a>, poursuit sa route, et continue de rencontrer et de recueillir des témoignages d’agriculteurs se questionnant, essayant de se frayer un chemin et parfois se heurtant au départ en retraite et à la cession de leur exploitation.</li>
+ 
+<li><a href="les-mains-tendues">les mains tendues</a>, cycle d’ateliers pour aidant.es, est en train de s’organiser sur Semur au printemps, sur Paray à l’automne et nous réfléchissons aussi à un stage artistique destiné aux jeunes aidants, à ces enfants qui soutiennent au quotidien leur frère, leur sœur ou leur parent. Stage encadré par de jeunes artistes musiciens et danseurs à l’automne 23.</li>
+ 
+<li><a href="presences">présences</a>, se poursuit avec un accompagnement à domicile d’aidant en difficulté. Beau moment d’échanges et de créativité.</li>
+ 
+<li>Et bonnes nouvelles qui viennent de tomber, <a href="cachettes-secretes">cachettes secrètes</a> et <a href="maintenant-il-y-a">maintenant, il y a</a>, ont reçu le soutien de la DRAC/ARS !</li>
+ 
+<li>Bref, janvier nous fait turbiner !</li>
+ </ul>
 <h2>Décembre</h2>
 <ul class="institutions">
     <li>Déjà décembre et la fin de la tournée de Parent Solo et ses marmots, avec les magnifiques représentations de Chalon et Cluny. Les messages du spectacle, son énergie sont bien passés et ont trouvé leur public. En tout cas, nous avons la furieuse envie de repartir sur les routes l’année prochaine&nbsp;!</li>
