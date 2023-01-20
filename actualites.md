@@ -40,7 +40,7 @@ concernant ce fabuleux projet !
 <h1>actualités</h1>
 <h2>janvier 2023</h2>
 <ul class="institutions">
-<li>L’hiver est là mais ça se prend déjà le printemps dans nos idées ! Et en voilà des pleins paniers !</li>
+<li>L’hiver est là mais ça sent déjà le printemps dans nos idées ! Et en voilà des pleins paniers !</li>
  
 <li>Nous avons écrit et commençons à démarcher <a href="double-croche">double croche</a>, cycle de médiations musicales, bien originales car destinées à des grands-parents accompagnés de leurs petits enfants (ou l’inverse)! Complicité, connivence et liens qui se resserrent et se nourrissent grâce à la pratique et l’invention musicale.
 Des nouvelles très bientôt des partenariats qui se mettent en place avec plusieurs Relais Petite Enfance du territoire Charollais-Brionnais.</li>
