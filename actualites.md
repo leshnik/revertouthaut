@@ -18,7 +18,7 @@ summary:
     <hr>    
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.</li>
     <hr>
-    <li>le mardi 4 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">les plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
+    <li>le jeudi 6 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">les plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
 organisée par la MSA des Portes de Bretagne
     </li>
     <hr>    
