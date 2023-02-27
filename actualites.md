@@ -15,7 +15,9 @@ summary:
         </div>
     </div>
     </li>
-    <hr>    
+    <hr> 
+    <li>le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes    
+    </li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
     <div class="flex-container">
 <div class="column">
