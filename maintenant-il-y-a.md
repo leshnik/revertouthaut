@@ -3,6 +3,9 @@ layout: logoTop
 title: maintenant, il y a
 ---
 <h1>maintenant, il y a</h1>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
+</div>
 <p class="intro-text">La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf" target="_blank">appel à dons</a>
 concernant ce fabuleux projet !</p>
 

@@ -41,6 +41,9 @@ de Montceau les Mines.</li><hr>
     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
     <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.<br>
+    <div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
+</div>
     La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
 concernant ce fabuleux projet !
     </li>
