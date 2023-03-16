@@ -5,7 +5,7 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>12 janvier: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.
+    <li>12 janvier au 17 juin: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.
     <div class="flex-container">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
@@ -16,6 +16,8 @@ summary:
     </div>
     </li>
     <hr> 
+    <li>vendredi 24 mars, de 17h30 à 19h, Atelier musical parents/enfants autour de la notion de complicité au Centre social Mosaic, 193, rue des Blanchettes, Macon
+    </li><hr>
     <li>le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes    
     </li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
