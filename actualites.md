@@ -18,7 +18,7 @@ summary:
     <hr> 
     <li>vendredi 24 mars, de 17h30 à 19h, Atelier musical parents/enfants autour de la notion de complicité au Centre social Mosaic, 193, rue des Blanchettes, Macon
     </li><hr>
-    <li>le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes<br>
+    <li>le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes avec la participation de Piero Dubosc, Baptiste Gaubert et Sabine Gaudissart.<br>
     <div class="center-max600-block">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678975028/printemps-poetes2023_n4g7bh.png">
     </div>    
