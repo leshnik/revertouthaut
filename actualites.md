@@ -22,7 +22,8 @@ summary:
     <div class="center-max600-block">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678975028/printemps-poetes2023_n4g7bh.png">
     </div>    
-    </li><hr>   
+    </li><hr>
+    <li>Fin mars, démarrage d'un cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
     <div class="flex-container">
 <div class="column">
