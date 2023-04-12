@@ -14,10 +14,11 @@ summary:
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
         </div>
         <div class="column">
-            <a href="2023-01- Nos vies en chantées.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">cliquer pour télécharger le flyer</a>
-            
-        </div>
-    </div>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
+        </div>      
+</div>
+<a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="FLYER-nos-vies-en-chantees.pdf"  target="_blank">●&nbsp;cliquer pour télécharger le flyer </a>
+    
 <p class="intro-text">Les rencontres sont le moteur de ce projet, qu’il s’agisse de rencontres avec les résidents et des personnes extérieures, de rencontres entre des enfants et des seniors, de rencontres entre les participants et des artistes, de rencontres entre les personnes elles-mêmes et leurs chansons, évocatrices de leurs histoires personnelles, et des rencontres marquantes que chacun.e a pu faire dans son existence et notamment lors des bals.
 Car nous prendrons comme point de départ, les récits et les souvenirs des rencontres faites dans ces hauts lieux de sociabilité et de vitalité rurale, les bals du samedi soir ayant laissé dans les mémoires  des traces encore très vives.</p>
  
