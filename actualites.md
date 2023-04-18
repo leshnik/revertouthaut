@@ -57,7 +57,7 @@ de Montceau les Mines.</li>
     <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.<br>
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
-        </div>
+        </div><br>
         <ul class="institutions">
             <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
             <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
@@ -82,8 +82,8 @@ concernant ce fabuleux projet !
     <li><a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a>, projet de médiations destinées à des personnes migrantes et aux travailleur.ses qui les accompagnent.</li>
     <li><a href="celles-qui-veillent">Celles qui veillent</a>, travail créatif et d'écriture avec des infirmières libérales en milieu rural, qui permettrait de faire reconnaitre leurs missions au plus près de la population.</li>
     <li><a href="visites-en-musique">Visites en musique</a>, accompagnement en musique de certains soins infirmiers complexes à domicile.</li>
-    <li><a href="jeunes-aidants">Jeunes Aidants</a>, projet de création musicale et chorégraphique pour des jeunes aidants autour de leur expérience et des liens qui les relient à leur proche en situation de handicap ou porteur.e de maladie.</li>
-    <li>Ce qui fait un certain nombre de rendez-vous et de dossiers écrits, relus et déposés par ci par là !</li>
+    <li><a href="jeunes-aidants">Jeunes Aidants</a>, projet de création musicale et chorégraphique pour des jeunes aidants autour de leur expérience et des liens qui les relient à leur proche en situation de handicap ou porteur.se de maladie.</li>
+    <li>Ce qui fait un certain nombre de rendez-vous et de dossiers écrits, relus et déposés par ci par là&nbsp;!</li>
     <li>Nous avons reçu aussi quelques bonnes nouvelles, : soutien du conseil départemental de Saône et Loire pour la tournée de <a href="maintenant-il-y-a">Maintenant il y a</a> et le projet de film photographique pour <a href="histoires-de-transmission">Histoires de Transmissions</a>.</li>
 </ul>
 <h2>mars 2023</h2>
