@@ -19,13 +19,6 @@ summary:
     </ul>
     </li>
     <hr> 
-    <li>vendredi 24 mars, de 17h30 à 19h, Atelier musical parents/enfants autour de la notion de complicité au Centre social Mosaic, 193, rue des Blanchettes, Macon
-    </li><hr>
-    <li>le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes avec la participation de Piero Dubosc, Baptiste Gaubert et Sabine Gaudissart.<br>
-    <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678975028/printemps-poetes2023_n4g7bh.png">
-    </div>    
-    </li><hr>
     <li>Fin mars, démarrage d'un cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
     <div class="flex-container">
@@ -92,6 +85,16 @@ concernant ce fabuleux projet !
     <li><a href="jeunes-aidants">Jeunes Aidants</a>, projet de création musicale et chorégraphique pour des jeunes aidants autour de leur expérience et des liens qui les relient à leur proche en situation de handicap ou porteur.e de maladie.</li>
     <li>Ce qui fait un certain nombre de rendez-vous et de dossiers écrits, relus et déposés par ci par là !</li>
     <li>Nous avons reçu aussi quelques bonnes nouvelles, : soutien du conseil départemental de Saône et Loire pour la tournée de <a href="maintenant-il-y-a">Maintenant il y a</a> et le projet de film photographique pour <a href="histoires-de-transmission">Histoires de Transmissions</a>.</li>
+</ul>
+<h2>mars 2023</h2>
+<ul class="institutions">
+    <li>vendredi 24 mars, de 17h30 à 19h, Atelier musical parents/enfants autour de la notion de complicité au Centre social Mosaic, 193, rue des Blanchettes, Macon
+    </li><hr>
+    <li>le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes avec la participation de Piero Dubosc, Baptiste Gaubert et Sabine Gaudissart.<br>
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678975028/printemps-poetes2023_n4g7bh.png">
+    </div>    
+    </li><hr>
 </ul>
 <h2>janvier 2023</h2>
 <ul class="institutions">
