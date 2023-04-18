@@ -14,6 +14,9 @@ summary:
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
         </div>
     </div>
+    <ul class="institutions">
+        <li>le samedi 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais</li>
+    </ul>
     </li>
     <hr> 
     <li>vendredi 24 mars, de 17h30 à 19h, Atelier musical parents/enfants autour de la notion de complicité au Centre social Mosaic, 193, rue des Blanchettes, Macon
@@ -51,13 +54,24 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet
 de spectacle musical en lien avec le service Addictologie de l'Hôpital
-de Montceau les Mines.</li><hr>
+de Montceau les Mines.</li>
+    <ul class="institutions">
+        <li>le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines</li>
+    </ul>
+    <hr>
     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
     <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.<br>
-    <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
-</div>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
+        </div>
+        <ul class="institutions">
+            <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
+            <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
+            <li>le vendredi 15 mars 2024 au Théâtre de Bourbon-Lancy, en partenariat avec le Centre Social</li>
+            <li>le vendredi 5 avril 2024 aux Ateliers du Jour, Montceau les Mines</li>
+            <li>d'autres dates et lieux sont à venir&nbsp;!</li>
+        </ul>
     La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
 concernant ce fabuleux projet !
     </li>
@@ -66,6 +80,19 @@ concernant ce fabuleux projet !
     </div>
 </ul>
 <h1>actualités</h1>
+<h2>avril 2023</h2>
+<ul class="institutions">
+    <li>Printemps qui frémit de partout pour <span class="rever-typog">rêver tout haut</span>&nbsp;!</li>
+    <li>On prépare dare-dare l'organisation des projets de l'automne, de la tournée de <a href="maintenant-il-y-a">Maintenant il y a</a>, de la création de <a href="cachettes-secretes">Cachettes secrètes</a>.</li>
+    <li>On avance la création de <a href="rencontres">Rencontres</a>, spectacles de chansons composées pour les résidents du Val de Joux, à Saint Bonnet.</li>
+    <li>Et on conçoit plein de projets passionnants pour l'an prochain !</li>
+    <li><a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a>, projet de médiations destinées à des personnes migrantes et aux travailleur.ses qui les accompagnent.</li>
+    <li><a href="celles-qui-veillent">Celles qui veillent</a>, travail créatif et d'écriture avec des infirmières libérales en milieu rural, qui permettrait de faire reconnaitre leurs missions au plus près de la population.</li>
+    <li><a href="visites-en-musique">Visites en musique</a>, accompagnement en musique de certains soins infirmiers complexes à domicile.</li>
+    <li><a href="jeunes-aidants">Jeunes Aidants</a>, projet de création musicale et chorégraphique pour des jeunes aidants autour de leur expérience et des liens qui les relient à leur proche en situation de handicap ou porteur.e de maladie.</li>
+    <li>Ce qui fait un certain nombre de rendez-vous et de dossiers écrits, relus et déposés par ci par là !</li>
+    <li>Nous avons reçu aussi quelques bonnes nouvelles, : soutien du conseil départemental de Saône et Loire pour la tournée de <a href="maintenant-il-y-a">Maintenant il y a</a> et le projet de film photographique pour <a href="histoires-de-transmission">Histoires de Transmissions</a>.</li>
+</ul>
 <h2>janvier 2023</h2>
 <ul class="institutions">
 <li>L’hiver est là mais ça sent déjà le printemps dans nos idées ! Et en voilà des pleins paniers !</li>
@@ -87,7 +114,7 @@ Des nouvelles très bientôt des partenariats qui se mettent en place avec plusi
  
 <li>Bref, janvier nous fait turbiner !</li>
  </ul>
-<h2>Décembre</h2>
+<h2>Décembre 2022</h2>
 <ul class="institutions">
     <li>Déjà décembre et la fin de la tournée de Parent Solo et ses marmots, avec les magnifiques représentations de Chalon et Cluny. Les messages du spectacle, son énergie sont bien passés et ont trouvé leur public. En tout cas, nous avons la furieuse envie de repartir sur les routes l’année prochaine&nbsp;!</li>
     <hr>
@@ -98,7 +125,7 @@ Des nouvelles très bientôt des partenariats qui se mettent en place avec plusi
     <hr>
     <li>Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour <a href="histoires-de-transimission">histoires de transmission</a> et <a href="#">maintenant il y a&hellip;</a>,  nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a>.</li>
 </ul>
-<h2>Novembre</h2>
+<h2>Novembre 2022</h2>
 <ul class="institutions">
     <li>Et beh quel marathon ce mois de novembre ! Entre la tournée de Parent Solo et ses marmots, et les représentations au Creusot, Mâcon, Paray le Monial, et la création de notre spectacle «Derrière nos portes» avec les résidents du Foyer de Vie Ugecam de Charnay les Macon, nous en avons rencontré du monde, et fait des kilomètres, et répété des scènes, et envoyé des mails ! Et il a fallu se remettre de toutes ces émotions, car il y en a eut !<br>
     Et au milieu de tout ça, une belle après-midi pour finir en beauté notre atelier Aidants Aimants, des tas de rendez-vous pour Histoires de Transmission et la première endiablée de Accordéon Quizz.<br>
@@ -139,7 +166,7 @@ Charnay-les-Mâcon.</li>
     <div style="position: relative; padding-top: 55.00000000000001%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/dcc4ab16-af29-4cbd-ab83-7d4424508876?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
 </div>
 </ul>
-<h2>Octobre</h2>
+<h2>Octobre 2022</h2>
 <ul class="institutions">
     <li>Début d’automne à vive allure pour Rêver Tout Haut ! Sur les routes de Saône et Loire avec <a href="parent-solo-et-ses-marmots">parent Solo et ses marmots</a>, dans nos ateliers en train de préparer notre spectacle <a href="derriere-nos-portes">derrière nos portes</a>,  et entre temps, le nez dans des dossiers, avec des projets plus passionnants les uns que les autres. Il faut bien ça pour garder du sens et de la vitalité en cette période lourde et moche. </li>
     <hr>
@@ -161,7 +188,7 @@ Charnay-les-Mâcon.</li>
         </div>
     </div>
 </ul>
-<h2>Septembre</h2>
+<h2>Septembre 2022</h2>
 <ul class="institutions">
     <li>15 septembre 2022, restitution publique et concert des chansons
 composées avec et pour les résidents de l'Ehpad de Cluny, dans le
@@ -175,7 +202,7 @@ cadre du projet <a href="contre-jour">Contre-Jour</a>.
     <hr>
     <li>20 septembre 2022, représentation de <a href="bercer-l-enfant-manquant">Bercer l'Enfant Manquant</a> en partenariat avec la Maternité du Centre Hospitalier de Macon, au Chateau de Pierreclos</li>
     </ul>
-<h2>Juillet/Août</h2>
+<h2>Juillet/Août 2022</h2>
 <ul class="institutions">
 <li>Mois d’été, mois rêvés pour écrire. Nous avons donc travaillé à la conception et l’écriture de <a href="derriere-nos-portes">derrière nos portes</a>, dont nous démarrerons les répétitions fin septembre avec les résidents des Villandières de Charnay.</li>
  <hr>

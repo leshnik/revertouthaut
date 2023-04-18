@@ -1,9 +1,9 @@
 ---
 layout: logoTop
-title: histoires de transmission
+title: histoires de transmissions
 summary: 
 ---
-<h1>Histoires de transmission</h1>
+<h1>Histoires de transmissions</h1>
 <div class="quote"><em>«&nbsp;Si on a l’opportunité de céder son exploitation, de la transmettre à quelqu’un, faut pas hésiter car c’est tellement inespéré, y’a pas beaucoup de candidats. Mon repreneur il reprend les bâtiments. Peut-être qu’il voudra aussi la maison mais je lui céderai en location car la maison de mes parents, je vais pas la vendre. Ça me ferait trop de mal, ça c’est le patrimoine familial.
 Toute ma vie, j’ai vu cette maison, j’ai vu ces prés en me disant «&nbsp;c’est à moi, c’est là que je suis né&nbsp;». 
 Je suis pas prêt à vendre et à me dire, «&nbsp;c’est plus à moi&nbsp;».
@@ -15,7 +15,7 @@ Le chêne devant l’entrée de la ferme, je le vends pas, je peux pas, c’est 
 <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673783378/IMG_6115_ojnoiz.jpg"></div>
 
 <p class="intro-text">
-<span style="font-weight:bold">Histoires de transmissions</span> est un projet social et artistique,  basé sur des rencontres, des échanges de paroles et d’expériences avec des agriculteurs en âge du départ à la retraite <span style="font-weight:bold">installés en Saône et Loire</span> et se confrontant à la difficile question de trouver un ou des repreneurs.</p>
+<a href="#">Histoires de transmissions</a> est un projet social et artistique,  basé sur des rencontres, des échanges de paroles et d’expériences avec des agriculteurs en âge du départ à la retraite <span style="font-weight:bold">installés en Saône et Loire</span> et se confrontant à la difficile question de trouver un ou des repreneurs.</p>
 
 <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
 
