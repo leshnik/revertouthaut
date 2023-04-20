@@ -21,7 +21,7 @@ Et un jour, je passe un week end avec  un couple de copains, un couple d’homme
 Et je leur ai dit, mais pourquoi vous faites pas ça avec une amie ? Et ils m’ont dit, ben tu voudrais ?
 Et le mois suivant, c’était fait !»<br>
 <br>
-«Les garçons, ils ont déterminé entre eux qui serait le père biologique, je les ai laissé décidé, c’est leur popote.
+«Les garçons, ils ont déterminé entre eux qui serait le père biologique, je les ai laissé décider, c’est leur popote.
 Donc notre fille a un papa biologique qu’elle appelle Papa et c’est celui qui est déclaré en mairie et elle a un deuxième papa, qu’elle appelle Papou.<br>
 Et maintenant Papou fait des démarches pour une adoption simple, c’est un juge qui prend la décision et on espère que ça va passer.
 Ça va rien changer pour elle, mais pour lui ça va changer, ça va le rassurer. Je vois qu’il est pas serein de sa place, il se sent légitime devant nous mais pas devant la loi.»</p>
