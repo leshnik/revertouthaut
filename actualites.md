@@ -21,6 +21,7 @@ summary:
     <hr> 
     <li>Fin mars, démarrage d'un cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
     <div class="flex-container">
 <div class="column">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1677512592/les-mains-tenduesP1_s4iu55.png">
