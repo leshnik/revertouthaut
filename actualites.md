@@ -43,7 +43,11 @@ organisée par la MSA des Portes de Bretagne
             </div>
         </div>
     </li>
-    <hr>    
+    <hr>
+
+    <li>le 21 juin à 14h30, concert et chansons à partager au Centre Hospitalier Spécialisé de Sevrey.
+    </li> 
+    <hr>   
     <li>A partir de septembre 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
     <hr>
     <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet
