@@ -56,6 +56,7 @@ de Montceau les Mines.</li>
     <ul class="institutions">
         <li>le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines</li>
     </ul>
+    <img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
     <hr>
     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
