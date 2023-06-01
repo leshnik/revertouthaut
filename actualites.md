@@ -14,10 +14,11 @@ summary:
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
         </div>
     </div>
-    <ul class="institutions">
-        <li>le samedi 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais</li>
-    </ul>
     </li>
+    <li>le samedi 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais
+        <div>
+            <img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
+    </div></li>
     <hr> 
     <li>Fin mars, démarrage d'un cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
