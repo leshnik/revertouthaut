@@ -95,6 +95,13 @@ a {
   text-decoration: none;
   font-family: "Amatic SC";
 }
+.diffusion {
+  font-size: 1.3rem;
+  font-family: "Crimson Text", "lora", serif;
+  color: $asparagus;
+}
+  
+
 a:hover {
   background-color: gold;
 }
@@ -111,6 +118,19 @@ a:hover {
   max-width: 720px;
   text-align: justify;
   padding: 1.4rem 0.5rem 1rem 0.5rem;
+}
+
+.intro-indent {
+  font-family: "Crimson Text", serif;
+  font-size: 1.15rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.6rem;
+  margin: -1.6rem auto;
+  width: 70%;
+  max-width: 700px;
+  text-align: justify;
+  padding: 1.4rem 0.5rem 1rem 0.5rem;
+
 }
 .quote {
   font-family: "Crimson Text", serif;
