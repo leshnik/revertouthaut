@@ -32,11 +32,14 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <p class="intro-text">De 2011 à 2013, <cite>Les Êtres Humaines</cite> a été joué en Saône et Loire devant des centaines de spectatrices et spectateurs, et ont touché toutes sortes de public, celui des villes et celui du monde rural, le public du spectacle vivant et celui des réseaux VIF et des médiations familiales, des lycéens, des enseignants, des soignants, des gendarmes, des foyers d’hébergement, des élus, des réseaux des droits des femmes...</p>
 
 <p class="intro-text">Suite à des demandes des réseaux VIF (réseaux mis en place sur le territoires et prenant en charge les violences intra-familiales) de différents départements, le spectacle sera remonté en 2024 dans une version différente, avec des nouveaux témoignages et de nouvelles femmes sur scène.</p>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1685979198/le-etres-humaines2024p1_kbnowo.png">
 
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
     <li><span class="diffusion">contact diffusion : Anastasia Granata</span></li>
     <li><a href="mailto:diffusionrevertouthaut@gmail.com">email&nbsp;:&nbsp;</a><span class="diffusion">diffusionrevertouthaut@gmail.com</span></li>
+    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="les-etres-humaines_V5.pdf" download="download">●&nbsp;cliquer pour télécharger le dossier</a></li>
 </ul>
+
 
 
 
