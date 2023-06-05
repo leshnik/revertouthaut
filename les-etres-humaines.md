@@ -35,9 +35,10 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1685979198/le-etres-humaines2024p1_kbnowo.png">
 
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
+    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="les-etres-humaines_V5.pdf" download="download">●&nbsp;cliquer pour télécharger le dossier</a></li>
     <li><span class="diffusion">contact diffusion : Anastasia Granata</span></li>
     <li><a href="mailto:diffusionrevertouthaut@gmail.com">email&nbsp;:&nbsp;</a><span class="diffusion">diffusionrevertouthaut@gmail.com</span></li>
-    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="les-etres-humaines_V5.pdf" download="download">●&nbsp;cliquer pour télécharger le dossier</a></li>
+    
 </ul>
 
 
@@ -61,7 +62,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <br>
 
 <div class="right-side-text">
-<a href="https://lesetreshumaines.net"><img alt="les femmes tiennent chacune une bannière avec un mot: je, te, détruirai, j'ai, tout, mon, temps" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489586/je_te_détruirai_Etres_Humaines_eehr9y.jpg">site web du spectacle</a>
+<a href="https://lesetreshumaines.net"><img alt="les femmes tiennent chacune une bannière avec un mot: je, te, détruirai, j'ai, tout, mon, temps" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489586/je_te_détruirai_Etres_Humaines_eehr9y.jpg">site web du spectacle 2013</a>
 </div>
 
 
