@@ -4,8 +4,41 @@ title: Les êtres humaines, spectacle autour des violences conjugales
 summary: Joué par des femmes anciennement victimes et des comédiennes professionnelles, le spectacle a été crée à partir d’ateliers artistiques menés en CHRS à Chalon-sur-Saône et des témoignages donnés aussi bien par les femmes accueillies que par les travailleuses sociales qui les accompagnent. Le spectacle a été joué de 2011 à 2013.
 ---
 
-<h1>Les êtres humaines</h1> 
+<h1>les êtres humaines</h1> 
 <h2>spectacle autour des violences conjugales</h2>
+<h1 style="color: red">nouvelle création en 2024</h1>
+
+<p class="intro-text">Une être humaine, </p>
+
+<p class="intro-indent">C’est celle qui part de chez elle, ayant jeté rapidement dans des sacs poubelles quelques vêtements et parfois quelques jouets d’enfants. </p>
+<p class="intro-indent">Celle qui s’échappe d’un domicile conjugal nocif, mortifère, violent.</p>
+
+<p class="intro-indent">C’est aussi celle qui va reconstruire une vie ailleurs, autrement.</p>
+
+<p class="intro-indent">Et qui va changer de statut, dans son propre regard et dans celui des autres, et qui ne sera plus ni victime ni paillasson, et qui va transmettre son histoire, pour qu’elle soit entendue, reconnue, et utile aux autres.</p>
+
+<p class="intro-indent">Et c’est dans cette transmission que s’accomplira sa transformation.</p>
+
+<p class="intro-text"><cite>Les Êtres humaines</cite> est un spectacle rassemblant des témoignages de la violence conjugale et intra-familiale quand elle touche aussi des enfants, et qui évoque par toute une diversité de situations, sa complexité, son intimité, ses impacts, ses traumas et aussi ses histoires.</p>
+
+<p class="intro-text">Il est joué par une troupe d’artistes professionnel.les et par des femmes ayant traversé ce long chemin de reconstruction, qui les a éloignées de cette violence physique, psychologique, de cet enfermement et cette emprise au quotidien.</p>
+
+<p class="intro-text">Le spectacle d’une heure 15 réunit scènes et chansons, fantaisie et gravité, émotions et réflexions. Il propose un espace-temps d’élaboration des expériences et d’ouverture de la parole. Il est suivi d’un temps d’échanges avec le public, en individuel et en groupe, permettant de déposer son vécu, de trouver de l’aide pour soi ou pour les autres.</p>
+
+<p class="intro-text"><cite>Les Êtres humaines</cite> est aussi un outil d’informations, de formations pour des professionnel.les de l’accompagnement social, soignant, juridique.</p>
+
+<p class="intro-text">Il peut être joué en salle de spectacle, en centre social, amphithéâtre...</p>
+
+<p class="intro-text">De 2011 à 2013, <cite>Les Êtres Humaines</cite> a été joué en Saône et Loire devant des centaines de spectatrices et spectateurs, et ont touché toutes sortes de public, celui des villes et celui du monde rural, le public du spectacle vivant et celui des réseaux VIF et des médiations familiales, des lycéens, des enseignants, des soignants, des gendarmes, des foyers d’hébergement, des élus, des réseaux des droits des femmes...</p>
+
+<p class="intro-text">Suite à des demandes des réseaux VIF (réseaux mis en place sur le territoires et prenant en charge les violences intra-familiales) de différents départements, le spectacle sera remonté en 2024 dans une version différente, avec des nouveaux témoignages et de nouvelles femmes sur scène.</p>
+
+<ul style="text-align:right;list-style-type:none;font-size:1.2rem">
+    <li><span class="diffusion">contact diffusion : Anastasia Granata</span></li>
+    <li><a href="mailto:diffusionrevertouthaut@gmail.com">email&nbsp;:&nbsp;</a><span class="diffusion">diffusionrevertouthaut@gmail.com</span></li>
+</ul>
+
+
 
 <div class="space-below"></div>
 
