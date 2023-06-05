@@ -80,6 +80,30 @@ concernant ce fabuleux projet !
     </div>
 </ul>
 <h1>actualités</h1>
+<h2>juin 2023</h2>
+<ul class="institutions">
+<li>Eh beh ! On sème, on récolte ! Et nous abordons l’été des projets plein les valises.</li>
+
+<li>Tout d’abord, fin des ateliers et concerts <a href="rencontres">Rencontres</a> au sein de la Résidence Seniors de Saint Bonnet de Joux, avec une magnifique douzaine de chansons composées pour les résident.es, qui deviennent les leurs puisqu’elles leur ressemblent et parlent d’elles et d’eux. Deux de ces chansons sont composées avec des élèves du cours de création de l’Ecole de Musique du Grand Charolais.</li>
+
+<li>Fin du convivial cycle d’accompagnement créatif et artistique en tout genre <a href="les-mains-tendues">Les Mains tendues</a>, pour des aidants demeurant non loin de Semur en Brionnais. Merci au sympathique accueil du Centre Social Abise à Semur.</li>
+
+<li>Et, en préparation des mois à venir&nbsp;:</li>
+
+<li><a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a>, qui prend une belle tournure, avec le soutien de l’Association le Pont, et celui de la DDETS (Direction Départementale des Solidarités). Projet qui commence à s’organiser pour proposer à des personnes exilées, des travailleur.ses sociales et des bénévoles d’associations qui les accompagnent de se retrouver autour d’un cycle d’ateliers créatifs sur la thématique commune de l’enfance sur Mâcon en 2024.</li>
+
+<li><a href="jeunes-aidants">Jeunes Aidant.es&nbsp;/&nbsp;Les Emmêlé.es</a>, est un projet qui lui aussi se développe bien, en partenariat avec le Réseau des Aidants 71, pour des jeunes aidant.es de 10 à 25 ans, du Charolais Brionnais et qui va leur proposer en 2024 un travail créatif musique et danse autour de cette notion: comment être aidant.e de son parent, de son frère, de sa sœur, s’en sentir responsable et comment en même temps rester enfant.</li>
+
+<li>Nous préparons une rencontre de sensibilisation autour de ce projet lors de la Semaine de la Santé Mentale en octobre 2023 à Paray le Monial et recueillons pour ce faire des témoignages de jeunes aidant.es.</li>
+
+<li>La violence conjugale étant très très loin d’être derrière nous, et la nécessité d’en témoigner pour tenter de changer le cours des choses étant toujours aussi forte, nous nous lançons dans une re-création de <a href="les-etres-humaines"> Les Êtres Humaines</a>, notre spectacle créé en 2011/13, avec notamment de nouveaux témoignages. <a href="mailto:diffusionrevertouthaut@gmail.com">Anastasia Granata</a> est chargée de prospecter les réseaux d’entraide, de soutien, des régions Bourgogne-Franche Comté et Auvergne-Rhônes Alpes pour évaluer les possibilités de diffusion.</li>
+
+<li>Et puis, quelques autres bonnes nouvelles&nbsp;!</li>
+
+<li>Soutien du FDVA pour le projet <a href="histoires-de-transmission">Histoires de Transmissions</a>, et du projet <a href="maintenant-il-y-a">Maintenant il y a</a>, en partenariat avec la Novelline. Merci !</li>
+
+<li>Soutien de la MSA pour deux ateliers musique <a href="double-croche">Double Croche</a> à Semur en Brionnais, en octobre 2023, en partenariat avec le Centre Social Abise. Merci !</li>
+</ul>
 <h2>avril 2023</h2>
 <ul class="institutions">
     <li>Printemps qui frémit de partout pour <span class="rever-typog">rêver tout haut</span>&nbsp;!</li>
