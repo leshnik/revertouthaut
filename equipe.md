@@ -30,6 +30,7 @@ redirect_from:
 <li><a href="#flore" style="color: #7551e1">Flore Simon: comédienne et metteuse en scène</a></li>
 
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
+<li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
@@ -45,7 +46,9 @@ Elle a monté en 2018 et joue actuellement un nouveau spectacle «&nbsp;Bercer l
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1566027596/isis-t%C3%AAte_matha9.png"></div>
 De formation initiale littéraire et théâtrale (Master 1 de Lettres Modernes, et Formation de comédienne sur Paris), Isis a toujours eu à cœur de transmettre quelque chose : d'une émotion à la passion pour un texte, en passant par la découverte d'une nouvelle facette de soi, et par tous les possibles auxquels il est permis de rêver... L'autre est au cœur de ses préoccupations.
 Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découverte de ses ressources pour traverser au mieux tous les moments de vie.
+
 Après un parcours de comédienne, Isis décide de devenir sophrologue suite à la rencontre avec cette pratique lors de la préparation à la naissance de son premier enfant. Après cette expérience riche et étonnante, elle se passionne pour la sophrologie et le potentiel qu'elle y découvre, et la transmettre devient pour elle une évidence. Formée à l'Académie de sophrologie de Paris par Patrick André Chéné, elle obtient son diplôme puis son inscription au RNCP (Répertoire National des Certifications Professionnelles) en 2014.
+
 Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2016 des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est installée en 2017.
 <div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
 <div id="morton"></div>
@@ -71,9 +74,11 @@ Patricia a d'autres passions qui sont la pratique de la danse contemporaine et d
 La photographie est une fidèle et ancienne amie de Lucie. A 9 ans, elle reçoit en cadeau un appareil, puis, encouragée par ses proches et ses rêves, elle chemine et grandit, la photographie à ses côtés.
 Elle en fait son métier qu'elle apprend à Paris de 2004 à 2007 à l’École Louis Lumière puis auprès de ceux et celles qui l'inspirent et l'aident à trouver, à consolider son approche à elle.
 Dès le départ ses activités s'articulent autour de trois dimensions complémentaires : son travail personnel, celui de commande et ses ateliers.
+
 Sa photographie est toujours une histoire de rencontres.
 Elle explore des relations qui se tissent, avec ceux qui la touchent, souvent ceux qui ne font pas partie a priori de son univers, mais qui, grâce à la photographie, le deviennent.
 Lors des ateliers qu'elle met en place, elle fait émerger des images dans des lieux où elle s'installe un moment; dans un camp de réfugiés palestiniens au Liban, auprès de jeunes des banlieues lyonnaises, dans un petit village égyptien...
+
 Ce qui lui tient à cœur, c'est que chacun trouve ce que la photographie lui permet de vivre "en plus".
 Originaire de Dijon, après quelques voyages et quelques années à Paris puis à Lyon, Lucie vit dans un hameau du clunisois. Elle participe en 2017 à la création d'une galerie associative à Cluny, Les Mains Libres, où elle expose ses photographies et continue depuis d'inventer cet espace avec ses amis artistes.
 
@@ -91,21 +96,26 @@ Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses atelier
 ## Sidonie Dubosc : chanteuse, autrice, compositrice
 {: .sido-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632970564/69083084_2998676670174302_8033193834143809536_n_nxeb6f.jpg"></div>
-Sidonie débute le chant à 13 ans alors qu‘elle enregistre pour un film de Valérie Gaudissart (Ich bin eine terroristin). Morton Potash (compositeur des musiques du film) et Olivier Marcaud lui enseignent le chant jusqu‘à ses 16 ans, âge auquel elle intègre le Conservatoire du Grand Chalon avec Aude Husson Patru pour professeure. Elle y étudie le chant, la danse contemporaine, le trombone et le théâtre et s‘oriente vers la chanson française. En 2016, elle créé «&nbsp;Les gardiens de phare&nbsp;» et entame la création de «&nbsp;Pour tout bagage on a 20 ans&nbsp;» avec son groupe La Sido (premier disque en 2018). Sidonie chante aussi avec les Momitcheta (ensemble polyphonique de chant bulgare) jusqu’en 2020, dans le spectacle sur le lien mère/enfant «&nbsp;Bercer l’enfant manquant&nbsp;», dans le conte musical «&nbsp;Cette mémoire des étoiles&nbsp;» inspiré de «&nbsp;La folle allure&nbsp;» de Christian Bobin, dans le duo avec Morton Potash «&nbsp;Berceuses pour adultes&nbsp;» dont Valérie Gaudissart signe avec elle les paroles (premier disque en 2020) et récemment dans le spectacle «&nbsp;Parent solo et ses marmots&nbsp;» autour de la mono-parentalité. L'été 2021, Sidonie sort son premier spectacle musical en solo chant/kalimba : «&nbsp;Portraits des miens&nbsp;». En parallèle, la chanteuse propose également des ateliers de médiation artistique en EHPAD, en école et en hôpital. 
+Sidonie débute le chant à 13 ans alors qu‘elle enregistre pour un film de Valérie Gaudissart (Ich bin eine terroristin). Morton Potash (compositeur des musiques du film) et Olivier Marcaud lui enseignent le chant jusqu‘à ses 16 ans, âge auquel elle intègre le Conservatoire du Grand Chalon avec Aude Husson Patru pour professeure. Elle y étudie le chant, la danse contemporaine, le trombone et le théâtre et s‘oriente vers la chanson française. En 2016, elle créé «&nbsp;Les gardiens de phare&nbsp;» et entame la création de «&nbsp;Pour tout bagage on a 20 ans&nbsp;» avec son groupe La Sido (premier disque en 2018). Sidonie chante aussi avec les Momitcheta (ensemble polyphonique de chant bulgare) jusqu’en 2020, dans le spectacle sur le lien mère/enfant «&nbsp;Bercer l’enfant manquant&nbsp;», dans le conte musical «&nbsp;Cette mémoire des étoiles&nbsp;» inspiré de «&nbsp;La folle allure&nbsp;» de Christian Bobin, dans le duo avec Morton Potash «&nbsp;Berceuses pour adultes&nbsp;» dont Valérie Gaudissart signe avec elle les paroles (premier disque en 2020) et récemment dans le spectacle «&nbsp;Parent solo et ses marmots&nbsp;» autour de la mono-parentalité. 
+
+L'été 2021, Sidonie sort son premier spectacle musical en solo chant/kalimba : «&nbsp;Portraits des miens&nbsp;». En parallèle, la chanteuse propose également des ateliers de médiation artistique en EHPAD, en école et en hôpital. 
 
 <div id="romane"></div>
 <h2 style="color: #29c"> Romane Lasserre: marionnettiste et céramiste</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648632329/romane01_diravd.jpg"></div>
 Jeune diplômée des Arts décoratifs de Strasbourg à 24 ans, Romane Lasserre explore l’objet et plus particulièrement la céramique dans sa dimension narrative et théâtrale.
 Pendant 3 ans, elle étudie à l’École Supérieure d’Art de Lorraine d’Épinal spécialisée dans le travail de l’image et de la narration. Elle y cultive différents champs artistiques avec enthousiasme. Que ce soit des formes dessinées, vidéos, installées, animées, écrites ou même vivantes et mises en scène. Imaginer une relation entre le fond et la forme l’a très vite intéressée et petit à petit emmenée vers des envies de formes sculpturales et vers une affection toute particulière pour le travail de la terre et la céramique.
+
 Elle présente pour son DNA, avec une amie, un premier spectacle de théâtre d’objet intitulé Mécanolie, au même titre qu’une installation de sculptures ouvertes et participatives en céramique, tous deux à destination du jeune public.
 Par la suite, elle monte une nouvelle forme théâtrale avec sa compagnie Ecoutilles : Mon gosier de métal parle toutes les langues, et OIZO, dans lequelles elle fabrique des objets hybrides en céramique.
+
 Elle rencontre la compagnie La Mâchoire 36. S’ensuit une collaboration artistique foisonnante (interventions artistiques dans différents lieux culturels et théâtre en France, fabrication d’objets de spectacles, résidences...). Elle anime des médiations pour des centres sociaux et des personnes en situation de handicap dans lesquelles elle propose son approche du théâtre d’objets et de la marionnette. 
 
 <div id="flore"></div>
 <h2 style="color: #7551e1" >Flore Simon: comédienne, metteur en scène, assistante</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648630231/flore_carre%CC%81_zjantt.jpg"></div>
 Formée au Conservatoire Régional de Chalon-sur-Saône puis en Master-pro mise en scène et dramaturgie à Paris X, elle assiste divers metteurs en scène entre 2012 et 2019 : Jean-Yves Ruf (Hughie), Laurent Fréchuret (Revenez demain, Ervart ou les derniers jours de F.Nietzche) Vincent Thomasset (Les Lettres de non-motivation, Ensemble, ensemble, Médail décor), Lancelot Hamelin (Light House), Édouard Signolet (Zerballodu), Pierre Hoden (De beaux héros en vérité !, Prologue, Land an freedom)… Elle est également amenée à jouer ou tenir des régies sur différents projets (Le Bossu, Douze hommes en colère, Titouane, Le Moche, Projet Nituür…). En 2018, elle rejoint le projet Tapis Noir de la compagnie Les Affranchis en Seine Saint-Denis.
+
 En 2018 et 2019, elle met en scène Juliette, suite et fin trop précoce, d’après un texte de Sylvain Levey puis le conte musical Cette mémoire des étoiles, à partir du roman La Folle allure de Christian Bobin. Elle collabore régulièrement avec des groupe de musique (La Sido, Jon and the minou’s).
 De 2019 à 2021, elle a été assistante de direction du Studio-Théâtre de la Comédie-Française.
 Elle anime des ateliers théâtre avec différents publics, enfants, adolescents et adultes. 
@@ -115,7 +125,22 @@ Elle anime des ateliers théâtre avec différents publics, enfants, adolescents
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662108436/photo_estel_mu0o6g.jpg"></div>
 Elle débute la musique par l'accordéon et dès l'âge de 14 ans, joue dans les bals.
 Elle découvre la composition et compose des pièces pour plusieurs spectacles et compagnies "Yeyette", comédie musicale de Alain Chambosse, "Labora" de Jean Michel Debarbat – Cie Lug, Et pour une dizaine d'albums C.D.
-Elle chante, joue de l'accordéon, de la clarinette et de la flûte au sein de plusieurs formations de chanson française et de musique traditionnelle : Les Trapettistes pendant 10 ans, le Petit Cruq, Tandem, ça tient chaud Nougaro. Elle anime des ateliers musicaux auprès des plus jeunes (R.A.M, crèches) mais aussi des plus âgés avec son accordéon (EPHAD).
+
+Elle chante, joue de l'accordéon, de la clarinette et de la flûte au sein de plusieurs formations de chanson française et de musique traditionnelle : "Les Trapettistes" pendant 10 ans, "Le Petit Cruq", "Tandem", "Ça tient chaud Nougaro". Elle anime des ateliers musicaux auprès des plus jeunes (R.A.M, crèches) mais aussi des plus âgés avec son accordéon (EPHAD).
+
 Passionnée de pédagogie, elle obtient en 2014 un Diplôme d'état de professeur de musique et enseigne dans diverses écoles de musique dont celle du Grand Charolais. En 2017, elle rejoint la Compagnie "A tirelarigot" au sein de laquelle elle jouera plusieurs spectacles pour enfants au côté de Christine Laveder "Hola l'eau là", "Haut les branches", "Ohlala l'arbre" "Tutti Frutti et peau de banane" et créera le spectacle "Vent du voyage" à destination des tout-petits.
 Le clown et le jardinage sont ces passions.
 Elle s'est installé depuis 20 ans dans un petit village de Saône et Loire.
+
+<div id="naima"></div>
+<h2 style="color: #29c">naïma ferré&nbsp;:&nbsp;danseuse, psychométricienne</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1686567581/naima-ferre-carre_brovmr.jpg"></div>
+Danseuse contemporaine, Naïma Ferré explore les liens entre le corps et l’esprit, ou comment habiter un corps, que ce soit au travers d’une pratique intensive de chorégraphie instantanée solo, d’un travail de recherche approfondi sur l’activité de modèle vivant, ou encore par le biais de la pratique de la danse du tournoiement.
+
+Naïma collabore pendant de nombreuses années avec divers danseurs, chorégraphes, metteurs en scène et musiciens (Jean-Philippe Naas, Isabelle Schad, Bazar Andalus, Marina Abramovic, Joan Jonas, Judith Hummel, etc.). Mue par le désir d’ouvrir des espaces intérieurs chez elle comme chez les autres, elle partage tout au long de son parcours ses recherches et connaissances lors de divers ateliers pour adultes comme pour enfants.
+
+Après un long passage à Berlin, Naïma revient en France en s’immergeant cette fois-ci dans le domaine de la thérapie. Elle obtient alors son D.E. de Psychomotricité en 2022.
+Naïma exerce aujourd’hui en tant que psychomotricienne en institution et construit en parallèle de multiples ponts entre le soin et la danse, notamment auprès de la Cie Strates et de l’Association Rêver Tout Haut.
+Elle est installée dans le clunisois.
+
+
