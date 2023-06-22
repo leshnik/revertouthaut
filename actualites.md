@@ -5,6 +5,16 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
+    <li>2023 - 2024<a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:un atelier pour exilés, travailleurs sociaux, et bénévoles d'association va démarrer dans l'automne. 
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
+        </div>
+    </li><hr>
+    <li>Reprise du spectacle <a href="les-etres-humaines">les êtres humaines</a> avec de nouveaux ateliers en 2024&nbsp;!
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
+        </div>
+    </li><hr>
     <li>12 janvier au 17 juin: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.
     <div class="flex-container">
         <div class="column">
