@@ -15,10 +15,17 @@ summary:
         </div>
     </div>
     </li>
-    <li>le samedi 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais
-        <div>
-            <img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
-    </div></li>
+    <li>le dimanche 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais
+        <div class="center-max600-block">
+            <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/v1685633605/nos-vies-en-chantees_bicaxf.png">
+        </div></li>
+    <li>La programme du spectacle avec portraits des participant.es et recueil des textes crées, offerte à tous les résident.es et aux nombreux spectateurs&nbsp;:
+        <div class="center-max600-block" style="border: 1px solid grey">
+            <a href="nos vies en(chantees)2023-06- Livret recueil des textes.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687445362/nos_vies_recueil_de_textes_p1_qt8uib.png">
+                <div class="cite">cliquer pour consulter/télécharger le recueil des textes</div>
+            </a>
+        </div>
+    </li>
     <hr> 
     <li>Fin mars, démarrage d'un cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr>   
     <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
