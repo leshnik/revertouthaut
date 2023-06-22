@@ -60,11 +60,11 @@ organisée par la MSA des Portes de Bretagne
     <hr>
     <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet
 de spectacle musical en lien avec le service Addictologie de l'Hôpital
-de Montceau les Mines.</li>
-    <ul class="institutions">
-        <li>le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines</li>
-    </ul>
-    <img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
+de Montceau les Mines. Le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines.
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
+       </div>
+    </li>
     <hr>
     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
     <hr>
