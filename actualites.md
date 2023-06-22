@@ -5,7 +5,7 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>2023 - 2024<a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:un atelier pour exilés, travailleurs sociaux, et bénévoles d'association va démarrer dans l'automne. 
+    <li>2023 - 2024 <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;un atelier pour exilés, travailleurs sociaux, et bénévoles d'association va démarrer dans l'automne. 
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
         </div>
