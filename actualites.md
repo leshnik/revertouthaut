@@ -5,17 +5,59 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>2023 - 2024 <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;un atelier pour exilés, travailleurs sociaux, et bénévoles d'association va démarrer dans l'automne. 
+    <li>Fin juillet, fin du cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr> 
+    <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet de spectacle musical en lien avec le service Addictologie de l'Hôpital de Montceau les Mines. Le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines.
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
+       </div>
+    </li>
+    <hr>
+     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</li>
+    <hr>
+    <li>Automne 23 et hiver 24&nbsp;:&nbsp;ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté. Avec le soutien de la DRAC et de l'ARS Bourgogne-Franche-Comté, du Conseil Départemental de Sâone-et-Loire, du FDVA 71 et de la SACEM.<br>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
+        </div><br>
+        <ul class="institutions">
+            <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
+            <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
+            <li>le vendredi 15 mars 2024 au Théâtre de Bourbon-Lancy, en partenariat avec le Centre Social</li>
+            <li>le vendredi 5 avril 2024 aux Ateliers du Jour, Montceau les Mines</li>
+            <li>d'autres dates et lieux sont à venir&nbsp;!</li>
+        </ul>
+    La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
+concernant ce fabuleux projet !
+    <div class="center-max600-block">
+    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
+    </div>
+    </li>
+    <hr>
+    <li>2 octobre 2023&nbsp;:&nbsp;démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687534190/mains-tendues-seules_he6muy.png">
+        </div>
+    </li>
+    <hr>
+    <li>Jeudi 9 novembre 2023 à Charolles, au Lycée Agricole, journée de sensibilisation et d'ateliers autour de témoignages de jeunes aidants, <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
+    </li><hr>
+    <li>À partir de 2024, <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;cycle d'ateliers créatifs pour personnes exilées, travailleurs et bénévoles d'associations.
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
         </div>
     </li><hr>
-    <li>Reprise du spectacle <a href="les-etres-humaines">les êtres humaines</a> avec de nouveaux ateliers en 2024&nbsp;!
+    <li>2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
         </div>
     </li><hr>
-    <li>12 janvier au 17 juin: démarrage de <a href="rencontres">rencontres</a>, cycle d’ateliers musicaux et de concerts au sein de la Résidence Seniors du Val de Joux, projet inter-générationnel pour lequel nous allons collaborer avec des élèves de l’école de musique de Saint Bonnet de Joux.
+</ul>
+
+<h1>actualités</h1>
+<h2>juin 2023</h2>
+<ul class="institutions">
+<li>Eh beh ! On sème, on récolte ! Et nous abordons l’été des projets plein les valises.</li>
+<hr>
+<li>Tout d’abord, fin des ateliers et concerts <a href="rencontres">Rencontres</a> au sein de la Résidence Seniors de Saint Bonnet de Joux, avec une magnifique douzaine de chansons composées pour les résident.es, qui deviennent les leurs puisqu’elles leur ressemblent et parlent d’elles et d’eux. Deux de ces chansons sont composées avec des élèves du cours de création de l’Ecole de Musique du Grand Charolais.</li>
     <div class="flex-container">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
@@ -24,21 +66,20 @@ summary:
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
         </div>
     </div>
-    </li>
+    <hr>
     <li>le dimanche 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais
-        <div class="center-max600-block">
+        <div class="center-block">
             <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/v1685633605/nos-vies-en-chantees_bicaxf.png">
         </div></li>
-    <li>La programme du spectacle avec portraits des participant.es et recueil des textes crées, offerte à tous les résident.es et aux nombreux spectateurs&nbsp;:
-        <div class="center-max600-block" style="border: 1px solid grey">
-            <a href="nos vies en(chantees)2023-06- Livret recueil des textes.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687445362/nos_vies_recueil_de_textes_p1_qt8uib.png">
-                <div class="cite">cliquer pour consulter/télécharger le recueil des textes</div>
-            </a>
+    <li>La programme du spectacle avec portraits des participant.es et recueil des textes crées, offerte à tous les résident.es et aux nombreux spectateurs&nbsp;:<br><br>
+
+        <div class="center-block" style="border: 1px solid grey">
+            <a href="nos vies en(chantees)2023-06- Livret recueil des textes.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687445362/nos_vies_recueil_de_textes_p1_qt8uib.png">cliquer pour consulter/télécharger le recueil des textes</a>
         </div>
     </li>
-    <hr> 
-    <li>Fin mars, démarrage d'un cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr>   
-    <li>A partir d'avril 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Semur-en-Brionnais.
+<hr>
+<li>Fin du convivial cycle d’accompagnement créatif et artistique en tout genre <a href="les-mains-tendues">Les Mains tendues</a>, pour des aidants demeurant non loin de Semur en Brionnais. Merci au sympathique accueil du Centre Social Abise à Semur.</li>
+<li>
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
     <div class="flex-container">
 <div class="column">
@@ -49,6 +90,31 @@ summary:
 </div>
  </div>
     </li>
+    <hr>
+     <li>le 21 juin à 14h30, concert et chansons à partager au Centre Hospitalier Spécialisé de Sevrey.
+    </li> 
+    <hr>
+<li>Et, en préparation des mois à venir&nbsp;:</li>
+
+<li><a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a>, qui prend une belle tournure, avec le soutien de l’Association le Pont, et celui de la DDETS (Direction Départementale des Solidarités). Projet qui commence à s’organiser pour proposer à des personnes exilées, des travailleur.ses sociales et des bénévoles d’associations qui les accompagnent de se retrouver autour d’un cycle d’ateliers créatifs sur la thématique commune de l’enfance sur Mâcon en 2024.</li>
+
+<li><a href="jeunes-aidants">Jeunes Aidant.es&nbsp;/&nbsp;Les Emmêlé.es</a>, est un projet qui lui aussi se développe bien, en partenariat avec le Réseau des Aidants 71, pour des jeunes aidant.es de 10 à 25 ans, du Charolais Brionnais et qui va leur proposer en 2024 un travail créatif musique et danse autour de cette notion: comment être aidant.e de son parent, de son frère, de sa sœur, s’en sentir responsable et comment en même temps rester enfant.</li>
+
+<li>Nous préparons une rencontre de sensibilisation autour de ce projet lors de la Semaine de la Santé Mentale en novembre 2023 à Paray le Monial et recueillons pour ce faire des témoignages de jeunes aidant.es.</li>
+
+<li>La violence conjugale étant très très loin d’être derrière nous, et la nécessité d’en témoigner pour tenter de changer le cours des choses étant toujours aussi forte, nous nous lançons dans une re-création de <a href="les-etres-humaines"> Les Êtres Humaines</a>, notre spectacle créé en 2011/13, avec notamment de nouveaux témoignages. <a href="mailto:diffusionrevertouthaut@gmail.com">Anastasia Granata</a> est chargée de prospecter les réseaux d’entraide, de soutien, des régions Bourgogne-Franche Comté et Auvergne-Rhônes Alpes pour évaluer les possibilités de diffusion.</li>
+
+<li>Et puis, quelques autres bonnes nouvelles&nbsp;!</li>
+
+<li>Soutien du FDVA pour le projet <a href="histoires-de-transmission">Histoires de Transmissions</a>, et du projet <a href="maintenant-il-y-a">Maintenant il y a</a>, en partenariat avec la Novelline. Merci !</li>
+
+<li>Soutien de la SACEM pour le projet <a href="maintenant-il-y-a">Maintenant il y a</a>. Merci&nbsp;!</li>
+
+<li>Soutien de la MSA pour deux ateliers musique <a href="double-croche">Double Croche</a> à Semur en Brionnais, en octobre 2023, en partenariat avec le Centre Social Abise. Merci !</li>
+</ul>
+<h2>avril 2023</h2>
+<ul class="institutions">
+    <li>Printemps qui frémit de partout pour <span class="rever-typog">rêver tout haut</span>&nbsp;!</li>
     <hr>
     <li>le jeudi 6 avril 2023, lecture de témoignages d'aidants <a href="les-plus-que-proches">les plus que proches</a> à l'Espace Delta, rue Ransbach-Baumbach, 35730 Pleurtuit (à côté de Dinard), dans le cadre d'une soirée "Santé des Aidants"
 organisée par la MSA des Portes de Bretagne
@@ -62,68 +128,6 @@ organisée par la MSA des Portes de Bretagne
         </div>
     </li>
     <hr>
-
-    <li>le 21 juin à 14h30, concert et chansons à partager au Centre Hospitalier Spécialisé de Sevrey.
-    </li> 
-    <hr>   
-    <li>A partir de septembre 2023, démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.</li>
-    <hr>
-    <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet
-de spectacle musical en lien avec le service Addictologie de l'Hôpital
-de Montceau les Mines. Le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines.
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
-       </div>
-    </li>
-    <hr>
-    <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs.</li>
-    <hr>
-    <li>Automne 23 et hiver 24: ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté.<br>
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
-        </div><br>
-        <ul class="institutions">
-            <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
-            <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
-            <li>le vendredi 15 mars 2024 au Théâtre de Bourbon-Lancy, en partenariat avec le Centre Social</li>
-            <li>le vendredi 5 avril 2024 aux Ateliers du Jour, Montceau les Mines</li>
-            <li>d'autres dates et lieux sont à venir&nbsp;!</li>
-        </ul>
-    La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
-concernant ce fabuleux projet !
-    </li>
-    <div class="center-max600-block">
-    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
-    </div>
-</ul>
-<h1>actualités</h1>
-<h2>juin 2023</h2>
-<ul class="institutions">
-<li>Eh beh ! On sème, on récolte ! Et nous abordons l’été des projets plein les valises.</li>
-
-<li>Tout d’abord, fin des ateliers et concerts <a href="rencontres">Rencontres</a> au sein de la Résidence Seniors de Saint Bonnet de Joux, avec une magnifique douzaine de chansons composées pour les résident.es, qui deviennent les leurs puisqu’elles leur ressemblent et parlent d’elles et d’eux. Deux de ces chansons sont composées avec des élèves du cours de création de l’Ecole de Musique du Grand Charolais.</li>
-
-<li>Fin du convivial cycle d’accompagnement créatif et artistique en tout genre <a href="les-mains-tendues">Les Mains tendues</a>, pour des aidants demeurant non loin de Semur en Brionnais. Merci au sympathique accueil du Centre Social Abise à Semur.</li>
-
-<li>Et, en préparation des mois à venir&nbsp;:</li>
-
-<li><a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a>, qui prend une belle tournure, avec le soutien de l’Association le Pont, et celui de la DDETS (Direction Départementale des Solidarités). Projet qui commence à s’organiser pour proposer à des personnes exilées, des travailleur.ses sociales et des bénévoles d’associations qui les accompagnent de se retrouver autour d’un cycle d’ateliers créatifs sur la thématique commune de l’enfance sur Mâcon en 2024.</li>
-
-<li><a href="jeunes-aidants">Jeunes Aidant.es&nbsp;/&nbsp;Les Emmêlé.es</a>, est un projet qui lui aussi se développe bien, en partenariat avec le Réseau des Aidants 71, pour des jeunes aidant.es de 10 à 25 ans, du Charolais Brionnais et qui va leur proposer en 2024 un travail créatif musique et danse autour de cette notion: comment être aidant.e de son parent, de son frère, de sa sœur, s’en sentir responsable et comment en même temps rester enfant.</li>
-
-<li>Nous préparons une rencontre de sensibilisation autour de ce projet lors de la Semaine de la Santé Mentale en octobre 2023 à Paray le Monial et recueillons pour ce faire des témoignages de jeunes aidant.es.</li>
-
-<li>La violence conjugale étant très très loin d’être derrière nous, et la nécessité d’en témoigner pour tenter de changer le cours des choses étant toujours aussi forte, nous nous lançons dans une re-création de <a href="les-etres-humaines"> Les Êtres Humaines</a>, notre spectacle créé en 2011/13, avec notamment de nouveaux témoignages. <a href="mailto:diffusionrevertouthaut@gmail.com">Anastasia Granata</a> est chargée de prospecter les réseaux d’entraide, de soutien, des régions Bourgogne-Franche Comté et Auvergne-Rhônes Alpes pour évaluer les possibilités de diffusion.</li>
-
-<li>Et puis, quelques autres bonnes nouvelles&nbsp;!</li>
-
-<li>Soutien du FDVA pour le projet <a href="histoires-de-transmission">Histoires de Transmissions</a>, et du projet <a href="maintenant-il-y-a">Maintenant il y a</a>, en partenariat avec la Novelline. Merci !</li>
-
-<li>Soutien de la MSA pour deux ateliers musique <a href="double-croche">Double Croche</a> à Semur en Brionnais, en octobre 2023, en partenariat avec le Centre Social Abise. Merci !</li>
-</ul>
-<h2>avril 2023</h2>
-<ul class="institutions">
-    <li>Printemps qui frémit de partout pour <span class="rever-typog">rêver tout haut</span>&nbsp;!</li>
     <li>On prépare dare-dare l'organisation des projets de l'automne, de la tournée de <a href="maintenant-il-y-a">Maintenant il y a</a>, de la création de <a href="cachettes-secretes">Cachettes secrètes</a>.</li>
     <li>On avance la création de <a href="rencontres">Rencontres</a>, spectacles de chansons composées pour les résidents du Val de Joux, à Saint Bonnet.</li>
     <li>Et on conçoit plein de projets passionnants pour l'an prochain !</li>
