@@ -7,17 +7,23 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <h1>les êtres humaines</h1> 
 <h2>spectacle autour des violences conjugales</h2>
 <h1 style="color: red">nouvelle création en 2024</h1>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
 
-<p class="intro-text">Une être humaine, </p>
+<p class="intro-text">Une être humaine,
+<br>
+c’est celle qui part de chez elle, ayant jeté rapidement dans des sacs poubelles quelques vêtements et parfois quelques jouets d’enfants.
+<br><br>
+Celle qui s’échappe d’un domicile conjugal nocif, mortifère, violent. 
+<br>C’est aussi celle qui va reconstruire une vie ailleurs, autrement.
+<br><br>
+Et qui va changer de statut, dans son propre regard et dans celui des autres, et qui ne sera plus ni victime ni paillasson, et qui va transmettre son histoire, pour qu’elle soit entendue, reconnue, et utile aux autres.
+<br><br>
+Et c’est dans cette transmission que s’accomplira sa transformation.
+</p>
+</div>
 
-<p class="intro-indent">C’est celle qui part de chez elle, ayant jeté rapidement dans des sacs poubelles quelques vêtements et parfois quelques jouets d’enfants. </p>
-<p class="intro-indent">Celle qui s’échappe d’un domicile conjugal nocif, mortifère, violent.</p>
 
-<p class="intro-indent">C’est aussi celle qui va reconstruire une vie ailleurs, autrement.</p>
-
-<p class="intro-indent">Et qui va changer de statut, dans son propre regard et dans celui des autres, et qui ne sera plus ni victime ni paillasson, et qui va transmettre son histoire, pour qu’elle soit entendue, reconnue, et utile aux autres.</p>
-
-<p class="intro-indent">Et c’est dans cette transmission que s’accomplira sa transformation.</p>
 
 <p class="intro-text"><cite>Les Êtres humaines</cite> est un spectacle rassemblant des témoignages de la violence conjugale et intra-familiale quand elle touche aussi des enfants, et qui évoque par toute une diversité de situations, sa complexité, son intimité, ses impacts, ses traumas et aussi ses histoires.</p>
 
