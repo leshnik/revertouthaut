@@ -26,7 +26,6 @@ summary:
  
 <p class="intro-text">Projet soutenu par la Conférence des Financeurs.<br>
 Ateliers gratuits pour les participants.<br>
-Informations pratiques à venir.</p>
 
 <div class="flex-container">
   <div class="column">
