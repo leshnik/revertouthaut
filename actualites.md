@@ -33,8 +33,13 @@ concernant ce fabuleux projet !
     </li>
     <hr>
     <li>2 octobre 2023&nbsp;:&nbsp;démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687534190/mains-tendues-seules_he6muy.png">
+        <div class="flex-container">
+            <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
+            </div>
+            <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688792015/les-mains-tendues-paray2023p2_qurzz0.png">
+            </div>
         </div>
     </li>
     <hr>
