@@ -16,7 +16,7 @@ summary:
     <hr>
     <li>Automne 23 et hiver 24&nbsp;:&nbsp;ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté. Avec le soutien de la DRAC et de l'ARS Bourgogne-Franche-Comté, du Conseil Départemental de Sâone-et-Loire, du FDVA 71 et de la SACEM.<br>
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678969150/maintenant-il-y-a_kpowtc.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
         </div><br>
         <ul class="institutions">
             <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
