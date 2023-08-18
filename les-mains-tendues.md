@@ -18,7 +18,15 @@ summary:
     </li>
   </ul>
 <p class="intro-text">De mars à décembre 2023 auront lieu dans le Brionnais, au printemps à Semur-en-Brionnais et à l’automne à Paray-le-Monial, un cycle d’ateliers créatifs pour aidant.es et proches de personnes en perte d’autonomie, qu’il s’agisse de handicap, physique ou psychique, ou de maladies.</p>
+
+<div class="center-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692339463/plate-birds-mains-tendues_yc9uau.jpg">
+</div>
 <p class="intro-text">Ensemble, avec des artistes et en groupe, nous proposerons des consignes créatives, comme l’écriture, la peinture, l’argile, la musique, la fabrication de marionnettes, pour transformer le quotidien et le vécu de l’aidant.</p>
+
+<div class="center-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692339476/held-painting-mains-tendues_z3fkad.jpg">
+</div>
 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
 
