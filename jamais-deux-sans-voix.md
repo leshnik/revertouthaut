@@ -25,7 +25,7 @@ Un univers un brin lunaire et un poil cocasse.
 <p class="quote">
 Y'a trois tabourets<br>
 complètement bourrés<br>
-qui me séparerent de celle<br>
+qui me séparent de celle<br>
 qui a mis le sel dans mon dimanche<br>
 <br>
 Branchée sur l'iPhone<br>
