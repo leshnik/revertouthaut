@@ -26,7 +26,8 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
       <a class="nav-list-item subtlehover" style="color: #aafc89" href="/cabosses">●&nbsp;Cabossés (2022 - )</a>
       <br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">●&nbsp;Chansons pour ceux qui ne font pas de bruit (2022 - )</a><br>
-      <a style="color: #aafc89" class="nav-list-item subtlehover"  href="les-etres-humaines">●&nbsp;Les&nbsp;Étres&nbsp;Humaines&nbsp;(2015 - 2018)</a>
-    </p>
+      <a style="color: #aafc89" class="nav-list-item subtlehover"  href="les-etres-humaines">●&nbsp;Les&nbsp;Étres&nbsp;Humaines&nbsp;(2015 - 2018)</a><br>
+      <a style="color:#aafc89" class="nav-list-item" href="jamais-deux-sans-voix">●&nbsp;Jamais deux sans voix (2022 -)</a>
+    </p> 
 </div>
 
