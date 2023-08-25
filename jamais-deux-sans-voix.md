@@ -46,8 +46,7 @@ a éliminé la vue de sa hanche<br>
 Y'a trois digestifs<br>
 loin de l'aperitif<br>
 qui m'en sorcellent<br>
-à l'universel<br>
-de mon lundi<br>
+à l'universel de mon lundi<br>
 <br>
 Elle m'abandonne<br>
 sine qua non<br>
