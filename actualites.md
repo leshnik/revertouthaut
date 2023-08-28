@@ -12,6 +12,12 @@ summary:
        </div>
     </li>
     <hr>
+    <li>30 et 31 octobre: les grands-parents et leurs petits-enfants sont invités à participer ensemble à des ateliers musicaux, animés par Estelle Bernigal. Complicité et musique pour deux générations réunies ! Au Centre-Social de l'ABISE. Inscription et renseignements au 03 85 25 27 54.
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693231069/Double_croche_daoosp.jpg">
+
+    </div>
+    <hr>
      <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</li>
     <hr>
     <li>Automne 23 et hiver 24&nbsp;:&nbsp;ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté. Avec le soutien de la DRAC et de l'ARS Bourgogne-Franche-Comté, du Conseil Départemental de Sâone-et-Loire, du FDVA 71 et de la SACEM.<br>
