@@ -5,40 +5,49 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
-    <li>Fin juillet, fin du cycle de concerts et d'ateliers de chant de quatre mois, pour la douzaine de résidents de la Petite Unité de Vie de Sennecey le Grand.</li><hr> 
     <li>A partir de septembre 2023, démarrage de <a href="cachettes-secretes">cachettes secrètes</a>, projet de spectacle musical en lien avec le service Addictologie de l'Hôpital de Montceau les Mines. Le vendredi 20 octobre, représentation aux Ateliers du Jour à Montceau les Mines.
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
        </div>
     </li>
     <hr>
-    <li>30 et 31 octobre: les grands-parents et leurs petits-enfants sont invités à participer ensemble à des ateliers musicaux, animés par Estelle Bernigal. Complicité et musique pour deux générations réunies ! Au Centre-Social de l'ABISE. Inscription et renseignements au 03 85 25 27 54.
-    <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693231069/Double_croche_daoosp.jpg">
+    <li>
+        30 et 31 octobre à Semur-en-Brionnais&nbsp;: les grands-parents et leurs petits-enfants sont invités à participer ensemble à des ateliers musicaux, animés par Estelle Bernigal. Complicité et musique pour deux générations réunies ! Au Centre-Social de l'ABISE. Inscription et renseignements au 03 85 25 27 54.
+            <div class="center-max600-block">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693231069/Double_croche_daoosp.jpg">
 
-    </div>
-    <hr>
-     <li>2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</li>
-    <hr>
-    <li>Automne 23 et hiver 24&nbsp;:&nbsp;ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté. Avec le soutien de la DRAC et de l'ARS Bourgogne-Franche-Comté, du Conseil Départemental de Sâone-et-Loire, du FDVA 71 et de la SACEM.<br>
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
-        </div><br>
-        <ul class="institutions">
-            <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
-            <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
-            <li>le vendredi 15 mars 2024 au Théâtre de Bourbon-Lancy, en partenariat avec le Centre Social</li>
-            <li>le vendredi 5 avril 2024 aux Ateliers du Jour, Montceau les Mines</li>
-            <li>d'autres dates et lieux sont à venir&nbsp;!</li>
-        </ul>
-    La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a>
-concernant ce fabuleux projet !
-    <div class="center-max600-block">
-    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
-    </div>
+            </div>
     </li>
     <hr>
-    <li>2 octobre 2023&nbsp;:&nbsp;démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.
+     <li>
+        2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.
+     </li>
+    <hr>
+    <li>
+        Automne 23 et hiver 24&nbsp;:&nbsp;ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté. Avec le soutien de la DRAC et de l'ARS Bourgogne-Franche-Comté, du Conseil Départemental de Sâone-et-Loire, du FDVA 71 et de la SACEM.<br>
+            <div class="center-max600-block">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
+            </div>
+        
+
+            <ul class="institutions">
+                <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
+                <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
+                <li>le vendredi 15 mars 2024 au Théâtre de Bourbon-Lancy, en partenariat avec le Centre Social</li>
+                <li>le vendredi 5 avril 2024 aux Ateliers du Jour, Montceau les Mines</li>
+                <li>d'autres dates et lieux sont à venir&nbsp;!</li>
+            </ul>
+    </li>
+    
+    <li>
+        La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a> concernant ce fabuleux projet !
+            <div class="center-max600-block">
+                <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
+            </div>
+    </li>
+    <hr>
+    <li>
+        2 octobre 2023&nbsp;:&nbsp;démarrage de <a href="les-mains-tendues">les mains tendues</a>, ateliers créatifs pour aidant.es à Paray-le-Monial.
         <div class="flex-container">
             <div class="column">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
@@ -50,19 +59,22 @@ concernant ce fabuleux projet !
     </li>
     <hr>
     <li>Jeudi 9 novembre 2023 à Charolles, au Lycée Agricole, journée de sensibilisation et d'ateliers autour de témoignages de jeunes aidants, <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
-    </li><hr>
-    <li>À partir de 2024, <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;cycle d'ateliers créatifs pour personnes exilées, travailleurs et bénévoles d'associations.
+    </li>
+    <hr>
+    <li>
+        À partir de 2024, <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;cycle d'ateliers créatifs pour personnes exilées, travailleurs et bénévoles d'associations.
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
         </div>
-    </li><hr>
-    <li>2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
-        </div>
-    </li><hr>
+    </li>
+    <hr>
+    <li>
+        2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
+            <div class="center-max600-block">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
+            </div>
+    </li>
 </ul>
-
 <h1>actualités</h1>
 <h2>juin 2023</h2>
 <ul class="institutions">
