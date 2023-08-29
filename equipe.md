@@ -31,6 +31,7 @@ redirect_from:
 
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
+<li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
@@ -142,5 +143,15 @@ Naïma collabore pendant de nombreuses années avec divers danseurs, chorégraph
 Après un long passage à Berlin, Naïma revient en France en s’immergeant cette fois-ci dans le domaine de la thérapie. Elle obtient alors son D.E. de Psychomotricité en 2022.
 Naïma exerce aujourd’hui en tant que psychomotricienne en institution et construit en parallèle de multiples ponts entre le soin et la danse, notamment auprès de la Cie Strates et de l’Association Rêver Tout Haut.
 Elle est installée dans le clunisois.
+
+<div id="anastasia"></div>
+<h2 style="color: #29c">naïma ferré&nbsp;:&nbsp;chargée de diffusion</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
+
+Initiée à la danse moderne jazz ainsi qu'au théâtre depuis son plus jeune âge, Anastasia s’est dirigée vers des études dans le domaine culturel afin d'allier ses passions à un environnement professionnel. 
+
+Après un premier diplôme dans les métiers du livre (DUT) en 2019, la voilà depuis 2022 diplômée d’un master en Management de la Culture, Musiques actuelles et Réalisation documentaire, obtenu à Lille. Pendant ses études, elle a réalisé des stages au sein de plusieurs compagnies et lieux culturels, (Compagnie Caktus, MJC de Sedan, L’Auditorium de Seynod/ scène régionale d’Auvergne Rhônes-Alpes) durant lesquels elle a pris plaisir à être immergée dans le monde du spectacle vivant.
+
+Elle est chargée de diffusion, au sein de Rêver Tout Haut, du spectacle Les Etres Humaines.
 
 
