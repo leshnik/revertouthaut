@@ -145,7 +145,7 @@ Naïma exerce aujourd’hui en tant que psychomotricienne en institution et cons
 Elle est installée dans le clunisois.
 
 <div id="anastasia"></div>
-<h2 style="color: #29c">naïma ferré&nbsp;:&nbsp;chargée de diffusion</h2>
+<h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
 
 Initiée à la danse moderne jazz ainsi qu'au théâtre depuis son plus jeune âge, Anastasia s’est dirigée vers des études dans le domaine culturel afin d'allier ses passions à un environnement professionnel. 
