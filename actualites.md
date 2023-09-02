@@ -58,7 +58,10 @@ summary:
         </div>
     </li>
     <hr>
-    <li>Jeudi 9 novembre 2023 à Charolles, au Lycée Agricole, journée de sensibilisation et d'ateliers autour de témoignages de jeunes aidants, <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
+    <li>Jeudi 9 novembre 2023 à Charolles, au Lycée Agricole, journée de sensibilisation et d'ateliers autour de témoignages de jeunes aidants, <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a> Journée organisée dans le cadre des semaines de la santé mentale du Charolais-Brionnais.
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
+    </div>
     </li>
     <hr>
     <li>
