@@ -62,6 +62,9 @@ summary:
     <div class="center-max600-block">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
     </div>
+     <div class="center-max600-block" style="border: 1px solid grey">
+            <a href="Flyer SISM 2023 VD.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693735452/flyerSISM_yimz0j.jpg">cliquer pour consulter/télécharger le flyer</a>
+        </div>
     </li>
     <hr>
     <li>
