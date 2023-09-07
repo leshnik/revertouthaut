@@ -39,6 +39,8 @@ Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprime
 </div>
  
 <p class="intro-text">Des multiples structures du territoire qui œuvrent dans l'accompagnement des jeunes au niveau social, éducatif, familial: Lycées, Maison Familiale Rurale, Mission Locale, CMP, Papillons Blancs,etc...,  seront sollicités pour diffuser l’information autour du projet et pour repérer certaines situations de jeune aidance.</p>
+
+
  
  
  
