@@ -26,8 +26,17 @@ Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprime
 <p class="intro-text">«Les emmêlé.es» est porté par l’Association Rêver Tout Haut qui œuvre dans le domaine de la médiation artistique adaptée à différents publics, et le Réseau des Aidants 71 qui accompagne en proximité et sur le terrain les aidants dans leurs difficultés et leurs démarches.</p>
  
 <p class="intro-text">Ce projet se veut une expérience nouvelle et novatrice dans notre département. Les ateliers auront lieu pendant les vacances scolaires 2024, et aboutiront à une ou deux représentations publiques qui permettront de faire connaître et reconnaître par leur entourage plus ou moins proche le vécu singulier de ces jeunes aidants.</p>
- 
-<p class="intro-text">Un temps de sensibilisation et d’informations est organisé lors de la Semaine de la Santé Mentale à Paray le Monial, en octobre 2023, où sera présenté, à partir de témoignages de jeunes aidants, ce cycle d’ateliers musical et dansé.</p>
+
+<div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
+</div>
+
+<p class="intro-text">Un temps de sensibilisation et d’informations sera organisé lors de la 34e édition des <strong>Semaines d'information sur la Santé Mentale du Charolais-Brionnais</strong>, le jeudi 9 novembre au Lycée Professionnel Agricole à Charolles. C'est à partir de témoignages de jeunes aidants que ce cycle d’ateliers musical et dansé sera présenté. Cliquer ci-dessous pour consulter le flyer. L'inscription est obligatoire auprès de C. Moreau 06-47-11-61-09, plateforme.paray@rdasmacon.net, ou de V. Gaudissart 07-69-29-53-27, revertouthaut@gmail.com</p>
+
+    
+ <div class="center-max600-block" style="border: 1px solid grey">
+            <a href="Flyer SISM 2023 VD.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693735452/flyerSISM_yimz0j.jpg">cliquer pour consulter/télécharger le flyer</a>
+</div>
  
 <p class="intro-text">Des multiples structures du territoire qui œuvrent dans l'accompagnement des jeunes au niveau social, éducatif, familial: Lycées, Maison Familiale Rurale, Mission Locale, CMP, Papillons Blancs,etc...,  seront sollicités pour diffuser l’information autour du projet et pour repérer certaines situations de jeune aidance.</p>
  
