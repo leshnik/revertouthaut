@@ -11,6 +11,10 @@ summary:
        </div>
     </li>
     <hr>
+    <li>Le samedi 30 septembre à Chissey les Macon, dans la matinée : lecture de témoignages d’aidants, dans le cadre d’une matinée consacrée aux aidants, organisée par le Bus Marguerite et les Foyers Ruraux du Clunisois.
+
+    </li>
+    <hr>
     <li>
         30 et 31 octobre à Semur-en-Brionnais&nbsp;: les grands-parents et leurs petits-enfants sont invités à participer ensemble à des ateliers musicaux, animés par Estelle Bernigal. Complicité et musique pour deux générations réunies ! Au Centre-Social de l'ABISE. Inscription et renseignements au 03 85 25 27 54.
             <div class="center-max600-block">
@@ -82,6 +86,24 @@ summary:
     </li>
 </ul>
 <h1>actualités</h1>
+<h2>septembre</h2>
+<ul class="institutions">
+<li>Nous revoilà lancé.es dans l’aventure de la rentrée et de l’automne qui s’annonce bien chargé. Alors par où commencer ?</li>
+
+<li>Eh bien, par les bonnes nouvelles !</li>
+
+<li>Soutien du Conseil Départemental 71 pour le projet <a href="chansons-a-garder-dans-sa-table-de-nuit.md">chansons à garder dans sa table de nuit</a>, proposition d’accompagnement musical pour personnes âgées résidant en institutions. Merci !</li>
+
+<li>Soutien du Conseil Régional BFC pour notre projet <a href="histoires-de-transmission">histoires de transmissions</a>, film portant sur le vaste sujet des départs à la retraite des agriculteurs. Merci !</li>
+
+<li>Et puis, nous préparons activement nos rencontres autour des jeunes aidants <a href="jeunes-aidants.md">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> en recueillant des témoignages sur ce vécu.</li>
+
+<li>Nous organisons les ateliers et les concerts pour <a href="cachettes-secretes.md">cachettes secrètes</a> et <a href="maintenant-il-y-a.md">maintenant il y a</a>, qui arrivent à grands pas.</li>
+
+<li>Nous continuons nos prospections de diffusion pour notre spectacle <a href="les-etres-humaines.md">les êtres humaines</a>.</li>
+
+<li>Et comme nous voyons loin, nous sommes en train de penser à comment et quoi créer comme accompagnement créatif pour personnes endeuillées. Projet dont nous vous donnerons plus d’infos plus tard.</li>
+</ul>
 <h2>juin 2023</h2>
 <ul class="institutions">
 <li>Eh beh ! On sème, on récolte ! Et nous abordons l’été des projets plein les valises.</li>
