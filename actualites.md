@@ -12,7 +12,9 @@ summary:
     </li>
     <hr>
     <li>Le samedi 30 septembre à Chissey les Macon, dans la matinée : lecture de témoignages d’aidants, dans le cadre d’une matinée consacrée aux aidants, organisée par le Bus Marguerite et les Foyers Ruraux du Clunisois.
-
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1695741962/comm-chissey-mailing_aqqgjn.jpg">
+        </div>
     </li>
     <hr>
     <li>
