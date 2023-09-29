@@ -6,6 +6,10 @@ title: maintenant, il y a
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
 </div>
+<h2>le teaser</h2>
+<div class="center-max600-block">
+<video controls="controls" width="100%"> <source src="https://rth8.b-cdn.net/teaser-maintenant-il-y-a.mp4"></video>
+</div>
 <p class="intro-text">La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf" target="_blank">appel à dons</a>
 concernant ce fabuleux projet !</p>
 
