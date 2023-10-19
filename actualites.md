@@ -11,12 +11,7 @@ summary:
        </div>
     </li>
     <hr>
-    <li>Le samedi 30 septembre à Chissey les Macon, dans la matinée : lecture de témoignages d’aidants, dans le cadre d’une matinée consacrée aux aidants, organisée par le Bus Marguerite et les Foyers Ruraux du Clunisois.
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1695741962/comm-chissey-mailing_aqqgjn.jpg">
-        </div>
-    </li>
-    <hr>
+    
     <li>
         30 et 31 octobre à Semur-en-Brionnais&nbsp;: les grands-parents et leurs petits-enfants sont invités à participer ensemble à des ateliers musicaux, animés par Estelle Bernigal. Complicité et musique pour deux générations réunies ! Au Centre-Social de l'ABISE. Inscription et renseignements au 03 85 25 27 54.
             <div class="center-max600-block">
@@ -101,6 +96,13 @@ summary:
 <li>Soutien du Conseil Régional BFC pour notre projet <a href="histoires-de-transmission">histoires de transmissions</a>, film portant sur le vaste sujet des départs à la retraite des agriculteurs. Merci !</li>
 
 <li>Et puis, nous préparons activement nos rencontres autour des jeunes aidants <a href="jeunes-aidants.md">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> en recueillant des témoignages sur ce vécu.</li>
+
+<li>Le samedi 30 septembre à Chissey les Macon, dans la matinée : lecture de témoignages d’aidants, dans le cadre d’une matinée consacrée aux aidants, organisée par le Bus Marguerite et les Foyers Ruraux du Clunisois.
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1695741962/comm-chissey-mailing_aqqgjn.jpg">
+    </div>
+</li>
+
 
 <li>Nous organisons les ateliers et les concerts pour <a href="cachettes-secretes.md">cachettes secrètes</a> et <a href="maintenant-il-y-a.md">maintenant il y a</a>, qui arrivent à grands pas.</li>
 
