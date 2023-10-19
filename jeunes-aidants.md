@@ -8,6 +8,10 @@ summary:
  
 <h2>Atelier créatif pour jeunes aidants
 du Charolais-Brionnais 2024</h2>
+
+<div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
+</div>
  
 <p class="intro-text">Les emmêlé.es est un projet social et artistique destiné à des jeunes aidants, de 10 à 25 ans, vivant sur le territoire rural du Charolais-Brionnais en Saône et Loire, qui prennent en charge, se sentent responsable, prennent soin, sont en souci d’un de leurs proches, un parent, un frère, une sœur, porteur.se de handicap ou de maladies, parfois même sans en prendre conscience, tant les liens familiaux se sont instaurés de manière naturelle, parfois depuis la naissance, ou se sont transformés progressivement avec le temps.</p>
  
