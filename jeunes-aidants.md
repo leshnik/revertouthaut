@@ -25,7 +25,7 @@ Et dans cette vie où tout est mêlé, dans laquelle l’autre est souvent prior
 <p class="intro-text">Le projet va se développer sur plusieurs mois et va réunir dans un mouvement créatif et collectif, de la danse, de la composition musicale, un travail d'écriture et d'interprétation. Il sera animé et encadré par des artistes musiciens, danseurs, auteur/autrice, formés à la médiation artistique.
 Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprimer les liens visibles et invisibles tissés avec leurs aidés respectifs. De quels gestes quotidiens, de quelles attentions tournées vers un frère, une sœur, un parent malade ou handicapé les jeunes aidants sont-ils imprégnés ? Quelles responsabilités portent-ils, nichées dans les recoins de leurs corps et de leurs têtes d’enfants ? Dans ce cadre ludique, nous proposons un espace où le vécu du jeune aidant se révèle au travers du corps en mouvement.</p>
  
-<p class="intro-text">Ce projet collectif permettra aussi aux enfants de partager leur expérience personnelle avec des pairs, leur permettra de se sentir moins esseulés, et e se sentir reliés à d’autres enfants vivant une expérience similaire à la leur.</p>
+<p class="intro-text">Ce projet collectif permettra aussi aux enfants de partager leur expérience personnelle avec des pairs, leur permettra de se sentir moins esseulés, et de se sentir reliés à d’autres enfants vivant une expérience similaire à la leur.</p>
  
 <p class="intro-text">«Les emmêlé.es» est porté par l’Association Rêver Tout Haut qui œuvre dans le domaine de la médiation artistique adaptée à différents publics, et le Réseau des Aidants 71 qui accompagne en proximité et sur le terrain les aidants dans leurs difficultés et leurs démarches.</p>
  
