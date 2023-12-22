@@ -5,6 +5,11 @@ summary:
 ---
 <h1>Événements à venir</h1>
 <ul class="institutions">
+    <li>Jeudi, 28 décembre à 19h&nbsp;:&nbsp;<a href="jamais-deux-sans-voix">Jamais deux sans voix</a>, à La Limace (même adresse mais nouvelle formulation)&nbsp;:&nbsp;601 Chemin de la Gagère, Laurendon, 71220 SIVIGNON
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
+    </div>
+    </li>
     <li>Jeudi 9 novembre 2023 à Charolles, au Lycée Agricole, journée de sensibilisation et d'ateliers autour de témoignages de jeunes aidants, <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a> Journée organisée dans le cadre des semaines de la santé mentale du Charolais-Brionnais.
     
     <div class="center-max600-block">
