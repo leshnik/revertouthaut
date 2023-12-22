@@ -53,6 +53,22 @@ sine qua non<br>
 Le jus d'orange a l'air d'un ange<br>
 qui s'épanche, qui s'épanche, qui s'épanche
 </p>
+<br>
+<hr>
+<p class="quote">
+Face aux voix qui me hantent dans ce moi qui chavire <br>
+loin lendemains qui chantent et pensées à ravir <br><br>
+Quand je voudrais crier quand je voudrais aimer<br> 
+et que tout reste en tête sans occasion qui prête <br><br>
+La douceur du sourire aux amis qui font rire <br>
+la joie de retrouver celles et ceux qu’amitiés <br>
+donnent la vie à saisir donnent la vie à plaisir <br><br>
+Puisse faire taire à jamais le mal affreux qui met <br>
+d’affreuses idées mauvaises qui font honte et qui pèsent <br>
+à vouloir se tuer comme pour oublier <br>
+</p>
+
+<hr>
 
 <h2>représentations passées</h2>
 <ul class="past">
