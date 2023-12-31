@@ -22,6 +22,7 @@ Un univers un brin lunaire et un poil cocasse.
 
 <p class="intro-text">Nous contacter au 07 69 29 53 27, ou revertouthaut@gmail.com pour devis et conditions techniques.</p>
 
+<h4 class="h4song-titles">L'alconnerie</h4>
 <p class="quote">
 Y'a trois tabourets<br>
 complètement bourrés<br>
@@ -55,6 +56,7 @@ qui s'épanche, qui s'épanche, qui s'épanche
 </p>
 <br>
 <hr>
+<h4 class="h4song-titles">face aux voix</h4>
 <p class="quote">
 Face aux voix qui me hantent dans ce moi qui chavire <br>
 loin lendemains qui chantent et pensées à ravir <br><br>
