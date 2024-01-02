@@ -20,5 +20,5 @@ Notre proposition va donc consister en cycles de rencontres bi-mensuelles durant
 Ecrire aux êtres manquants, pour pouvoir continuer de dialoguer avec eux, pour intérioriser ce dialogue, pour tenter de combler un vide, pour soulager la douleur et la tristesse par une expression créative individuelle et commune. La création étant finalement une façon de contrer la disparition, de remettre du désir, de lutter contre la dépression, et de créer une forme d’émulation personnelle et collective. 
 Afin que des textes, des poèmes, des lettres, des chansons, des témoignages puissent être consignés, réunis, retravaillés et composent un livre, qui pourrait aller rejoindre sur les étagères des bibliothèques du deuil les ouvrages de Christian Bobin, Brigitte Giraud, Joan Didion, Joyce Carol Oates, pour ne citer qu’elles et lui. Non pas dans l’idée grandiloquente de laisser une œuvre impérissable mais plutôt de contribuer, modestement à la recherche de moyens de consolation et de transmettre aux autres, aux futurs endeuillés une forme d’accompagnement, de pensées et de soutien.</p>
 <p class="intro-text">
-Ce projet innovant est en recherches de financement.</p> 
+Ce projet innovant est financé par Malakoff Humanis.</p> 
 
