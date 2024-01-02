@@ -6,7 +6,7 @@ summary:
 <h1>événements à venir</h1>
 <ul class="institutions">
     <li>
-        A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit.
+        A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts individuels et intimes en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit.
     </li><hr>
     <li>
         Tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, spectacle musical avec une formidable troupe de personnes porteuses d’une cérébro-lésion
