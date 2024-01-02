@@ -6,6 +6,9 @@ title: maintenant, il y a
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
 </div>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704194432/jsl-2023_12_28-milya_e0wa7a.png">
+</div>
 <h2>le teaser</h2>
 <div class="center-max600-block">
 <video controls="controls" width="100%"> <source src="https://rth8.b-cdn.net/teaser-maintenant-il-y-a.mp4"></video>

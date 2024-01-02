@@ -108,6 +108,9 @@ summary:
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1700661658/maintenant_il_y_a_cluny_2023_puaeor.png">
         </div>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704194432/jsl-2023_12_28-milya_e0wa7a.png">
+        </div>
     </li>
 <hr>
     <li>
