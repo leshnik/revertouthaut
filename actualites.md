@@ -3,50 +3,144 @@ layout: logoTop
 title: actualités
 summary: 
 ---
-<h1>Événements à venir</h1>
+<h1>événements à venir</h1>
 <ul class="institutions">
-    <li>Jeudi, 28 décembre à 19h&nbsp;:&nbsp;<a href="jamais-deux-sans-voix">Jamais deux sans voix</a>, à La Limace (même adresse mais nouvelle formulation)&nbsp;:&nbsp;601 Chemin de la Gagère, Laurendon, 71220 SIVIGNON
-    <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
-    </div>
-    </li>
-    <li>Jeudi 9 novembre 2023 à Charolles, au Lycée Agricole, journée de sensibilisation et d'ateliers autour de témoignages de jeunes aidants, <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a> Journée organisée dans le cadre des semaines de la santé mentale du Charolais-Brionnais.
-    
-    <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
-    </div>
-    </li>
-<hr>
-    <li>24 novembre et 8 décembre : ateliers musicaux pour aidants et aidés, à la Maison Partagée, à Bourbon Lancy, 
-dans le cadre du programme «Proches aidants, proches aidés, lâchons prise ensemble » proposé par la Mutualité Française de Bourgogne-Franche Comté.
+    <li>
+        A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit.
+    </li><hr>
+    <li>
+        Tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, spectacle musical avec une formidable troupe de personnes porteuses d’une cérébro-lésion
+        <ul>
+            <li>Le 15 mars à Bourbon Lancy</li>
+            <li>Le 2 avril à Macon, à 17h, à la Cave à Musique</li>
+            <li>Le 4 avril à Dôle, à 14h30</li>
+            <li>Le 5 avril à Montceau les Mines, à 19h aux Ateliers du Jour</li>
+        </ul>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
+        </div>
+    </li><hr>
+    <li>A partir de mars, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à la Résidence Séniors le Clos Lamartine, à Cluny avec création d’une chorale et de chansons collectives. Spectacle prévu en juin 2024. 
+    </li><hr>
+    <li>
+        Début mars 24, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
+        <div class="center-max600-block">
+            <img src="">
+        </div>
+    </li><hr>
+    <li>
+        A partir d’avril 24, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
+        </div>
     </li>
 <hr>
     <li>
-        Automne 23 et hiver 24&nbsp;:&nbsp;ateliers de création, résidence et tournée d’un nouveau spectacle, <a href="maintenant-il-y-a">maintenant il y a&hellip;</a> avec et par des personnes cérébro-lésées, habitantes de la Novelline à Cluny, et adhérentes du Groupe d’Entraide Mutuelle de Mâcon. Tournée en Bourgogne Franche-Comté. Avec le soutien de la DRAC et de l'ARS Bourgogne-Franche-Comté, du Conseil Départemental de Sâone-et-Loire, du FDVA 71 et de la SACEM.<br>
+       Automne 24:démarrage des ateliers pour jeunes aidants <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
+       <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704026219/jeunes-aidants-2_oabk5m.png">
+       </div> 
+    </li>
+<hr>
+     <li>
+        tout 2024: série de rencontres et d’entretiens et réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.
+     </li>
+<hr>
+    <li>
+        2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
             <div class="center-max600-block">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1700661658/maintenant_il_y_a_cluny_2023_puaeor.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
             </div>
-        
+    </li>
+</ul>
+<h1>actualités</h1>
+<h2>novembre - décembre 2023</h2>
+<ul class="institutions">
+    <li>Novembre et décembre ont filé, on ne les a pas vu passés ! Et entre les projets en cours et ceux à venir, c’est l’effusion !</li>
+    <li>Tout d’abord, le 9 novembre, nous avons animé, avec le Réseau des Aidants Sud 71,  une journée autour des <a href="jeunes-aidants">jeunes aidants</a>, sous la forme d’une série de rencontres avec plus de 130 lycéens du Lycée Agricole de Charolles, du Lycée Général Wittmer de Charolles et du Lycée du Sacré Coeur de Paray le Monial, lycéens en seconde, première, terminale, BTS, CAP en formation d’aide à la personne. Émouvante et intense journée durant laquelle nous avons proposé lectures de témoignages, consignes d’écriture et de mouvements. Qu’est-ce qu’être aidant ? Qu’est-ce que cela fait vivre d’être aidé ? Qu’est-ce qui se tisse dans ces liens de confiance réciproque ?<br>
+    Cette première journée pose les bases du cycle d’ateliers artistiques ouvert à des jeunes aidants du Charollais que nous animerons en 2024 (projet soutenu par AG2R).<br>
+        <h4 class="h4song-titles">extrait de témoignage :</h4> 
+        <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+        <p>« Je dirais que d’être la sœur de ma sœur m’a enseigné à prendre soin des autres, à reconnaître les plus faibles et à leur tendre la main.</p>
 
-            <ul class="institutions">
-                <li>le jeudi 14 décembre 2023: représentation pour scolaires au Théâtre de Cluny</li>
-                <li>le samedi 16 décembre 2023 à 17h: représentation tout public au Théâtre de Cluny</li>
-                <li>le vendredi 15 mars 2024 au Théâtre de Bourbon-Lancy, en partenariat avec le Centre Social</li>
-                <li>le vendredi 5 avril 2024 aux Ateliers du Jour, Montceau les Mines</li>
-                <li>d'autres dates et lieux sont à venir&nbsp;!</li>
-            </ul>
-    </li>
-    
-    <li>
-        La Novelline, habitat inclusif et partagé lance un <a href="https://la-novelline.fr/wp-content/themes/BLANK-Theme/docs/amis-novelline-bulletin-soutien-adhesion.pdf">appel à dons</a> concernant ce fabuleux projet !
-            <div class="center-max600-block">
-                <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
-            </div>
+        <p>Je ne me reconnais pas tellement dans le mot aidante, je dirais plutôt que je suis pour ma sœur, une compagne, quelqu’un qui chemine avec elle, quelqu’un qui lui amène une sécurité affective. Mais il y a des choses que je n’aime pas faire pour elle, les soins corporels, la mettre aux toilettes. Pour moi je porte atteinte à sa dignité si je rentre dans l’intimité de son corps. Ça craque en moi quand je dois faire ça. Je n’aime pas ça. C’est ma limite.</p>
+
+        <p>Ma mère, notre mère, elle, s’est sacrifiée sans limite. Ma mère a failli mourir en accouchant de ma sœur, ma sœur a faillit mourir en naissant, ça crée je pense entre elles des liens très spéciaux. Je ne peux pas changer cette histoire là, tout comme je ne peux pas changer l’histoire de couple de mes parents. Car je pense que sans le handicap, ils ne seraient plus ensemble depuis longtemps, le handicap les a rapprochés, leur a donné un but commun.</p>
+        <p>Et je pense que si ma sœur n’était pas née, si elle n’avais pas survécu, je ne serais pas née non plus. Et c’est parce qu’elle est là que je suis là. »</p></cite>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
+        </div>
     </li>
 <hr>
     <li>
-        du 2 oct au 18 dec 2023&nbsp;:&nbsp;ateliers créatifs pour aidant.es <a href="les-mains-tendues">les mains tendues</a>, à Paray-le-Monial.
+        Nous avons continué les ateliers de composition de chansons pour le projet <a href="maintenant-il-y-a">maintenant il y a</a>, avec les résidents de la Novelline à Cluny et les adhérents du GEM de Macon, autour de l’expérience de la cérébro-lésion et de la vie à continuer et à reconstruire après l’accident. 12 personnes y participent et quelle énergie ! Après une semaine de résidence et de répétitions au Théâtre de Cluny, nous avons donné notre première représentation le 16 décembre devant une salle bondée. Incroyable retour des spectateurs devant la palette émotionnelle des chansons, devant la force des participant.es et la solidarité de la troupe. 
+        D’autres représentations vont suivre en 2024. 
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704044719/maintenant_ilya_banner_vcc5zv.png">
+        </div>
+
+        <h4 class="h4song-titles">introduction du spectacle : </h4>
+
+
+        <p><cite style="line-height: 1.15rem; letter-spacing:.13rem;">
+            Avant ton chemin était tout droit<br>
+            Tu le voyais devant toi,<br>
+            Tu te voyais léger, légère, amoureuse, heureux<br>
+            Avant ton corps était bien à toi<br>
+            Maintenant parfois il est celui d’une étrangère ou de quelqu’un que tu ne reconnais pas<br>
+            Avant tu avais plein de souvenirs, plein de désirs<br>
+            Maintenant parfois ils t’échappent, se jouent de toi<br>
+            Avant tu dansais, tu te levais, tu parlais, tu marchais sans y penser<br>
+            Maintenant chaque pas, chaque mot te demande un effort<br>
+            Avant tu accomplissais des choses<br>
+            Maintenant tu mènes des combats<br>
+            Et tu te dis, malgré tout ça, malgré ce que chaque jour il te faut recommencer, améliorer,<br> 
+            Que tu n’abandonneras pas,<br> 
+            Que tu ne vas pas lâcher<br>
+            Tu aimes la vie, elle est à toi<br>
+            Avant tu étais comme ci<br>
+            Maintenant tu es comme ça <br>
+            C’est ton évidence<br> 
+            Avant tu pensais garder le silence <br>
+            Maintenant tu te dis que c’est mieux de partager<br>
+            Alors, lève toi et chante<br></cite></p>
+
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1700661658/maintenant_il_y_a_cluny_2023_puaeor.png">
+        </div>
+    </li>
+<hr>
+    <li>
+        Nous avons animé deux ateliers musicaux, sous forme de performance pour aidants et aidés, à la Maison Partagée, à Bourbon Lancy, dans le cadre du programme «Proches aidants, proches aidés, lâchons prise ensemble» proposé par la Mutualité Française de Bourgogne-Franche Comté. Riche discussion et création autour de la notion de chemin, de liberté et de manière de se ressourcer. Atelier mené par Valérie Gaudissart et Sidonie Dubosc.
+        <h4 class="h4song-titles">Ici un extrait de chanson composée: </h4>
+
+        <cite style="line-height: 1.15rem; letter-spacing:.13rem;">
+        Quand tu sens qu’il te faut quitter le chemin balisé<br>
+        Quand ce qui te limite doit être dépassé<br>
+        Quand tu veux de ce qui te tourmente, trouve une échappée <br>
+        Et que s’écrive sous tes pas ta propre destinée<br>
+        <br>
+        Alors ta terre que tu croyais ferme se met à trembler<br>
+        Et tu trouves un beau matin sur le seuil de ta porte d’entrée <br>
+        Tes chaussures de marche sorties toutes seules du placard où elles étaient bien rangées<br>
+        Une carte de voyage qui s’est toute seule dépliée <br>
+        Et ton sac à dos rempli des pierres dont tu voudrais te délester<br>
+        <br>
+        Alors tu prends la route<br>
+        Ou la route te prend et ne te lâche pas, <br>
+        tu ne sais plus faire la différence entre la route et toi, car vous n’êtes plus qu’un seul corps et un seul paysage<br>
+        Et tu n’es jamais seul puisque la route marche à tes côtés<br>
+        Alors tu deviens la boussole de toi-même<br>
+        L’altimètre de tes pensées <br>
+        Et le chemin de ta maison jusqu’à Compostelle<br>
+        Devient ce que ton coeur révèle<br>
+        Et la montagne que tu gravis<br>
+        Là où blancheur de neige et du ciel se confondent<br>
+        Devient la roche sur laquelle tu graves ton sentiment de liberté</cite>
+    </li>
+<hr>
+    <li>
+        Nous avons achevé notre cycle d’ateliers créatifs pour aidant.es, <a href="les-mains-tendues">les mains tendues</a>, et tout le monde est reparti avec ses modelages, ses peintures, ses collages et des souvenirs de discussions et d’amitiés naissantes. 
         <div class="flex-container">
             <div class="column">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
@@ -57,30 +151,36 @@ dans le cadre du programme «Proches aidants, proches aidés, lâchons prise ens
         </div>
     </li>
 <hr>
-     <li>
-        2023: réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.
-     </li>
-<hr>
-    <li>
-        À partir de 2024, <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;cycle d'ateliers créatifs pour personnes exilées, travailleurs et bénévoles d'associations.
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
-        </div>
+    <li>Salle comble jeudi, 28 décembre à Sivignon à La Limace pour notre spectacle poétique sur l'amour et les entendeurs de voix <a href="jamais-deux-sans-voix">jamais deux sans voix</a>,  
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
+    </div>
+    Textes de Baptiste Gaubert et musiques de Morton Potash sur une création lumière de Florian Girard.
     </li>
 <hr>
     <li>
-        A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit. 
+        Enfin, voici les bonnes nouvelles de la fin d’année, qui vont nous permettre de continuer nos actions, qui ont bien du sens dans l’époque à laquelle nous vivons. Continuer de protéger ce qui peut l’être, transformer le vécu, ouvrir l’imaginaire, voilà le programme de l’année prochaine !
+    </li>
+
+    <li>
+        Donc merci à la Fondation de France pour son soutien du projet proposé aux personnes exilées <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
     </li>
 <hr>
     <li>
-        2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
-            <div class="center-max600-block">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
-            </div>
+        Merci à la MSA pour son soutien du projet <a href="celles-qui-veillent">celles qui veillent</a>, proposition d’accompagnement musical de soins infirmiers à domicile dans le Charollais-Brionnais.
+    </li>
+<hr>
+    <li>
+        Un grand merci aussi à Malakoff Humanis pour son soutien de <a href="une-nouvelle-page">une nouvelle page à écrire</a>, projet sur plusieurs années et plusieurs territoires, projet créatif et collectif d’accompagnement de personnes endeuillées.
+    </li>
+<hr> 
+    <li>
+        Et encore un autre merci à la Mutuelle MMA pour son soutien de la tournée MAINTENANT IL Y A.<br>
+
+        Pourvu que nous n’ayons oublié personne ! 
     </li>
 </ul>
-<h1>actualités</h1>
-<h2>octobre</h2>
+<h2>octobre 2023</h2>
 <ul class="institutions">
     <li>Intense mois d’octobre pour Rêver Tout Haut !</li>
 
@@ -116,7 +216,7 @@ dans le cadre du programme «Proches aidants, proches aidés, lâchons prise ens
         Et enfin, autre projet passionnant et entièrement nouveau sur le territoire, nous avons conçu des cycles d’ateliers de création littéraire pour personnes endeuillées, <a href="une-nouvelle-page">une nouvelle page à écrire</a>, projet sur trois ans et sur trois territoires de Saône et Loire différents. 
     </li>
 </ul>
-<h2>septembre</h2>
+<h2>septembre 2023</h2>
 <ul class="institutions">
 <li>Nous revoilà lancé.es dans l’aventure de la rentrée et de l’automne qui s’annonce bien chargé. Alors par où commencer ?</li>
 
