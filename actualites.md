@@ -31,7 +31,7 @@ summary:
     <li>
         A partir d’avril 24, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687448451/empreintes-flyer-gray_jfyfqj.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704734891/empreintes2024-01-08_ruufup.png">
         </div>
     </li>
 <hr>
