@@ -21,4 +21,6 @@ Ecrire aux êtres manquants, pour pouvoir continuer de dialoguer avec eux, pour 
 Afin que des textes, des poèmes, des lettres, des chansons, des témoignages puissent être consignés, réunis, retravaillés et composent un livre, qui pourrait aller rejoindre sur les étagères des bibliothèques du deuil les ouvrages de Christian Bobin, Brigitte Giraud, Joan Didion, Joyce Carol Oates, pour ne citer qu’elles et lui. Non pas dans l’idée grandiloquente de laisser une œuvre impérissable mais plutôt de contribuer, modestement à la recherche de moyens de consolation et de transmettre aux autres, aux futurs endeuillés une forme d’accompagnement, de pensées et de soutien.</p>
 <p class="intro-text">
 Ce projet innovant est financé par Malakoff Humanis.</p> 
-
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705089207/une_nouvelle_page_a%CC%80_e%CC%81crire_2_mtldc9.png">
+</div>
