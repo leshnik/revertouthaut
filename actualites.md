@@ -25,7 +25,7 @@ summary:
     <li>
         Début mars 24, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
         <div class="center-max600-block">
-            <img src="">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705089207/une_nouvelle_page_a%CC%80_e%CC%81crire_2_mtldc9.png">
         </div>
     </li><hr>
     <li>
