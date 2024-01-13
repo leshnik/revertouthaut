@@ -223,13 +223,17 @@ metteuse en scène<br>
 valeriegaudissart@gmail.com
 </p>
 
-<div class="center-text">
-<h3 class="centered">captation&nbsp;:&nbsp;29 novembre 2011 à la Maison Verte, Plateau Saint-Jean, Chalon-sur-Saône</h3>
- <iframe style="width:640px;height:360px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/k7wHxP3YoKQTLS36L7T" width="100%" height="100%" allowfullscreen > </iframe>
+<h2>captation 29 novembre 2011</h2>
+<h4 style="color: #a27c55;">La Maison Verte, Plateau Saint-Jean, Chalon-sur-Saône</h4>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/fda803b3-b087-44ee-af56-7540ea9bfbf9?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
-<h3 class="centered">captation&nbsp;:&nbsp;5 décembre 2013, à l'Arc-Scène Nationale du Creusot</h3>
+<h2>captation&nbsp;:&nbsp;5 décembre 2013</h2>
+<h4 style="color: #a27c55;">à l'Arc-Scène Nationale du Creusot</h4>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/43210943-1156-4585-b98c-721adc57e1bf?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<!-- <h3 class="centered">captation&nbsp;:&nbsp;5 décembre 2013, à l'Arc-Scène Nationale du Creusot</h3>
 <iframe src="https://player.vimeo.com/video/144494122?h=c75f70bc59" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</div>
+ -->
 
 <h2>Extraits&nbsp;: </h2>
 <p class="intro-text">«Quand c’est le moment de partir, c’est le moment. Le pire c’est que c’était prévu, on m’appelle le matin, on me dit : “y’a une place, est-ce que vous pouvez venir ?" J’ai dit, ce soir je suis là. J’avais fait en sorte de tout laver, de tout laisser à portée de main, et hop, une fois qu’il partirait au travail, tout dans les sacs poubelles. Les hommes, ils se rendent pas compte des sacs poubelles, ils se méfient pas. Alors j’ai pris les sacs poubelles avec dedans ma boîte à trésors avec les bracelets de la maternité, les cordons ombilicaux et les dents de lait, des photos des enfants parce que je voulais pas lui laisser, le dossier avec tous les papiers administratifs, des habits, des chaussettes et des culottes (les chaussettes des garçons, elles ont toujours des trous), la petite télé qui était dans la chambre de mon fils, avec la télécommande, des parts de pizza et des bouteilles d’eau. Et les enfants avec leur doudou. Et aussi de la peur, l’impression d’être suivie, c’est fou ce que je dis mais c’est vrai.»</p>
