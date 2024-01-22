@@ -19,6 +19,10 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Groupe d'Entraide Mutuelle (GEM) de Mâcon</li>
 <li>Pôle Association des Paralysés de France, France Handicap, Saint Rémy</li>
 <li>Service Santé et Handicap, Grand Chalon</li>
+<li>Résidence Séniors le Clos Lamartine, Cluny</li>
+<li>Foyer d’Accueil Médicalisé, Sennecey le Grand</li>
+<li>Service Addictologie la Fabrique, Hôpital de Montceau les Mines</li>
+<li>Association des Familles de Traumatisés crâniens, AFTC</li>
 </ul>
  
 <h2>Soutien aux Aidants :</h2>
@@ -27,6 +31,7 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Réseau des Aidants 71</li>
 <li>Plateforme de Répit 71</li>
 <li>La Métropole Aidante, Grand Lyon</li>
+<li>Mutualité Française</li>
 </ul> 
  
 <h2>Aide à la Parentalité:</h2>
@@ -79,6 +84,26 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Théâtre les Arts de Cluny</li>
 <li>Salle Jean Genet, Couches</li>
 <li>Printemps des Poètes</li>
+<li>Les Chevaux Célestes</li>
+<li>La Cave à Musique, Mâcon</li>
+<li>Les Ateliers du Jour, Mntceau-les-Mines</li>
+<li>Centre social Abise, Semur en Brionnais</li>
 </ul> 
+<h2>Structures Educatives&nbsp;:</h2>
+<ul class="institutions">
+    <li>Lycée Agricole LPA de Charolles</li>
+</ul>
  
-<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu dans ses projets par la Conférence des Financeurs, le Conseil Départemental de Saône et Loire, la DRAC Bourgogne-Franche-Comté, l’ARS Bourgogne Franche-Comté,  le Fonds Départemental de la Vie Associative et la Mutuelle Sociale Agricole.</p>
+<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu dans ses projets par&nbsp;:</p>
+<ul class="institutions">
+<li>la Conférence des Financeurs</li>
+<li>le Conseil Départemental de Saône et Loire</li>
+<li>la DRAC Bourgogne-Franche-Comté</li> 
+<li>l’ARS Bourgogne Franche-Comté</li>
+<li>le Fonds Départemental de la Vie Associative</li>
+<li>la Mutuelle Sociale Agricole</li>
+<li>La Fondation de France</li>
+<li>La Mutuelle Malakoff Humanis</li>
+<li>AG2R La Mondiale</li>
+<li>La Sacem</li>
+</ul>
