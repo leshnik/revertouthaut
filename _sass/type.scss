@@ -26,6 +26,12 @@ h1 a {
   letter-spacing: 0.2em;
 }
 
+.smaller {
+  font-size: 2rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1rem;
+}
+
 h2 {
   font-size: 2rem;
   padding-top: 1.5rem;
@@ -120,6 +126,19 @@ a:hover {
   padding: 1.4rem 0.5rem 1rem 0.5rem;
 }
 
+/* .intro-text::first-line {
+  color:#a43740;
+  font-weight: bolder;
+  font-family: "Crimson Text", serif;
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+  line-height: 1.6rem;
+  margin: auto;
+  max-width: 720px;
+  text-align: justify;
+  padding: 1.4rem 0.5rem 1rem 0.5rem;
+
+} */
 .intro-indent {
   font-family: "Crimson Text", serif;
   font-size: 1.15rem;

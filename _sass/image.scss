@@ -36,7 +36,8 @@
     margin-right: auto;
     width: 100%;
     max-width: 300px;
-    padding-top: 1.5rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
   }
   .center-big-block {
     margin-left: auto;
@@ -62,7 +63,17 @@
     margin-right: auto;
     width: 95%;
     max-width: 600px;
-    padding-top: 2rem;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .center-max450-block {
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    max-width: 450px;
+    padding-top: 0.5rem;
+    padding-bottom: 1.5rem;
   }
 
   //for multiple slideshows pages
