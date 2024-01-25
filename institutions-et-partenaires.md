@@ -72,7 +72,7 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Le Centre d'Animation, Bourbon-Lancy</li>
 <li>Centre Social l’Orange Bleue, Saint Marcel</li>
 <li>Centre Social, Mairie de Sanvignes les Mines</li>
-<li>Centre Social, Semur en Brionnais</li>
+<li>Centre Social Abise, Semur en Brionnais</li>
 <li>Espace Culturel, Paray-le-Monial</li>
 <li>Association Vivre au Féminin, Tournus</li>
 <li>Le Réservoir, Saint Marcel, salle de spectacle</li>
@@ -86,8 +86,7 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Printemps des Poètes</li>
 <li>Les Chevaux Célestes</li>
 <li>La Cave à Musique, Mâcon</li>
-<li>Les Ateliers du Jour, Mntceau-les-Mines</li>
-<li>Centre social Abise, Semur en Brionnais</li>
+<li>Les Ateliers du Jour, Montceau-les-Mines</li>
 </ul> 
 <h2>Structures Educatives&nbsp;:</h2>
 <ul class="institutions">
@@ -103,7 +102,7 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>le Fonds Départemental de la Vie Associative</li>
 <li>la Mutuelle Sociale Agricole</li>
 <li>La Fondation de France</li>
-<li>La Mutuelle Malakoff Humanis</li>
+<li>Malakoff Humanis</li>
 <li>AG2R La Mondiale</li>
 <li>La Sacem</li>
 </ul>
