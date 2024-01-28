@@ -10,26 +10,28 @@ summary:
     </li><hr>
     <li>
         Tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, spectacle musical avec une formidable troupe de personnes porteuses d’une cérébro-lésion
+        <br><br>
         <ul>
-            <li>Le 15 mars à Bourbon Lancy</li>
-            <li>Le 2 avril à Macon, à 17h, à la Cave à Musique</li>
-            <li>Le 4 avril à Dôle, à 14h30</li>
-            <li>Le 5 avril à Montceau les Mines, à 19h aux Ateliers du Jour</li>
+            <li><span style="color: rgb(216, 87, 0);">Le 15 mars à Bourbon Lancy</span>, à 16h, Espace Culturel Saint-Léger, Gratuit, Suivi d'un temps d'échanges. Réservation:03&nbsp;85&nbsp;89&nbsp;33&nbsp;14
+            <div class="max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706439770/maintenant-bourbon-whole_ueyerl.png" alt="16 heures, espace culturel saint-léger, réservations 03&nbsp;85&nbsp;89&nbsp;33&nbsp;14, gratuit, suivi d'un temps d'échanges"></div></li>
+            <li><span style="color: rgb(216, 87, 0);">Le 2 avril à Macon</span>, à 17h, à la Cave à Musique, 119 rue Boullay, Gratuit, Suivi d'un temps d'échanges. Réservation:03&nbsp;85&nbsp;21&nbsp;96&nbsp;69
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440341/maintenant-only-date-macon-nologo_psnahy.png"></li>
+            <li><span style="color: rgb(216, 87, 0);">Le 4 avril à Dôle</span>, à 14h30, Salle la Rive, 23 rue Mont-Roland, Gratuit, Suivi d'un temps déchanges. Réservation:06&nbsp;86&nbsp;65&nbsp;47&nbsp;83 ou gu.me@orange.fr
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440339/maintenant-only-date-dole-nologo_sbdz7x.png"></li>
+            <li><span style="color: rgb(216, 87, 0);">Le 5 avril à Montceau les Mines</span>, à 19h aux Ateliers du Jour, 56 quai Jules-Chagot, Gratuit, Suivi d'un temps déchanges. Réservation:03&nbsp;85&nbsp;58&nbsp;73&nbsp;37
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440338/maintenant-only-date-montceau-nologo_noyzja.png"></li>
         </ul>
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
-        </div>
     </li><hr>
     <li>A partir de mars, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à la Résidence Séniors le Clos Lamartine, à Cluny avec création d’une chorale et de chansons collectives. Spectacle prévu en juin 2024. 
     </li><hr>
     <li>
-        Début mars 24, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
+        13 mai 24, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705089207/une_nouvelle_page_a%CC%80_e%CC%81crire_2_mtldc9.png">
         </div>
     </li><hr>
     <li>
-        A partir d’avril 24, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
+        A partir de mai 24, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704734891/empreintes2024-01-08_ruufup.png">
         </div>
