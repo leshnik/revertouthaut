@@ -39,6 +39,14 @@
     padding-top: 0.5rem;
     padding-bottom: 1.5rem;
   }
+  .center-block-2-1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 300px;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+  }
   .center-big-block {
     margin-left: auto;
     margin-right: auto;
@@ -73,8 +81,8 @@
     margin-right: auto;
     width: 95%;
     max-width: 450px;
-    padding-top: 0.5rem;
-    padding-bottom: 1.5rem;
+    padding-top: 2rem;
+    padding-bottom: 1rem;
   }
 
   //for multiple slideshows pages
@@ -110,4 +118,11 @@
   max-width: 800px;
   position: relative;
   margin: auto;
+}
+
+.gradient {
+  background: #808080;  /* fallback for old browsers */
+                background: -webkit-linear-gradient(to right, #2C7975, #23605D);
+                /* Chrome 10-25, Safari 5.1-6 */
+                background: linear-gradient(to right, #2C7975, #23605D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }

@@ -61,6 +61,23 @@
     text-align: center;
     letter-spacing: 0.13rem;
   }
+
+  .shadow-gradient {
+    webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.4);
+    padding: 1rem;
+    color: white;
+    background: #5c538d;  /* fallback for old browsers */
+                background: -webkit-linear-gradient(to right, #8680a8, #5c538d);
+                /* Chrome 10-25, Safari 5.1-6 */
+                background: linear-gradient(to left,  #8278bb, #5c538d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    font-family: amatic sc;
+    font-size: 1.7rem;
+    text-align: center;
+    letter-spacing: 0.13rem;
+  }
+
   .shadow-slant-2deg {
     background-color: tomato;
     -ms-transform: rotate(2deg); /* IE 9 */
