@@ -13,13 +13,13 @@ summary:
         <br><br>
         <ul>
             <li><span style="color: rgb(216, 87, 0);">Le 15 mars à Bourbon Lancy</span>, à 16h, Espace Culturel Saint-Léger, Gratuit, Suivi d'un temps d'échanges. Réservation:03&nbsp;85&nbsp;89&nbsp;33&nbsp;14
-            <div class="max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706439770/maintenant-bourbon-whole_ueyerl.png" alt="16 heures, espace culturel saint-léger, réservations 03&nbsp;85&nbsp;89&nbsp;33&nbsp;14, gratuit, suivi d'un temps d'échanges"></div></li>
+            <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706439770/maintenant-bourbon-whole_ueyerl.png" alt="16 heures, espace culturel saint-léger, réservations 03&nbsp;85&nbsp;89&nbsp;33&nbsp;14, gratuit, suivi d'un temps d'échanges"></div></li>
             <li><span style="color: rgb(216, 87, 0);">Le 2 avril à Macon</span>, à 17h, à la Cave à Musique, 119 rue Boullay, Gratuit, Suivi d'un temps d'échanges. Réservation:03&nbsp;85&nbsp;21&nbsp;96&nbsp;69
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440341/maintenant-only-date-macon-nologo_psnahy.png"></li>
+            <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440341/maintenant-only-date-macon-nologo_psnahy.png"></div></li>
             <li><span style="color: rgb(216, 87, 0);">Le 4 avril à Dôle</span>, à 14h30, Salle la Rive, 23 rue Mont-Roland, Gratuit, Suivi d'un temps déchanges. Réservation:06&nbsp;86&nbsp;65&nbsp;47&nbsp;83 ou gu.me@orange.fr
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440339/maintenant-only-date-dole-nologo_sbdz7x.png"></li>
+            <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440339/maintenant-only-date-dole-nologo_sbdz7x.png"></div></li>
             <li><span style="color: rgb(216, 87, 0);">Le 5 avril à Montceau les Mines</span>, à 19h aux Ateliers du Jour, 56 quai Jules-Chagot, Gratuit, Suivi d'un temps déchanges. Réservation:03&nbsp;85&nbsp;58&nbsp;73&nbsp;37
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440338/maintenant-only-date-montceau-nologo_noyzja.png"></li>
+            <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440338/maintenant-only-date-montceau-nologo_noyzja.png"></div></li>
         </ul>
     </li><hr>
     <li>A partir de mars, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à la Résidence Séniors le Clos Lamartine, à Cluny avec création d’une chorale et de chansons collectives. Spectacle prévu en juin 2024. 
@@ -32,8 +32,13 @@ summary:
     </li><hr>
     <li>
         A partir de mai 24, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704734891/empreintes2024-01-08_ruufup.png">
+        <div class="flex-container">
+            <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897854/empreintes-front_ygxts4.png">
+            </div>
+            <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">
+            </div>
         </div>
     </li>
 <hr>

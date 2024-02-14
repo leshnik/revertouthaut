@@ -8,10 +8,16 @@ summary:
 <p class="intro-text">Dans le contexte de l’exil, il existe un point d’arrivée, qui peut être passager mais qui va permettre aux personnes exilées de poser leur maigre baluchon, leurs traumas, leur demande d’asile et se reposer en se sentant un peu plus en sécurité.
 Un CADA, un HUDA, un PRAHDA, un CAES : tous ces mots jargonneux qui vont pourtant dans le réel de la vie des personnes, donner un toit, une écoute et un accompagnement par un travailleur social dans la complexe et procédurière administration à laquelle sont confrontés celles et ceux qui n’ont pas eu la chance de naître du bon côté, à la bonne époque, sous le bon régime.</p>
 
-<div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704734891/empreintes2024-01-08_ruufup.png">
+<div class="flex-container">
+    <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897854/empreintes-front_ygxts4.png">
+    </div>
+    <div class="column">
+        <a href="FLYER Empreintes sur le chemin web.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">
+        <div class="cite">cliquer pour télécharger le flyer</div></a>
+    </div>
 </div>
- 
+
 <p class="intro-text">Et dans ce temps flottant, suspendu entre la vie d’avant et une possible vie d’après, des rencontres vont exister entre des travailleurs sociaux (que nous pourrions d’ailleurs conjugués au féminin !), des bénévoles d’association, notamment de cours de FLE, et des exilé.es qui peuvent être dénommé.es différemment en fonction de leur statut administratif (primo-arrivants, demandeurs d’asile, dublinés, déboutés, sans-papiers…). Certaines d’entre elles seront plus marquantes que d’autres, mais aucune ne sera anodine et elles laisseront des traces dans les mémoires des un.es et des autres.</p>
  
 <p class="intro-text">Les histoires de vie, le récit des pertes et la résurgence des traumas jalonnent ces rencontres et font partie de la santé mentale aussi bien des personnes migrantes que des personnes qui vont être dépositaires et témoins de leurs récits, même les plus pudiques. Quitter sa vie d’avant est toujours douloureux même si au bout du compte, une vie « meilleure » peut être envisagée. Encore faudrait-il s’entendre sur cette notion subjective de « meilleure ».</p>
