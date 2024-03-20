@@ -22,5 +22,6 @@ Afin que des textes, des poèmes, des lettres, des chansons, des témoignages pu
 <p class="intro-text">
 Ce projet innovant est financé par Malakoff Humanis.</p> 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705089207/une_nouvelle_page_a%CC%80_e%CC%81crire_2_mtldc9.png">
+    <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1710944758/to5ldpaxrzhwpqfazbnv.png
+    ">
 </div>
