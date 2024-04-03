@@ -74,7 +74,7 @@ summary:
 <hr>
 <li>Ainsi,le 13 mai aura lieu à la Pimenterie une première rencontre de toute personne, toute institution concernées par le deuil et intéressée par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. 
     <div class="center-block">
-        <a href="invitation une nouvelle page à écrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
+        <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
     </div>
 Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !</li>
 <hr>
