@@ -62,6 +62,44 @@ summary:
     </li>
 </ul>
 <h1>actualités</h1>
+<h2>avril 2024</h2>
+<ul class="institutions">
+    <li>Avril 2024 Nous voilà déjà en avril et il s’est passé déjà tellement de choses depuis le début de l’année !</li>
+
+<li>Nous avons terminé Chansons pour ma table de nuit, nos accompagnements en musique, en lecture de poèmes et de contes à l’Ehpad de Cluny, le soir, dans les chambres des résidents isolés ou particulièrement angoissés. Et nous sommes bien persuadés du bienfait de ce dispositif. Il s’est passé de très belles choses et de très beaux échanges dans ces chambres prêtes à l’endormissement.</li>
+<hr>
+<li>Nous avons continué notre folle tournée de Maintenant il y a, et là aussi quel impact sur le public et quelle énergie de la part de nos chanteurs ! Difficile de se dire que cette tournée va prendre fin vendredi 5 avril…</li>
+<hr>
+<li>Et nous avons embauché une coordinatrice du tonnerre ! Marina De Lajudie est chargée de l’organisation du projet destiné aux jeunes aidants du Charolais-Brionnais <a href="jeunes-aidants">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> et du projet destiné aux personnes endeuillées <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. Et bien ça change la vie d’être si bien secondée ! Car là est une difficulté de nos assos hyper dynamiques, porteuses de nombreuses actions mais confrontées à des manques de moyens pour leur fonctionnement. Pas simple comme équation…</li>
+<hr>
+<li>Ainsi,le 13 mai aura lieu à la Pimenterie une première rencontre de toute personne, toute institution concernées par le deuil et intéressée par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. 
+    <div class="center-block">
+        <a href="invitation une nouvelle page à écrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
+    </div>
+Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !</li>
+<hr>
+<li>Le projet <a href="jeunes-aidants">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> avance aussi à grands pas et trouve de nouveaux partenaires sur le territoire.
+    <div class="center-block">
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+    </div>
+</li>
+<hr>
+<li><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>, qui démarre le 2 mai, et qui est un cycle d’art-thérapie de plus d’un an pour personnes exilées s’est mis en place et le voici maintenant accompagné d’un suivi psychologique ponctuel par deux professionnelles de la santé mentale.
+    <div class="center-block">
+        <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
+    </div>
+</li>
+<hr>
+<li>Nous avons avec la Compagnie Ils Scenent rédigé un énooormme dossier de subvention pour le Fonds Social Européen pour notre projet <a href="les-etres-humaines">les êtres humaines</a>, autour de la violence conjugale. Réponse en juin. Et des premiers contacts très prometteurs sont pris sur toute la région Bourgogne Franche-Comté pour ce projet plus que nécessaire.</li>
+<hr>
+<li>Et un nouveau projet, destiné aux résidents des Papillons Blancs de Paray le Monial démarre en juin. Il s’appelle <a href="brins-d-histoires">brins d'histoires</a> et est un cycle d’ateliers qui aura lieu l’été, de juin à septembre et qui va proposer créations de sculptures en osier, et sculptures végétales. Avec deux artistes vanniers: Erik Barray et Isabelle Sangoy. Des biographies seront inventées avec les résidents pour chacune des sculptures. Le projet est soutenu par la DRAC/ARS de Bourgogne Franche-Comté sur le dispositif Culture et Santé. Merci à eux !  <a href="https://www.atelier-erik-barray.com/" rel="noopener noreferrer" target="_blank">voir le site d'eric&nbsp;!</a></li>
+<hr>
+<li>Et <a href="histoires-de-transmission">histoires de transmission</a> poursuit son chemin avec de nouveaux entretiens menés et de nouveaux aspects sur le départ à la retraite des paysans de Saône et Loire apparaissent et prendront place dans ce projet de film photographique.</li>
+
+<li>Il nous semble avoir oublié de raconter des choses mais on va s’arrêter là pour aujourd’hui  !</li>
+</ul>
+
 <h2>novembre - décembre 2023</h2>
 <ul class="institutions">
     <li>Novembre et décembre ont filé, on ne les a pas vu passés ! Et entre les projets en cours et ceux à venir, c’est l’effusion !</li>
