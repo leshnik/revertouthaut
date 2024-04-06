@@ -17,6 +17,10 @@ du Charolais-Brionnais 2024</h2>
  
 <p class="intro-text">Les emmêlé.es sont des enfants, des adolescents, des jeunes adultes qui chaque jour et au long cours se sentent reliés à un autre, jusqu’à parfois confondre soi et l’autre, ses désirs et les besoins de l’autre, l’insouciance de l’enfance et la responsabilité de la maturité, l’envie de liberté et le besoin de rester.
 Et dans cette vie où tout est mêlé, dans laquelle l’autre est souvent prioritaire, des gestes sont effectués au quotidien, des missions sont à accomplir, et parfois dans ce quotidien  bien rempli, puisqu’il faut parallèlement à la responsabilité continuer de grandir, peut se glisser une forme d’épuisement silencieux qui ne dit pas son nom, qui n’ose s’exprimer, et qui peut être difficilement repérable par le monde extérieur, et notamment par le milieu scolaire, mais qui peut enfermer le jeune aidant et lui faire vivre des situations complexes ou difficiles à dire.</p>
+
+<div class="center-block">
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+    </div>
  
 <p class="intro-text">Le projet est ouvert aussi aux jeunes aidants endeuillés, car on ne cesse pas d'être aidant, même quand un décès vous a séparés.</p>
  

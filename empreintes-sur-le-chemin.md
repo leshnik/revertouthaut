@@ -38,4 +38,9 @@ De l’empreinte des bons souvenirs à celui des traumas...</p>
  
 <p class="intro-text">Le projet sera ouvert à Mâcon, à des exilés hébergés en CADA, en HUDA et en PRAHDA, suivis par des SPADA, des MDS, des associations, des centres sociaux-culturels. Il sera ouvert aussi à des travailleurs sociaux, et des bénévoles associatifs ressentant le besoin de transformer par le biais des médiations un pan de leurs expériences professionnelles et de leurs engagements humains.
 Ainsi, se rencontreront sur ce même chemin de création et de transformation, voire de consolation, les enfances des uns et des autres, les enfances comme passerelles communes entre ceux qui accompagnent et ceux qui sont accompagnés.</p>
+
+<div class="center-block">
+        <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
+    </div>
  
