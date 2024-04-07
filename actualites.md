@@ -76,7 +76,7 @@ summary:
 
 <li>Nous avons terminé <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a>, nos accompagnements en musique, en lecture de poèmes et de contes à l’Ehpad de Cluny, le soir, dans les chambres des résidents isolés ou particulièrement angoissés. Et nous sommes bien persuadés du bienfait de ce dispositif. Il s’est passé de très belles choses et de très beaux échanges dans ces chambres prêtes à l’endormissement.</li>
 <hr>
-<li>Nous avons continué notre folle tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, et là aussi quel impact sur le public et quelle énergie de la part de nos chanteurs ! Difficile de se dire que cette tournée va prendre fin vendredi 5 avril…</li>
+<li>Nous avons continué notre folle tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, et là aussi quel impact sur le public et quelle énergie de la part de nos chanteurs ! Difficile de se dire que cette tournée va prendre fin vendredi 5 avril…<br>Mais pour en garder le souvenir, voici <a href="milya-film">une captation de la réprésentation au Théâtre de Cluny le 16 décembre</a></li>
 <hr>
 <li>Et nous avons embauché une coordinatrice du tonnerre ! Marina De Lajudie est chargée de l’organisation du projet destiné aux jeunes aidants du Charolais-Brionnais <a href="jeunes-aidants">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> et du projet destiné aux personnes endeuillées <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. Et bien ça change la vie d’être si bien secondée ! Car là est une difficulté de nos assos hyper dynamiques, porteuses de nombreuses actions mais confrontées à des manques de moyens pour leur fonctionnement. Pas simple comme équation…</li>
 <hr>
