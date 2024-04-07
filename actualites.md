@@ -25,20 +25,25 @@ summary:
     <li>A partir de mars, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à la Résidence Séniors le Clos Lamartine, à Cluny avec création d’une chorale et de chansons collectives. Spectacle prévu en juin 2024. 
     </li><hr>
     <li>
-        13 mai 24, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
+        13 mai 2024, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
         <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1710944758/to5ldpaxrzhwpqfazbnv.png
             ">
+        </div> 
+        <div class="center-block">
+            <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
         </div>
+        Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
     </li><hr>
     <li>
-        A partir de mai 24, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
+        A partir de mai 2024, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
         <div class="flex-container">
             <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897854/empreintes-front_ygxts4.png">
             </div>
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">
+                <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
             </div>
         </div>
     </li>
@@ -47,7 +52,10 @@ summary:
        Automne 24:démarrage des ateliers pour jeunes aidants <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
        <div class="center-max600-block">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704026219/jeunes-aidants-2_oabk5m.png">
-       </div> 
+       </div>
+       <div class="center-block">
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+    </div> 
     </li>
 <hr>
      <li>
@@ -72,7 +80,7 @@ summary:
 <hr>
 <li>Et nous avons embauché une coordinatrice du tonnerre ! Marina De Lajudie est chargée de l’organisation du projet destiné aux jeunes aidants du Charolais-Brionnais <a href="jeunes-aidants">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> et du projet destiné aux personnes endeuillées <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. Et bien ça change la vie d’être si bien secondée ! Car là est une difficulté de nos assos hyper dynamiques, porteuses de nombreuses actions mais confrontées à des manques de moyens pour leur fonctionnement. Pas simple comme équation…</li>
 <hr>
-<li>Ainsi,le 13 mai aura lieu à la Pimenterie une première rencontre de toute personne, toute institution concernées par le deuil et intéressée par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. 
+<li>Le 13 mai aura lieu à la Pimenterie une première rencontre autour de ce projet à laquelle sont conviées toute personne, toute institution concernées par le deuil et intéressées par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. 
     <div class="center-block">
         <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
     </div>
@@ -87,7 +95,7 @@ Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif
 <li><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>, qui démarre le 2 mai, et qui est un cycle d’art-thérapie de plus d’un an pour personnes exilées s’est mis en place et le voici maintenant accompagné d’un suivi psychologique ponctuel par deux professionnelles de la santé mentale.
     <div class="center-block">
         <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
     </div>
 </li>
 <hr>
