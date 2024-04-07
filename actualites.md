@@ -99,7 +99,7 @@ Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif
     </div>
 </li>
 <hr>
-<li>Nous avons avec l’association ILS SCÈNENT rédigé un énormme dossier de subvention pour le Fonds Social Européen pour notre projet <a href="les-etres-humaines">les êtres humaines</a>, autour de la violence conjugale. Réponse en juin. Et des premiers contacts très prometteurs sont pris sur toute la région Bourgogne Franche-Comté pour ce projet plus que nécessaire.</li>
+<li>Nous avons avec l’association ILS SCÈNENT déposé une demande de subvention auprès du Fonds Social Européen pour notre projet <a href="les-etres-humaines">les êtres humaines</a>, autour de la violence conjugale. Réponse en juin. Et des premiers contacts très prometteurs sont pris sur toute la région Bourgogne Franche-Comté pour ce projet plus que nécessaire.</li>
 <hr>
 <li>Et un nouveau projet, destiné aux résidents des Papillons Blancs de Paray le Monial démarre en juin. Il s’appelle <a href="brins-d-histoires">brins d'histoires</a> et est un cycle d’ateliers qui aura lieu l’été, de juin à septembre et qui va proposer créations de sculptures en osier, et sculptures végétales. Avec deux artistes vanniers: Erik Barray et Isabelle Sangoy. Des biographies seront inventées avec les résidents pour chacune des sculptures. Le projet est soutenu par la DRAC/ARS de Bourgogne Franche-Comté sur le dispositif Culture et Santé. Merci à eux !  <a href="https://www.atelier-erik-barray.com/" rel="noopener noreferrer" target="_blank">voir le site d'eric&nbsp;!</a></li>
 <hr>
