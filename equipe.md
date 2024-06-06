@@ -13,11 +13,11 @@ redirect_from:
 <ul class="center-text">
 <li><a href="#valerie" style="color: #7C984A">Valérie Gaudissart: art-thérapeute, autrice, comédienne et metteuse en scène</a></li>
 
-<li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
-
 <li><a href="#morton" class="music-color">Morton Potash: compositeur, musicien, mime, et danseur</a></li>
 
 <li><a href="#patricia" style="color: #29c">Patricia Rigo: art-thérapeute et plasticienne</a></li>
+
+<li><a href="#marina" style="color: #7c9">Marina de Lajudie</a></li>
 
 <li><a href="#lucie" style="color: #7c0a24">Lucie Moraillon: photographe</a></li>
 
@@ -32,6 +32,7 @@ redirect_from:
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
 <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li>
+<li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
@@ -41,21 +42,19 @@ Après des études théâtrales à Paris III, Valérie se forme, en étudiant le
 
 Elle a monté en 2018 et joue actuellement un nouveau spectacle «&nbsp;Bercer l’enfant manquant&nbsp;», qui traite de la complexité des liens mère/enfant. Elle en prépare un autre, «&nbsp;Parent solo et ses marmots&nbsp;» sur la mono-parentalité. Valérie a toujours considéré les rencontres comme étant les moteurs et les prétextes de ses créations, et toujours pensé que son travail devait être pluri-disciplinaire. Elle intervient en tant qu’art-thérapeute, anime des ateliers, adore trouver des nouvelles idées de médiations, de spectacles et quand elle a le temps, écrit des histoires pour ses personnages de fiction. Elle vit depuis une quinzaine d’années dans un petit village de Saône et Loire.
 
-<div id="isis"></div>
-## Isis Philippe-Janon : sophrologue et comédienne
-{:.sophro-color}
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1566027596/isis-t%C3%AAte_matha9.png"></div>
-De formation initiale littéraire et théâtrale (Master 1 de Lettres Modernes, et Formation de comédienne sur Paris), Isis a toujours eu à cœur de transmettre quelque chose : d'une émotion à la passion pour un texte, en passant par la découverte d'une nouvelle facette de soi, et par tous les possibles auxquels il est permis de rêver... L'autre est au cœur de ses préoccupations.
-Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découverte de ses ressources pour traverser au mieux tous les moments de vie.
 
-Après un parcours de comédienne, Isis décide de devenir sophrologue suite à la rencontre avec cette pratique lors de la préparation à la naissance de son premier enfant. Après cette expérience riche et étonnante, elle se passionne pour la sophrologie et le potentiel qu'elle y découvre, et la transmettre devient pour elle une évidence. Formée à l'Académie de sophrologie de Paris par Patrick André Chéné, elle obtient son diplôme puis son inscription au RNCP (Répertoire National des Certifications Professionnelles) en 2014.
-
-Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2016 des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est installée en 2017.
-<div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
 <div id="morton"></div>
 <h2 class="music-color"> Morton Potash : compositeur, musicien, mime, et danseur</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
 Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.
+
+<div id="marina"></div>
+<h2 style="color: #7c9">Marina de Lajudie</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1717642278/marina_portrait_ggjk9k.jpg"></div>
+Titulaire d’une licence en Sciences de l’Education de l’université de Lyon II  et d’un Diplôme d’Etat de Conseillère en Economie Sociale et familiale, Marina a travaillé plusieurs années comme Travailleuse Sociale à la CAF du Jura, puis auprès d’adultes handicapés pour deux associations du Rhône.
+Elle est installée en Saône et Loire depuis 2008 où, en parallèle de la création et de la gestion de deux gîtes ruraux, elle a exercé comme assistante maternelle pendant une douzaine d’années.
+En 2018, elle a fait partie de l’équipe créatrice du Festival Boulan’zic à Montmelard dont l’objectif était de présenter des spectacles d’artistes locaux de qualité au cœur d’un monde rural où peu de propositions culturelles existent.
+Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver tout haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe pour coordonner les projets <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés</a>.
 
 <div id="patricia"></div>
 ## Patricia Rigo : art-thérapeute et plasticienne
@@ -153,5 +152,17 @@ Initiée à la danse moderne jazz ainsi qu'au théâtre depuis son plus jeune â
 Après un premier diplôme dans les métiers du livre (DUT) en 2019, la voilà depuis 2022 diplômée d’un master en Management de la Culture, Musiques actuelles et Réalisation documentaire, obtenu à Lille. Pendant ses études, elle a réalisé des stages au sein de plusieurs compagnies et lieux culturels, (Compagnie Caktus, MJC de Sedan, L’Auditorium de Seynod/ scène régionale d’Auvergne Rhônes-Alpes) durant lesquels elle a pris plaisir à être immergée dans le monde du spectacle vivant.
 
 Elle est chargée de diffusion, au sein de Rêver Tout Haut, du spectacle Les Etres Humaines.
+
+<div id="isis"></div>
+## Isis Philippe-Janon : sophrologue et comédienne
+{:.sophro-color}
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1566027596/isis-t%C3%AAte_matha9.png"></div>
+De formation initiale littéraire et théâtrale (Master 1 de Lettres Modernes, et Formation de comédienne sur Paris), Isis a toujours eu à cœur de transmettre quelque chose : d'une émotion à la passion pour un texte, en passant par la découverte d'une nouvelle facette de soi, et par tous les possibles auxquels il est permis de rêver... L'autre est au cœur de ses préoccupations.
+Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découverte de ses ressources pour traverser au mieux tous les moments de vie.
+
+Après un parcours de comédienne, Isis décide de devenir sophrologue suite à la rencontre avec cette pratique lors de la préparation à la naissance de son premier enfant. Après cette expérience riche et étonnante, elle se passionne pour la sophrologie et le potentiel qu'elle y découvre, et la transmettre devient pour elle une évidence. Formée à l'Académie de sophrologie de Paris par Patrick André Chéné, elle obtient son diplôme puis son inscription au RNCP (Répertoire National des Certifications Professionnelles) en 2014.
+
+Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2016 des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est installée en 2017.
+<div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
 
 
