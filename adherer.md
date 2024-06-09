@@ -9,10 +9,15 @@ summary:
     <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/adhesions/adhesion-rever-tout-haut-2024">clicquer pour adhérer à rêver tout haut sur le site Hello Asso</a>
     </li>
 </ul>
+<div class="qrcode">
+    <img src="qrcodeHelloAssoAdhesion.png">
+</div>
 
 <h2>faire un don</h2>
 <p class="intro-text">Nous aider financièrement c'est facile. L'association <strong>helloasso</strong> s'occupe de tout. Les dons sont déductibles des impôts.</p>
 <ul style="text-align:right; list-style-type:none">
     <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/formulaires/1">Faire un don (déductible des impôts)</a></li>
 </ul>
-
+<div class="qrcode">
+<img src="qrcodeHelloAssoAdhesion.png" />
+</div>
