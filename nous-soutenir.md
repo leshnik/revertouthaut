@@ -1,6 +1,6 @@
 ---
 layout: logoTop
-title: adhérer
+title: nous soutenir
 summary:
 ---
 <h1>adhérer à rêver tout haut</h1>
