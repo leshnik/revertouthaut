@@ -39,7 +39,7 @@ summary:
         A partir de mai 2024, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
         <div class="flex-container">
             <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897854/empreintes-front_ygxts4.png">
+            <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718169486/empreintes-flyer-p1-2024-06-12_n0sit3.png">
             </div>
             <div class="column">
                 <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
