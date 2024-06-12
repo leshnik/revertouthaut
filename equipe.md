@@ -50,7 +50,7 @@ Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en
 
 <div id="marina"></div>
 <h2 style="color: #7c9">Marina de Lajudie&nbsp;: coordinatrice <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés (jeunes aidant.e.s)</a></h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1717642278/marina_portrait_ggjk9k.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718169024/marina_zoomedin_bmisyv.png"></div>
 Titulaire d’une licence en Sciences de l’Education de l’université de Lyon II  et d’un Diplôme d’Etat de Conseillère en Economie Sociale et familiale, Marina a travaillé plusieurs années comme Travailleuse Sociale à la CAF du Jura, puis auprès d’adultes handicapés pour deux associations du Rhône.
 Elle est installée en Saône et Loire depuis 2008 où, en parallèle de la création et de la gestion de deux gîtes ruraux, elle a exercé comme assistante maternelle pendant une douzaine d’années.
 En 2018, elle a fait partie de l’équipe créatrice du Festival Boulan’zic à Montmelard dont l’objectif était de présenter des spectacles d’artistes locaux de qualité au cœur d’un monde rural où peu de propositions culturelles existent.
