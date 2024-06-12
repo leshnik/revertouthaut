@@ -26,12 +26,14 @@ summary:
     </li><hr>
     <li>
         13 mai 2024, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1710944758/to5ldpaxrzhwpqfazbnv.png
+        <div class="flex-container">
+            <div class="column">
+                <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1710944758/to5ldpaxrzhwpqfazbnv.png
             ">
-        </div> 
-        <div class="center-block">
-            <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
+            </div>
+            <div class="column">
+                <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
+            </div>
         </div>
         Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
     </li><hr>
