@@ -143,6 +143,16 @@ Après un long passage à Berlin, Naïma revient en France en s’immergeant cet
 Naïma exerce aujourd’hui en tant que psychomotricienne en institution et construit en parallèle de multiples ponts entre le soin et la danse, notamment auprès de la Cie Strates et de l’Association Rêver Tout Haut.
 Elle est installée dans le clunisois.
 
+<div id="magali"></div>
+<h2 class="music-color">Magali Ringoot : musicothérapeute en cours de formation</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718198173/magali-carre%CC%81_ntqqxt.png"></div>
+C’est à l’âge de 6 ans que Magali commence à jouer du piano et à découvrir le plaisir de jouer de la musique (ou jouer avec la musique ?). Diplômée de Sciences Po Paris en sociologie et communication, elle se consacre pendant plus de 20 ans à diverses causes écologiques en tant que coordinatrice de projets en ONG et continue, à côté de son métier, à cultiver son jardin musical. En plus du piano, elle apprend l’accordéon chromatique. C’est avec le chant en groupe, en particulier le chant spontané et les chants en cercle, que Magali développe un rapport à la musique plus intuitif, plus libre. Elle se forme à la pédagogie du rythme inspirée de la batucada « O Passo » avec son fondateur, Lucas Ciavatta, à l’éveil musical avec l’ADEM. Au fil des années, elle collecte divers chants du monde lors de stages, en particulier des chants « afropéens » auprès d’Anita Daulne (ex Zap Mama).
+
+Animée du désir de transmettre et de vivre davantage la musique en partage, Magali fonde l’association culturelle « La Marmite » en 2013 à Cluny. Elle y donne des cours de piano, des ateliers de chants du monde et d’éveil musical jusqu’en 2018.  Convaincue que nous sommes tous musiciens, Magali a à cœur de rendre la musique accessible à tous. Elle mène différents projets participatifs d’action culturelle avec des artistes et habitants du territoire (fête de la solidarité, carnaval, festival de la transition écologique, …).
+
+L’animation d’ateliers auprès de personnes en situation de handicap en 2014 et 2015 la conforte dans son désir d’explorer la dimension plus thérapeutique de la musique, la musique qui relie à soi et autres. C’est ensuite naturellement vers la musicothérapie, véritable pratique de soin des troubles de troubles de la communication relationnelle et affective, que Magali se tourne. Elle est actuellement en cours de formation à l’Atelier de Musicothérapie de Bourgogne (un des 3 centres reconnus par la Fédération Française des Musicothérapeutes). 
+
+
 <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
