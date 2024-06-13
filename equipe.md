@@ -33,7 +33,7 @@ redirect_from:
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li>
-<li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
+<!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
@@ -165,7 +165,7 @@ Après un premier diplôme dans les métiers du livre (DUT) en 2019, la voilà d
 
 Elle est chargée de diffusion, au sein de Rêver Tout Haut, du spectacle Les Etres Humaines.
 
-<div id="isis"></div>
+<!-- <div id="isis"></div>
 ## Isis Philippe-Janon : sophrologue et comédienne
 {:.sophro-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1566027596/isis-t%C3%AAte_matha9.png"></div>
@@ -175,6 +175,6 @@ Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découvert
 Après un parcours de comédienne, Isis décide de devenir sophrologue suite à la rencontre avec cette pratique lors de la préparation à la naissance de son premier enfant. Après cette expérience riche et étonnante, elle se passionne pour la sophrologie et le potentiel qu'elle y découvre, et la transmettre devient pour elle une évidence. Formée à l'Académie de sophrologie de Paris par Patrick André Chéné, elle obtient son diplôme puis son inscription au RNCP (Répertoire National des Certifications Professionnelles) en 2014.
 
 Elle travaille d'abord sur Paris et expérimente une pratique variée : Interventions en entreprise, en association, en cabinet libéral pour des groupes ou des individuels. Elle propose aussi des formations notamment pour les assistantes maternelles. Puis elle découvre sur Lyon une pratique plus thérapeutique, en équipe pluridisciplinaire, en travaillant dans un hôpital psychiatrique de jour. Elle y propose depuis 2016 des interventions pour des groupes via la sophrologie et l'outil théâtral. Affectionnant tout particulièrement le travail thérapeutique en équipe pluridisciplinaire, avec la richesse que cela suppose pour chacun, c'est dans cette intention qu'elle s'inscrit dans le projet *Rêver tout haut*{:.rever-typog} . Elle travaille aujourd'hui entre Lyon et la Saône et Loire où elle s'est installée en 2017.
-<div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div>
+<div style="text-align:right"><a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="http://isispj.wixsite.com/sophro">site web d'Isis</a></div> -->
 
 
