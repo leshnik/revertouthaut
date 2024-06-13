@@ -3,7 +3,7 @@ layout: logoTop
 title: journal de bord
 summary: 
 ---
-<h1>journal de bord et actualités</h1>
+<h1>journal de bord</h1>
 <h2>juin 2024</h2>
 
 <p class="intro-text">Voilà le mois de juin déjà entamé, et il nous faut vite faire un petit résumé des semaines passées.
@@ -56,7 +56,7 @@ C. retrouvera son petit garçon et lui offrira un parapluie et le monde tout ent
 <p class="intro-text">Parlons maintenant de <a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> et au passage, inclinons-nous devant Marina De Lajudie notre coordinatrice très efficace et pleine d’idées. Grâce à elle, nous développons un réseau incroyable, et lors de notre première rencontre du 13 mai à La Pimenterie, il y avait bien du monde ! Le deuil a donc besoin de se dire, de se transformer et ce, à chaque génération.</p>
 
 <p class="intro-text">Sur ce flyer, vous trouverez toutes les dates des ateliers de l’automne et de l’hiver. Inscriptions à chaque atelier obligatoire car il y a beaucoup beaucoup de monde…
-Pour plus d’infos, contactez <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718194512/marina-contact_qiu6wb.png"></p>
+Pour plus d’infos, contactez <a href="equipe#marina">Marina</a>.</p>
 
 <div class="center-max600-block">
     <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
@@ -65,7 +65,7 @@ Pour plus d’infos, contactez <img src="https://res.cloudinary.com/dspnxldi8/im
 <hr>
 
 <p class="intro-text">Et puisque nous en sommes à parler de Marina, parlons de l’autre projet qu’elle coordonne, celui consacré aux <a href="jeunes-aidants">Jeunes Aidants</a>. Entre parenthèses, un grand merci au Conseil Régional de Bourgogne/Franche Comté et au FDVA 71 de soutenir ce projet complètement nouveau sur le territoire ! Nous sommes donc en train d’organiser une année scolaire d’ateliers au Lycée Agricole de Charolles et au Lycée du Sacré Coeur de Paray le Monial, ateliers qui seront encadrés par 7 artistes: comédiennes, musiciens, danseuse, écrivaine. Nous rencontrons donc en ce moment plein de structures qui accompagnent des jeunes sur ce territoire rural, parmi lesquels des jeunes aidants qui peut-être s’ignorent encore. Car il n’est pas facile de s’identifier jeune aidant quand on prend soin depuis l’enfance de son proche malade ou en situation de handicap.
-Si vous vous reconnaissez dans cette situation, contactez Marina.</p>
+Si vous vous reconnaissez dans cette situation, contactez <a href="equipe#marina">Marina</a>.</p>
 
 <hr>
 

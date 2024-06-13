@@ -6,7 +6,7 @@ summary:
 <h1>événements à venir</h1>
 <ul class="institutions">
     <li>
-        De mai 2024 à juin 2025, auront lieu les ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
+        De mai 2024 à juin 2025, auront lieu les ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> sur les traces laissés par l'enfance, l'exil et les rencontres.
         <div class="flex-container">
             <div class="column">
             <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718169486/empreintes-flyer-p1-2024-06-12_n0sit3.png">
