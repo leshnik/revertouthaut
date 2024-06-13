@@ -5,10 +5,10 @@ summary:
 ---
 <h1>événements à venir</h1>
 <ul class="institutions">
-    <li>
+    <!-- <li>
         A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts individuels et intimes en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit.
-    </li><hr>
-    <li>
+    </li><hr> -->
+    <!-- <li>
         Tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, spectacle musical avec une formidable troupe de personnes porteuses d’une cérébro-lésion
         <br><br>
         <ul>
@@ -21,10 +21,8 @@ summary:
             <li><span style="color: rgb(216, 87, 0);">Le 5 avril à Montceau les Mines</span>, à 19h aux Ateliers du Jour, 56 quai Jules-Chagot, Gratuit, Suivi d'un temps déchanges. Réservation:03&nbsp;85&nbsp;58&nbsp;73&nbsp;37
             <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440338/maintenant-only-date-montceau-nologo_noyzja.png"></div></li>
         </ul>
-    </li><hr>
-    <li>A partir de mars, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à la Résidence Séniors le Clos Lamartine, à Cluny avec création d’une chorale et de chansons collectives. Spectacle prévu en juin 2024. 
-    </li><hr>
-    <li>
+    </li><hr> -->
+    <!-- <li>
         13 mai 2024, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
         <div class="flex-container">
             <div class="column">
@@ -36,7 +34,7 @@ summary:
             </div>
         </div>
         Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
-    </li><hr>
+    </li><hr> -->
     <li>
         A partir de mai 2024, démarrage des ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>
         <div class="flex-container">
@@ -50,6 +48,50 @@ summary:
         </div>
     </li>
 <hr>
+    <li>
+        Samedi 15 juin, collecte de photos à la Galerie les Mains Libres pour nourrir notre projet <a href="histoires-de-transmission">Histoires de Transmission</a>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718181158/Screenshot_of_Finder_at_12_Jun_2024_at_10_32_24_i6dgwu.png">
+        </div>
+    </li>
+    <hr>
+    <li>
+        Mardi 18 juin, démarrage de notre cycle d’ateliers <a href="brins-d-histoires">Brins D’Histoire</a> à Paray Le Monial, au sein des Papillons Blancs, et qui durera jusqu’en septembre.
+    </li>
+    <hr>
+    <li>
+        Vendredi 28 juin, <a href="chansons-de-mes-quatre-saisons">Chansons de mes quatre saisons</a>, spectacle musical et chansons composées pour et par les résidents du Clos Lamartine à Cluny.
+    </li>
+    <hr>
+    <li>
+        Mardi 9 juillet, intervention de Valérie Gaudissart, en tant que conceptrice d’ateliers à médiations artistiques pour la journée de formation organisée par <a href="http://www.itinerairessinguliers.com/#">Itineraires Singuliers</a>.<br>
+        Lien pour s'inscrire à la <a href="https://docs.google.com/forms/d/e/1FAIpQLSeG9ARWbzVRmZemwStgQMftb4FMYtk7ce1Hkad4ve007-MdbA/viewform?pli=1">Journée de Formation et d'Information sur le dispositif "Culture-Santé" financé par la DRAC et l'ARS à Mâcon (71)</a>
+    </li>
+    <hr>
+    <li>
+        Mercredi 25 septembre, démarrage de notre cycle d’ateliers <a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a>, info sur le flyer.
+        <div class="flex-container">
+            <div class="column">
+                <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1710944758/to5ldpaxrzhwpqfazbnv.png
+            ">
+            </div>
+            <div class="column">
+                <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
+            </div>
+        </div>
+        Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
+    </li>
+    <hr>
+    <li>
+        Lundi 18 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Davayé, dans le cadre de la Semaine de l’Inclusion
+        <br>
+        Mardi 19 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Charolles, dans le cadre de la Semaine de l’Inclusion
+        <div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
+</div>
+
+    </li>
+    <hr>
     <li>
        Automne 24:démarrage des ateliers pour jeunes aidants <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
        <div class="center-max600-block">
