@@ -31,6 +31,7 @@ redirect_from:
 
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
+<li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li>
 <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li>
 </ul>
