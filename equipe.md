@@ -55,7 +55,8 @@ Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en
 Titulaire d’une licence en Sciences de l’Education de l’université de Lyon II  et d’un Diplôme d’Etat de Conseillère en Economie Sociale et familiale, Marina a travaillé plusieurs années comme Travailleuse Sociale à la CAF du Jura, puis auprès d’adultes handicapés pour deux associations du Rhône.
 Elle est installée en Saône et Loire depuis 2008 où, en parallèle de la création et de la gestion de deux gîtes ruraux, elle a exercé comme assistante maternelle pendant une douzaine d’années.
 En 2018, elle a fait partie de l’équipe créatrice du Festival Boulan’zic à Montmelard dont l’objectif était de présenter des spectacles d’artistes locaux de qualité au cœur d’un monde rural où peu de propositions culturelles existent.
-Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver tout haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe pour coordonner les projets <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.
+Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver tout haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe pour coordonner les projets <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.<br>
+<img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718194512/marina-contact_qiu6wb.png">
 
 <div id="patricia"></div>
 ## Patricia Rigo : art-thérapeute et plasticienne
