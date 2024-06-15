@@ -10,6 +10,7 @@ summary:
 <div class="space-around--wrap">
 <p class="shadow" style="background: #728fa6 ; width: 50ch">
   <span style="color: #9bfafa" class="nav-list-heading">Aidant.es</span><br>
+  <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/jeunes-aidants">●&nbsp;jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es <span style="font-size: smaller">2024/2025</span></a><br>
   <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/les-mains-tendues">●&nbsp;les mains tendues <span style="font-size: smaller">2023</span></a><br>
   <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/presences">●&nbsp;présences <span style="font-size: smaller">2021/2023</span></a><br/>
   <a style="color: #9bfafa" class="nav-list-item subtlehover"  href="/aidants-aimants">●&nbsp;aidants, aimants <span style="font-size: smaller">2020/2022</span></a><br>
