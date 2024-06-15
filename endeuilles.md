@@ -13,7 +13,7 @@ La perte d’un proche nous secoue durablement et fait remonter à la surface no
 
 <div class="space-around--wrap">
     <p class="shadow" style="background: #728fa6 ; width: 50ch"><span style="color: #9bfafa" class="nav-list-heading">endeuillé.es</span><br>
-      <a style="color:#9bfafa" class="nav-list-item subtlehover" href="une-nouvelle-page">●&nbsp;une nouvelle page à écrire</a>
+      <a style="color:#9bfafa" class="nav-list-item subtlehover" href="une-nouvelle-page">●&nbsp;une nouvelle page à écrire 2024-2025</a>
     </p>
 
 </div>

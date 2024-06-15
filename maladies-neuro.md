@@ -8,6 +8,6 @@ summary:
 
 <div class="space-around--wrap">
 <p class="shadow" style="background: #7fa090; width: 50ch"><span style="color:#97f9f7" class="nav-list-heading">Maladies Neuro-évolutives</span><br>
-  <a style="color:#aafdfc" class="nav-list-item"  href="/vivre-avec-parkinson">●&nbsp;vivre avec Parkinson</a><br>
+  <a style="color:#aafdfc" class="nav-list-item"  href="/vivre-avec-parkinson">●&nbsp;vivre avec Parkinson 2022, Paray-le-Monial</a><br>
 </p>
 </div>

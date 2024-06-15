@@ -8,5 +8,6 @@ summary:
 
 <div class="space-around--wrap">
 <p class="shadow" style="background: #f5ae1f; width: 50ch"><span style="color: #550055" class="nav-list-heading">monde rural</span><br>
-  <a style="color: #550055" class="nav-list-item" href="/histoires-de-transmission">●&nbsp;histoires de transmission</a><br>
+  <a style="color: #550055" class="nav-list-item" href="/histoires-de-transmission">●&nbsp;histoires de transmission 2023/2025</a><br>
+  <a style="color: #550055" class="nav-list-item" href="/histoires-de-transmission">●&nbsp;celles qui veillent 2024, Charollais-Brionnais</a><br>
 </p>

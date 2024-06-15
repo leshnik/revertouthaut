@@ -8,6 +8,7 @@ summary:
 
 <div class="space-around--wrap">
 <p class="shadow" style="background: #8db3d2; width: 50ch"><span style="color: #00008b" class="nav-list-heading">Troubles Psychiques</span><br>
+  <a style="color: #00008b" class="nav-list-item"  href="/cachettes-secretes">●&nbsp;cachettes secrètes <span style="font-size: smaller">2023, Montceau-les-Mines</span></a><br>
   <a style="color: #00008b" class="nav-list-item"  href="/portraits-des-miens">●&nbsp;portraits des miens <span style="font-size: smaller">2022, Sevrey</span></a><br>
 </p>
 </div>

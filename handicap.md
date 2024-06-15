@@ -8,6 +8,8 @@ summary:
 
 <div class="space-around--wrap">
 <p class="shadow" style="background: #653a4c; width: 50ch"><span style="color: #f5d76e;" class="nav-list-heading">Handicap/Inclusion</span><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="brins-d-histoires">●&nbsp;brins d'histoires <span style="font-size: smaller">2024, Paray-le-monial</span></a><br>
+  <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/maintenant-il-y-a">●&nbsp;maintenant il y a <span style="font-size: smaller">2023 - 2024</span></a><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/derriere-nos-portes">●&nbsp;derrière nos portes <span style="font-size: smaller">2022, Charnay-lès-Mâcon</span></a><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/je-t-ai-reve">●&nbsp;je t'ai rêvé <span style="font-size: smaller">2021, Chalon</span></a><br>
   <a style="color: #f5d76e;" class="nav-list-item subtlehover"  href="/de-l-air">●&nbsp;de l'air ! <span style="font-size: smaller">2020, Bonnay</span></a><br>

@@ -12,6 +12,7 @@ summary:
 
 <div class="space-around--wrap">
 <p class="shadow" style="background: #767ba5; width: 50ch"><span style="color:#fbd7ae" class="nav-list-heading">insertion/travail social</span><br>
+  <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/empreintes-sur-le-chemin">●&nbsp;empreintes sur le chemin 2024 <span style="font-size: smaller">2020, Taizé</span></a><br>
   <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/changer-de-pays">●&nbsp;changer de pays <span style="font-size: smaller">2020, Taizé</span></a><br>
   <a style="color:#fbd7ae" class="nav-list-item subtlehover"  href="/les-petites-lucarnes">●&nbsp;les petites lucarnes <span style="font-size: smaller">2019/2020, Mâcon, Chalon</span></a><br>
   <a style="color:#fbd7ae" class="nav-list-item subtlehover" href="/pour-travailleurs-sociaux-et-soignants">●&nbsp;pour travailleurs sociaux et soignants</a>

@@ -8,6 +8,9 @@ summary:
 
 <div class="space-around--wrap">
 <p class="shadow" style="background: #d43702; width: 50ch"><span style="color: #ffe3ca" class="nav-list-heading">Seniors</span><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="chansons-de-mes-quatre-saisons">●&nbsp;chansons de mes quatre saisons<span style="font-size: smaller"> 2024, Cluny</span></a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="accordeon-quizz">●&nbsp;accordéon quizz<span style="font-size: smaller"> 2023, Mâcon</span></a><br>
+  <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="chansons-a-garder-dans-sa-table-de-nuit">●&nbsp;chansons à garder dans sa table de nuit<span style="font-size: smaller"> 2024, Cluny</span></a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="contre-jour">●&nbsp;contre-jour <span style="font-size: smaller">2022, Cluny</span></a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/rencontres">●&nbsp;rencontres <span style="font-size: smaller">2023, Saint-Bonnet-de-Joux</span></a><br>
   <a style="color: #ffe3ca" class="nav-list-item subtlehover"  href="/histoire-de-mes-ressemblances">●&nbsp;histoire de mes ressemblances <span style="font-size: smaller">2019/2020, <br>Saint-Bonnet-de-Joux</span></a><br>
