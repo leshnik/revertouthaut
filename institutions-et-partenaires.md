@@ -23,6 +23,8 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Foyer d’Accueil Médicalisé, Sennecey le Grand</li>
 <li>Service Addictologie la Fabrique, Hôpital de Montceau les Mines</li>
 <li>Association des Familles de Traumatisés crâniens, AFTC</li>
+<li>Papillons Blancs d’Entre Saône et Loire</li>
+<li>PEP 71 et l’Ecluse</li>
 </ul>
  
 <h2>Soutien aux Aidants :</h2>
@@ -62,6 +64,9 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Chambre d’Agriculture, Mâcon</li>
 <li>Association le Pont, Mâcon, Chalon-sur-Saône, Paray-le-Monial</li>
 <li>CCAS Mâcon</li>
+<li>Adoma (Cada Mâcon Nord)</li>
+<li>La Fédération des Acteurs de la Solidarité (FAS)</li>
+<li>Kalivi</li>
 </ul> 
  
  
@@ -87,13 +92,15 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Les Chevaux Célestes</li>
 <li>La Cave à Musique, Mâcon</li>
 <li>Les Ateliers du Jour, Montceau-les-Mines</li>
+<li>La Pimenterie (Saint Point)</li>
 </ul> 
 <h2>Structures Educatives&nbsp;:</h2>
 <ul class="institutions">
     <li>Lycée Agricole LPA de Charolles</li>
 </ul>
  
-<p class="intro-text"><span class="rever-typog">rêver tout haut</span> est soutenu dans ses projets par&nbsp;:</p>
+ <h3>rêver tout haut est soutenu dans ses projets par&nbsp;:</h3>
+
 <ul class="institutions">
 <li>la Conférence des Financeurs</li>
 <li>le Conseil Départemental de Saône et Loire</li>
@@ -105,4 +112,6 @@ summary: Sous forme de protocole et en complément du suivi médical et social d
 <li>Malakoff Humanis</li>
 <li>AG2R La Mondiale</li>
 <li>La Sacem</li>
+<li>Conseil Régional de Bourgogne Franche Comté</li>
+<li>Direction Départementale de l’Emploi, du Travail et des Solidarités (DDETS)</li>
 </ul>
