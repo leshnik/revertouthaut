@@ -4,6 +4,8 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<p class="intro-text">On remercie Clara Desmottes pour son article du 14 juin dans L'Exploitant Agricole de Saône-et-Loire. <a href="EXPAG_P32_S24.pdf" target="_blank"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718648017/article-clara-desmottes_tcwssa.png">cliquer ici pour lire l'article</a></p>
+
 <h2>juin 2024</h2>
 
 <p class="intro-text">Voilà le mois de juin déjà entamé, et il nous faut vite faire un petit résumé des semaines passées.
