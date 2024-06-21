@@ -57,9 +57,10 @@ summary:
         <br>
         Mardi 19 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Charolles, dans le cadre de la Semaine de l’Inclusion
         <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
-</div>
-
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">      
+        </div>
+        Séances scolaires, mais quelques places seront ouvertes aux personnes de l'extérieur.  
+        Contact réservation: coordination.revertouthaut@gmail.com / 07 82 16 11 16
     </li>
     <hr>
     <li>
@@ -72,9 +73,8 @@ summary:
     </div> 
     </li>
 <hr>
-     <li>
-        tout 2024: série de rencontres et d’entretiens et réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.
-     </li>
+     <li>- Tout 2024: Recueil de témoignages pour la réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a>, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire. Si vous souhaitez témoigner, vous pouvez nous contacter: coordination.revertouthaut@gmail.com / 07 82 16 11 16
+    </li>
 <hr>
     <li>
         2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
