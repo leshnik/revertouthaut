@@ -31,6 +31,11 @@ Encore une dizaine d’interventions à domicile d’ici Noël.</p>
 
 <p class="intro-text">Parlons maintenant de <a href="empreintes-sur-le-chemin">Empreintes sur le Chemin</a> et remercions au passage la DRAC qui soutient le projet ! Bonne nouvelle car le projet est passionnant à faire, et nous sommes très heureuses de sa longue temporalité. Toutes les deux semaines, nous recevons dans les locaux de l’association le Pont à Mâcon une quinzaine de personnes exilées et leur proposons des activités créatives et consolantes. Car l’exil, c’est beaucoup beaucoup de pertes et d’épreuves à traverser. Peinture, argile et marionnettes ont été nos premières activités.</p>
 
+<div class="center-max600-block">
+    <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>">
+</div>
+
 <h3>extraits</h3>
 
 <p class="quote">Cette après-midi, rue Mathieu, le monde a toqué à la porte et s’est invité sur des feuilles de papier.
@@ -61,8 +66,7 @@ C. retrouvera son petit garçon et lui offrira un parapluie et le monde tout ent
 Pour plus d’infos, contactez <a href="equipe#marina">Marina</a>.</p>
 
 <div class="center-max600-block">
-    <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>">
+    <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
 </div>
 <hr>
 
