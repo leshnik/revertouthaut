@@ -30,7 +30,8 @@ summary:
     </li>
     <hr>
     <li>
-        Vendredi 28 juin, <a href="chansons-de-mes-quatre-saisons">Chansons de mes quatre saisons</a>, spectacle musical et chansons composées pour et par les résidents du Clos Lamartine à Cluny.
+        Vendredi 28 juin, à 17h, <a href="chansons-de-mes-quatre-saisons">Chansons de mes quatre saisons</a>, spectacle musical et chansons composées pour et par les résidents du Clos Lamartine à Cluny, 5, rue Salvador Allende.
+
     </li>
     <hr>
     <li>
