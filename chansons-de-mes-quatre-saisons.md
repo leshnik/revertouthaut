@@ -10,7 +10,7 @@ L’objectif était de pouvoir, par le jeu des mots et des rimes, et par des éc
 
 <p class="intro-text">Le projet a reçu le soutien du Conseil Départemental de Saône et Loire.</p>
 
-<p class="intro-text">Les ateliers aboutiront à une représentation ouverte à tout public le 28 juin 2024.</p>
+<p class="intro-text">Les ateliers aboutiront à une représentation ouverte à tout public le 28 juin 2024, à 17h, 5 rue Salvador Allende à Cluny.</p>
 
 <p class="intro-text">Quelques uns des textes: </p>
 
