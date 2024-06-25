@@ -50,7 +50,7 @@ summary:
                 <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
             </div>
         </div>
-        Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
+        KALIVI et Malakoff Humanis nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
     </li>
     <hr>
     <li>
