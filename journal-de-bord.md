@@ -4,10 +4,135 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
-<p class="intro-text">On remercie Clara Desmottes pour son article du 14 juin dans L'Exploitant Agricole de Saône-et-Loire. <a href="EXPAG_P32_S24.pdf" target="_blank"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718648017/article-clara-desmottes_tcwssa.png">cliquer ici pour lire l'article</a></p>
+<h2>Juillet 2024</h2>
+<p class="intro-text">
+Avalanche de bonnes nouvelles et de soutiens pour nos projets. L’été sera donc très rempli et l’année qui vient aussi. Tant mieux, il y a tant de fragilités à prendre en charge et de rencontres à faire.</p>
 
+<p class="intro-text">Alors, commençons par <a href="les-etres-humaines">les êtres humaines</a> et le soutien financier de l’Europe ! Comme vous pouvez le voir sur ce logo ! Mille mercis ! </p>
+
+<div class="center-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+</div>
+
+<p class="intro-text">Ce qui va nous permette de réaliser un projet d’envergure, sur tout le département de Saône et Loire, et sur les départements voisins, Côte d’Or et Doubs, avec de multiples partenariats. Projet étendu sur le territoire et aussi dans le temps, car nous voilà parties jusqu’en 2026, avec ce projet consacré à la violence conjugale et intra-familiale.</p>
+
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
+</div>
+<hr>
+
+<p class="intro-text">Puis notre projet jeunes <a href="jeunes-aidants">aidant.es / les emmêlé.es</a>, qui dépote ! Grâce au partenariat développé par Marina, et à deux nouveaux soutiens financiers du Conseil Départemental de Saône et Loire et à la MSA. Merci à eux !</p>
+<p class="intro-text">Nous démarrons nos ateliers en septembre, avec six artistes intervenants (comédiennes, musicienne, danseuse, compositeur, écrivaine) sur deux établissements du Charolais. 
+N’hésitez pas à nous contacter si vous êtes jeune aidant et que vous désirez vous joindre à nous pour cette action créative, complètement nouvelle sur le territoire. </p>
+
+<div class="flex-container">
+        <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
+        </div> 
+        <div class="column"> 
+                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">Cliquer pour télécharger le flyer</a>
+        </div>
+</div>
+
+<hr>
+
+<p class="intro-text">Partons maintenant direction Paray le Monial, aux Papillons Blancs où nous avons démarré brins d’histoires, avec les artistes vanniers Erik Barray et Richard Le Guennezec et les résidents. 
+Ateliers de tressages, et de fabrications d’objets colorés, qui prendront forme et vie dans le jardin.</p>
+
+
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721485378/brins-d-histoire-1_eyelzq.png">
+<figcaption class="figCapCenter">Un petit aperçu des premières créations</figcaption>
+</div>
+<hr>
+
+<p class="intro-text">Allons maintenant passer du temps à Mâcon, dans les locaux du Pont où nous recevons toutes les deux semaines et ce jusqu’en juin 25, une vingtaine de personnes exilées par séance pour le projet <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>. Voyages dans les histoires de chacun.e, frontières franchies entre imaginaire, intime et dureté du monde réel, couleurs bariolées qui redonnent de la vitalité au quotidien, mains dans l’argile qui laissent apparaitre des visages…</p>
+
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721486678/1721478935032_vsrwxr.jpg">
+</div>
+
+<h3>Extrait d’un compte-rendu de séance</h3>
+<p class="quote">«&nbsp;Avant de démarrer notre séance avec l’argile et en attendant le reste du groupe, je propose à E. de regarder le livre que j’ai acheté pour elle: des poèmes de Maya Angelou en anglais et français et je lui demande d’en choisir un pour nous le lire plus tard, si ça lui dit. Elle se plonge dedans.</p>
+
+<p class="quote">Puis, plus tard tout le monde est concentré sur sa boule d’argile. 
+Et entre les doigts, des visages apparaissent : L. et sa fille s’amusent à faire naitre les visages d’une grand-mère et un grand-père. Ces deux là sont d’une complicité incroyable, inséparables.
+M.  dit qu’il ne veut pas faire de visage, il a une idée arrêtée et en effet, il modèle un très beau pot à blé, comme celui qu’utilisait ou utilise sa grand-mère pour garder les réserves. M. semble en difficulté cette semaine. Celui nous attriste, car à la séance précédente, il était presque volubile et enjoué.</p>
+
+<p class="quote">S. modèle une sorte de petite tête sympathique mi-homme mi-cochon qui lui demande de la concentration et lui provoque de l’amusement aussi. Une fois la séance commencée, S. demande si elle peut proposer à son fils de venir. Bien-sûr que oui. Arrive donc 10 minutes plus tard, P. qui n’a jamais touché d’argile encore mais qui se plonge tout de suite dans la matière. Il me dit tout de suite qu’il va faire une marmite. Puis il modèle des petites chaussures, taille homme. Et finalement, la marmite disparaît et c’est un salon qui apparaît, canapé et table. Un endroit pour se poser, où on se sent bien et en sécurité.</p>
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721487584/petits-pieds_iilcr9.png">
+</div>
+
+<p class="quote">D. modèle un a-plat, et le voilà à essayer de modeler une montre plate, alors qu’il en a une belle dorée à son poignet. Puis la montre se transformera en baguette de pain avec à ses côtés, des beignets de petit déjeuner.</p>
+
+<p class="quote">N. arrive quand la séance a déjà bien commencée et qu’on ne l’attendait plus. Il a eut du mal à venir, lui qui doit faire du stop et il doit repartir vite pour du boulot. Il peut rester 40 minutes, c’est donc quelqu’un de bien motivé.
+Lui aussi modèle un salon, des chaises pour se reposer. Décidément. La maison est un lieu rêvé.</p> 
+
+<p class="quote">B. va modeler un visage de vieil homme avec des dents bien visibles, B. est bien présente, parle peu et semble très assombrie par sa vie. Elle me semble en deuil. Elle dira à la fin que la prochaine fois, elle viendra avec sa fille.</p>
+
+<p class="quote">O. qui n’a jamais touché l’argile modèle un très beau visage de femme, elle dit que c’est le sien. Pourtant leurs formes en sont différentes, mais cela n’a aucune importance. La ressemblance est intérieure.</p>
+
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721487150/te%CC%82te_colombienne_agyxqp.png">
+</div>
+
+<p class="quote">S. modèle une tête qui ressemble à celle d’un hérisson jovial. J. modèle un hérisson, tout entier, celui de son jardin. Seraient-elles reliées toutes les deux ou c’est moi qui les relie ?</p>
+
+<p class="quote">C. aussi modèle le visage d’un vieil homme. C’est étonnant comme la terre appelle les rides et les empreintes du temps.</p>
+
+<p class="quote">Avant de nous quitter, je demande à E. si elle veut nous lire le poème qu’elle a choisi. Oui dit-elle. Elle lit « life doesn’t frighten me », phrase répétée plusieurs fois dans le poème. 
+En voici le début :</p>
+<p class="quote"><em>Shadows on the wall<br>
+noises down the hall<br>
+life doesn’t frighten me at all<br>
+bad dogs barking loud<br>
+big ghosts in a cloud<br>
+life doesn’t frighten me  at all</em>
+</p>
+
+<p class="quote">Pendant sa lecture, E. se met à pleurer mais elle se reprend et va jusqu’au bout. On l’applaudit.
+On se quitte, on se revoit dans deux semaines. 
+« la vie ne me fait pas peur du tout », voilà une phrase à se répéter dans les jours à venir… »</p>
+
+<div class="center-max450-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721487584/jardin-peruvien_lazpjh.png">
+</div>
+
+<hr>
+
+<p class="intro-text">Enfin, finissons par <a href="celles-qui-veillent">celles qui veillent</a></p>
+
+<p class="intro-text">Ça guinche dans les cuisines ! Nous voici, avec Estelle, son accordéon et Emilie et Cécile, géniales infirmières de Beaubery à aller rendre visite à leurs patients en musique et par surprise. Quel cadeau, cette joie de vivre partagée ! Nous en repartons convaincues que le soin, c’est bel et bien du lien humain.</p>
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721488794/1721487945987_wie2yp.jpg">
+</div>
+<h3>Extrait d’un compte-rendu de matinée</h3>
+
+<p class="quote">«&nbsp;8h30, nous nous retrouvons de bon matin, à Beaubery City, centre de notre petit monde pendant une matinée.</p>
+<p class="quote">Et nous voilà chez Bernard, allongé dans son lit médicalisé. Suite un gravissime problème de vertèbres et le voilà tétraplégique, mais quel regard futé et gentil chez ce monsieur ! Et ses petits yeux mouillés en nous voyant arriver en musique dans sa chambrette et comme il serrera fort la main de Céline ! Céline en aura aussi les larmes aux yeux. Faut dire qu’entre eux deux, c’est de l’amitié, de la complicité. Ça ne s’explique pas, c’est comme ça, c’est fort et ça durera. 
+Elle l’appelle « le beau gosse », elle le lave, elle le voit nu, elle le peigne. Nous sommes vraiment ici au coeur du métier d’infirmière de village. 
+Accompagnante jusqu’au bout du bout, loyale jusqu’au dernier jour. Coeur ouvert et coeur sur la main et baume au coeur.</p>
+<p class="quote">Le monsieur, de son lit passe sur son fauteuil électrique par la magie et les gestes de l’infirmière et ceux de l’élévateur, et tout ça en musique ! Ça fait un vrai ballet !</p>
+<p class="quote">On boit le café, rituel du matin après la toilette, on parle du potager, du temps qu’il fait, et de comment mari et femme  se sont rencontrés, au bal à Saint Bonnet, comme il se doit. On parle donc de la vie et du temps qui file entre les doigts.</p>
+<p class="quote">Hop, retour dans la voiture après cette visite pleines d’émotions pour tout le monde et ce n’est pas terminé.</p>
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721489168/photo_celles_qui_veillent_2_tz6rlk.jpg">
+</div>
+<p class="quote">Nous voici chez une dame que nous connaissons pour être déjà allées chez elle. Elle nous reconnait, et ferme le journal de Saône et Loire qu’elle était en train d’éplucher. 
+C’est l’heure de la douche, la pile de linge propre est déjà préparé. Et de nouveau elle se met à chanter sous la douche et en revient, toute fraiche. « Etoile des neiges » est sa chanson préférée. 
+La phrase qu’elle prononce après chaque chanson, et avant notre départ est : « c’est très bien ». 
+Nous reprenons la route avec cette petite phrase en tête et nous reviendrons, c’est certain.</p> 
+<p class="quote">Dernière visite du matin, nous voici devant une maison des années 70 en bord de route. La dame rentre de courses, et nous accueille, ainsi que son chat, tout content d’avoir des visiteuses dans sa cuisine. La dame est vaillante, autonome, dynamique. 
+Et c’est parti pour « emmenez-moi au bout de la terre ». Nous y allons, tout en restant ici. 
+La dame danse une valse avec l’infirmière. Le chat roule sur le sol et se frotte à nos jambes. Puis nous avons une grande conversation sur l’amour, le couple, la fidélité. 
+Avant de nous quitter, cette dame  nous dit qu’elle mourra chez elle, d’une manière ou d’une autre. Voilà un message qui est dit, qui est entendu. Elle n’en dira pas plus, et nous non plus."</p>
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721488920/photo_celles_qui_veillent_1_c1cuuq.jpg">
+</div>
 <h2>juin 2024</h2>
-
+<p class="intro-text">On remercie Clara Desmottes pour son article du 14 juin dans L'Exploitant Agricole de Saône-et-Loire. <a href="EXPAG_P32_S24.pdf" target="_blank"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718648017/article-clara-desmottes_tcwssa.png">cliquer ici pour lire l'article</a></p>
 <p class="intro-text">Voilà le mois de juin déjà entamé, et il nous faut vite faire un petit résumé des semaines passées.
 Alors, par quoi commencer ?</p>
 
