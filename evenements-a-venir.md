@@ -74,13 +74,16 @@ summary:
     </div> 
     </li>
 <hr>
-     <li>- Tout 2024: Recueil de témoignages pour la réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a>, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire. Si vous souhaitez témoigner, vous pouvez nous contacter: coordination.revertouthaut@gmail.com / 07 82 16 11 16
+     <li>- Tout 2024: Recueil de témoignages pour la réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a>, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire. Si vous souhaitez témoigner, vous pouvez nous contacter: revertouthaut@gmail.com / 07 69 29 53 27
     </li>
 <hr>
     <li>
-        2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
+        2024/2026 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale. Avec le soutien du Fonds Social Européen. 
+            <div class="center-block">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+            </div>
             <div class="center-max600-block">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
             </div>
     </li>
 </ul>

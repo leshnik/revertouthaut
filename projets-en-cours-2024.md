@@ -41,4 +41,7 @@ Avec le soutien du Conseil Départemental 71. <a href="chansons-a-garder-dans-sa
 Avec le soutien de la MSA 71 et en partenariat avec le cabinet infirmier de Beaubery.<a href="celles-qui-veillent">celles qui veillent</a></p>
 
 <h3>les êtres humaines </h3>
-<p class="intro-text">Cycles d’ateliers créatifs et de collecte de témoignages de femmes victimes de violences conjugales et création d’un spectacle avec certaines d’entre elles. En partenariat avec Ils Scenent et les PEP 71/ Ecluse. <a href="les-etres-humaines">les êtres humaines</a></p>
+<p class="intro-text">Cycles d’ateliers créatifs et de collecte de témoignages de femmes victimes de violences conjugales et création d’un spectacle avec certaines d’entre elles. En partenariat avec Ils Scenent et les PEP 71/ Ecluse. avec le soutien du Fonds Social Européen.<a href="les-etres-humaines">les êtres humaines</a></p>
+<div class="center-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+</div>

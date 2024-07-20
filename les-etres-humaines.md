@@ -8,7 +8,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <h2>spectacle autour des violences conjugales</h2>
 <h1 style="color: #7c0a25;">nouvelle création en 2025</h1>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705080673/leh-dossier2025p1_ekwx3k.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479944/ScreenFloat/Screenshot_of_Iridium_at_20_Jul_2024_at_14_51_58_s3p6ea.jpg">
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
     <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="Dossier de présentation Basse def - Les Etres humaines.pdf" download="Les êtres humaines 2025">●&nbsp;cliquer pour télécharger le dossier</a></li>    
 </ul>
@@ -44,7 +44,12 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
 
 <p class="intro-text">Les spectatrices et spectateurs sont invité.es à la suite de représentations à un long temps d’échanges, d’écoutes et de conseils.</p>
 
-<p class="intro-text">C’est un spectacle qui a déjà une histoire et qui, chargé de celle-ci, se remet en mouvement et en création en 2025. </p>
+<div class="center-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+</div>
+
+<p class="intro-text">C’est un spectacle qui a déjà une histoire et qui, chargé de celle-ci, se remet en mouvement et en création en 2025, avec le soutien du Fonds Social Européen. </p>
+
 
 <div class="center-max600-block">
     <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
