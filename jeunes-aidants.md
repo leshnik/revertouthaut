@@ -7,10 +7,15 @@ summary:
 
  
 <h2>Atelier créatif pour jeunes aidants
-du Charolais-Brionnais 2024</h2>
+du Charolais-Brionnais 2024-2025</h2>
 
-<div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
+<div class="flex-container">
+        <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
+        </div> 
+        <div class="column"> 
+                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">Clicquer pour télécharger le flyer</a>
+        </div>
 </div>
  
 <p class="intro-text">Les emmêlé.es est un projet social et artistique destiné à des jeunes aidants, de 10 à 25 ans, vivant sur le territoire rural du Charolais-Brionnais en Saône et Loire, qui prennent en charge, se sentent responsable, prennent soin, sont en souci d’un de leurs proches, un parent, un frère, une sœur, porteur.se de handicap ou de maladies, parfois même sans en prendre conscience, tant les liens familiaux se sont instaurés de manière naturelle, parfois depuis la naissance, ou se sont transformés progressivement avec le temps.</p>
@@ -31,7 +36,7 @@ Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprime
  
 <p class="intro-text">Ce projet collectif permettra aussi aux enfants de partager leur expérience personnelle avec des pairs, leur permettra de se sentir moins esseulés, et de se sentir reliés à d’autres enfants vivant une expérience similaire à la leur.</p>
  
-<p class="intro-text">«Les emmêlé.es» est porté par l’Association Rêver Tout Haut qui œuvre dans le domaine de la médiation artistique adaptée à différents publics, et le Réseau des Aidants 71 qui accompagne en proximité et sur le terrain les aidants dans leurs difficultés et leurs démarches.</p>
+<p class="intro-text">«Les emmêlé.es» est porté par l’Association Rêver Tout Haut qui œuvre dans le domaine de la médiation artistique adaptée à différents publics, et le Réseau des Aidants 71 qui accompagne en proximité et sur le terrain les aidants dans leurs difficultés et leurs démarches. Le projet a reçu le soutien de l’AG2R, du Conseil Régional de Bourgogne Franche-Comté, du Conseil Départemental de Saône et Loire, de la MSA, du FDVA.</p>
  
 <p class="intro-text">Ce projet se veut une expérience nouvelle et novatrice dans notre département. Les ateliers auront lieu pendant les vacances scolaires 2024, et aboutiront à une ou deux représentations publiques qui permettront de faire connaître et reconnaître par leur entourage plus ou moins proche le vécu singulier de ces jeunes aidants.</p>
 
@@ -48,6 +53,9 @@ Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprime
  
 <p class="intro-text">Des multiples structures du territoire qui œuvrent dans l'accompagnement des jeunes au niveau social, éducatif, familial: Lycées, Maison Familiale Rurale, Mission Locale, CMP, Papillons Blancs,etc...,  seront sollicités pour diffuser l’information autour du projet et pour repérer certaines situations de jeune aidance.</p>
 
+<div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
+</div>
 
  
  
