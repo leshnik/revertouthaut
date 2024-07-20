@@ -24,7 +24,7 @@ Avec le soutien de Kalivi et Malakoff Humanis et en partenariat avec la Pimenter
 
 <h3>les emmêlés/ A la rencontre des jeunes aidants</h3>
 <p class="intro-text">Cycles d’ateliers artistiques et création d’un spectacle, avec des jeunes aidants du Charolais Brionnais
-Avec le soutien de l’AG2R, le FDVA 71, le Conseil Régional BFC et en partenariat avec le Lycée Agricole de Charolles, le Lycée du Sacré Coeur de Paray le Monial.<a href="jeunes-aidants">les emmêlés / à la rencontre des jeunes aidants</a></p>
+Avec le soutien de l’AG2R, le FDVA 71, le Conseil Régional BFC, le Conseil Départemental de Saône-et-Loire, de la MSA, et en partenariat avec le Lycée Agricole de Charolles, le Lycée du Sacré Coeur de Paray le Monial.<a href="jeunes-aidants">les emmêlés / à la rencontre des jeunes aidants</a></p>
 
 <h3>maintenant il y a</h3>
 <p class="intro-text">Spectacle musical et créations de chansons originales avec une troupe de personnes porteuses d’une cérébro-lésion. 
