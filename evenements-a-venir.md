@@ -35,11 +35,6 @@ summary:
     </li>
     <hr>
     <li>
-        Mardi 9 juillet, intervention de Valérie Gaudissart, en tant que conceptrice d’ateliers à médiations artistiques pour la journée de formation organisée par <a href="http://www.itinerairessinguliers.com/#">Itineraires Singuliers</a>.<br>
-        Lien pour s'inscrire à la <a href="https://docs.google.com/forms/d/e/1FAIpQLSeG9ARWbzVRmZemwStgQMftb4FMYtk7ce1Hkad4ve007-MdbA/viewform?pli=1">Journée de Formation et d'Information sur le dispositif "Culture-Santé" financé par la DRAC et l'ARS à Mâcon (71)</a>
-    </li>
-    <hr>
-    <li>
         Mercredi 25 septembre, démarrage de notre cycle d’ateliers <a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a>, info sur le flyer.
         <div class="flex-container">
             <div class="column">
@@ -66,9 +61,16 @@ summary:
     <hr>
     <li>
        Automne 24:démarrage des ateliers pour jeunes aidants <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
-       <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704026219/jeunes-aidants-2_oabk5m.png">
-       </div>
+       <div class="flex-container">
+        <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
+        </div> 
+        <div class="column"> 
+                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">Clicquer pour télécharger le flyer</a>
+        </div>
+        </div>
+        Représentations les 11 et 13 mars 2025 (horaires et lieux à venir)
+    <hr>
        <div class="center-block">
         <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
     </div> 
