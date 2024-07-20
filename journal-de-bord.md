@@ -14,7 +14,7 @@ Avalanche de bonnes nouvelles et de soutiens pour nos projets. L’été sera do
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
 </div>
 
-<p class="intro-text">Ce qui va nous permette de réaliser un projet d’envergure, sur tout le département de Saône et Loire, et sur les départements voisins, Côte d’Or et Doubs, avec de multiples partenariats. Projet étendu sur le territoire et aussi dans le temps, car nous voilà parties jusqu’en 2026, avec ce projet consacré à la violence conjugale et intra-familiale.</p>
+<p class="intro-text">Ce qui va nous permettre de réaliser un projet d’envergure, sur tout le département de Saône et Loire, et sur les départements voisins, Côte d’Or et Doubs, avec de multiples partenariats. Projet étendu sur le territoire et aussi dans le temps, car nous voilà parties jusqu’en 2026, avec ce projet consacré à la violence conjugale et intra-familiale.</p>
 
 
 <div class="center-max600-block">
@@ -22,7 +22,7 @@ Avalanche de bonnes nouvelles et de soutiens pour nos projets. L’été sera do
 </div>
 <hr>
 
-<p class="intro-text">Puis notre projet jeunes <a href="jeunes-aidants">aidant.es / les emmêlé.es</a>, qui dépote ! Grâce au partenariat développé par Marina, et à deux nouveaux soutiens financiers du Conseil Départemental de Saône et Loire et à la MSA. Merci à eux !</p>
+<p class="intro-text">Puis notre projet <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>, qui dépote ! Grâce au partenariat développé par Marina, et à deux nouveaux soutiens financiers du Conseil Départemental de Saône et Loire et à la MSA. Merci à eux !</p>
 <p class="intro-text">Nous démarrons nos ateliers en septembre, avec six artistes intervenants (comédiennes, musicienne, danseuse, compositeur, écrivaine) sur deux établissements du Charolais. 
 N’hésitez pas à nous contacter si vous êtes jeune aidant et que vous désirez vous joindre à nous pour cette action créative, complètement nouvelle sur le territoire. </p>
 
@@ -37,7 +37,7 @@ N’hésitez pas à nous contacter si vous êtes jeune aidant et que vous désir
 
 <hr>
 
-<p class="intro-text">Partons maintenant direction Paray le Monial, aux Papillons Blancs où nous avons démarré brins d’histoires, avec les artistes vanniers Erik Barray et Richard Le Guennezec et les résidents. 
+<p class="intro-text">Partons maintenant direction Paray le Monial, aux Papillons Blancs où nous avons démarré <a href="brins-d-histoires">brins d’histoires</a>, avec les artistes vanniers Erik Barray et Richard Le Guennezec et les résidents. 
 Ateliers de tressages, et de fabrications d’objets colorés, qui prendront forme et vie dans le jardin.</p>
 
 
