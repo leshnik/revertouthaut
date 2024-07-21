@@ -25,6 +25,23 @@
   img {
     width: 100%;
   }
+
+  .logo {
+    font-family: "Open Sans Condensed", sans;
+    font-size: 1.3rem;
+  letter-spacing: 0.15rem;
+  margin-left: 30px;
+  }
+
+  .logo img {    
+      width:150px;
+      height:auto;
+      float: right;
+      // margin-top: 5px;
+      margin-right: 5px;
+      
+  }
+
   .left-side-block {
     margin-left: 0px;
     width: 33%;
