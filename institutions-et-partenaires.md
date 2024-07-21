@@ -1,117 +1,207 @@
 ---
 layout: logoTop
 title: institutions et partenaires
-summary: Sous forme de protocole et en complément du suivi médical et social des personnes, nos ateliers peuvent s’adapter à toutes sortes d’institutions, d’associations et de structures de soin, du monde éducatif, judiciaire, de la précarité sociale, de la Protection de l’Enfance, et tous les services d’aides et d’accompagnement des personnes en difficulté.
+summary:
 ---
+<h1>les projets de rêver tout haut<br> sont soutenus par&nbsp;:</h1>
+<div class="logo">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721553691/_logo_conseil_de%CC%81partemental_officiel_fnr1lj.png">Le Conseil Départemental de Saône et Loire
+</div>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721557014/logo_conference_des_financeurs_f0mqqs.png">La Conférence des Financeurs
+</div>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721557226/logo-FDVA-1_oprt6u.jpg" style="width:400px;height:auto">Le Fonds Départemental de la Vie Associative
+</div>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png">La Direction Départementale de l’Emploi, du Travail et des Solidarités (DDETS)
+</div>
+<br>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560985/ScreenFloat/Screenshot_of_Affinity_Publisher_2_at_21_Jul_2024_at_13_22_55_lzcys8.png">Le Conseil Régional de Bourgogne Franche Comté
+</div>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png" style="width:300px; height:auto;">La Direction Régionale des Affaires Culturelles de Bourgogne-Franche-Comté (DRAC BFC)
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561689/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_34_33_mwse2r.png" style="width:300px;">L'Agence Régionale de Santé de Bourgogne-Franche-Comté (ARS BFC)
+</div>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png" style="width:400px;">Le Fonds Social Européen
+</div>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562087/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_41_18_udcmor.png">La Mutuelle Sociale Agricole (MSA)
+</div>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562321/ScreenFloat/Screenshot_of_Finder_at_21_Jul_2024_at_13_45_12_m5ubpi.png">La CAF 71
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562488/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_48_00_vuik3s.png">Parents 71
+</div>
+<br>
+<br>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576058/kalivi___logo_couleur_qt4jzx.png">Kalivi (Ex GIE-IMPA)
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png">La Fondation de France
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576668/logo_MH_Agirc-arrco_logo_horizontal_1_-2_grfa4q.jpg" style="width:400px;">Malakoff Humanis
+</div>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576911/ALM_1_RGB2400_2C_Format_Office_365_gbzddx.jpg" style="width:400px;">AG2R La Mondiale
+</div>
+<br>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577269/SACEM_SIGNATURE_FR_2L_4C_2020_ht6lku.jpg">La Sacem
+</div>
+<br>
+<h1>nos partenaires</h1>
+<h2>Soutien aux Aidants :</h2>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577828/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_18_03_39_svkbbo.png">Association Nationale France Répit
+</div>
+<br>
+<br>
+ <div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577416/Re%CC%81seau_des_Aidants_Sud_71_uk9pa6.jpg">Réseau des Aidants 71
+ </div>
+ <br>
+<div class="logo">
+    <img src="">Plateforme de Répit 71
+</div>
+<div class="logo">
+    <img src="">La Métropole Aidante, Grand Lyon
+</div>
+<div class="logo">
+    <img src="">Mutualité Française
+</div>
+
+ <h2>Structures Socio-Culturelles :</h2>
+ <div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721578793/Pimenterie_Logo_rougevif-RVB-HD_q49d1k.jpg">La Pimenterie (Saint Point)
+</div>
+<br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721580078/logo_ils_scenent_wjbd7o.png">Ils Scènent, Mâcon
+</div>
+<br>
+<div class="logo">Atelier Pluriel (Chissey-les-Mâcon)</div>
+<div class="logo">Le Centre d'Animation, Bourbon-Lancy</div>
+<div class="logo">Centre Social l’Orange Bleue, Saint Marcel</div>
+<div class="logo">Centre Social, Mairie de Sanvignes les Mines</div>
+<div class="logo">Centre Social Abise, Semur en Brionnais</div>
+<div class="logo">Espace Culturel, Paray-le-Monial</div>
+<div class="logo">Association Vivre au Féminin, Tournus</div>
+<div class="logo">Le Réservoir, Saint Marcel, salle de spectacle</div>
+<div class="logo">La Roue Voilée</div>
+<div class="logo">D'Jazz Nevers</div>
+<div class="logo">L’Ecla, Saint Vallier, salle de spectacle</div>
+<div class="logo">MJC l’Héritan, Mâcon</div>
+<div class="logo">Ciné-Ressources 71</div>
+<div class="logo">Théâtre les Arts de Cluny</div>
+<div class="logo">Salle Jean Genet, Couches</div>
+<div class="logo">Printemps des Poètes</div>
+<div class="logo">Les Chevaux Célestes</div>
+<div class="logo">La Cave à Musique, Mâcon</div>
+<div class="logo">Les Ateliers du Jour, Montceau-les-Mines</div>
+<h2>Structures Educatives&nbsp;:</h2>
+<div class="logo">
+    Lycée Agricole LPA de Charolles
+</div>
+<div class="logo">Lycée Agricole de Davayé</div>
+<div class="logo">Lycée Général Wittmer de Charolles
+</div>
+<div class="logo">Lycée Général du Sacré Coeur de Paray-le-Monial
+</div>
+
+<h2>Organismes Sociaux :</h2>
+<div class="logo">Chambre d’Agriculture, Mâcon</div>
+<div class="logo">Association le Pont, Mâcon, Chalon-sur-Saône, Paray-le-Monial</div>
+<div class="logo">CCAS Mâcon</div>
+<div class="logo">Adoma (Cada Mâcon Nord)</div>
+<div class="logo">La Fédération des Acteurs de la Solidarité (FAS)</div>
+
+<h2>Aide à la Parentalité:</h2>
+
+<div class="logo">CAF 71</div>
+<div class="logo">REAAP 71 et Parents 71</div>
+<div class="logo">La Cause des Parents, Lyon</div>
+<div class="logo">Maman Blues 69</div>
+<div class="logo">Maison de la Parentalité, Auxerre</div>
+<div class="logo">Lieu d’Accueil Parent Enfant Patapon, Mâcon</div>
+<div class="logo">Lieu d’Accueil Parent Enfant La Pomme Verte, Chalon</div>
+<div class="logo">Maison de la Parentalité, Montceau les Mines</div>
+<div class="logo">Espace 1001 Familles, Cluny</div>
+<div class="logo">Udaf 71 (Antenne de Charolles)</div>
+<div class="logo">Maison des Familles, Prevessin</div>
+<div class="logo">Lieu d’Accueil Parents/Enfants 1,2,3 Soleil, Autun</div>
+<div class="logo">Maison des Parents, Dugny (93)</div>
+<div class="logo">Association pour l’Accompagnement de l’Enfance et de la Parentalité, Jeunes Pousses, Bourg en Bresse</div>
+<div class="logo">Maternité, Hôpital de Mâcon</div>
+<div class="logo">CIAS Grand Autunois-Morvan</div>
+<div class="logo">Maison des Parents, le Creusot</div>
+<div class="logo">Maison de la Famille, Chalon-sur-Saône</div>
 
 <h2>Institutions Médico-Sociales :</h2>
- <ul class="institutions">
-<li>Centre Hospitalier Spécialisé, Sevrey</li>
-<li>Foyer de Vie et Foyer d’Accueil Médicalisé les Villandières/Ugecam, Charnay les Mâcon</li>
-<li>Foyer de Vie et Foyer d’Accueil Médicalisé, les Avouards, Bonnay</li>
-<li>Resada, Réseau des Maladies Neuro-évolutives, Bourgogne Franche-Comté</li>
-<li>IREPS Bourgogne Saône et Loire</li>
-<li>France Parkinson 71 et France Parkinson National</li>
-<li>EHPAD Marion de Givry (Nevers)</li>
-<li>EHPAD, Hôpital Local de Cluny</li>
-<li>Résidence Seniors du Val de Joux, Saint Bonnet de Joux</li>
-<li>Association la Novelline, Habitat Inclusif Partagé, Cluny</li>
-<li>Groupe d'Entraide Mutuelle (GEM) de Mâcon</li>
-<li>Pôle Association des Paralysés de France, France Handicap, Saint Rémy</li>
-<li>Service Santé et Handicap, Grand Chalon</li>
-<li>Résidence Séniors le Clos Lamartine, Cluny</li>
-<li>Foyer d’Accueil Médicalisé, Sennecey le Grand</li>
-<li>Service Addictologie la Fabrique, Hôpital de Montceau les Mines</li>
-<li>Association des Familles de Traumatisés crâniens, AFTC</li>
-<li>Papillons Blancs d’Entre Saône et Loire</li>
-<li>PEP 71 et l’Ecluse</li>
-</ul>
  
-<h2>Soutien aux Aidants :</h2>
- <ul class="institutions">
-<li>Association Nationale France Répit</li>
-<li>Réseau des Aidants 71</li>
-<li>Plateforme de Répit 71</li>
-<li>La Métropole Aidante, Grand Lyon</li>
-<li>Mutualité Française</li>
-</ul> 
- 
-<h2>Aide à la Parentalité:</h2>
- <ul class="institutions">
-<li>CAF 71</li>
-<li>REAAP 71 et Parents 71</li>
-<li>La Cause des Parents, Lyon</li>
-<li>Maman Blues 69</li>
-<li>Maison de la Parentalité, Auxerre</li>
-<li>Lieu d’Accueil Parent Enfant Patapon, Mâcon</li>
-<li>Lieu d’Accueil Parent Enfant La Pomme Verte, Chalon</li>
-<li>Maison de la Parentalité, Montceau les Mines</li>
-<li>Espace 1001 Familles, Cluny</li>
-<li>Udaf 71 (Antenne de Charolles)</li>
-<li>Maison des Familles, Prevessin</li>
-<li>Lieu d’Accueil Parents/Enfants 1,2,3 Soleil, Autun</li>
-<li>Maison des Parents, Dugny (93)</li>
-<li>Association pour l’Accompagnement de l’Enfance et de la Parentalité, /Jeunes Pousses, Bourg en Bresse</li>
-<li>Maternité, Hôpital de Mâcon</li>
-<li>CIAS Grand Autunois-Morvan</li>
-<li>Maison des Parents, le Creusot</li>
-<li>Maison de la Famille, Chalon-sur-Saône</li>
-</ul> 
- 
-<h2>Organismes Sociaux :</h2>
- <ul class="institutions">
-<li>Mutuelle Sociale Agricole 71</li>
-<li>Chambre d’Agriculture, Mâcon</li>
-<li>Association le Pont, Mâcon, Chalon-sur-Saône, Paray-le-Monial</li>
-<li>CCAS Mâcon</li>
-<li>Adoma (Cada Mâcon Nord)</li>
-<li>La Fédération des Acteurs de la Solidarité (FAS)</li>
-<li>Kalivi</li>
-</ul> 
- 
- 
-<h2>Structures Socio-Culturelles :</h2>
- <ul class="institutions">
-<li>Atelier Pluriel (Chissey-les-Mâcon)</li>
-<li>Ils Scènent, Mâcon</li>
-<li>Le Centre d'Animation, Bourbon-Lancy</li>
-<li>Centre Social l’Orange Bleue, Saint Marcel</li>
-<li>Centre Social, Mairie de Sanvignes les Mines</li>
-<li>Centre Social Abise, Semur en Brionnais</li>
-<li>Espace Culturel, Paray-le-Monial</li>
-<li>Association Vivre au Féminin, Tournus</li>
-<li>Le Réservoir, Saint Marcel, salle de spectacle</li>
-<li>La Roue Voilée</li>
-<li>D'Jazz Nevers</li>
-<li>L’Ecla, Saint Vallier, salle de spectacle</li>
-<li>MJC l’Héritan, Mâcon</li>
-<li>Ciné-Ressources 71</li>
-<li>Théâtre les Arts de Cluny</li>
-<li>Salle Jean Genet, Couches</li>
-<li>Printemps des Poètes</li>
-<li>Les Chevaux Célestes</li>
-<li>La Cave à Musique, Mâcon</li>
-<li>Les Ateliers du Jour, Montceau-les-Mines</li>
-<li>La Pimenterie (Saint Point)</li>
-</ul> 
-<h2>Structures Educatives&nbsp;:</h2>
-<ul class="institutions">
-    <li>Lycée Agricole LPA de Charolles</li>
-</ul>
- 
- <h3>rêver tout haut est soutenu dans ses projets par&nbsp;:</h3>
-
-<ul class="institutions">
-<li>la Conférence des Financeurs</li>
-<li>le Conseil Départemental de Saône et Loire</li>
-<li>la DRAC Bourgogne-Franche-Comté</li> 
-<li>l’ARS Bourgogne Franche-Comté</li>
-<li>le Fonds Départemental de la Vie Associative</li>
-<li>la Mutuelle Sociale Agricole</li>
-<li>La Fondation de France</li>
-<li>Malakoff Humanis</li>
-<li>AG2R La Mondiale</li>
-<li>La Sacem</li>
-<li>Conseil Régional de Bourgogne Franche Comté</li>
-<li>Direction Départementale de l’Emploi, du Travail et des Solidarités (DDETS)</li>
-</ul>
+<div class="logo">Centre Hospitalier Spécialisé, Sevrey</div>
+<div class="logo">Foyer de Vie et Foyer d’Accueil Médicalisé les Villandières/Ugecam, Charnay les Mâcon</div>
+<div class="logo">Foyer de Vie et Foyer d’Accueil Médicalisé, les Avouards, Bonnay</div>
+<div class="logo">Resada, Réseau des Maladies Neuro-évolutives, Bourgogne Franche-Comté</div>
+<div class="logo">IREPS Bourgogne Saône et Loire</div>
+<div class="logo">France Parkinson 71 et France Parkinson National</div>
+<div class="logo">EHPAD Marion de Givry (Nevers)</div>
+<div class="logo">EHPAD, Hôpital Local de Cluny</div>
+<div class="logo">Résidence Seniors du Val de Joux, Saint Bonnet de Joux</div>
+<div class="logo">Association la Novelline, Habitat Inclusif Partagé, Cluny</div>
+<div class="logo">Groupe d'Entraide Mutuelle (GEM) de Mâcon</div>
+<div class="logo">Pôle Association des Paralysés de France, France Handicap, Saint Rémy</div>
+<div class="logo">Service Santé et Handicap, Grand Chalon</div>
+<div class="logo">Résidence Séniors le Clos Lamartine, Cluny</div>
+<div class="logo">Foyer d’Accueil Médicalisé, Sennecey le Grand</div>
+<div class="logo">Service Addictologie la Fabrique, Hôpital de Montceau les Mines</div>
+<div class="logo">Association des Familles de Traumatisés crâniens, AFTC</div>
+<div class="logo">Papillons Blancs d’Entre Saône et Loire</div>
+<div class="logo">PEP 71 et l’Ecluse</div>
