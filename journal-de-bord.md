@@ -9,7 +9,7 @@ summary:
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724318891/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_11_27_45_pxtdwo.png">
 </div>
 <p class="intro-text">
-Août a été un mois de création pour Rêver Tout Haut avec notre participation au spectacle « Ados et Chevaux en Chemin » à la mise en scène, à l’écriture et à la composition.<br>
+Août a été un mois de création pour Rêver Tout Haut avec notre participation au spectacle <a href="ados-en-chemin">Ados et Chevaux en Chemin</a> à la mise en scène, à l’écriture et à la composition.<br>
 
 Spectacle crée pour et avec la Compagnie Les Chevaux Céleste, Céleste Solsona et ses équipières, à la suite d’une longue randonnée de trois semaines en montagne avec deux chevaux et une mule. Cette rando, qui a vu 3 adolescentes, enfants placés en foyers ou familles d’accueil, et 4 femmes adultes parcourir un long chemin de crête intérieur et montagneux.<br>
 
