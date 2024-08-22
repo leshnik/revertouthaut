@@ -18,7 +18,7 @@ Le spectacle retrace ce parcours, transmet les liens d’attachement créés dur
 
 Mise en scène et écriture par Valérie Gaudissart. Composition par Sidonie Dubosc.
 </p>
-
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724334966/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_15_55_54_tx40mm.png">
 <h3 style="font-size:32px; color:#7551e1; text-align:left;">
         lire le texte entendu au début de la pièce&nbsp;:
       </h3>
