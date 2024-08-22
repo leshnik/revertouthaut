@@ -4,6 +4,20 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>Août 2024</h2>
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724318891/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_11_27_45_pxtdwo.png">
+</div>
+<p class="intro-text">
+Août a été un mois de création pour Rêver Tout Haut avec notre participation au spectacle « Ados et Chevaux en Chemin » à la mise en scène, à l’écriture et à la composition.<br>
+
+Spectacle crée pour et avec la Compagnie Les Chevaux Céleste, Céleste Solsona et ses équipières, à la suite d’une longue randonnée de trois semaines en montagne avec deux chevaux et une mule. Cette rando, qui a vu 3 adolescentes, enfants placés en foyers ou familles d’accueil, et 4 femmes adultes parcourir un long chemin de crête intérieur et montagneux.<br>
+
+Le spectacle retrace ce parcours, transmet les liens d’attachement créés durant ce séjour, les blessures de l’enfance, les déchirures du placement.<br>
+
+
+Mise en scène et écriture par Valérie Gaudissart. Composition par Sidonie Dubosc.
+</p>
 <h2>Juillet 2024</h2>
 <p class="intro-text">
 Avalanche de bonnes nouvelles et de soutiens pour nos projets. L’été sera donc très rempli et l’année qui vient aussi. Tant mieux, il y a tant de fragilités à prendre en charge et de rencontres à faire.</p>
