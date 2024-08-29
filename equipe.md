@@ -32,7 +32,8 @@ redirect_from:
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
-<li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li>
+<li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
+<!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
 <!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
 <div id="valerie"></div>
@@ -154,8 +155,16 @@ Animée du désir de transmettre et de vivre davantage la musique en partage, Ma
 
 L’animation d’ateliers auprès de personnes en situation de handicap en 2014 et 2015 la conforte dans son désir d’explorer la dimension plus thérapeutique de la musique, la musique qui relie à soi et autres. C’est ensuite naturellement vers la musicothérapie, véritable pratique de soin des troubles de troubles de la communication relationnelle et affective, que Magali se tourne. Elle est actuellement en cours de formation à l’Atelier de Musicothérapie de Bourgogne (un des 3 centres reconnus par la Fédération Française des Musicothérapeutes). 
 
+<div id="tahia"></div>
+<h2 class="art-color">Tahía Strika: céramiste</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724924386/ScreenFloat/Screenshot_of_Iridium_at_29_Aug_2024_at_11_39_34_ipttfj.png"></div>
+Tahia Strika née au Chili en 1988, elle a entamé ses études supérieures à l'Université de Concepcion, au elle a fait une licence en Pédagogie en Art. Puis elle arrive en France en 2013 pour poursuivre un Diplôme de Métiers d’art Céramique à Antibes. 
 
-<div id="anastasia"></div>
+Installée avec un collectif de céramistes (La Fourmilière) dans la campagne bourguignonne depuis 2016, sa voie artistique se construit autour de ses lubies enfantines : biologie, taxidermie, entomologie. 
+
+Elle développe ainsi autour de son œuvre des concepts liés aux sciences naturelles : les écosystèmes, la collection scientifique, l’anatomie, la relation entre l'être humain et la nature, le tout chargé d’influences des cultures précolombiennes et natives d’Amérique Latine, là où elle a grandi. 
+
+<!-- <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
 
@@ -164,7 +173,7 @@ Initiée à la danse moderne jazz ainsi qu'au théâtre depuis son plus jeune â
 Après un premier diplôme dans les métiers du livre (DUT) en 2019, la voilà depuis 2022 diplômée d’un master en Management de la Culture, Musiques actuelles et Réalisation documentaire, obtenu à Lille. Pendant ses études, elle a réalisé des stages au sein de plusieurs compagnies et lieux culturels, (Compagnie Caktus, MJC de Sedan, L’Auditorium de Seynod/ scène régionale d’Auvergne Rhônes-Alpes) durant lesquels elle a pris plaisir à être immergée dans le monde du spectacle vivant.
 
 Elle est chargée de diffusion, au sein de Rêver Tout Haut, du spectacle Les Etres Humaines.
-
+ -->
 <!-- <div id="isis"></div>
 ## Isis Philippe-Janon : sophrologue et comédienne
 {:.sophro-color}
