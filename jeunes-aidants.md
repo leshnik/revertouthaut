@@ -14,7 +14,7 @@ du Charolais-Brionnais 2024-2025</h2>
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
-                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">Cliquer pour télécharger le flyer</a>
+                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
         </div>
 </div>
  
