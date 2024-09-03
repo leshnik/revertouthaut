@@ -6,7 +6,7 @@ summary:
 <h1>journal de bord</h1>
 <h2>Août 2024</h2>
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724318891/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_11_27_45_pxtdwo.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1725359223/ados-et-chevaux-affiche_iqzbor.png">
 </div>
 <p class="intro-text">
 Août a été un mois de création pour Rêver Tout Haut avec notre participation au spectacle <a href="ados-en-chemin">Ados et Chevaux en Chemin</a> à la mise en scène, à l’écriture et à la composition.<br>
@@ -59,7 +59,7 @@ N’hésitez pas à nous contacter si vous êtes jeune aidant et que vous désir
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
-                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">Cliquer pour télécharger le flyer</a>
+                <a href="Flyer quiz Les jeunes aidants ados.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
         </div>
 </div>
 
