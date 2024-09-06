@@ -33,6 +33,7 @@ redirect_from:
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
+<li><a href="#elsa" style="color:#7551e1">Elsa Trouche: comédienne</a></li>
 <!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
 <!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
@@ -163,6 +164,19 @@ Tahia Strika née au Chili en 1988, elle a entamé ses études supérieures à l
 Installée avec un collectif de céramistes (La Fourmilière) dans la campagne bourguignonne depuis 2016, sa voie artistique se construit autour de ses lubies enfantines : biologie, taxidermie, entomologie. 
 
 Elle développe ainsi autour de son œuvre des concepts liés aux sciences naturelles : les écosystèmes, la collection scientifique, l’anatomie, la relation entre l'être humain et la nature, le tout chargé d’influences des cultures précolombiennes et natives d’Amérique Latine, là où elle a grandi. 
+
+<div id="elsa"></div>
+<h2 style="color: #7551e1">Elsa Trouche</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1725628059/ElsaTrouche_Portrait_y0rabc.jpg"></div>
+Après plusieurs années à naviguer dans les eaux tumultueuses de la psychiatrie en tant qu'infirmière, Elsa quitte le navire. Changement de cap ! 
+
+
+Son périple la verra se former en clown en milieu de soin par Clown Z'hôpitaux à Roman-sur-Isère pour enfin dévier gentiment mais sûrement vers le théâtre qu'elle pratique en tant qu'amatrice.
+Diverses expériences de stages et de formations l’amèneront à hisser la voile et en faire son métier.
+
+
+Elle est co-fondatrice de la Chahutte, association clunisoise d'éducation populaire, où elle y pratique le théâtre-forum et le playback théâtre.
+Elle s'est également formée en Relation d'Aide par le Toucher, pratique thérapeutique et corporelle qui lui a ouvert les yeux sur le rapport au corps et son influence sur nos relations interpersonnelles, et inversement. Parallèle qu'elle aime faire avec sa pratique théâtrale où le corps et les émotions sont pour elle avant tout au service d'un texte, d'une histoire...et où la relation à l'autre soi ne cesse de se tisser et de s'étoffer.
 
 <!-- <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
