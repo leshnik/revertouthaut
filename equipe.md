@@ -34,6 +34,7 @@ redirect_from:
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
 <li><a href="#elsa" style="color:#7551e1">Elsa Trouche: comédienne</a></li>
+<li><a href="#marie" style="color:#644f2a">Marie Bonnot: slammeuse</a></li>
 <!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
 <!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
@@ -177,6 +178,15 @@ Diverses expériences de stages et de formations l’amèneront à hisser la voi
 
 Elle est co-fondatrice de la Chahutte, association clunisoise d'éducation populaire, où elle y pratique le théâtre-forum et le playback théâtre.
 Elle s'est également formée en Relation d'Aide par le Toucher, pratique thérapeutique et corporelle qui lui a ouvert les yeux sur le rapport au corps et son influence sur nos relations interpersonnelles, et inversement. Parallèle qu'elle aime faire avec sa pratique théâtrale où le corps et les émotions sont pour elle avant tout au service d'un texte, d'une histoire...et où la relation à l'autre soi ne cesse de se tisser et de s'étoffer.
+
+<div id="marie"></div>
+<h2 style="color: #644f2a">Marie Bonnot</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1726136464/marie-bonnot-au-micro_x4tr3e.png"></div>
+Après une formation littéraire sur Lyon au cours de laquelle elle découvre le slam, les mots, et quelques unes de ses émotions, Marie se retrouve en Espagne à gérer une librairie jeunesse pendant ciq ans. 
+
+Mais jouer avec les mots dans une langue étrangère a ses limites, sans compter qu’elle rencontre la nostalgie. De fait, elle rentre au pays, et petit à petit Cluny l’accueille. Là, les expériences seront aussi multiples qu’éclétiques, à la recherche du sensible et de l’humain; nos flammes intérieures. C’est ainsi qu’elle finit d’une part, par organiser des Scènes Ouvertes avec son ami Bapt’, et d’autre part, par monter l’association d’Education Populaire La Chahutte avec quatres comparses. Deux espaces qui l’animent au plus profond d’elle-même par les liens qu’ils créent et l’authenticité qui s’en dégage.
+
+Et sinon, Marie fait des trucs comme du théâtre-forum, du slam et d’autres inventions. Mais ce qu’elle fait de mieux c’est rire et parler !
 
 <!-- <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
