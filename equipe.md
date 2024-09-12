@@ -34,7 +34,7 @@ redirect_from:
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
 <li><a href="#elsa" style="color:#7551e1">Elsa Trouche: comédienne</a></li>
-<li><a href="#marie" style="color:#FF96B8">Marie Bonnot: slammeuse</a></li>
+<li><a href="#marie" style="color:#FF96B8">Marie Bonnot: slameuse</a></li>
 <!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
 <!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
@@ -184,7 +184,7 @@ Elle s'est également formée en Relation d'Aide par le Toucher, pratique théra
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1726136464/marie-bonnot-au-micro_x4tr3e.png"></div>
 Après une formation littéraire sur Lyon au cours de laquelle elle découvre le slam, les mots, et quelques unes de ses émotions, Marie se retrouve en Espagne à gérer une librairie jeunesse pendant cinq ans. 
 
-Mais jouer avec les mots dans une langue étrangère a ses limites, sans compter qu’elle rencontre la nostalgie. De fait, elle rentre au pays, et petit à petit Cluny l’accueille. Là, les expériences seront aussi multiples qu’éclétiques, à la recherche du sensible et de l’humain et de nos flammes intérieures. C’est ainsi qu’elle finit d’une part, par organiser des Scènes Ouvertes avec son ami Bapt’, et d’autre part, par monter avec quatres comparses l’association d’Education Populaire La Chahutte qui canalise enfin l'ensemble de ses aspirations. Deux espaces qui l’animent au plus profond d’elle-même par les liens qu’ils créent et l’authenticité qui s’en dégage.
+Mais jouer avec les mots dans une langue étrangère a ses limites, sans compter qu’elle rencontre la nostalgie. De fait, elle rentre au pays, et petit à petit Cluny l’accueille. Là, les expériences seront aussi multiples qu’éclectiques et incohérentes, à la recherche du sensible et de l’humain&nbsp;; de nos flammes intérieures. C’est ainsi qu’elle finit d’une part, par organiser des Scènes Ouvertes avec son ami Bapt’, et d’autre part, par monter avec quatres comparses l’association d’Education Populaire La Chahutte qui canalise enfin l'ensemble de ses aspirations. Deux espaces qui l’animent au plus profond d’elle-même par les liens qu’ils créent et l’authenticité qui s’en dégage.
 
 Et sinon, Marie fait des trucs comme du théâtre-forum, du slam et d’autres inventions. Et ce qu’elle aime, c’est rire, s'affairer et tailler la bavette.
 
