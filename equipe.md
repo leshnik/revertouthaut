@@ -34,7 +34,7 @@ redirect_from:
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
 <li><a href="#elsa" style="color:#7551e1">Elsa Trouche: comédienne</a></li>
-<li><a href="#marie" style="color:#644f2a">Marie Bonnot: slammeuse</a></li>
+<li><a href="#marie" style="color:#FF96B8">Marie Bonnot: slammeuse</a></li>
 <!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
 <!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
@@ -180,7 +180,7 @@ Elle est co-fondatrice de la Chahutte, association clunisoise d'éducation popul
 Elle s'est également formée en Relation d'Aide par le Toucher, pratique thérapeutique et corporelle qui lui a ouvert les yeux sur le rapport au corps et son influence sur nos relations interpersonnelles, et inversement. Parallèle qu'elle aime faire avec sa pratique théâtrale où le corps et les émotions sont pour elle avant tout au service d'un texte, d'une histoire...et où la relation à l'autre soi ne cesse de se tisser et de s'étoffer.
 
 <div id="marie"></div>
-<h2 style="color: #644f2a">Marie Bonnot</h2>
+<h2 style="color: #FF96B8">Marie Bonnot</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1726136464/marie-bonnot-au-micro_x4tr3e.png"></div>
 Après une formation littéraire sur Lyon au cours de laquelle elle découvre le slam, les mots, et quelques unes de ses émotions, Marie se retrouve en Espagne à gérer une librairie jeunesse pendant ciq ans. 
 
