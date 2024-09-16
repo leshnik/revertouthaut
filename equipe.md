@@ -17,7 +17,7 @@ redirect_from:
 
 <li><a href="#patricia" style="color: #29c">Patricia Rigo: art-thérapeute et plasticienne</a></li>
 
-<li><a href="#marina" style="color: #7c9">Marina de Lajudie: coordinatrice</a></li>
+<li><a href="#marina" style="color: #75B0C2">Marina de Lajudie: coordinatrice</a></li>
 
 <li><a href="#lucie" style="color: #7c0a24">Lucie Moraillon: photographe</a></li>
 
@@ -33,7 +33,7 @@ redirect_from:
 <li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
-<li><a href="#elsa" style="color:#7551e1">Elsa Trouche: comédienne</a></li>
+<li><a href="#elsa" style="color:#BE3C31">Elsa Trouche: comédienne</a></li>
 <li><a href="#marie" style="color:#D2AC00">Marie Bonnot: slameuse</a></li>
 <li><a href="#quentrec" style="color: #FA785D">Marie Quentrec: autrice, illustratrice, passeuse de bouts de ficelles</a></li>
 <!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
@@ -43,7 +43,9 @@ redirect_from:
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
 {: .art-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601709554/gatsby-cloudinary/portraitVal.jpg"></div>
-Après des études théâtrales à Paris III, Valérie se forme, en étudiant les films des autres, au scénario et à la réalisation audiovisuelle. Elle réalise une huitaine de courts-métrages, tous primés en festival et un long-métrage de fiction, sorti en 2012. Ayant toujours ressenti la nécessité d’allier son travail fictionnel à un travail plus relié au monde social et à ses problématiques, elle monte à Chalon-sur-Saône un long projet de médiations théâtrales pour femmes victimes de violences conjugales. Elle crée la pièce «&nbsp;Les êtres humaines&nbsp;»  qui traite de l’intimité de ces violences, et qui tournera trois ans en Saône et Loire. Cette expérience riche et fondatrice lui a donné le désir de se former à l’art-thérapie. Elle est depuis 2017, diplômée de l’Institut de Psychologie de Lyon II et est titulaire du Diplôme Universitaire «&nbsp;Soins Psychiques, créativité et expression artistique&nbsp;».
+Après des études théâtrales à Paris III, Valérie se forme, en étudiant les films des autres, au scénario et à la réalisation audiovisuelle. Elle réalise une huitaine de courts-métrages, tous primés en festival et un long-métrage de fiction, sorti en 2012. 
+
+Ayant toujours ressenti la nécessité d’allier son travail fictionnel à un travail plus relié au monde social et à ses problématiques, elle monte à Chalon-sur-Saône un long projet de médiations théâtrales pour femmes victimes de violences conjugales. Elle crée la pièce «&nbsp;Les êtres humaines&nbsp;»  qui traite de l’intimité de ces violences, et qui tournera trois ans en Saône et Loire. Cette expérience riche et fondatrice lui a donné le désir de se former à l’art-thérapie. Elle est depuis 2017, diplômée de l’Institut de Psychologie de Lyon II et est titulaire du Diplôme Universitaire «&nbsp;Soins Psychiques, créativité et expression artistique&nbsp;».
 
 Elle a monté en 2018 et joue actuellement un nouveau spectacle «&nbsp;Bercer l’enfant manquant&nbsp;», qui traite de la complexité des liens mère/enfant. Elle en prépare un autre, «&nbsp;Parent solo et ses marmots&nbsp;» sur la mono-parentalité. Valérie a toujours considéré les rencontres comme étant les moteurs et les prétextes de ses créations, et toujours pensé que son travail devait être pluri-disciplinaire. Elle intervient en tant qu’art-thérapeute, anime des ateliers, adore trouver des nouvelles idées de médiations, de spectacles et quand elle a le temps, écrit des histoires pour ses personnages de fiction. Elle vit depuis une quinzaine d’années dans un petit village de Saône et Loire.
 
@@ -54,12 +56,14 @@ Elle a monté en 2018 et joue actuellement un nouveau spectacle «&nbsp;Bercer l
 Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.
 
 <div id="marina"></div>
-<h2 style="color: #7c9">Marina de Lajudie&nbsp;: coordinatrice <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés (jeunes aidant.e.s)</a></h2>
+<h2 style="color: #75B0C2">Marina de Lajudie&nbsp;: coordinatrice <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés (jeunes aidant.e.s)</a></h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718169024/marina_zoomedin_bmisyv.png"></div>
 Titulaire d’une licence en Sciences de l’Education de l’université de Lyon II  et d’un Diplôme d’Etat de Conseillère en Economie Sociale et familiale, Marina a travaillé plusieurs années comme Travailleuse Sociale à la CAF du Jura, puis auprès d’adultes handicapés pour deux associations du Rhône.
+
 Elle est installée en Saône et Loire depuis 2008 où, en parallèle de la création et de la gestion de deux gîtes ruraux, elle a exercé comme assistante maternelle pendant une douzaine d’années.
 En 2018, elle a fait partie de l’équipe créatrice du Festival Boulan’zic à Montmelard dont l’objectif était de présenter des spectacles d’artistes locaux de qualité au cœur d’un monde rural où peu de propositions culturelles existent.
-Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver tout haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe pour coordonner les projets <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.<br>
+
+Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver Tout Haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe pour coordonner les projets <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.<br>
 <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718194512/marina-contact_qiu6wb.png">
 
 <div id="patricia"></div>
@@ -168,7 +172,7 @@ Installée avec un collectif de céramistes (La Fourmilière) dans la campagne b
 Elle développe ainsi autour de son œuvre des concepts liés aux sciences naturelles : les écosystèmes, la collection scientifique, l’anatomie, la relation entre l'être humain et la nature, le tout chargé d’influences des cultures précolombiennes et natives d’Amérique Latine, là où elle a grandi. 
 
 <div id="elsa"></div>
-<h2 style="color: #7551e1">Elsa Trouche</h2>
+<h2 style="color: #BE3C31">Elsa Trouche</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1725628059/ElsaTrouche_Portrait_y0rabc.jpg"></div>
 Après plusieurs années à naviguer dans les eaux tumultueuses de la psychiatrie en tant qu'infirmière, Elsa quitte le navire. Changement de cap ! 
 
