@@ -35,6 +35,7 @@ redirect_from:
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
 <li><a href="#elsa" style="color:#7551e1">Elsa Trouche: comédienne</a></li>
 <li><a href="#marie" style="color:#FF96B8">Marie Bonnot: slameuse</a></li>
+<li><a href="#quentrec" style="color: #9CBF73">Marie Quentrec: autrice, illustratrice, passeuse de bouts de ficelles</a></li>
 <!-- <li><a href="#anastasia" style="color:#7c0a24">Anastasia Granata: chargée de diffusion</a></li> -->
 <!-- <li><a href="#isis" style="color: #7551e1">Isis Philippe-Janon: sophrologue et comédienne</a></li> -->
 </ul>
@@ -187,6 +188,20 @@ Après une formation littéraire sur Lyon au cours de laquelle elle découvre le
 Mais jouer avec les mots dans une langue étrangère a ses limites, sans compter qu’elle rencontre la nostalgie. De fait, elle rentre au pays, et petit à petit Cluny l’accueille. Là, les expériences seront aussi multiples qu’éclectiques et incohérentes, à la recherche du sensible et de l’humain&nbsp;; de nos flammes intérieures. C’est ainsi qu’elle finit d’une part, par organiser des Scènes Ouvertes avec son ami Bapt’, et d’autre part, par monter avec quatres comparses l’association d’Education Populaire La Chahutte qui canalise enfin l'ensemble de ses aspirations. Deux espaces qui l’animent au plus profond d’elle-même par les liens qu’ils créent et l’authenticité qui s’en dégage.
 
 Et sinon, Marie fait des trucs comme du théâtre-forum, du slam et d’autres inventions. Et ce qu’elle aime, c’est rire, s'affairer et tailler la bavette.
+
+<div id="quentrec"></div>
+<h2 style="color: #9CBF73">Marie Quentrec</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1726481959/nz2csuwncw8rwziu0zax.png"></div>
+1977 : premier bonhomme têtard. Marie a 3 ans et bénit sa maman qui lui a donné son premier feutre.
+
+1980 : entrée au CP, Madame Lalia lui apprend à lire. Qu’elle en soit éternellement remerciée. Marie adhère de ce pas au club des « enfants qui lisent en douce sous la couette avec une lampe de poche alors qu’il faudrait se coucher».
+Un soir, sa sœur lui demande de lui lire une histoire. Mais Marie a vraiment la flemme alors elle prend son ardoise véléda, et pour la première fois de sa vie elle va « dessiner une histoire ». L’odeur des feutres donne un peu mal à la tête, mais le principe de raconter en images lui plaît bien.
+
+1992 : après quelques années passées sur les bancs de l’école à hésiter entre sciences et lettres, Marie entre finalement aux Arts décoratifs de Strasbourg, dont elle ressort diplômée en illustration.
+
+Depuis, Marie dessine, écrit et raconte, en livres, en jeux, en affiches, et parfois même en pochettes de CD (ah, tiens donc, les Trapettistes ici aussi…). Elle joue avec les mots, et les crayons, la peinture, les matières, les volumes…
+Et puis elle rencontre des gens, plein, des très très très mini-petits jusqu’aux très grands. Et avec eux elle invente des histoires qui racontent leurs mondes.<br>
+Plasticienne, illustratrice, conteuse, autrice, elle propose et partage ses morceaux d’idées et ses bouts de ficelle pour les aider à inventer.
 
 <!-- <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
