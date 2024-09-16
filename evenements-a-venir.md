@@ -35,6 +35,21 @@ summary:
     </li>
     <hr>
     <li>
+        Samedi, 17 août, à 14h, <a href="ados-en-chemin">Ados et Chevaux en Chemin</a>, spectacle crée pour et avec la Compagnie Les Chevaux Céleste, Céleste Solsona et ses équipières, à la suite d’une longue randonnée de trois semaines en montagne avec deux chevaux et une mule. Cette rando, qui a vu 3 adolescentes, enfants placés en foyers ou familles d’accueil, et 4 femmes adultes parcourir un long chemin de crête intérieur et montagneux. Au Domaine de Morlay, 71460 St Ythaire.
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724334966/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_15_55_54_tx40mm.png">
+        </div>
+    </li>
+    <hr>
+    <li> 
+        Samedi 28 septembre, à 14h, l'inauguration de  <a href="brins-d-histoires">Brins D’Histoire</a> aura lieu dans le cadre enchanteur du parc du site de Ferreuil, au sein des Papillons Blancs, à Paray-le-Monial.
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1726482897/inauguration-brins_z88ugs.png">
+        </div>
+
+    </li>
+    <hr>
+    <li>
         Mercredi 25 septembre, démarrage de notre cycle d’ateliers <a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a>, info sur le flyer.
         <div class="flex-container">
             <div class="column">
