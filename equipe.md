@@ -30,7 +30,7 @@ redirect_from:
 <li><a href="#flore" style="color: #7551e1">Flore Simon: comédienne et metteuse en scène</a></li>
 
 <li><a href="#estelle" class="music-color">Estelle Bernigal: musicienne, comédienne et compositrice</a></li>
-<li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychométricienne</a> </li>
+<li><a href="#naima" style="color: #29c" >Naïma Ferré&nbsp;:&nbsp;danseuse, psychomotricienne</a> </li>
 <li><a href="#magali" style="color: rgb(216, 87, 0">Magali Ringoot: musicothérapeute en cours de formation</a></li>
 <li><a href="#tahia" style="color:#29c">Tahía Strika: céramiste</a></li>
 <li><a href="#elsa" style="color:#BE3C31">Elsa Trouche: comédienne</a></li>
@@ -143,7 +143,7 @@ Le clown et le jardinage sont ces passions.
 Elle s'est installé depuis 20 ans dans un petit village de Saône et Loire.
 
 <div id="naima"></div>
-<h2 style="color: #29c">naïma ferré&nbsp;:&nbsp;danseuse, psychométricienne</h2>
+<h2 style="color: #29c">naïma ferré&nbsp;:&nbsp;danseuse, psychomotricienne</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1686567581/naima-ferre-carre_brovmr.jpg"></div>
 Danseuse contemporaine, Naïma Ferré explore les liens entre le corps et l’esprit, ou comment habiter un corps, que ce soit au travers d’une pratique intensive de chorégraphie instantanée solo, d’un travail de recherche approfondi sur l’activité de modèle vivant, ou encore par le biais de la pratique de la danse du tournoiement.
 
