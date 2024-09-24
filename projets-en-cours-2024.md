@@ -6,7 +6,7 @@ summary:
 <h1>projets en cours, 2024</h1>
 
 <h3>brins d'histoires</h3>
-<p class="intro-text">Cycles d’ateliers artistiques autour du sculptures végétales et de vanneries géantes. 
+<p class="intro-text">Cycles d’ateliers artistiques autour des sculptures végétales et de vanneries géantes. 
 Avec le soutien de DRAC et d ‘ARS BFC, du FDVA 71 et en partenariat avec les Papillons Blancs (Paray le Monial).
 <a href="brins-d-histoires">brins d’histoires</a></p> 
 
