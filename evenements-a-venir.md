@@ -65,10 +65,13 @@ summary:
     <hr>
     <li>
         Lundi 18 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Davayé, dans le cadre de la Semaine de l’Inclusion
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1728043490/Screenshot_of_Finder_at_4_Oct_2024_at_14_04_33_o9qnle.png">
+        </div>
         <br>
         Mardi 19 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Charolles, dans le cadre de la Semaine de l’Inclusion
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">      
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1728043195/Screenshot_of_Finder_at_4_Oct_2024_at_13_56_06_cr2hqd.png">      
         </div>
         Séances scolaires, mais quelques places seront ouvertes aux personnes de l'extérieur.  
         Contact réservation: coordination.revertouthaut@gmail.com / 07 82 16 11 16
