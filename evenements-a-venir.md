@@ -6,6 +6,33 @@ summary:
 <h1>événements à venir</h1>
 <ul class="institutions">
     <li>
+        Lundi 18 Novembre à 15h30 au Lycée Davayé et Mardi 19 novembre à 17h30 au Lycée Agricole de Charolles&nbsp;:&nbsp; représentation de <a href="maintenant-il-y-a">maintenant il y a</a> dans le cadre de la Semaine de l’Inclusion 71.
+       
+        <div class="flex-container">
+            <div class="column">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730711052/Screenshot_of_Finder_at_4_Nov_2024_at_10_03_25_iwtdol.png">
+            </div>
+            <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730710768/Screenshot_of_Finder_at_4_Nov_2024_at_09_56_57_vvmznn.png">
+            </div>
+            
+        </div>
+        <div class="flex-container">
+            <div class="column">
+                <a href="https://rth9.b-cdn.net/Programme_semaine_inclusion.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730712190/Screenshot_of_Finder_at_4_Nov_2024_at_10_22_49_chitsg.png" >clicquer pour télécharger le programme de la semaine</a>
+            </div>
+            <div class="column">
+                <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1728043490/Maintenant%20Il%20Y%20A%20Davay%C3%A9.png" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1728043490/Maintenant%20Il%20Y%20A%20Davay%C3%A9.png">clicquer pour télécharger l'affiche</a>
+            </div>
+            <div class="column">
+                <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1728043195/Maintenant%20Il%20Y%20A%20Charolles.png" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1728043195/Maintenant%20Il%20Y%20A%20Charolles.png">clicquer pour télécharger l'affiche</a>
+            </div>
+        </div>
+        Séances scolaires, mais quelques places seront ouvertes aux personnes de l'extérieur.  
+        Contact réservation: coordination.revertouthaut@gmail.com / 07 82 16 11 16
+    </li>
+    <hr>
+    <li>
         De mai 2024 à juin 2025, auront lieu les ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> sur les traces laissés par l'enfance, l'exil et les rencontres.
         <div class="flex-container">
             <div class="column">
@@ -13,10 +40,11 @@ summary:
             </div>
             <div class="column">
                 <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">clicquer pour télécharger le flyer.</a>
             </div>
         </div>
     </li>
+    
 <hr>
     <li>
         Samedi 15 juin, collecte de photos à la Galerie les Mains Libres pour nourrir notre projet <a href="histoires-de-transmission">Histoires de Transmission</a>
@@ -64,33 +92,19 @@ summary:
     </li>
     <hr>
     <li>
-        Lundi 18 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Davayé, dans le cadre de la Semaine de l’Inclusion
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1728043490/Screenshot_of_Finder_at_4_Oct_2024_at_14_04_33_o9qnle.png">
-        </div>
-        <br>
-        Mardi 19 Novembre: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Charolles, dans le cadre de la Semaine de l’Inclusion
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1728043195/Screenshot_of_Finder_at_4_Oct_2024_at_13_56_06_cr2hqd.png">      
-        </div>
-        Séances scolaires, mais quelques places seront ouvertes aux personnes de l'extérieur.  
-        Contact réservation: coordination.revertouthaut@gmail.com / 07 82 16 11 16
-    </li>
-    <hr>
-    <li>
        Automne 24:démarrage des ateliers pour jeunes aidants <a href="jeunes-aidants">jeunes aidant.es / les emmêlé.es</a>
        <div class="flex-container">
         <div class="column">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
-                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">Clicquer pour télécharger le flyer</a>
+                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721481143/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_12_11_pimaif.jpg">clicquer pour télécharger le flyer</a>
         </div>
         </div>
         Représentations les 11 et 13 mars 2025 (horaires et lieux à venir)
     <hr>
        <div class="center-block">
-        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">clicquer pour une courte présentation à télécharger.</a>
     </div> 
     </li>
 <hr>
