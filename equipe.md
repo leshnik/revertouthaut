@@ -207,6 +207,25 @@ Depuis, Marie dessine, écrit et raconte, en livres, en jeux, en affiches, et pa
 Et puis elle rencontre des gens, plein, des très très très mini-petits jusqu’aux très grands. Et avec eux elle invente des histoires qui racontent leurs mondes.<br>
 Plasticienne, illustratrice, conteuse, autrice, elle propose et partage ses morceaux d’idées et ses bouts de ficelle pour les aider à inventer.
 
+<div id="cambie"></div>
+<h2>Laure Cambie</h2>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730717909/laure-cambie-portrait_vi7vyo.jpg"></div>
+Peintre et diplômée de l’école des Beaux-Arts de Saint-Etienne, Laure vit et travaille à Cluny.
+
+Étudiante dans les années 2000, alors que la tendance était à la vidéo et à la performance, elle s’interroge sur la manière d’aborder la peinture, sur le lien entre la peinture classique et contemporaine. La découverte de la peinture primitive flamande et vénitienne lors d’un voyage scolaire à Venise l’amène à  se tourner vers la couleur et la lumière. 
+
+Une fois son diplôme en poche et après avoir été l’assistante de l’artiste Myriam Méchita à la Galerie de Noisy le Sec et participé à la création d’expositions au MAC VAL à Vitry-sur-Seine, Laure s’aventure 4 mois en Amérique du Sud avec ses carnets de croquis et ses crayons.
+De retour en France, elle produit des peintures en résidence à l’École Municipale d’Arts Plastiques de Mâcon pendant 3 ans puis à son atelier à Cluny depuis 2013.
+
+Elle a participé à des expositions collectives au Musée d’Art Moderne de Saint Etienne, à Norwich en Angleterre, à Overijse en Belgique, à la galerie Françoise Besson à Lyon... Également à des expositions personnelles à Paris pour un showroom, au Hangar 717 à Villefranche-sur Saône, à la galerie Mary-Ann à Mâcon…
+
+À partir de 2010, elle intervient dans les écoles et autres institutions. 
+Depuis 2018, elle anime des stages et des cours hebdomadaires de peinture et de dessin dans son atelier pour les adultes et les enfants.
+Elle a accompagné une séniore à domicile avec un handicap en proposant des séances hebdomadaires d’art thérapie pendant 3 ans.
+Elle intervient ponctuellement dans des musées pour des animations ou des créations artistiques. 
+En 2024, un partenariat avec ses élèves adultes et le musée d’Art et d’Archéologie de Cluny a permis la réalisation pour l’exposition, Cluny, les Abbés du roi, d’une grande tapisserie en linogravure d’après les motifs de l’Hôtel de ville.
+
+
 <!-- <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
