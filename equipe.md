@@ -36,7 +36,7 @@ redirect_from:
 <li><a href="#elsa" style="color:#BE3C31">Elsa Trouche: comédienne</a></li>
 <li><a href="#marie" style="color:#D2AC00">Marie Bonnot: slameuse</a></li>
 <li><a href="#quentrec" style="color: #FA785D">Marie Quentrec: autrice, illustratrice, passeuse de bouts de ficelles</a></li>
-<li><a href="#cambie" style="color: #FA785D">Laure Cambie: peintre</a></li>
+<li><a href="#cambie" style="color: #989B90">Laure Cambie: peintre</a></li>
 </ul>
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
@@ -207,7 +207,7 @@ Et puis elle rencontre des gens, plein, des très très très mini-petits jusqu�
 Plasticienne, illustratrice, conteuse, autrice, elle propose et partage ses morceaux d’idées et ses bouts de ficelle pour les aider à inventer.
 
 <div id="cambie"></div>
-<h2 style="color: #FA785D">Laure Cambie</h2>
+<h2 style="color: #989B90">Laure Cambie</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730717909/laure-cambie-portrait_vi7vyo.jpg"></div>
 Peintre et diplômée de l’école des Beaux-Arts de Saint-Etienne, Laure vit et travaille à Cluny.
 
