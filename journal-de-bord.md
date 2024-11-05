@@ -4,6 +4,208 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>octobre 2024</h2>
+Voici l’automne arrivé à vive allure, avec notre récolte de projets achevés, démarrés, développés, imaginés… 
+
+Commençons par vous raconter <a href="brins-d-histoires">Brins d’Histoires</a>, projet que nous avons adoré faire au Foyer de Vie les Papillons de Paray le Monial. Mélange de couleurs, de poésie, de branches d’arbres redessinées, d’œuvre au grand air et au gré du vent. 
+
+Quelques images de ce cycle d’ateliers menés par deux artistes vanniers Erik Barray, Richard Le Guezennec et Valérie Gaudissart à l’écriture. 
+
+
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1730800566/1730726976951_gabinw.jpg">
+</div>
+<div class="flex-container">
+    <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730801177/1730725647897web_zvrmjq.png">
+    </div>
+    <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730801420/1730725711951web_o5tfva.jpg">
+    </div>
+
+</div>
+
+Et aussi quelques traces écrites de ces semaines passées en bonne compagnie et notre texte lu le jour du vernissage : 
+
+
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+chère invitée, cher invité<br>
+te voici devant notre jeu géant,<br>
+notre jeu de bâtons et de branches,<br>
+de couleurs et de rubans<br>
+notre totem imaginaire<br>
+notre monument aux héros des Papillons Blancs<br>
+notre mikado où tout le monde est gagnant<br>
+<br>
+notre jeu n’a pas de nom mais en silence, il raconte notre histoire<br>
+celle que nous vous racontons avec du bleu, du jaune, du rouge, du vert, du
+doré, de l’orangé<br>
+avec nos mains attentives agrippant les pinceaux<br>
+avec nos doigts tressant des bouts de laine<br>
+avec nos yeux choisissant des couleurs<br>
+avec nos dos penchés sur les tables<br>
+avec nos rires traversant la grande salle<br>
+avec nos « bonjours et à la semaine prochaine ! » lancées à la cantonade<br>
+avec notre bonne humeur que rien ne vient entacher<br>
+car nous sommes sages et savons profiter des bons moments<br>
+<br>
+à toi chère invitée  d’imaginer ce que raconte notre histoire<br>
+car à nous-même elle reste une énigme<br>
+et nous préférons les énigmes aux réponses claires et nettes<br>
+à toi de découvrir et de comprendre cet enchevêtrement bariolé,<br>
+ces liens solides et tressés entre nous<br>
+ces tuteurs qui luttent contre le vent et le déséquilibre et qui nous tiennent
+debout, ensemble et solides<br>
+ces objets inventés que tu ne trouveras pas ailleurs<br>
+ce sont nos bâtons pour marcheurs de bottes de 7 lieux,<br>
+ce sont nos lances pour combats pacifiques,<br>
+ce sont nos cannes à pêches qui ne sortiront aucun poisson de l’eau<br>
+ce sont nos harpons à bons souvenirs<br>
+Nous ne sommes pas forts avec les mots<br>
+car les mots souvent nous décalent des gens<br>
+et parfois nous laissent incompris<br>
+alors, nous préférons les couleurs, qui elles, ne savent pas trahir<br>
+du bleu, c’est du bleu<br>
+du rouge, c’est du rouge<br>
+du noir, c’est du noir<br>
+<br>
+alors à toi d’écrire notre histoire, et laisse la inachevée, ne lui invente pas de fin,<br>
+nous n’aimons pas les au-revoir<br>
+notre histoire se raconte au présent<br>
+entre arcs en ciel et poissons volants
+</cite>
+<hr>
+Et puis <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> qui continuent de se déposer de semaine en semaine et pour lesquelles nous avons déjà accueilli plus de 80 participants, et nous voyageons de la Géorgie à la Somalie, du Congo au Pérou, du Bangladesh au Soudan, de la Côte d’Ivoire à la Colombie, du Mali à l’Arménie. Et nous voyageons aussi entre les créations, argile, fresque, pinceaux, pastels, gravure, typographie, entre les rires et les silences, entre les adultes et les enfants. Des liens se nouent, des bribes d’histoire se racontent, des enfants jouent, des parents se reposent et ensemble, nous parcourons ce long chemin, bras dessus bras dessous. 
+
+Ateliers animés cet automne par Marie Quentrec, Laure Cambie, Valérie Gaudissart, Céline Thoué, Tahia Strika, Romane Lasserre. 
+
+Quelques images de notre traversée
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730803150/1728021113432web_b4ydpa.png">
+</div>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730815568/Screenshot_of_Finder_at_5_Nov_2024_at_15_05_55_ndqrys.png">
+</div>
+
+<div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730815715/Screenshot_of_Finder_at_5_Nov_2024_at_15_08_24_dmxgim.png">
+</div>
+
+
+
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Séance 11, 3 octobre 2024<br>
+<br>
+Rendez-vous avec Céline à Bourgvillain, nous chargeons dans le coffre ces planches d’imprimerie, quelques unes de sa grande collection, des encres et des tampons.<br>
+<br>
+Arrivées à Mâcon, bien en avance, nous installons tout ça, et B. et A. étant déjà là, ils nous donnent un coup de main. Voilà donc la longue tablée remplie de propositions, de choses à regarder et à toucher : des lettres de différentes tailles, des images que Céline a gravées en linogravure : des motifs, des arbres, des animaux et des encres jaune, rouge et bleue.<br>
+</cite>
+<div class="flex-container">
+    <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730812916/WhatsApp_Image_2024-10-19_at_18.01.38_1_web_eojsjp.png">
+    </div>
+    <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730813223/WhatsApp_Image_2024-10-19_at_18.01.38_10_web_w7gwym.png">
+    </div>
+    <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730813406/WhatsApp_Image_2024-10-19_at_18.01.39_2_web_jbhjt8.png">
+    </div>    
+</div>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Apparaissent les premières images sur la grande feuille : une vague jaune sur un angle, un oiseau bleu, puis une branche, puis des papillons puis un OOHHH.<br>
+<br>
+Une oeuvre collective sur laquelle chacun, chacune viendra poser sa marque. La salle devient une ruche, ça va, ça vient, ça circule, ça bosse finalement et ça rit. Ce travail aura été le premier vrai travail collectif où des choses posées, écrites vont appeler des réponses : </cite>
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730817855/Screenshot_of_Finder_at_5_Nov_2024_at_15_44_04_jv7p0r.png">
+</div>
+
+
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+« je veux être libre » posé par A., appelle le « Joy » posé par S. <br>
+« La vie est belle » posée par C. appelle « la vita est troppo bella » posée par T. <br>
+A. écrit son prénom, puis celui de sa fille, en perpendiculaire, <br>
+FR. commence par poser un Peace and Love en haut de la feuille, à côté d’une étoile posée par quelqu’un d’autre. <br>
+M. fait les choses en double : un papillon, et à côté de lui un autre papillon plus pâle, comme une trace, une ombre, un effacé. <br>
+B. écrit son prénom en petites lettres, F. en grosses lettres<br>
+</cite>
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730821850/Screenshot_of_Finder_at_5_Nov_2024_at_16_50_39_zpskeu.png">
+</div>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Céline passe de l’un à l’autre, donnant des conseils et posant sur la feuille des traits qui relient les images et les noms<br>
+Après-midi pleine d’échanges et de conversations. Les couleurs ont donné le ton de l’après-midi. Les images proposées par Céline ont aussi facilité la mise en œuvre, il fallait choisir (image, couleur et emplacement). Et il n’était pas demander de partir de zéro et de tout créer. Mais choisir, c’est déjà tout un mouvement, un premier pas vers une expression. <br>
+<br>
+La fresque est accrochée au mur, souvenir de notre après-midi commune, entre un Hello et un « Je veux être libre » en grosses lettres visibles de loin. 
+</cite>
+<div class="center-max-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730818980/Screenshot_of_Affinity_Designer_2_at_5_Nov_2024_at_16_02_42_usyf16.png">
+</div>
+
+<hr>
+<a href="jeunes-aidants">Les jeunes aidants / les emmêlés</a>&nbsp;:&nbsp; énorme projet de territoire à la rencontre des jeunes aidants, ados, et jeunes adultes ayant la charge plus ou moins quotidienne d’un proche fragilisé par une maladie ou une dépendance, un handicap. Nous avons rencontré 300 lycéens de Charolles et de Paray et plusieurs dizaines de jeunes du territoire et nous voilà parties pour plusieurs mois d’ateliers artistiques qui nous mèneront à la création d’un spectacle en mars. On se découvre, entre secrets bien gardés, paroles dévoilées, entre envies de rencontres et besoin de transformer son futur. Ateliers menés par 7 artistes et Marina De Lajudie, indispensable à la coordination de ce gros projet nécessaire. 
+
+<div class="center-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730812329/Screenshot_of_Finder_at_5_Nov_2024_at_14_11_56_zcya5w.png">
+</div>
+<hr>
+<a href="celles-qui-veillent">Celles qui veillent</a>&nbsp;:&nbsp; on continue de veiller et de visiter en musique avec accordéon des patient.es accompagné.es par nos deux formidables infirmières de Beaubery. Matinées incroyables de réaction, et d’émotions palpables lors de ces concerts personnels, transformant le quotidien. 
+
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730805679/Screenshot_of_Finder_at_5_Nov_2024_at_12_21_07_dtkxda.png">
+</div>
+
+Un extrait de notre journal de bord&nbsp;:&nbsp; 
+
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+Rendez-vous 8 heures à Beaubery, l’aube n’a pas ouvert l’œil et pourtant, Emilie a déjà visité 9 patients, Estelle a l’accordéon sur le dos et Valérie le stylo et le carnet prêts à dégainer.<br>
+<br>
+8h10, nous voilà chez H. qui part à la douche, montant ses escaliers qui mènent à la salle de bain et pour lequel elle a tout une technique : en bas je pose mes cannes, je m’agrippe aux deux rambardes, je compte les 7 marches, en haut je récupère une canne et une canne trépied et le tour est joué.<br>
+<br>
+H. nous amuse en chantant dans l’escalier « Etoile des neiges », accompagnée de l’accordéon qui encourage l’ascension. Elle sort de la douche, pimpante, après avoir chanté « histoire d’un amour » Nous sommes admiratives Estelle et moi devant l’efficacité d’Emilie : déshabillage, douche, habillage, tout ça en 10 minutes mais fait en prenant son temps.<br>
+<br>
+J’admire aussi comment Emilie prépare les piluliers, car aujourd’hui, on est vendredi, c’est le jour des pilules. <br>
+<br>
+Nous voici maintenant chez B., en semaine de récupération après celle de sa chimio. Elle dit que maintenant elle repleure, alors qu’il y a quelques temps, elle était sans émotion, anesthésiée. Nous chantons avec elle et l’accordéon, la Bombe Humaine, et « faudrait pas que j’me laisse aller » chanté par Téléphone a résonné fort dans les murs de cette maison.<br>
+<br>
+Nous revoici en voiture et nous nous arrêtons chez Mme M., qui parait-il peut parfois être sèche et envoyer des piques aux infirmières, du genre « c’est à cette heure que tu te lèves ?!»<br>
+<br>
+Mais aujourd’hui, avec l’accordéon et la bonne humeur qui entre dans sa cuisine, elle est accueillante et souriante. Elle dira même à Emilie à la fin du petit concert auquel elle a pris plaisir: « ça doit te changer de toutes ces vieilles qui grognent ! » Une manière inconsciente de s’excuser de sa méchante humeur parfois ou de dire qu’elle s’en rend compte ?<br>
+<br>
+Nous partons chez L. où nous allons passer un peu de temps. Car elle s’est beaucoup confiée et a certainement besoin d’un changement de vie. Elle dira d’elle-même, alors qu’elle fut très active toute sa vie, qu’elle est trop vieille et n’aime plus rien, qu’elle n’a plus de désir et qu’elle est submergée par des bouffées d’angoisses.<br>
+<br>
+Dame très touchante et pour laquelle je suis sûre, nous pourrions faire plus. Et si elle n’était pas freinée par ses conflits de loyauté envers la terre des ancêtres (elle est revenue au village pour s’occuper de ses parents vieillissants), elle pourrait vivre ailleurs, moins isolée et retrouver un gout pour l’existence. Nous avons chanté avec elle « pourtant comme la montagne est belle », qui raconte le voyage qu’elle-même a fait l’envers : la chanson raconte ceux qui ont quitté le village, J. et sa solitude racontent plutôt ceux qui y sont revenus.<br>
+<br>
+Nous passons chez JJ, que nous connaissons aussi et avec lequel nous avions passé un bon moment en chansons la dernière fois. Et bien aujourd’hui, c’est niet. JJ. ne veut pas entendre parler d’accordéon. Sa porte nous est fermée.<br>
+C’est un jour sans. <br>
+<br>
+Nous arrivons chez H.et J. En voyant l’accordéon, H. farfouille dans un placard et sort un harmonica en forme d’étoiles, il accompagne Estelle. J. commence à avoir les yeux qui se mouillent, nous nous regardons, nous voyons son émotion qu’elle tente de camoufler. C’est la musique et la présence qui fait ça, mais aussi la grande fatigue et une forme de détresse. Emilie voit aussi les yeux mouillés et accompagne J.  dans la cuisine. J. Comment faire pour l’aider, elle ?<br>
+<br>
+Que de contrastes dans ces différentes maisons ! <br>
+Il est midi passé, elle est sur les routes depuis 6 heures ce matin. Et il s’est déjà passé tant de choses dans cette matinée que c’est presque compliqué de la raconter.
+</cite>
+<hr>
+<a href="une-nouvelle-page">Une nouvelle page à écrire</a>&nbsp;:&nbsp;Ça y est ! nous voilà parties au long cours dans l’expérimentation et l’écriture et la lecture autour du deuil. Découvertes du deuil des autres, et de nos propres deuils qui parfois en camouflent des plus anciens, consignes d’écriture qui permettent d’ouvrir des portes, livres qui font écho et moments au temps suspendu, où l’on prend le temps de s’arrêter pour penser. 
+
+Les ateliers sont libres, on vient quand on veut, quand on peut et nous sommes si bien accueillies par la Pimenterie. Encore merci pour cet accueil tellement chaleureux !
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730805403/Screenshot_of_ScreenFloat_at_5_Nov_2024_at_12_16_31_h8ska3.png">
+</div>
+<hr>
+<a href="les-etres-humaines">Les Êtres Humaines</a> vont bientôt prendre la route, car le projet a maintenant de multiples partenaires en Bourgogne Franche-Comté avec lesquels nous allons mener des ateliers artistiques ouverts à des personnes victimes de violences conjugales: Les PEP 71 à Chalon sur Saône, Coop—Agir à Dôle, Solidarité Femmes à Besançon, le Centre Social et l’ECLA et le réseau ViF de Saint-Vallier, le Centre Social de Bourbon-Lancy et encore plein d’autres  venir. La délégation aux Territoires et à la Solidarité (DDETS) de Saône et Loire soutient le projet : un grand merci !
+
+Des dates de représentations sont déjà prévues pour 2026. 
+<hr>
+<a href="sur-le-seuil">Sur le Seuil</a>&nbsp;:&nbsp; nouveau projet qui aura lieu fin 2025, et que nous avons conçu pour le LAM (Lits d’accueil médicalisé) de Montceau les Mines, géré par l’Association le Pont. Le LAM, lieu d’accueil inconditionnel pour celles et ceux qui n’ont plus rien et que la santé rend encore plus fragile. Sur le Seuil, sera là comme un entre-deux entre dehors et dedans, entre une invitation à entrer et une autre à sortir. 
+
+
+
+
+
 <h2>Août 2024</h2>
 <div class="center-max600-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1725359223/ados-et-chevaux-affiche_iqzbor.png">
