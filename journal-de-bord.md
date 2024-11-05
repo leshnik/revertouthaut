@@ -147,7 +147,7 @@ La fresque est accrochée au mur, souvenir de notre après-midi commune, entre u
 <hr>
 <a href="jeunes-aidants">Les jeunes aidants / les emmêlés</a>&nbsp;:&nbsp; énorme projet de territoire à la rencontre des jeunes aidants, ados, et jeunes adultes ayant la charge plus ou moins quotidienne d’un proche fragilisé par une maladie ou une dépendance, un handicap. Nous avons rencontré 300 lycéens de Charolles et de Paray et plusieurs dizaines de jeunes du territoire et nous voilà parties pour plusieurs mois d’ateliers artistiques qui nous mèneront à la création d’un spectacle en mars. On se découvre, entre secrets bien gardés, paroles dévoilées, entre envies de rencontres et besoin de transformer son futur. Ateliers menés par 7 artistes et Marina De Lajudie, indispensable à la coordination de ce gros projet nécessaire. 
 
-<div class="center-block">
+<div class="center-max450-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730812329/Screenshot_of_Finder_at_5_Nov_2024_at_14_11_56_zcya5w.png">
 </div>
 <hr>
