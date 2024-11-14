@@ -161,8 +161,9 @@ summary:
 <div class="logo">Association le Pont, Mâcon, Chalon-sur-Saône, Paray-le-Monial</div>
 <div class="logo">CCAS Mâcon</div>
 <div class="logo">Adoma (Cada Mâcon Nord)</div>
-<div class="logo">La Fédération des Acteurs de la Solidarité (FAS)</div>
-
+<div class="logo"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1731571118/Screenshot_of_Firefox_Developer_Edition_at_14_Nov_2024_at_08_58_17_rmbltl.png" style="width:300px">La Fédération des Acteurs de la Solidarité (FAS)</div><br>
+<div class="logo"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png">Fonds Initiatives Locales Contre l'Exclusion financé par la Fondation Bruneau</div>
+<br>
 <h2>Aide à la Parentalité:</h2>
 
 <div class="logo">CAF 71</div>
