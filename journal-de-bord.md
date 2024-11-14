@@ -5,22 +5,20 @@ summary:
 ---
 <h1>journal de bord</h1>
 <h2>novembre 2024</h2>
-Et bonne nouvelle ! <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !
-<div class="center-max600-block">
-<div class="flex-container">
-<div class="column" style="width:75%"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487245/Fas-logo_gbejst.png"> </div>
 
-<div class="column" style="width:25%"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png" > </div>
+<div class="right-side-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731571273/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_14_Nov_2024_at_08_58_17_wfiylg.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png" style="width:200px">
 </div>
-</div>
-
+<p class="intro-text"> Et bonne nouvelle ! <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
+<br>
 
 <h2>octobre 2024</h2>
-Voici l’automne arrivé à vive allure, avec notre récolte de projets achevés, démarrés, développés, imaginés… 
+<p class="intro-text">Voici l’automne arrivé à vive allure, avec notre récolte de projets achevés, démarrés, développés, imaginés… </p>
 
-Commençons par vous raconter <a href="brins-d-histoires">Brins d’Histoires</a>, projet que nous avons adoré faire au Foyer de Vie les Papillons de Paray le Monial. Mélange de couleurs, de poésie, de branches d’arbres redessinées, d’œuvre au grand air et au gré du vent. 
+<p class="intro-text">Commençons par vous raconter <a href="brins-d-histoires">Brins d’Histoires</a>, projet que nous avons adoré faire au Foyer de Vie les Papillons de Paray le Monial. Mélange de couleurs, de poésie, de branches d’arbres redessinées, d’œuvre au grand air et au gré du vent.</p> 
 
-Quelques images de ce cycle d’ateliers menés par deux artistes vanniers Erik Barray, Richard Le Guezennec et Valérie Gaudissart à l’écriture. 
+<p class="intro-text">Quelques images de ce cycle d’ateliers menés par deux artistes vanniers Erik Barray, Richard Le Guezennec et Valérie Gaudissart à l’écriture.</p> 
 
 
 <div class="center-max600-block">
@@ -36,7 +34,7 @@ Quelques images de ce cycle d’ateliers menés par deux artistes vanniers Erik 
 
 </div>
 
-Et aussi quelques traces écrites de ces semaines passées en bonne compagnie et notre texte lu le jour du vernissage : 
+<p class="intro-text">Et aussi quelques traces écrites de ces semaines passées en bonne compagnie et notre texte lu le jour du vernissage : </p>
 
 
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
@@ -86,11 +84,11 @@ notre histoire se raconte au présent<br>
 entre arcs en ciel et poissons volants
 </cite>
 <hr>
-Et puis <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> qui continuent de se déposer de semaine en semaine et pour lesquelles nous avons déjà accueilli plus de 80 participants, et nous voyageons de la Géorgie à la Somalie, du Congo au Pérou, du Bangladesh au Soudan, de la Côte d’Ivoire à la Colombie, du Mali à l’Arménie. Et nous voyageons aussi entre les créations, argile, fresque, pinceaux, pastels, gravure, typographie, entre les rires et les silences, entre les adultes et les enfants. Des liens se nouent, des bribes d’histoire se racontent, des enfants jouent, des parents se reposent et ensemble, nous parcourons ce long chemin, bras dessus bras dessous. 
+<p class="intro-text">Et puis <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> qui continuent de se déposer de semaine en semaine et pour lesquelles nous avons déjà accueilli plus de 80 participants, et nous voyageons de la Géorgie à la Somalie, du Congo au Pérou, du Bangladesh au Soudan, de la Côte d’Ivoire à la Colombie, du Mali à l’Arménie. Et nous voyageons aussi entre les créations, argile, fresque, pinceaux, pastels, gravure, typographie, entre les rires et les silences, entre les adultes et les enfants. Des liens se nouent, des bribes d’histoire se racontent, des enfants jouent, des parents se reposent et ensemble, nous parcourons ce long chemin, bras dessus bras dessous. </p>
 
-Ateliers animés cet automne par Marie Quentrec, Laure Cambie, Valérie Gaudissart, Céline Thoué, Tahia Strika, Romane Lasserre. 
+<p class="intro-text">Ateliers animés cet automne par Marie Quentrec, Laure Cambie, Valérie Gaudissart, Céline Thoué, Tahia Strika, Romane Lasserre. </p>
 
-Quelques images de notre traversée
+<p class="intro-text">Quelques images de notre traversée</p>
 
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730803150/1728021113432web_b4ydpa.png">
@@ -156,20 +154,20 @@ La fresque est accrochée au mur, souvenir de notre après-midi commune, entre u
 </div>
 
 <hr>
-<a href="jeunes-aidants">Les jeunes aidants / les emmêlés</a>&nbsp;:&nbsp; énorme projet de territoire à la rencontre des jeunes aidants, ados, et jeunes adultes ayant la charge plus ou moins quotidienne d’un proche fragilisé par une maladie ou une dépendance, un handicap. Nous avons rencontré 300 lycéens de Charolles et de Paray et plusieurs dizaines de jeunes du territoire et nous voilà parties pour plusieurs mois d’ateliers artistiques qui nous mèneront à la création d’un spectacle en mars. On se découvre, entre secrets bien gardés, paroles dévoilées, entre envies de rencontres et besoin de transformer son futur. Ateliers menés par 7 artistes et Marina De Lajudie, indispensable à la coordination de ce gros projet nécessaire. 
+<p class="intro-text"><a href="jeunes-aidants">Les jeunes aidants / les emmêlés</a>&nbsp;:&nbsp; énorme projet de territoire à la rencontre des jeunes aidants, ados, et jeunes adultes ayant la charge plus ou moins quotidienne d’un proche fragilisé par une maladie ou une dépendance, un handicap. Nous avons rencontré 300 lycéens de Charolles et de Paray et plusieurs dizaines de jeunes du territoire et nous voilà parties pour plusieurs mois d’ateliers artistiques qui nous mèneront à la création d’un spectacle en mars. On se découvre, entre secrets bien gardés, paroles dévoilées, entre envies de rencontres et besoin de transformer son futur. Ateliers menés par 7 artistes et Marina De Lajudie, indispensable à la coordination de ce gros projet nécessaire.</p>
 
 <div class="center-max450-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730812329/Screenshot_of_Finder_at_5_Nov_2024_at_14_11_56_zcya5w.png">
 </div>
 <hr>
-<a href="celles-qui-veillent">Celles qui veillent</a>&nbsp;:&nbsp; on continue de veiller et de visiter en musique avec accordéon des patient.es accompagné.es par nos deux formidables infirmières de Beaubery. Matinées incroyables de réaction, et d’émotions palpables lors de ces concerts personnels, transformant le quotidien. 
+<p class="intro-text"><a href="celles-qui-veillent">Celles qui veillent</a>&nbsp;:&nbsp; on continue de veiller et de visiter en musique avec accordéon des patient.es accompagné.es par nos deux formidables infirmières de Beaubery. Matinées incroyables de réaction, et d’émotions palpables lors de ces concerts personnels, transformant le quotidien. </p>
 
 
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730805679/Screenshot_of_Finder_at_5_Nov_2024_at_12_21_07_dtkxda.png">
 </div>
 
-Un extrait de notre journal de bord&nbsp;:&nbsp; 
+<p class="intro-text">Un extrait de notre journal de bord&nbsp;:&nbsp;</p>
 
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Rendez-vous 8 heures à Beaubery, l’aube n’a pas ouvert l’œil et pourtant, Emilie a déjà visité 9 patients, Estelle a l’accordéon sur le dos et Valérie le stylo et le carnet prêts à dégainer.<br>
@@ -199,19 +197,19 @@ Que de contrastes dans ces différentes maisons ! <br>
 Il est midi passé, elle est sur les routes depuis 6 heures ce matin. Et il s’est déjà passé tant de choses dans cette matinée que c’est presque compliqué de la raconter.
 </cite>
 <hr>
-<a href="une-nouvelle-page">Une nouvelle page à écrire</a>&nbsp;:&nbsp;Ça y est ! nous voilà parties au long cours dans l’expérimentation et l’écriture et la lecture autour du deuil. Découvertes du deuil des autres, et de nos propres deuils qui parfois en camouflent des plus anciens, consignes d’écriture qui permettent d’ouvrir des portes, livres qui font écho et moments au temps suspendu, où l’on prend le temps de s’arrêter pour penser. 
+<p class="intro-text"><a href="une-nouvelle-page">Une nouvelle page à écrire</a>&nbsp;:&nbsp;Ça y est ! nous voilà parties au long cours dans l’expérimentation et l’écriture et la lecture autour du deuil. Découvertes du deuil des autres, et de nos propres deuils qui parfois en camouflent des plus anciens, consignes d’écriture qui permettent d’ouvrir des portes, livres qui font écho et moments au temps suspendu, où l’on prend le temps de s’arrêter pour penser. </p>
 
-Les ateliers sont libres, on vient quand on veut, quand on peut et nous sommes si bien accueillies par la Pimenterie. Encore merci pour cet accueil tellement chaleureux !
+<p class="intro-text">Les ateliers sont libres, on vient quand on veut, quand on peut et nous sommes si bien accueillies par la Pimenterie. Encore merci pour cet accueil tellement chaleureux !</p>
 
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730805403/Screenshot_of_ScreenFloat_at_5_Nov_2024_at_12_16_31_h8ska3.png">
 </div>
 <hr>
-<a href="les-etres-humaines">Les Êtres Humaines</a> vont bientôt prendre la route, car le projet a maintenant de multiples partenaires en Bourgogne Franche-Comté avec lesquels nous allons mener des ateliers artistiques ouverts à des personnes victimes de violences conjugales: Les PEP 71 à Chalon sur Saône, Coop—Agir à Dôle, Solidarité Femmes à Besançon, le Centre Social et l’ECLA et le réseau ViF de Saint-Vallier, le Centre Social de Bourbon-Lancy et encore plein d’autres  venir. La délégation aux Territoires et à la Solidarité (DDETS) de Saône et Loire soutient le projet : un grand merci !
+<p class="intro-text"><a href="les-etres-humaines">Les Êtres Humaines</a> vont bientôt prendre la route, car le projet a maintenant de multiples partenaires en Bourgogne Franche-Comté avec lesquels nous allons mener des ateliers artistiques ouverts à des personnes victimes de violences conjugales: Les PEP 71 à Chalon sur Saône, Coop—Agir à Dôle, Solidarité Femmes à Besançon, le Centre Social et l’ECLA et le réseau ViF de Saint-Vallier, le Centre Social de Bourbon-Lancy et encore plein d’autres  venir. La délégation aux Territoires et à la Solidarité (DDETS) de Saône et Loire soutient le projet : un grand merci !</p>
 
-Des dates de représentations sont déjà prévues pour 2026. 
+<p class="intro-text">Des dates de représentations sont déjà prévues pour 2026. </p>
 <hr>
-<a href="sur-le-seuil">Sur le Seuil</a>&nbsp;:&nbsp; nouveau projet qui aura lieu fin 2025, et que nous avons conçu pour le LAM (Lits d’accueil médicalisé) de Montceau les Mines, géré par l’Association le Pont. Le LAM, lieu d’accueil inconditionnel pour celles et ceux qui n’ont plus rien et que la santé rend encore plus fragile. Sur le Seuil, sera là comme un entre-deux entre dehors et dedans, entre une invitation à entrer et une autre à sortir. 
+<p class="intro-text"><a href="sur-le-seuil">Sur le Seuil</a>&nbsp;:&nbsp; nouveau projet qui aura lieu fin 2025, et que nous avons conçu pour le LAM (Lits d’accueil médicalisé) de Montceau les Mines, géré par l’Association le Pont. Le LAM, lieu d’accueil inconditionnel pour celles et ceux qui n’ont plus rien et que la santé rend encore plus fragile. Sur le Seuil, sera là comme un entre-deux entre dehors et dedans, entre une invitation à entrer et une autre à sortir. </p>
 
 
 
