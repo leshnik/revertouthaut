@@ -25,7 +25,7 @@ Ce projet innovant est financé par Malakoff Humanis et le GIE IMPA/ KALIVI-BFC.
     <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1710944758/to5ldpaxrzhwpqfazbnv.png
     ">
 </div>
-<div class="center-max600-block">
+<div id="dates" class="center-max600-block">
     <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
 </div>
 
