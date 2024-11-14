@@ -42,12 +42,10 @@ Ainsi, se rencontreront sur ce même chemin de création et de transformation, v
 <div class="center-block">
         <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
-    </div>
+</div>
  
- Empreintes sur le chemin a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !
-<div class="center-max600-block">
-<div class="flex-container">
-<div class="column" style="width:75%"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487245/Fas-logo_gbejst.png"> </div>
-
-<div class="column" style="width:25%"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png" > </div>
+<p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
+<div class="right-side-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731571273/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_14_Nov_2024_at_08_58_17_wfiylg.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png">
 </div>
