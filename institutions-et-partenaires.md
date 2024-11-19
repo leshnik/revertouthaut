@@ -97,7 +97,7 @@ summary:
 <br>
 <br>
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/Logo_FAS._FILE_JM_Bruneau_inj76v.png">Fondation JM.Bruneau sous l'égide de Fondations de France
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png">Fondation JM.Bruneau sous l'égide de Fondations de France
 </div>
 <br><br>
 <div class="logo">
