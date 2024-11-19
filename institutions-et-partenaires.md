@@ -89,13 +89,17 @@ summary:
 <br>
 <br>
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1731571118/Screenshot_of_Firefox_Developer_Edition_at_14_Nov_2024_at_08_58_17_rmbltl.png" style="width:300px;">La Fédération des Acteurs de la Solidarité (FAS)</div><br><br><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png" style="width:200px;">La Fédération des Acteurs de la Solidarité (FAS)</div><br><br><br>
 <div class="logo">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png">Fonds Initiatives Locales Contre l'Exclusion financé par la Fondation Bruneau</div>
 <br>
 <br>
 <br>
 <br>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/Logo_FAS._FILE_JM_Bruneau_inj76v.png">Fondation JM.Bruneau sous l'égide de Fondations de France
+</div>
+<br><br>
 <div class="logo">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576911/ALM_1_RGB2400_2C_Format_Office_365_gbzddx.jpg" style="width:300px;">AG2R La Mondiale
 </div>

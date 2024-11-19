@@ -45,7 +45,11 @@ Ainsi, se rencontreront sur ce même chemin de création et de transformation, v
 </div>
  
 <p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
-<div class="right-side-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731571273/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_14_Nov_2024_at_08_58_17_wfiylg.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png">
+
+<div class="center-max600-block">
+    <div class="flex-container">
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png"></div>
+    </div>
 </div>
