@@ -209,6 +209,14 @@ Il est midi passé, elle est sur les routes depuis 6 heures ce matin. Et il s’
 <hr>
 <p class="intro-text"><a href="les-etres-humaines">Les Êtres Humaines</a> vont bientôt prendre la route, car le projet a maintenant de multiples partenaires en Bourgogne Franche-Comté avec lesquels nous allons mener des ateliers artistiques ouverts à des personnes victimes de violences conjugales: Les PEP 71 à Chalon sur Saône, Coop—Agir à Dôle, Solidarité Femmes à Besançon, le Centre Social et l’ECLA et le réseau ViF de Saint-Vallier, le Centre Social de Bourbon-Lancy et encore plein d’autres  venir. La délégation aux Territoires et à la Solidarité (DDETS) de Saône et Loire soutient le projet : un grand merci !</p>
 
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1732960614/LEH-dossier-2024-11-30.png">
+<ul style="text-align:right;list-style-type:none;font-size:1.2rem">
+    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="Dossier de présentation Basse def - Les Etres humaines.pdf" download="Les êtres humaines 2025">●&nbsp;cliquer pour télécharger le dossier</a></li>    
+</ul>
+
+</div>
+
 <p class="intro-text">Des dates de représentations sont déjà prévues pour 2026. </p>
 <hr>
 <p class="intro-text"><a href="sur-le-seuil">Sur le Seuil</a>&nbsp;:&nbsp; nouveau projet qui aura lieu fin 2025, et que nous avons conçu pour le LAM (Lits d’accueil médicalisé) de Montceau les Mines, géré par l’Association le Pont. Le LAM, lieu d’accueil inconditionnel pour celles et ceux qui n’ont plus rien et que la santé rend encore plus fragile. Sur le Seuil, sera là comme un entre-deux entre dehors et dedans, entre une invitation à entrer et une autre à sortir. </p>
