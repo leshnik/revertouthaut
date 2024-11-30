@@ -399,7 +399,7 @@ Encore une dizaine d’interventions à domicile d’ici Noël.</p>
 
 <div class="center-max600-block">
     <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732959420/Screenshot_of_Finder_at_30_Nov_2024_at_10_36_23_xtavm2.png">Clicquer pour télécharger le flyer.</a>">
 </div>
 
 <h3>extraits</h3>
