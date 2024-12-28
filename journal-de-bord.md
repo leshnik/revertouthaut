@@ -4,7 +4,7 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
-<h2>novembre 2024</h2>
+<h2>novembre/décembre 2024</h2>
 <p class="intro-text">Comme vous allez le lire, nous ne nous sommes pas ennuyés durant ces deux mois d’automne et de paysages embrumés. Car entre les projets en cours, les représentations, les bilans et l’organisation de l’année à venir, le temps nous a filé entre les doigts.</p>
 
 <p class="intro-text">Alors, essayons de nous remémorer quelques uns de ces moments.</p>
@@ -82,7 +82,7 @@ BA. réfléchit longtemps, et scie des petits bouts de bois en diagonale. Il pre
 </div> 
 <hr>
 <p class="intro-text">
-<a href="les-etres-humaines">LES ETRES HUMAINES</a>, et voilà le très imposant projet de l’année prochaine ! et qui prend une belle tournure, avec l’organisation de nos cycles d’ateliers ouverts à des personnes victimes de violence conjugale, en partenariat avec des structures locales. Nous commençons aussi à recueillir des témoignages.</p>
+<a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; et voilà le très imposant projet de l’année prochaine ! et qui prend une belle tournure, avec l’organisation de nos cycles d’ateliers ouverts à des personnes victimes de violence conjugale, en partenariat avec des structures locales. Nous commençons aussi à recueillir des témoignages.</p>
 <p class="intro-text">
 En voici un extrait&nbsp;:&nbsp;<br>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
@@ -91,7 +91,7 @@ On peut vraiment aller très loin quand on ne sait pas ce que c’est que d’ê
 Alors qu’en fait, l’amour c’est quand c’est simple.&nbsp;»</cite></p>
 
 <p class="intro-text">
-<a href="les-etres-humaines">LES ETRES HUMAINES</a> va proposer des journées d’ateliers réunissant musique, écriture, dessin, argile, création et recueil de témoignages.  Ces ateliers aboutiront fin 2025 à la création d’un spectacle que nous tournerons sur toute l’année 2026.<br>
+<a href="les-etres-humaines">les êtres humaines</a> va proposer des journées d’ateliers réunissant musique, écriture, dessin, argile, création et recueil de témoignages.  Ces ateliers aboutiront fin 2025 à la création d’un spectacle que nous tournerons sur toute l’année 2026.<br>
 
 Voici les premières dates et lieux organisés des ateliers.</p>
 
@@ -104,7 +104,7 @@ Voici les premières dates et lieux organisés des ateliers.</p>
   <li>Bourbon-Lancy (71), en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 18 au 21 mai 2025</li>
 </ul>
 <p class="intro-text">
-N’hésitez pas à nous contacter si vous êtes intéressées par LES ETRES HUMAINES.</p>
+N’hésitez pas à nous contacter si vous êtes intéressées par LES ÊTRES HUMAINES.</p>
 
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735412353/leh-affiche-2025_ujyjgx.png">
