@@ -5,6 +5,66 @@ summary:
 ---
 <h1>journal de bord</h1>
 <h2>novembre 2024</h2>
+<p class="intro-text">Comme vous allez le lire, nous ne nous sommes pas ennuyés durant ces deux mois d’automne et de paysages embrumés. Car entre les projets en cours, les représentations, les bilans et l’organisation de l’année à venir, le temps nous a filé entre les doigts.</p>
+
+<p class="intro-text">Alors, essayons de nous remémorer quelques uns de ces moments.</p>
+
+<p class="intro-text">En novembre, nous sommes partis sur les routes avec notre troupe de personnes cérébro-lésées habitant&middot;es de la Novelline, avec lesquelles nous sommes allés jouer <a href="maintenant-il-y-a">MAINTENANT IL Y A</a>  aux lycées agricoles de Davayé et de Charolles devant 200 élèves. Très bel accueil et de formidables échanges entre la troupe et les élèves, ce qui nous a bien donné l’envie de continuer d’aller à la rencontre des lycéens avec ce spectacle et tous les messages qu’il contient. 2026 peut-être ?
+A l’invitation du département, nous sommes allés chanter quelques unes de nos chansons lors de la soirée des trophées de l’inclusion le 21 novembre, et là aussi, belle énergie sur scène et très belle réception !</p>
+
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735407900/DSC_6954_trophe%CC%81es-inclusion_cqmfez.jpg">
+</div>
+<hr>
+<p class="intro-text">
+<a href="histoires-de-transmission">HISTOIRES DE TRANSMISSION</a> se poursuit avec de nouvelles rencontres et un premier test, à Cluny, au théâtre, de lecture publique de témoignages de paysans et de leurs enfants, confrontés aux difficultés de la reprise lors des départs à la retraite. Début 2025, nous allons organiser plusieurs collectes de photos et de lectures.</p>
+
+<p class="intro-text">
+Extrait de cette lecture : <br>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+« Si on voulait voir notre père, on allait travailler, passer du temps avec lui sur la ferme. Et c'est vrai que ce soit ma sœur et moi, on y allait très souvent. Les soirs, les week-ends, on a appris à changer une roue de tracteur, à conduire dans les chemins, les prés, les champs… On faisait des travaux d’homme et mon père était presque fier de ça.<br>
+Mon père passait sa vie à la ferme. Les vacances il connaissait pas. Il trouvait toujours des excuses : oh ben non ya les foins, oh ben non ya ceci...<br>
+Enfant, je l’ai pas vécu comme une contrainte. C'était plutôt du plaisir. Mon père nous transmettait des choses et puis on passait du temps avec nos grands-parents qui nous transmettaient eux aussi des choses, enfin c'est tout un ensemble familial de transmissions de valeurs, de savoir-faire, travailler la terre, écouter la nature, l'observer...C'était très nourrissant malgré tout, même si effectivement on n’allait pas forcément jouer avec les copains mais on se nourrissait d'autres choses qui aujourd'hui nous servent encore. <br>
+Mon père aujourd’hui, il a l’âge de la retraite. Mais on n’en parle pas, c’est tabou. Il reste dans sa dynamique de travail et il a comme des œillères. <br>
+Pour lui retraite = mort. On n’est plus bon à rien. <br>
+Mais voilà il est pas prêt et il aurait envie de transmettre comme ses parents lui ont transmis. Et aujourd'hui c'est plus possible. Je pense qu’il sait tout ça, mais sans l’admettre » </cite>
+</p>
+<hr>
+<p class="intro-text"><a href="jeunes-aidants">LES EMMELE&middot;ES</a>, action destinée aux jeunes aidant&middot;es du Charollais-Brionnais qui en est maintenant à la moitié de son parcours. Action que nous menons au sein du Lycée Agricole de Charolles et qui est ouverte à toutes et tous. Ainsi, nous travaillons avec des jeunes accompagnées par les Missions Locales du Charollais, et avec elles, nous préparons pour le mois de mars 25 un spectacle qui va raconter leur jeunesse particulière.</p> 
+
+<p class="intro-text">Extrait d’un témoignage&nbsp;:&nbsp;<br>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+«&nbsp;Aujourd’hui, je vais parler, Je vais parler aux autres, et aussi à moi-même. C’est important, je crois.<br>
+J’ai vingt ans. J’ai un père, une mère, une grande sœur, une petite sœur, un petit frère. Mais c’est moi qui depuis toujours joue le rôle de parent.<br>
+Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un. D’abord de mon père, qui était en fauteuil roulant. Puis de mes sœurs et de mon frère. Et encore aujourd’hui je m’occupe de tout le monde, tout le temps, je fais tout.<br>
+C’est moi qui me lève la nuit, c’est moi qui regarde mes sœurs et mon frère dormir le matin, c’est moi qui leur dis de se lever, c’est moi qui leur demande si ils ont faim, c’est moi qui les amène aux lycées, aux activités, c’est moi qui fait les papiers, les rendez-vous. J’ai grandi en pensant que c’était normal. » </cite></p>
+<div class="center-max600-block">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+ </div>
+<hr>
+<p class="intro-text"><a href="empreintes-sur-le-chemin">EMPREINTES SUR LE CHEMIN</a>, notre action destinée à des personnes exilées, résidant dans le Maconnais en est elle aussi à son mi-parcours, ce qui nous a fait faire un petit décompte : 
+18 séances, 93 personnes accueillies et ayant participé aux ateliers depuis le démarrage, en mai dernier. 93 rencontres, adultes, parents, enfants, et le monde réuni pour des après-midis où la création, les mains, l’argile, la couleur, le tissu, le bois parlent et se comprennent. 
+Après la pause des vacances, les ateliers redémarrent en janvier et aboutiront à la création d’un spectacle en juin 2025.</p>
+<p class="intro-text">
+Extrait d’un journal de bord&nbsp;:&nbsp;<br>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;"> 
+Aujourd’hui, au programme : visseuse, perceuse, disqueuse, scies de toutes sortes et petits rondins de bois à assembler et éventuellement à peindre, dans l’idée de créer un mini totem, quelque chose qui signifie la force, la protection.<br>
+Nous arrivons donc avec des caisses d’outils et des morceaux de bois déjà pré-sciés.<br> 
+Sont arrivés très tôt nos habituées, les fidèles A. et T.  qui comme à leurs habitudes créent très rapidement et filent retrouver leurs enfants.<br> 
+Quatre nouveaux : R., tout en nerfs, parlant russe mais arrivant à se faire bien comprendre par des sons, des gestes décidés ; B., géorgienne, elle aussi bien déterminée et habile avec les outils, ce n’est pas une pauvre perceuse qui va lui faire peur ; L., casque sur les oreilles qu’il retire au bout d’un certain temps, qui sera lui aussi bien actif et qui formera un binome avec son voisin. 
+Richard, notre artiste vannier et bricoleur de génial propose de venir chercher des morceaux de bois, de les choisir.<br>
+A. se lève d’un bond, avec déjà une idée en tête : son totem, ce sera sa fille, la belle N., qu’elle représente bien droite et toute de rouge vêtue. T., elle crée un totem école, un bâtiment pour écoliers, dont les portes sont des pages de livres ouverts. Elle amènera avec elle sa petite école portative et colorée pour la donner à quelqu’un a-t-elle dit.<br>
+P. est dans son élément avec les éléments, voici donc un croissant de lune et le soleil, se rencontrant pour une fois, sur son totem jaune, vert et bleu.<br>
+B., sa voisine de table, transforme son totem et celui ci devient un bateau à voile, voguant sous un soleil ardent., B. était très active, et a d’elle-même demander une feuille pour rajouter une voile à son bateau. Avec une voile, on va plus vite et plus loin.</cite>
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735409665/1732870660750_mabufv.jpg">
+</div>
+<p class="intro-text">
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+BA. réfléchit longtemps, et scie des petits bouts de bois en diagonale. Il prend son temps et laisse toujours passer son tour pour avoir les outils. BA dont je me dis, tant il est expert pour ne rien réclamer, qu’il a dû souvent manger le dernier et manger ce qui restait aux fonds des plats quand il était enfant. R. et ses nerfs en pelote, et son impatience devant le temps, devant les outils, se sont lancés dans une structure qui tient debout et qui ressemble mi à une croix, mi à un humain, qu’il visse avec acharnement et qu’il entoure de laine, presque à l’étouffer…</cite></p>
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735409649/1732870660743_fetkis.jpg">
+</div>
 <p class="intro-text"> Et bonne nouvelle ! <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
 
 <div class="center-max600-block">
@@ -14,6 +74,42 @@ summary:
         <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png"></div>
     </div>
 </div>
+<hr>
+<p class="intro-text">
+<a href="une-nouvelle-page">UNE NOUVELLE PAGE A ECRIRE</a>, nos ateliers d’écriture autour du deuil eux aussi sont des très bons moments d’échanges et de création personnelle, collective, lue, gardée, secrète, retravaillée plus tard. Des liens s’y nouent. Ce ne sera pas un atelier facile à arrêter, c’est sûr, tant ce qui s’y joue est sincère, léger, profond, unique. Heureusement nous avons encore des séances début 2025. Les voici, et elles sont toujours ouvertes à des personnes nouvelles.</p>
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
+</div> 
+<hr>
+<p class="intro-text">
+<a href="les-etres-humaines">LES ETRES HUMAINES</a>, et voilà le très imposant projet de l’année prochaine ! et qui prend une belle tournure, avec l’organisation de nos cycles d’ateliers ouverts à des personnes victimes de violence conjugale, en partenariat avec des structures locales. Nous commençons aussi à recueillir des témoignages.</p>
+<p class="intro-text">
+En voici un extrait&nbsp;:&nbsp;<br>
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+«&nbsp;Je n’ai pas connu la douceur dans ma vie d’enfant. Alors dans ma vie d’adulte, non plus. Car ça a un impact, l’enfance dans le mensonge, dans le foutraque. Je n’avais aucune idée de ce qu’était l’amour. Je pensais que l’amour, c’était une compet, que c’était des conflits, et même que c’était des coups. Et je pensais que dans l’amour, je devais être forcément décevante et pas à la hauteur. Et je suis allée très loin là-dedans, j’ai eu des côtes cassées, j’ai eu des coups de pieds dans le ventre, enceinte.<br>
+On peut vraiment aller très loin quand on ne sait pas ce que c’est que d’être aimé.<br>
+Alors qu’en fait, l’amour c’est quand c’est simple.&nbsp;»</cite></p>
+
+<p class="intro-text">
+<a href="les-etres-humaines">LES ETRES HUMAINES</a> va proposer des journées d’ateliers réunissant musique, écriture, dessin, argile, création et recueil de témoignages.  Ces ateliers aboutiront fin 2025 à la création d’un spectacle que nous tournerons sur toute l’année 2026.<br>
+
+Voici les premières dates et lieux organisés des ateliers.</p>
+
+<ul class="institutions">
+  <li>Chalon sur Saône (71), en partenariat avec les PEP 71, du 18 au 22 mars 2025</li>
+  <li>Besançon (25), en partenariat avec Solidarité Femmes 25, du 8 au 12 avril 2025</li>
+  <li>Saint Vallier (71), en partenariat avec le Centre Social de Saint-Vallier, le réseau VIF du Bassin Minier et la salle de spectacle l’Ecla, du 15 au 19 avril 2025</li>
+  <li>Chalon sur Saône (71), en partenariat avec les PEP 71, du 22 au 26 avril 2025</li>
+  <li>Dôle (39), en partenariat avec Coop-Agir, du 13 au 17 mai 2025</li>
+  <li>Bourbon-Lancy (71), en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 18 au 21 mai 2025</li>
+</ul>
+<p class="intro-text">
+N’hésitez pas à nous contacter si vous êtes intéressées par LES ETRES HUMAINES.</p>
+
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735412353/leh-affiche-2025_ujyjgx.png">
+</div>
+
 
 <h2>octobre 2024</h2>
 <p class="intro-text">Voici l’automne arrivé à vive allure, avec notre récolte de projets achevés, démarrés, développés, imaginés… </p>
