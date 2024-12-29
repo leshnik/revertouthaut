@@ -6,7 +6,7 @@ summary:
 <h1>journal de bord</h1>
 <h2>novembre/décembre 2024</h2>
 <p class="intro-text">
-Tout d'abord, pour terminer l'année et démarrer la nouvelle avec un peu de douceur, voici à écouter une de nos chansons composées en 2024, pour et avec les résident.es du Clos Lamartine à Cluny. Elle s'appelle «&nbsp;La liste des choses à ne pas oublier&nbsp;»
+Tout d'abord, pour terminer l'année et démarrer la nouvelle avec un peu de douceur, voici à écouter une de nos chansons composées en 2024, pour et avec les résident.es du Clos Lamartine à Cluny. Elle s'appelle «&nbsp;La liste des choses à ne pas oublier&nbsp;» et fait partie du projet&nbsp;:&nbsp;<a href="chansons-de-mes-quatre-saisons">chansons de mes quatre saisons</a>.
 Bonne écoute&nbsp;!<br>
 <audio src="https://rth8.b-cdn.net/la%20liste%20des%20choses%20a%CC%80%20ne%20pas%20oublier.m4a" controls></audio>
 </p>
