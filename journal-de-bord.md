@@ -5,6 +5,11 @@ summary:
 ---
 <h1>journal de bord</h1>
 <h2>novembre/décembre 2024</h2>
+<p class="intro-text">
+Tout d'abord, pour terminer l'année et démarrer la nouvelle avec un peu de douceur, voici à écouter une de nos chansons composées en 2024, pour et avec les résident.es du Clos Lamartine à Cluny. Elle s'appelle «&nbsp;La liste des choses à ne pas oublier&nbsp;»
+Bonne écoute&nbsp;!<br>
+<audio src="https://rth8.b-cdn.net/la%20liste%20des%20choses%20a%CC%80%20ne%20pas%20oublier.m4a" controls></audio>
+</p>
 <p class="intro-text">Comme vous allez le lire, nous ne nous sommes pas ennuyés durant ces deux mois d’automne et de paysages embrumés. Car entre les projets en cours, les représentations, les bilans et l’organisation de l’année à venir, le temps nous a filé entre les doigts.</p>
 
 <p class="intro-text">Alors, essayons de nous remémorer quelques uns de ces moments.</p>

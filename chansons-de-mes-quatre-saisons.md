@@ -15,10 +15,11 @@ L’objectif était de pouvoir, par le jeu des mots et des rimes, et par des éc
 <p class="intro-text">Quelques uns des textes: </p>
 
 <h3>la liste des choses à ne jamais oublier</h3>
+<audio controls src="https://rth8.b-cdn.net/la%20liste%20des%20choses%20a%CC%80%20ne%20pas%20oublier.m4a"></audio>
 <p class="quote">
 Je garde toujours sur moi <br>
 sur un bout de papier <br>
-la liste des choses à ne jamais oublier<br>
+la liste des choses à ne pas oublier<br>
  <br>
 le soleil couchant sur la butte de Suin<br>
 mes pieds nus<br>
@@ -29,7 +30,7 @@ autour des cartes à jouer, les voisins<br>
  <br>
 Je garde toujours sur moi <br>
 sur un bout de papier <br>
-la liste des choses à ne jamais oublier<br>
+la liste des choses à ne pas oublier<br>
  <br>
 Cortambert<br>
 ma maison, ses volets ouverts<br>
@@ -42,7 +43,7 @@ bordés par les nuages<br>
  <br>
 Je garde toujours sur moi <br>
 sur un bout de papier <br>
-la liste des choses à ne jamais oublier<br>
+la liste des choses à ne pas oublier<br>
  <br>
 les rues de Paris<br>
 et la Place d’Italie<br>
@@ -56,11 +57,12 @@ et de nuits étoilées<br>
  <br>
 Je garde toujours sur moi <br>
 sur un bout de papier <br>
-la liste des choses à ne jamais oublier<br>
+la liste des choses à ne pas oublier<br>
  <br>
 les choses les plus précieuses sont celles qu’on ne peut déménager <br>
 
 <h3>je n'aime pas les dimanches</h3>
+<audio controls src="https://rth8.b-cdn.net/je%20n'aime%20pas%20les%20dimanches.m4a"></audio>
 <p class="quote">je n’aime pas les dimanches<br>
 ni les vacances d’été<br>
 j’n’aime pas les jours fériés<br>
