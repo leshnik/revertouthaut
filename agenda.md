@@ -5,18 +5,8 @@ summary:
 ---
 <h1>agenda</h1>
 <ul class="institutions">
-    <li>
-        2024/2025 <a href="les-etres-humaines">les êtres humaines</a>&nbsp;:&nbsp; reprise dans une nouvelle version de notre spectacle autour de la violence conjugale.
-            <div class="center-max600-block">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687447311/leh2024affiche_vh65jq.png">
-            </div>
-    </li>
-    <hr>
-    <li>Tout 2024: Recueil de témoignages pour la réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a>, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire. Si vous souhaitez témoigner, vous pouvez nous contacter: coordination.revertouthaut@gmail.com / 07 82 16 11 16
-    </li>
-<hr>
-    <li>
-        De mai 2024 à juin 2025, auront lieu les ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> sur les traces laissés par l'enfance, l'exil et les rencontres.
+    <li>20 juin 2025 à Mâcon <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;restitution publique
+        <p class="intro-text">De mai 2024 à juin 2025, auront lieu les ateliers  sur les traces laissés par l'enfance, l'exil et les rencontres.</p>
         <div class="flex-container">
             <div class="column">
             <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718169486/empreintes-flyer-p1-2024-06-12_n0sit3.png">
@@ -28,15 +18,72 @@ summary:
         </div>
     </li>
 <hr>
+      <li>
+      11 mars 2025 à Charolles, 13 mars 2025 à La Clayette&nbsp;:&nbsp;<a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a> présentations publiques
+      <p class="intro-text">Action destinée aux jeunes aidant&middot;es du Charollais-Brionnais que nous menons au sein du Lycée Agricole de Charolles et qui est ouverte à toutes et tous. Ainsi, nous travaillons depuis septembre 2024 avec des jeunes accompagnées par les Missions Locales du Charollais, et avec elles, nous préparons pour le mois de mars 2025 un spectacle qui va raconter leur jeunesse particulière.</p>
+      <p class="intro-text">
+        <a href="https://www.billetweb.fr/seance-scolaire-spectacle-les-emmeles" rel="noopener noreferrer" target="_blank">Réservations sur billetweb</a>
+      </p>
+      <div class="center-max600-block">
+           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+      </div>
+    </li>
+    <hr>
     <li>
-        Lundi 18 Novembre 2024: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Davayé, dans le cadre de la Semaine de l’Inclusion
+      14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
+      <p class="intro-text">Suite de nos ateliers d'écriture autour du deuil.</p>
+      <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
+      </div>
+
+    <hr>
+    <li>
+        2025/2027&nbsp;:&nbsp; <a href="les-etres-humaines">les êtres humaines</a>
+        <p class="intro-text">Reprise dans une nouvelle version de notre spectacle autour de la violence conjugale. Avec le soutien du Fonds Social Européen.</p>
+            <div class="center-block">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+            </div>
+            <div class="center-max600-block">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
+            </div>
+    </li>
+    <hr>
+    <li>2022 - 2025&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
+    <p class="intro-text">Recueil de témoignages pour la réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a>, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire. Si vous souhaitez témoigner, vous pouvez nous contacter: coordination.revertouthaut@gmail.com / 07 82 16 11 16</p>
+    <div class="center-max600-block" style="border: 1px solid grey">
+<a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
+</div>
+
+        <p class="intro-text">
+        Projet soutenu par la MSA.
+        </p>
+         
+    </li>
+<hr>
+
+    <li>
+        Jeudi 21 novembre 2024&nbsp;:&nbsp; participation à la soirée des trophées de l’inclusion, Chatenoy-le-Royale<br>
+        Mardi 19 novembre 2024&nbsp;:&nbsp;<a href="maintenant-il-y-a">maintenant il y a</a>, réprésentation au lycée Agricole de Charolles
         <br>
-        Mardi 19 Novembre 2024: représentation de <a href="maintenant-il-y-a">maintenant il y a</a>, au lycée Agricole de Charolles, dans le cadre de la Semaine de l’Inclusion
-        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">      
-        </div>
-        Séances scolaires, mais quelques places seront ouvertes aux personnes de l'extérieur.  
+        Lundi 18 novembre 2024&nbsp;:&nbsp;<a href="maintenant-il-y-a">maintenant il y a</a>, représentation au lycée Agricole de Davayé
+        <p class="intro-text">Séances scolaires dans le cadre de la Semaine de l'Inclusion ; mais quelques places seront ouvertes aux personnes de l'extérieur.  
         Contact réservation: coordination.revertouthaut@gmail.com / 07 82 16 11 16
+        </p>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730711052/Screenshot_of_Finder_at_4_Nov_2024_at_10_03_25_iwtdol.png">      
+        </div>
+        
+        <br>
+        
+    </li>
+    <hr>
+    <li> 
+        Samedi 28 septembre 2024, à 14h&nbsp;:&nbsp; <a href="brins-d-histoires">Brins D’Histoire</a> Inauguration publique
+        <p class="intro-text">L'inauguration aura lieu dans le cadre enchanteur du parc du site de Ferreuil, au sein des Papillons Blancs, à Paray-le-Monial.</p>
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1726482897/inauguration-brins_z88ugs.png">
+        </div>
+
     </li>
     <hr>
     <li>
@@ -57,19 +104,22 @@ summary:
             ">
             </div>
             <div class="column">
-                <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
+                <a href="une-nouvelle-page#dates"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png" alt="mercredi 25 septembre de 15h à 17h, samedi 5 octobre de 15h à 17h, lundi 14 octobre de 18h30 à 20h30, lundi 28 octobre de 10h à 12h, mardi 12 novembre de 14h30 à 16h30, samedi 30 novembre de 10h à 12h, vendredi 13 decembre de 18h30 à 21h (apéro partagé), 2025: dates à venir"></a>
             </div>
         </div>
         Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
     </li>
     <hr>
     <li>
-        Mardi 9 juillet 2024, intervention de Valérie Gaudissart, en tant que conceptrice d’ateliers à médiations artistiques pour la journée de formation organisée par <a href="http://www.itinerairessinguliers.com/#">Itineraires Singuliers</a>.<br>
-        Lien pour s'inscrire à la <a href="https://docs.google.com/forms/d/e/1FAIpQLSeG9ARWbzVRmZemwStgQMftb4FMYtk7ce1Hkad4ve007-MdbA/viewform?pli=1">Journée de Formation et d'Information sur le dispositif "Culture-Santé" financé par la DRAC et l'ARS à Mâcon (71)</a>
+      Samedi 17 août 2024 à Saint Ythaire&nbsp;:&nbsp; <a href="ados-en-chemin">Ados et Chevaux en Chemin</a>
+      <p class="intro-text"> Spectacle crée pour et avec la Compagnie Les Chevaux Céleste, Céleste Solsona et ses équipières, à la suite d’une longue randonnée de trois semaines en montagne avec deux chevaux et une mule. Cette rando, qui a vu 3 adolescentes, enfants placés en foyers ou familles d’accueil, et 4 femmes adultes parcourir un long chemin de crête intérieur et montagneux.</p>
+      <div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724318891/ScreenFloat/ados-et-cheveaux-affiche.png">
+</div>
     </li>
     <hr>
     <li>
-        Vendredi 28 2024 juin, <a href="chansons-de-mes-quatre-saisons">Chansons de mes quatre saisons</a>, spectacle musical et chansons composées pour et par les résidents du Clos Lamartine à Cluny.
+        Vendredi 28 juin 2024 , <a href="chansons-de-mes-quatre-saisons">Chansons de mes quatre saisons</a>, spectacle musical et chansons composées pour et par les résidents du Clos Lamartine à Cluny.
     </li>
     <hr>
     <li>
