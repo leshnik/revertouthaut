@@ -111,7 +111,7 @@ le monde, ce soir,  s’endormira tranquille »</cite></p>
 
 E., comme à son habitude, est concentrée sur ce qu’elle fait et c’est particulièrement le cas aujourd’hui. Les traits de son tableau, sont fins, précis, artistiques. Elle dira qu’elle a commencé par  peindre en noir une forme bien visible, en pensant à ce que t’a dit une amie en parlant d’elle : elle est « tough », dure, solide. Mais E. ne se voit pas comme ça, alors elle a rajouté à son tableau des couleurs dorées, plus douces et plus fragiles. »</cite></p>
 
-<div class="center-max8-450-block">
+<div class="center-max450-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736093047/plat-a%CC%80-tarte-pinceau_glntcz.jpg">
 </div>
 <h5>12ème séance, 17 octobre 2024</h5>
