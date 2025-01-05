@@ -17,6 +17,38 @@ du Charolais-Brionnais 2024-2025</h2>
                 <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
         </div>
 </div>
+<p class="intro-text">Depuis mars 2024, Rêver Tout Haut mène cette action destinée à des jeunes aidants du département et plus particulièrement aux jeunes aidants vivant en milieu rural, dans le Charollais Brionnais.</p> 
+
+<p class="intro-text">Mais d’abord, qui est jeune aidant&middot;e ? C’est un&middot;e jeune, un ado, un enfant qui a dans le quotidien la charge d’une personne, d’un&middot;e proche fragilisé&middot;e par un handicap, une maladie, une addiction. C’est un&middot;e jeune, un&middot;e ado, un&middot;e enfant qui peut avoir du fait de cette position dans sa famille un vécu, une scolarité, une maturité, des responsabilités différentes des autres enfants.</p>
+
+<p class="intro-text">L’action, étant entièrement nouvelle dans le département, et même la région, Rêver Tout Haut a dans un premier temps pris contact avec une centaine de structures accompagnant des jeunes (service jeunesse, missions locales, lycées, etc…), et a proposé des journées d’informations au Lycée Agricole et au Lycée Wittmer de Charolles, au Lycée du Sacré Cœur de Paray le Monial, là où des élèves suivent des formations en Aide à la Personne, sachant que dans ces filières, les aidant.es familiaux y sont fortement représentés.</p> 
+
+<p class="intro-text">Puis depuis septembre 2024, au Lycée Agricole de Charolles, nous menons chaque mercredi un atelier ouvert à tous les jeunes aidant&middot;es, scolarisé&middot;es ou non. 
+Il leur est proposé durant ces ateliers, outre de s’accorder un temps de liberté, de pratiquer musique, danse, écriture.
+Les ateliers sont menés par plusieurs artistes : Flore Simon, Elsa Trouche, comédiennes, Morton Potash, compositeur, Sidonie Dubosc, chanteuse, Naïma Ferré, danseuse et Valérie Gaudissart, autrice.
+La coordination de toute l’action est menée par Marina De Lajudie. 
+Vous pouvez la contacter pour toute information ou demande : 
+07 82 16 11 16
+coordination.revertouthaut@gmail.com</p>
+
+<p class="intro-text">C’est à partir de ces ateliers et de leurs témoignages qu’est en train de naitre un spectacle, qui sera joué par eux avec les artistes professionnel.les en mars 2025</p>
+
+<p class="intro-text">La classe de BTS SP3S du Lycée du Sacré Cœur de Paray le Monial est chargée de la communication autour des représentations. Merci à elle !</p>
+
+<div class="center-max600-block">
+           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+      </div>
+
+<p class="intro-text">Un extrait de témoignage&nbsp;:&nbsp;<br> 
+<cite style="line-height: 1.5rem;letter-spacing:.13rem;">
+«&nbsp;Aujourd’hui, je vais parler, Je vais parler aux autres, et aussi à moi-même. C’est important, je crois. J’ai vingt ans. J’ai un père, une mère, une grande soeur, une petite soeur, un petit frère. Mais c’est moi qui depuis toujours joue le rôle de parent. 
+Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un. D’abord de mon père, qui était en fauteuil roulant. Puis de mes soeurs et de mon frère. Et encore aujourd’hui je m’occupe de tout le monde, tout le temps, je fais tout.&nbsp;»
+</cite></p>
+
+
+
+
+
  
 <p class="intro-text">Les emmêlé&middot;es est un projet social et artistique destiné à des jeunes aidants, de 10 à 25 ans, vivant sur le territoire rural du Charolais-Brionnais en Saône et Loire, qui prennent en charge, se sentent responsable, prennent soin, sont en souci d’un de leurs proches, un parent, un frère, une sœur, porteur.se de handicap ou de maladies, parfois même sans en prendre conscience, tant les liens familiaux se sont instaurés de manière naturelle, parfois depuis la naissance, ou se sont transformés progressivement avec le temps.</p>
  
