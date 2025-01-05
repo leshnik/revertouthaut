@@ -26,9 +26,10 @@ du Charolais-Brionnais 2024-2025</h2>
 <p class="intro-text">Puis depuis septembre 2024, au Lycée Agricole de Charolles, nous menons chaque mercredi un atelier ouvert à tous les jeunes aidant&middot;es, scolarisé&middot;es ou non. 
 Il leur est proposé durant ces ateliers, outre de s’accorder un temps de liberté, de pratiquer musique, danse, écriture.
 Les ateliers sont menés par plusieurs artistes : Flore Simon, Elsa Trouche, comédiennes, Morton Potash, compositeur, Sidonie Dubosc, chanteuse, Naïma Ferré, danseuse et Valérie Gaudissart, autrice.
-La coordination de toute l’action est menée par Marina De Lajudie. 
-Vous pouvez la contacter pour toute information ou demande : 
-07 82 16 11 16
+
+<p class="intro-text">La coordination de toute l’action est menée par Marina De Lajudie. 
+Vous pouvez la contacter pour toute information ou demande&nbsp;:&nbsp;<br> 
+07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
 coordination.revertouthaut@gmail.com</p>
 
 <p class="intro-text">C’est à partir de ces ateliers et de leurs témoignages qu’est en train de naitre un spectacle, qui sera joué par eux avec les artistes professionnel.les en mars 2025</p>
@@ -44,7 +45,7 @@ coordination.revertouthaut@gmail.com</p>
 «&nbsp;Aujourd’hui, je vais parler, Je vais parler aux autres, et aussi à moi-même. C’est important, je crois. J’ai vingt ans. J’ai un père, une mère, une grande soeur, une petite soeur, un petit frère. Mais c’est moi qui depuis toujours joue le rôle de parent. 
 Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un. D’abord de mon père, qui était en fauteuil roulant. Puis de mes soeurs et de mon frère. Et encore aujourd’hui je m’occupe de tout le monde, tout le temps, je fais tout.&nbsp;»
 </cite></p>
-
+<hr>
 
 
 
