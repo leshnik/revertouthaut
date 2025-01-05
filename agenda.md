@@ -5,8 +5,9 @@ summary:
 ---
 <h1>agenda</h1>
 <ul class="institutions">
-    <li>20 juin 2025 à Mâcon <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;restitution publique
-        <p class="intro-text">De mai 2024 à juin 2025, auront lieu les ateliers  sur les traces laissés par l'enfance, l'exil et les rencontres.</p>
+    <li>20 juin 2025 à Mâcon <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.
+        <p class="intro-text">De mai 2024 à juin 2025, sont proposés à des personnes exilées, enfants et adultes, accompagnées par les CADA le Pont et Adoma à Mâcon, des cycles d’ateliers créatifs. A partir des rencontres faites pendant ces ateliers, sera créé un spectacle, qui réunira certaines des personnes exilées et les artistes Sidonie Dubosc, Valérie Gaudissart, Romane Lasserre et Tahia Strika. Le spectacle fera le récit de cette nouvelle vie à construire quand on a dû quitter son pays, ses racines et ses lieux d’enfance.</p>
+        <p class="intro-text">Action soutenue par la Fondation de France, la Direction Départementale aux Solidarités, la DRAC Bourgogne Franche-Comté et la Fédération des Acteurs de la Solidarité,</p>
         <div class="flex-container">
             <div class="column">
             <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718169486/empreintes-flyer-p1-2024-06-12_n0sit3.png">
@@ -19,8 +20,14 @@ summary:
     </li>
 <hr>
       <li>
-      11 mars 2025 à Charolles, 13 mars 2025 à La Clayette&nbsp;:&nbsp;<a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a> présentations publiques
-      <p class="intro-text">Action destinée aux jeunes aidant&middot;es du Charollais-Brionnais que nous menons au sein du Lycée Agricole de Charolles et qui est ouverte à toutes et tous. Ainsi, nous travaillons depuis septembre 2024 avec des jeunes accompagnées par les Missions Locales du Charollais, et avec elles, nous préparons pour le mois de mars 2025 un spectacle qui va raconter leur jeunesse particulière.</p>
+      11 mars 2025 à Charolles, 13 mars 2025 à La Clayette&nbsp;:&nbsp;<a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a> présentations publiques et spectacle autour des jeunes aidants.
+      <p class="intro-text">De septembre 2024 à mars 2025 ont lieu à Charolles, au Lycée Agricole, des ateliers créatifs destinés à des jeunes aidant.es du territoire du Charollais-Brionnais. Nous préparons avec eux et elles un spectacle qui relatera de leur enfance et adolescence singulière, faite de responsabilités au quotidien.</p>
+      <p class="intro-text">Action soutenue par AG2R, le Conseil Départemental de Saône et Loire, le Fonds de Développement à la Vie Associative 71, le Conseil Régional de Bourgogne Franche-Comté et la Mutuelle Sociale Agricole.</p>
+      <p class="intro-text">Pour de plus amples renseignements&nbsp;:&nbsp;<br>
+        Marina&nbsp;De&nbsp;Lajudie,<br>
+        07&nbsp;82&nbsp;16&nbsp;11&nbsp;16,<br>
+        coordination.revertouthaut@gmail.com
+        </p>
       <p class="intro-text">
         <a href="https://www.billetweb.fr/seance-scolaire-spectacle-les-emmeles" rel="noopener noreferrer" target="_blank">Réservations sur billetweb</a>
       </p>
@@ -31,33 +38,56 @@ summary:
     <hr>
     <li>
       14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
-      <p class="intro-text">Suite de nos ateliers d'écriture autour du deuil.</p>
+      <p class="intro-text">Suite, dans une ambiance créative et bienveillante de nos ateliers d'écriture autour du deuil ouverts à toute personne de mettre en travail, pas le biais des mots, son ou ses expériences du deuil, de ses multiples formes, qu’il soit proche ou lointain.</p> 
+      <p class="intro-text">Action soutenue par Kalivi et Malakoff Humanis.</p>
+      <p class="intro-text">Pour de plus amples renseignements&nbsp;:&nbsp;<br>
+        Marina&nbsp;De&nbsp;Lajudie,<br>
+        07&nbsp;82&nbsp;16&nbsp;11&nbsp;16,<br>
+        coordination.revertouthaut@gmail.com
+        </p>
       <div class="center-max600-block">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
       </div>
-
+    </li>
     <hr>
     <li>
         2025/2027&nbsp;:&nbsp; <a href="les-etres-humaines">les êtres humaines</a>
-        <p class="intro-text">Reprise dans une nouvelle version de notre spectacle autour de la violence conjugale. Avec le soutien du Fonds Social Européen.</p>
+        <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<p>  
+        <p class="intro-text">Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités.</p>
+        <p class="intro-text">Quelques dates à retenir pour la tenue des ateliers :
+        <ul>
+          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 18 au 22 mars 2025</li>
+          <li>Besançon, en partenariat avec Solidarité Femmes 25, du 8 au 12 avril 2025</li>
+          <li>Saint Vallier, en partenariat avec le Centre Social de Saint-Vallier, le réseau VIF du Bassin Minier et la salle de spectacle l’Ecla, du 15 au 19 avril 2025</li>
+          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 22 au 26 avril 2025</li>
+          <li>Dôle, en partenariat avec Coop-Agir, du 13 au 17 mai 2025</li>
+          <li>Bourbon-Lancy, en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 18 au 21 mai 2025</li>
+          <li>Macon, en partenariat avec le Centre Social des Blanchettes et les 3 autres centres sociaux de la ville, en mai 2025 (dates à préciser)</li>
+        </ul>
+        <p class="intro-text">Pour de plus amples renseignements&nbsp;:&nbsp;<br> 
+        Valérie Gaudissart, metteuse en scène,<br>
+        07&nbsp;69&nbsp;29&nbsp;53&nbsp;27,<br>
+        revertouthaut@gmail.com<br><br>
+        Aurélie Loutan, chargée de diffusion,<br>
+        06&nbsp;10&nbsp;16&nbsp;66&nbsp;84,<br>
+        lesetreshumaines@gmail.com</p>
             <div class="center-block">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
             </div>
             <div class="center-max600-block">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
             </div>
-    </li>
     <hr>
     <li>2022 - 2025&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
-    <p class="intro-text">Recueil de témoignages pour la réalisation d’un film photographique, <a href="histoires-de-transmission">histoires de transmission</a>, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire. Si vous souhaitez témoigner, vous pouvez nous contacter: coordination.revertouthaut@gmail.com / 07 82 16 11 16</p>
+    <p class="intro-text">Samedi 15 février 2025 de 14hà 18h, à Cluny, à la Galerie Les Mains Libres, collecte de photos et rencontres avec la photographe Lucie Moraillon et l’autrice Valérie Gaudissart</p>
+    <p class="intro-text">Recueil de témoignages pour la réalisation d’un film photographique, histoires de transmission, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</p> 
+    <p class="intro-text">Si vous souhaitez témoigner, vous pouvez nous contacter&nbsp;:&nbsp; revertouthaut@gmail.com / 07&nbsp;69&nbsp;29&nbsp;53&nbsp;27</p>
     <div class="center-max600-block" style="border: 1px solid grey">
 <a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
 </div>
-
-        <p class="intro-text">
-        Projet soutenu par la MSA.
-        </p>
-         
+    <p class="intro-text">
+    Projet soutenu par la MSA.
+    </p>     
     </li>
 <hr>
 
