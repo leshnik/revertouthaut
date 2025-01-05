@@ -160,7 +160,8 @@ Puis il s’en va, avant les autres, il a tout donné, on dirait. »</cite></p>
         <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png"></div>
     </div>
     <div class="flex-container">
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png" style="width:10rem;"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png" style="width:8rem;"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png" style="width:12rem;"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png"></div>
     </div>
 </div>
