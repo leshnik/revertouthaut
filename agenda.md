@@ -38,7 +38,7 @@ summary:
     <hr>
     <li>
       14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
-      <p class="intro-text">Suite, dans une ambiance créative et bienveillante de nos ateliers d'écriture autour du deuil ouverts à toute personne désireuse de mettre en travail, pas le biais des mots, son ou ses expériences du deuil, de ses multiples formes, qu’il soit proche ou lointain.</p> 
+      <p class="intro-text">Suite, dans une ambiance créative et bienveillante de nos ateliers d'écriture autour du deuil ouverts à toute personne désireuse de mettre en travail, par le biais des mots, son ou ses expériences du deuil, de ses multiples formes, qu’il soit proche ou lointain.</p> 
       <p class="intro-text">Action soutenue par Kalivi et Malakoff Humanis.</p>
       <p class="intro-text">Pour de plus amples renseignements&nbsp;:&nbsp;<br>
         Marina&nbsp;De&nbsp;Lajudie,<br>
