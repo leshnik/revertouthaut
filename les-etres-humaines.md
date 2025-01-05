@@ -48,7 +48,55 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
 </div>
 
-<p class="intro-text">C’est un spectacle qui a déjà une histoire et qui, chargé de celle-ci, se remet en mouvement et en création en 2025, avec le soutien du Fonds Social Européen. </p>
+<p class="intro-text">C’est un spectacle qui a déjà une histoire et qui, chargé de celle-ci, se remet en mouvement et en création en 2025, avec le soutien du Fonds Social Européen, de la Délégation Départementale aux Solidarités 71. Le projet est porté par <span class="rever-typog">rêver tout haut</span> conjointement avec l’association ILS SCENENT&nbsp;:&nbsp;</p>
+<div class="center-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721580078/logo_ils_scenent_wjbd7o.png" style="width:10rem;">
+</div>
+
+
+<p class="intro-text">Mais tout d’abord, avant de vous raconter son origine, voici l’actualité 2025 des ETRES HUMAINES, qui va se déployer sur 3 départements : la Saône et Loire, le Doubs et la Jura.</p> 
+
+<p class="intro-text">Au printemps 2025, seront proposés en partenariat avec des structures d’accompagnement et des structures socio-culturelles, et les Réseaux VIF, 7 cycles d’ateliers artistiques. </p>
+
+<p class="intro-text">Ces ateliers proposeront musique, écriture, argile, peinture, art-thérapie, collage, argile, chant, écriture et recueils de témoignages. Ils se tiendront sur plusieurs jours, seront ouverts toute la journée et seront animés par une équipe d’intervenants artistiques. Ils sont ouverts aux adultes, aux jeunes et aux enfants. Ces moments d’échanges vont permettre des rencontres et de commencer à transformer par le biais créatif, les expériences vécues. </p>
+
+<p class="intro-text">Voici les dates et lieux des ateliers&nbsp;:&nbsp; 
+ <ul class="institutions">
+          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 18 au 22 mars 2025</li>
+          <li>Besançon, en partenariat avec Solidarité Femmes 25, du 8 au 12 avril 2025</li>
+          <li>Saint Vallier, en partenariat avec le Centre Social de Saint-Vallier, le réseau VIF du Bassin Minier et la salle de spectacle l’Ecla, du 15 au 19 avril 2025</li>
+          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 22 au 26 avril 2025</li>
+          <li>Dôle, en partenariat avec Coop-Agir, du 13 au 17 mai 2025</li>
+          <li>Bourbon-Lancy, en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 18 au 21 mai 2025</li>
+          <li>Macon, en partenariat avec le Centre Social des Blanchettes et les 3 autres centres sociaux de la ville, en mai 2025 (dates à préciser)</li>
+        </ul></p>
+
+<p class="intro-text">Puis à l’été 2025, nous allons commencer, à partir de tous les témoignages récoltés, à écrire un spectacle, que nous commencerons à répéter en septembre et ce pendant 5 semaines de résidence.</p> 
+
+<p class="intro-text">Sur scène seront réunies des artistes professionnelles et des femmes amatrices, concernées de près par la violence conjugale, rencontrées durant les ateliers, et ayant exprimé le désir de monter sur scène et de faire partie de la troupe.</p> 
+
+<p class="intro-text">Les répétitions sont en cours d’organisation mais voici déjà quelques dates
+<ul class="institutions">
+  <li>Saint Vallier, du 22 au 26 septembre, à l’Ecla</li>
+  <li>Cuisery, du 6 au 10 octobre, au Palace</li>
+  <li>Macon, dates et lieux à définir</li>
+  <li>Chalon sur Saône, dates et lieux à définir</li>
+</ul>
+</p>
+
+
+<p class="intro-text">Puis, va arriver à la fin 2025 la première représentation en fin d’année, à Chalon en partenariat avec les PEP 71.</p> 
+
+<p class="intro-text">Et en 2026, tournée ! En Bourgogne Franche Comté et ailleurs ! 
+Les journées de représentations seront doubles, c’est-à-dire que 2 représentations sont données dans chaque lieu : une en après-midi, notamment pour les scolaires, les services sociaux et une le soir pour le tout public. Nous pourrons jouer en salle de spectacle, en maison de quartiers, en MJC, en lycées…</p>
+
+<p class="intro-text">Voici les premières dates calées : 
+<ul class="institutions">
+  <li>Le 27 février 2026, au Théâtre les Arts de Cluny</li>
+  <li>Le 5 mars 2026, à l’Ecla à Saint Vallier</li>
+</ul></p>
+
+<p class="intro-text">Les autres sont en cours d’organisation !</p>
 
 
 <div class="center-max600-block">
