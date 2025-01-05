@@ -151,12 +151,16 @@ Puis il s’en va, avant les autres, il a tout donné, on dirait. »</cite></p>
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
 </div>
  
-<p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
+<p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Foundation de France, de la DRAC Bourgogne Franche-Comté, de la Délégation Départementale aux Solidarités, de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
 
 <div class="center-max600-block">
     <div class="flex-container">
         <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png"></div>
         <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png"></div>
         <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png"></div>
+    </div>
+    <div class="flex-container">
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png" style="width:10rem;"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png"></div>
     </div>
 </div>
