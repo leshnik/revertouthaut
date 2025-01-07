@@ -35,7 +35,7 @@ Tu découvriras les paysages que nous avons traversés, les paysages des sommets
 Quelques photos et quelques extraits de cette formidable création et rencontres entre humaines et chevaux, adultes et ados, public et histoires d’enfance ballotée, souvenirs de voyages et poèmes à garder, moments uniques dans la vie de chacune d’entre nous. </p>
 
 <h5>Journal de rando, jour 2</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Réveil 7h30<br>
 On charge les chevaux, sacoches, équilibrage du poids, et nous partons. 
@@ -46,7 +46,7 @@ Ils ont du mal à contenir leur excitation.<br>
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736232775/IMG-20240818-WA0003_tboajc.jpg">
 </div>
 
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Après deux heures de marche, nous arrivons sur un plateau d’immenses prairies verdoyantes. Nous marchons sur des parterres de fleurs sauvages et multicolores, le soleil nous brûlerait presque la peau. Nos réserves d’eau doivent être rechargées. Ouf, il y a une rivière, les chevaux vont pouvoir boire et nous aussi.</cite></p>
 
@@ -54,7 +54,7 @@ Après deux heures de marche, nous arrivons sur un plateau d’immenses prairies
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736232776/IMG-20240818-WA0005_pnfhyo.jpg">
 </div>
 
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Nous reprenons la marche après cette pause, la cadence diminue, les filles semblent en difficultés, de nombreux arrêts sont nécessaires, elles ont du mal à marcher à coté de leurs chevaux.
 Mais elles ne lâchent rien, n’abandonnent pas et continuent de grimper.<br>
@@ -65,7 +65,7 @@ Nous arrivons au sommet, 2400 mètres d’altitude, la vue du glacier nous coupe
 </div>
 
 <h5>Portrait de Kelly</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">Tu t’appelles Kelly
 Tu es à l’âge où tu te poses plein de questions et où tu en poses aussi aux autres
 Ton prénom résonne comme un point d’interrogation et se décline en une multitude de questions qui se croisent, se bousculent, et s’entrechoquent. Tu poses donc question, tu questionnes, tu interroges, et on ne sait parfois quelles réponses te donner.<br> 
@@ -91,7 +91,7 @@ Toutes ces questions, garde-les, partage-les, prends en soin, fais les tiennes, 
 </div>
 
 <h5>L’eau et le souvenir de la mère</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 L’eau pour moi, ça représente ma mère, parce que voilà… j’ai jamais connu mes vrais parents, et un jour comme ça, j’ai dit que l’eau, c’était ma maman, et puis le vent, c’était mon papa. Et à chaque fois que je vais pas bien, ils m’aident tout le temps en me poussant ou en m’imposant avec de la force et du courage. Ça me fait du bien. Donc pour moi, ce sont mes parents. Et à chaque fois que je vais dans l’eau, j’ai l’impression que ma mère, elle m’entend arriver et donc à chaque fois, elle est douce, elle calme et grâce à elle, j’ai le courage le lendemain, de continuer.</cite></p> 
 
@@ -100,7 +100,7 @@ L’eau pour moi, ça représente ma mère, parce que voilà… j’ai jamais co
 </div>
 
 <h5>Le lien avec les chevaux</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Ça m’a beaucoup fait changer, les chevaux. D’être avec les chevaux pendant tout ce séjour. Ça m’a fait beaucoup de plaisir, ça m’a rendu heureuse, ça m’a apporté du bonheur. A chaque fois que je suis triste, je vais le voir et quand je reviens, j’ai toujours le sourire grâce çà lui. Il m’aide tout le temps, quand je me sens pas bien ou quand je me sens bien, il est toujours là pour moi comme moi je serai toujours là pour lui. C’est l’amour entre mon cheval et moi.</cite></p> 
 
@@ -109,7 +109,7 @@ L’eau pour moi, ça représente ma mère, parce que voilà… j’ai jamais co
 </div>
 
 <h5>Le loup blanc et le loup noir</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Une légende raconte que deux loups vivent en chacune de nous. Un loup noir qui représente notre part de colère, de rage, d’angoisse, de peurs, et un loup blanc qui incarne l’amour, la joie, l’empathie, la confiance…<br>
 
