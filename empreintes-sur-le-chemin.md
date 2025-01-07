@@ -48,7 +48,7 @@ De l’empreinte des bons souvenirs à celui des traumas...</p>
 </div>
 
 <h5>1ère rencontre, 2 mai 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem">
 «&nbsp;Cette après-midi, rue Mathieu, le monde a toqué à la porte et s’est invité sur des feuilles de papier.<br>
 D’abord dans le silence, le vrai silence, celui des humaines et de humains qui se mettent à penser, sans se mentir.<br>
@@ -65,7 +65,7 @@ BA. garde précieusement dans sa main écrit sur un bout de papier le nom de son
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092413/de-colombia_q2qpyy.jpg">
 </div>
 <h5>2ème rencontre, 16 mai 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 «&nbsp;Tahia montre sur la carte du monde d’où elle vient, c’est tout là bas, près du Pacifique, au centre du Chili. Aujourd’hui, elle est venue portant la Terre sous forme d’argile blanche un peu collante et en donne un bout à chacune et chacun. Chacun a droit à un morceau de terre, à son territoire à imaginer.<br>
 Alors les mains commencent à travailler, à inventer et très très vite, des mondes, des formes et des jardins apparaissent.<br>
@@ -80,7 +80,7 @@ H.  tient dans ses bras sa grand-mère aimante qui lui manque tant…&nbsp;»</c
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092540/scott-drawing_pjjure.jpg">
 </div>
 <h5>4ème rencontre, 13 juin 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « C. modèle un visage, d’abord un qui ressemble à celui d’un masque fang, visage très allongé, puis le visage se transforme et devient celui d’un vieil homme, gardien d’un village dans lequel C. a imaginé une tente pour recevoir du monde, un panier de pains, et une planche pour écraser les grains. Elle grave aussi sur une plaque d’argile ces mots : never let go. Il ne faut jamais abandonner. A la fin de la séance, je parle avec elle, elle a les larmes aux yeux, je la sens bien découragée. Elle me dit qu’être venue ici, lui a fait du bien. Never let go et long est le chemin. 
 
@@ -96,7 +96,7 @@ le monde, ce soir,  s’endormira tranquille »</cite></p>
 </div>
 
 <h5>6ème rencontre, 11 juillet 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « «T. aujourd’hui est arrivée maquillée. On la voit faire avec l’argile, elle est très habile et modèle en petit miniature un jardin entouré de rosiers. C’est le sien, celui qu’elle a laissé et dont elle nous montre des photos que sa famille lui a envoyées. C’est un jardin de roses. Comment arriver à quitter un tel endroit ?  Comment en supporter la perte ? je me demande. T. sourit souvent. A la fin de la séance, je lis un poème de Prévert, qui s’appelle Le Bouquet. Et puis elle se met à lire un poème en géorgien dont elle connaît les derniers vers par coeur. Elle aime aussi la poésie, voilà donc une alliée. »</cite></p>
 
@@ -105,7 +105,7 @@ le monde, ce soir,  s’endormira tranquille »</cite></p>
 </div>
 
 <h5>10ème séance, 19 septembre</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « Laure explique et montre la consigne : marquer son prénom ou le prénom d’une personne aimée, en remplir une feuille, pouvoir le regarder des quatre côtés. Et peindre ce prénom, en faire un tableau.
 
@@ -115,7 +115,7 @@ E., comme à son habitude, est concentrée sur ce qu’elle fait et c’est part
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736093047/plat-a%CC%80-tarte-pinceau_glntcz.jpg">
 </div>
 <h5>12ème séance, 17 octobre 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « Tout le monde est installé, tablier autour du cou.
 Consigne du jour : on va dessiner sur cette grande feuille la carte d’un monde imaginaire sans frontières. D’abord, en étant debout, chacun trace en bleu et avec un gros pinceau une sorte de route et de fleuve qui parcourt toute la feuille. On se passe le pinceau comme dans une course de relais. Après ça, on se rassoit et chacun.e se met à dessiner son espace, autour de cette grande route bleu, un espace qui est à lui et elle.
@@ -126,7 +126,7 @@ Et vont apparaître très vite chez les unes et les autres, des souvenirs des li
 </div>
 
 <h5>15ème séance, 31 octobre 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « La salle devient une ruche, ça va, ça vient, ça circule, ça bosse finalement et ça rit. Ce travail de typographie, aura été le premier vrai travail collectif où des choses posées, écrites vont appeler des réponses :
 « je veux être libre » posé par A., appelle le Joy posé par B..
@@ -139,7 +139,7 @@ Céline passe de l’un à l’autre, donnant des conseils et posant sur la feui
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736093398/bare_feet_sofa_table_isgdwy.jpg">
 </div>
 <h5>18ème séance, 12 décembre 2024</h5>
-<p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « Côté fusain, il y a des choses à observer : L. dessine un visage avec l’aide de Marie qui lui enseigne la technique rassurante de la forme des visages. Puis une fois le visage fait, L. le recouvre entièrement de noir, il semble prendre plaisir à noircir la feuille de cette matière charbonneuse. Une fois le visage entièrement noirci, il lui ajoute quelques touches de sanguine et aussi une main posée sur le côté. Le visage n’est plus tout à fait un visage, c’est une énigme. L. se lance dans un deuxième dessin, selon le même procédé : du noir, des fentes pour les yeux et une main posée, dont on voit juste les contours. A la fin de son deuxième dessin, il rit.
 Puis il s’en va, avant les autres, il a tout donné, on dirait. »</cite></p>

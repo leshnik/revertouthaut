@@ -37,7 +37,7 @@ Voici donc, nos grands bâtons bariolés, chemin balisé, hors des sentiers batt
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1726482897/inauguration-brins_z88ugs.png">
 </div>
 
-<p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 chère invitée,<br>
 te voici devant notre jeu géant,<br>
@@ -105,7 +105,7 @@ Le voici :</cite></p>
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736230616/okIMG_20240928_143028_ptba0u.jpg">
 </div>
 
- <p style="margin-left:10rem; margin-right:5rem; margin-top:1rem;">
+ <p style="margin-left:2.2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;"> 
 la Terre danse le French Cancan<br>
 la nuit dort à poings fermés<br>

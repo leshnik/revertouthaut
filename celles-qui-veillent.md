@@ -46,7 +46,7 @@ Nous sortons de ces séances nourries de tant de choses, qu’il va être diffic
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736148719/1722248483620_t0fvqc.jpg">
 </div>
 
-<p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « Aujourd’hui jour d’anniversaire !
 On part chez Bernard, en défilé, l’accordéon en bandoulière.
@@ -56,7 +56,7 @@ Estelle, Céline, Emilie, Valérie et quatre sourires bien accrochés, arpentant
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736148955/IMG_20240524_144020_tj9yhj.jpg">
 </div>
 
-<p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Emilie ouvre la porte: vl’à une surprise ! Bernard n’en revient pas.
 Quatre femmes, dont une qu’il ne connait pas, plus un accordéon pour ses 89 mois de mai ! Polka, valse, et Bernard qui ne se lève jamais se met debout, et bouge les bras, wouah ! Et ça rigole ! Emilie danse avec lui. <br>
@@ -66,7 +66,7 @@ On reste un bon moment car le moment est bon, y’a de la bonté dans l’air, o
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736148843/IMG_20240524_144924_adifda.jpg">
 </div>
 
-<p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+<p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 « Une dame est assise dans sa cuisine, elle semble nous attendre, sérieuse et silencieuse. Une petite chienne teckel, tremblotante vient se faire caresser et retourne se coucher. Emilie aide la dame à se doucher et lui fera un brushing. Les infirmières ici savent tout faire: rentrer le bois, rentrer le courrier, faire la coiffeuse, amener de fleurs aussi quand c’est l’anniversaire des dizaines. <br>
 <br>
@@ -78,7 +78,7 @@ Retour dans la voiture, la route est très belle, le paysage intact, lui aussi d
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736159270/IMG_20241011_084802_mhlbn5.jpg">
   </div>
 
- <p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+ <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;"> 
 « Dernière visite de la matinée : La maison est si modeste qu’on la remarque à peine. La dame est si petite qu’on pourrait la porter. La cuisine est d’un bleu délavé, la dame vit dans deux pièces, sans lumière, la tapisserie a quelques heures de vol. <br>
 Elle est touchante cette dame et sa douceur fait du bien. Elle chante avec nous, elle chante même sous la douche. Raconte en quelques mots sa vie d’ouvrière. On découvre ici des personnes invisibles: un milieu prolétaire, minuscules salaires, déplacement en mobylette pour aller à l’usine. 
@@ -88,7 +88,7 @@ La dame a pris sa douche, elle est en chemise de nuit, il est 5 heures du soir, 
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736159672/IMG_20240723_105347_i2ywgp.jpg">
 </div>
 
- <p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+ <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;"> 
 « Il est allongé dans son lit médicalisé. Il lui est arrivé une sacré tuile: un gravissime problème de vertèbres et le voilà tétraplégique, mais quel regard futé et gentil chez ce monsieur ! Et ses petits yeux mouillés en nous voyant arriver en musique dans sa chambrette et comme il serrera fort la main de Céline ! Céline en aura aussi les larmes aux yeux. Faut dire qu’entre eux deux, c’est de l’amitié, de la complicité. Ça ne s’explique pas, c’est comme ça, c’est fort et ça durera. <br>
 Elle l’appelle « le beau gosse », elle le lave, elle le voit nu, elle le peigne. Nous sommes vraiment ici au coeur du métier d’infirmière de village. <br>
@@ -99,7 +99,7 @@ Le monsieur, de son lit passe sur son fauteuil électrique par la magie et les g
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736159958/IMG_20240607_112344_drxnak.jpg">
 </div>
 
- <p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+ <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;"> 
 « Petit trajet en voiture qui nous amène chez Robert et sa femme, tous les deux anciens paysans. Quel accueil ! Aux premiers sons de l’accordéon, Robert sort de sa chambre et debout sur ses deux cannes, se met à danser, tout bancal qu’il est, mais le coeur y est. La musique fait remonter tous les souvenirs des nombreux bals où il allait quand il était jeune, et Dieu qu’il en a fait des kilomètres pour aller guincher ! Il faut dire que « c’est dans les bals, qu’on trouve les belles nénettes ! »
 Les belles nénettes que nous sommes vont devoir partir après quelques morceaux endiablés joués par Estelle qui nous ont donné l’impression d’avoir quitté la cuisine et d’être transportées sur un parquet de danse. <br>
@@ -110,7 +110,7 @@ Ne reste que le souvenir de cette gaieté, cet accueil qui nous font regretter d
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736160052/IMG_20240524_172010_utt2ku.jpg">
 </div>
 
- <p style="margin-left:8rem; margin-right:5rem; margin-top:1rem;">
+ <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;"> 
 « Nous passons un long moment chez J. Car elle s’est beaucoup confiée et a certainement besoin d’un changement de vie. Elle dira d’elle-même, alors qu’elle fut très active toute sa vie, qu’elle est trop vieille et n’aime plus rien, que ses trois covid l’ont laissée à plat, qu’elle n’a plus de désir et qu’elle est submergée par des bouffées d’angoisses. Immédiatement, je me dis que cette dame qui a toute sa tête et est capable d’exprimer ses émotions aurait besoin d’être stimulée, par des séances individuelles créatives, qui la remettraient sur pied, et aussi par une vie sociale. Son jardin est fleuri, très joyeux, elle dit que les fleurs poussent toute seule. Nous espérons que ce nous lui avons dit ce matin germe en elle et qu’elle prenne des décisions qui lui permettront de sortir de sa dépression. Dépression de l’entrée dans le 4ème âge, assez classique et normale, mais dont elle parle en disant qu’elle a « décartonné », que ce sont des beurdineries. <br>
 <br>
