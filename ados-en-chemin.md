@@ -95,12 +95,18 @@ Toutes ces questions, garde-les, partage-les, prends en soin, fais les tiennes, 
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 L’eau pour moi, ça représente ma mère, parce que voilà… j’ai jamais connu mes vrais parents, et un jour comme ça, j’ai dit que l’eau, c’était ma maman, et puis le vent, c’était mon papa. Et à chaque fois que je vais pas bien, ils m’aident tout le temps en me poussant ou en m’imposant avec de la force et du courage. Ça me fait du bien. Donc pour moi, ce sont mes parents. Et à chaque fois que je vais dans l’eau, j’ai l’impression que ma mère, elle m’entend arriver et donc à chaque fois, elle est douce, elle calme et grâce à elle, j’ai le courage le lendemain, de continuer.</cite></p> 
 
+<div class="center-max450-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736252527/3heads_pldwoq.png">
+</div>
 
 <h5>Le lien avec les chevaux</h5>
 <p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
 <cite style="line-height: 1.5rem; letter-spacing:.1rem;">
 Ça m’a beaucoup fait changer, les chevaux. D’être avec les chevaux pendant tout ce séjour. Ça m’a fait beaucoup de plaisir, ça m’a rendu heureuse, ça m’a apporté du bonheur. A chaque fois que je suis triste, je vais le voir et quand je reviens, j’ai toujours le sourire grâce çà lui. Il m’aide tout le temps, quand je me sens pas bien ou quand je me sens bien, il est toujours là pour moi comme moi je serai toujours là pour lui. C’est l’amour entre mon cheval et moi.</cite></p> 
 
+<div class="center-max450-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736252526/2heads_flsfka.png">
+</div>
 
 <h5>Le loup blanc et le loup noir</h5>
 <p style="margin-left:8rem; margin-right:5rem; margin-top:-1rem;">
