@@ -6,7 +6,8 @@ summary:
 <h1>projets réalisés</h1>
 
 <h2>2024</h2>
-
+<p class="intro-text"><em>page en construction!</em>
+</p>
 <h3>chansons à garder dans sa table de nuit</h3>
 <p class="intro-text">Chansons, lecture de contes et de poèmes dans les chambres des personnes résidant en Ehpad, particulièrement angoissées le soir, dans un objectif d’apaisement et de meilleur endormissement. 
 Avec le soutien du Conseil Départemental 71, en partenariat avec l’Ehpad de Cluny. <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a></p>
