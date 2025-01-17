@@ -26,7 +26,7 @@ summary:
 </div>
 
 <h2>Politique de confidentialité (2025)</h2>
-<p class="intro-text">Quand vous adhérez à notre association Maison de l’Europe à Cluny, nous collectons dans notre
+<p class="intro-text">Quand vous adhérez à notre association, nous collectons dans notre
 fichier informatisé votre identité (nom, prénom, adresse, courriel, téléphone) pour le temps de votre
 adhésion. Seuls les membres du Conseil d’Administration y ont accès.<br>
 Nous ne partageons aucune de vos données. Vous pouvez à tout moment nous demander de
