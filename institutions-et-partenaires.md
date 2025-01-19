@@ -13,7 +13,7 @@ summary:
 </div>
 <br>
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721557226/logo-FDVA-1_oprt6u.jpg" style="width:400px;height:auto">Le Fonds Départemental de la Vie Associative
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721557226/logo-FDVA-1_oprt6u.jpg" style="width:400px;height:auto">Le Fonds de Développement de la Vie Associative
 </div>
 <br>
 <div class="logo">
