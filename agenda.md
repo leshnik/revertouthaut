@@ -87,8 +87,9 @@ summary:
             </div>
     <hr>
     <li>2022 - 2025&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
-    <p class="intro-text">Samedi 15 février 2025 de 14hà 18h, à Cluny, à la Galerie Les Mains Libres, collecte de photos et rencontres avec la photographe Lucie Moraillon et l’autrice Valérie Gaudissart</p>
-    <p class="intro-text">Recueil de témoignages pour la réalisation d’un film photographique, histoires de transmission, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</p> 
+    
+    <p class="intro-text">Dimanche 9 fevrier à 16h à Buffières, au Mille Club ; et Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres&nbsp;:&nbsp; collecte de photos et rencontres avec la photographe Lucie Moraillon et l’autrice Valérie Gaudissart.<br>
+    Recueil de témoignages pour la réalisation d’un film photographique, histoires de transmission, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</p> 
     <p class="intro-text">Si vous souhaitez témoigner, vous pouvez nous contacter&nbsp;:&nbsp; revertouthaut@gmail.com / 07&nbsp;69&nbsp;29&nbsp;53&nbsp;27</p>
     <div class="center-max600-block" style="border: 1px solid grey">
 <a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
