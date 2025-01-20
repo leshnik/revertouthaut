@@ -36,6 +36,14 @@ summary:
       </div>
     </li>
     <hr>
+    <li>9 fevrier 2025 à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, à 16h</li>
+    <p class="intro-text">
+    Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole.<br>
+    Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
+    <div class="center-max450-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737382696/rencontre_buffieresBD_ux2kjo.jpg">
+    </div>
+    <hr>
     <li>
       14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
       <p class="intro-text">Suite, dans une ambiance créative et bienveillante de nos ateliers d'écriture autour du deuil ouverts à toute personne désireuse de mettre en travail, par le biais des mots, son ou ses expériences du deuil, de ses multiples formes, qu’il soit proche ou lointain.</p> 
@@ -194,4 +202,3 @@ summary:
     <li>
         A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts individuels et intimes en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit.
     </li>
-</ul>
