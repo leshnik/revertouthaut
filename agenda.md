@@ -36,7 +36,8 @@ summary:
       </div>
     </li>
     <hr>
-    <li>9 fevrier 2025 à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, à 16h</li>
+    <li>Dimanche 9 fevrier 2025 à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
+    <li>Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
     <p class="intro-text">
     Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole.<br>
     Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
@@ -87,8 +88,10 @@ summary:
             </div>
     <hr>
     <li>2022 - 2025&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
+    <li>Dimanche 9 fevrier 2025 à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
+    <li>Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
     
-    <p class="intro-text">Dimanche 9 fevrier à 16h à Buffières, au Mille Club ; et Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres&nbsp;:&nbsp; collecte de photos et rencontres avec la photographe Lucie Moraillon et l’autrice Valérie Gaudissart.<br>
+    <p class="intro-text">collecte de photos et rencontres avec la photographe Lucie Moraillon et l’autrice Valérie Gaudissart.<br>
     Recueil de témoignages pour la réalisation d’un film photographique, histoires de transmission, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</p> 
     <p class="intro-text">Si vous souhaitez témoigner, vous pouvez nous contacter&nbsp;:&nbsp; revertouthaut@gmail.com / 07&nbsp;69&nbsp;29&nbsp;53&nbsp;27</p>
     <div class="center-max600-block" style="border: 1px solid grey">
