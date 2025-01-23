@@ -36,7 +36,7 @@ summary:
            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
         </div>
         <div class="column">
-          <a href="Flyer-Les-Emmeles.pdf">
+          <a href="Flyer-Les-Emmeles.pdf" rel="noopener noreferrer" target="_blank">
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
         </div>
       </div>
