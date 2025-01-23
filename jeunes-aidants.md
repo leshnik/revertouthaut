@@ -19,7 +19,7 @@ du Charolais-Brionnais 2024-2025</h2>
 </div>
 <p class="intro-text">Depuis mars 2024, Rêver Tout Haut mène cette action destinée à des jeunes aidants du département et plus particulièrement aux jeunes aidants vivant en milieu rural, dans le Charollais Brionnais.</p> 
 
-<p class="intro-text">Mais d’abord, qui est jeune aidant&middot;e ? C’est un&middot;e jeune, un ado, un enfant qui a dans le quotidien la charge d’une personne, d’un&middot;e proche fragilisé&middot;e par un handicap, une maladie, une addiction. C’est un&middot;e jeune, un&middot;e ado, un&middot;e enfant qui peut avoir du fait de cette position dans sa famille un vécu, une scolarité, une maturité, des responsabilités différentes des autres enfants.</p>
+<p class="intro-text">Mais d’abord, qui est jeune aidant&middot;e ? C’est un&middot;e jeune, u&middot;n ado, u&middot;n enfant qui a dans le quotidien la charge d’une personne, d’un&middot;e proche fragilisé&middot;e par un handicap, une maladie, une addiction. C’est un&middot;e jeune, un&middot;e ado, un&middot;e enfant qui peut avoir du fait de cette position dans sa famille un vécu, une scolarité, une maturité, des responsabilités différentes des autres enfants.</p>
 
 <p class="intro-text">L’action, étant entièrement nouvelle dans le département, et même la région, Rêver Tout Haut a dans un premier temps pris contact avec une centaine de structures accompagnant des jeunes (service jeunesse, missions locales, lycées, etc…), et a proposé des journées d’informations au Lycée Agricole et au Lycée Wittmer de Charolles, au Lycée du Sacré Cœur de Paray le Monial, là où des élèves suivent des formations en Aide à la Personne, sachant que dans ces filières, les aidant.es familiaux y sont fortement représentés.</p> 
 
@@ -32,7 +32,17 @@ Vous pouvez la contacter pour toute information ou demande&nbsp;:&nbsp;<br>
 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
 coordination.revertouthaut@gmail.com</p>
 
-<p class="intro-text">C’est à partir de ces ateliers et de leurs témoignages qu’est en train de naitre un spectacle, qui sera joué par eux avec les artistes professionnel.les en mars 2025</p>
+<p class="intro-text">C’est à partir de ces ateliers et de leurs témoignages qu’est en train de naitre un spectacle, qui sera joué par eux avec les artistes professionnel&middot;les le mardi 11 mars et le jeudi 13 mars, 2025.</p>
+
+<div class="flex-container">
+        <div class="column">
+           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+        </div>
+        <div class="column">
+          <a href="Flyer-Les-Emmeles.pdf" rel="noopener noreferrer" target="_blank">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
+        </div>
+      </div>
 
 <p class="intro-text">La classe de BTS SP3S du Lycée du Sacré Cœur de Paray le Monial est chargée de la communication autour des représentations. Merci à elle !</p>
 
@@ -47,7 +57,8 @@ Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un
 </cite></p>
 <hr>
 
-
+<p class="intro-text">
+Le projet a reçu le soutien de l’AG2R, du Conseil Régional de Bourgogne Franche-Comté, du Conseil Départemental de Saône et Loire, de la Mutuelle Sociale Agricole et du Fonds de Développement de la Vie Associative. Merci à eux !</p>
 
 
  
