@@ -45,11 +45,18 @@ summary:
     <li>Dimanche 9 fevrier 2025 à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
     <li>Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
     <p class="intro-text">
-    Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole.<br>
+    Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole&nbsp;:&nbsp;<a href="histoires-de-transmission">histoires de transmission</a>.<br>
     Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
-    <div class="center-max450-block">
+    <div class="flex-container">
+      <div class="column">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737382696/rencontre_buffieresBD_ux2kjo.jpg">
+      </div>
+      <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737638224/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_14_16_46_lg4xmf.png">
+      </div>
+      
     </div>
+    <p class="intro-text">Projet soutenu par le MSA.</p>
     <hr>
     <li>
       14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
