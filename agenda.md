@@ -49,7 +49,7 @@ summary:
     Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
     <div class="flex-container">
       <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737382696/rencontre_buffieresBD_ux2kjo.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1738321546/rencontre_buffieres_rdolq6.jpg">
       </div>
       <div class="column">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737638224/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_14_16_46_lg4xmf.png">
