@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: jeunes aidants
-summary:
+summary: Depuis mars 2024, Rêver Tout Haut soutient les jeunes aidants du Charollais Brionnais, vivant en milieu rural. Ces jeunes, souvent confrontés à des responsabilités familiales liées à un handicap, maladie ou addiction, bénéficient d'ateliers créatifs (musique, danse, écriture) au Lycée Agricole de Charolles. Création d'un spectacle en mars 2025.
 ---
 <h1>jeunes aidant&middot;es&nbsp;/&nbsp;les emmêlé&middot;es</h1>
 
