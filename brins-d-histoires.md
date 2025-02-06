@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: brins d'histoires
-summary:Le projet “Brins d’histoires” de Rêver Tout Haut propose des ateliers créatifs pour les résidents du Foyer d’Accueil Médicalisé Les Azilés, favorisant l’expression artistique et le lien social.
+summary: Le projet “Brins d’histoires” de Rêver Tout Haut propose des ateliers créatifs pour les résidents du Foyer d’Accueil Médicalisé Les Azilés, favorisant l’expression artistique et le lien social.
 ---
 <h1>brins d'histoires</h1>
 
