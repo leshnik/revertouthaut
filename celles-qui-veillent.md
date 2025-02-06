@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: celles qui veillent
-summary:
+summary: Le projet “Celles qui veillent” de Rêver tout haut soutient les infirmières rurales en intégrant la musique aux soins à domicile, améliorant ainsi la qualité de vie des patients.
 ---
 <h1>celles qui veillent</h1>
 <p class="intro-text">
