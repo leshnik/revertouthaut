@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: histoires de transmissions
-summary: 
+summary: Le projet “Histoires de transmissions” de Rêver Tout Haut explore les défis des agriculteurs de Saône-et-Loire face à la transmission de leurs exploitations. À travers des rencontres et des témoignages, il met en lumière les enjeux humains et sociaux liés à la succession agricole.
 ---
 <h1>Histoires de transmissions</h1>
 <div class="quote"><em>«&nbsp;Si on a l’opportunité de céder son exploitation, de la transmettre à quelqu’un, faut pas hésiter car c’est tellement inespéré, y’a pas beaucoup de candidats. Mon repreneur il reprend les bâtiments. Peut-être qu’il voudra aussi la maison mais je lui céderai en location car la maison de mes parents, je vais pas la vendre. Ça me ferait trop de mal, ça c’est le patrimoine familial.
