@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Rencontres
-summary: 
+summary: Le projet “Rencontres” de Rêver Tout Haut crée des liens à travers des ateliers artistiques, mêlant musique, écriture et témoignages pour favoriser l’expression, l’échange et la transmission des histoires de vie.
 ---
 
 
