@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: aidants
-summary:
+summary: Le projet “Aidants” de Rêver Tout Haut propose des espaces d’expression artistique pour ceux qui accompagnent un proche, mêlant musique, écriture et partage afin de valoriser leur vécu et alléger leur quotidien.
 ---
 <h1>aidant.es</h1>
 <p class="intro-text">Être aidant, ça s’apprend ! Et ça s’accepte parfois avec difficulté, ou ambivalence. Que l’on soit parent, enfant, conjoint.e, ami.e, il n’est jamais anodin de devenir l’aidant de son proche dépendant et cela impacte souvent non seulement le quotidien, mais aussi tous les liens et les projections d’avenir. Et si l’aidant était aussi l’aidé quelque part ? Difficile parfois de s’y retrouver tant les liens sont imbriqués. </p>
