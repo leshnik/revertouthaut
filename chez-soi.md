@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Chez soi
-summary: 
+summary: Le projet “Chez soi” de Rêver Tout Haut propose des ateliers créatifs pour accompagner les résidents lors de leur emménagement dans un nouveau lieu de vie, favorisant l’expression des souvenirs et la création de nouveaux repères pour se sentir “chez soi”. 
 ---
 <h1>chez soi</h1> 
 
