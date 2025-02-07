@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: bébés chantés
+summary: Le projet “Bébés Chantés” de Rêver Tout Haut propose des ateliers musicaux destinés aux tout-petits et à leurs parents, favorisant l’éveil musical et le renforcement du lien parent-enfant. Ces sessions offrent un espace d’expression et de partage à travers des chansons et des comptines adaptées aux jeunes enfants.
 ---
 
 <h1>bébés chantés</h1>
