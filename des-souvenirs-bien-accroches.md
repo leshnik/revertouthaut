@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: des souvenirs bien accrochés
+summary: Le projet “Des souvenirs bien accrochés” de Rêver Tout Haut invite à revisiter la mémoire et les émotions à travers la musique et l’écriture, créant des œuvres artistiques qui tissent liens, transmission et expression personnelle.
 ---
 
 <h1>des souvenirs bien accrochés</h1>
