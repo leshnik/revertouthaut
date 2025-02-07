@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: accordéon quizz
-summary:
+summary: Le projet “Accordéon Quizz” de Rêver Tout Haut est un jeu musical interactif mêlant chansons et souvenirs. Destiné aux seniors, il stimule la mémoire et favorise les échanges à travers un répertoire vivant et participatif.
 ---
 <h1>accordéon quizz</h1>
 <h2>comment accorder grâce à la musique, l'amusement et le soin cognitif</h2>
