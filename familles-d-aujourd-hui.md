@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: familles d'aujourd'hui
-summary: 
+summary: Le projet “Familles d’aujourd’hui” de Rêver Tout Haut, initié à la demande de la CAF 71, vise à recueillir les témoignages de familles homoparentales et de familles recomposées. Ces récits, riches en diversité et en inventivité, sont destinés à être partagés lors d’une journée dédiée aux professionnels de l’accompagnement parental, prévue le 4 octobre 2022.  ￼ 
 ---
 <h1>familles d'aujourd'hui</h1>
 
