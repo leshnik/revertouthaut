@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: double croche
-summary:
+summary: Le projet “Double Croche” de Rêver Tout Haut est une initiative innovante destinée aux grands-parents et à leurs petits-enfants vivant en milieu rural. Grâce à la médiation musicale, il vise à renforcer leur complicité, à tisser des liens intergénérationnels et à apporter une activité culturelle dans des territoires éloignés des centres urbains.  ￼
 ---
  
 <h1>double croche</h1>
