@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Je t'ai rêvé
-summary: 
+summary: Le projet “Je t’ai rêvé” de Rêver Tout Haut propose des ateliers créatifs pour les mères d’enfants en situation de handicap moteur, favorisant l’expression artistique et le soutien émotionnel.
 ---
 <h1>Je t’ai rêvé</h1>
 <h2>Mères et aidantes</h2>
