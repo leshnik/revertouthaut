@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: derrière nos portes
-summary: 
+summary: Le projet “Derrière nos portes” de Rêver Tout Haut valorise l’expression artistique des résidents de l’EAS Les Villandières à travers la musique, le théâtre et la poésie, aboutissant à un spectacle unique. 
 ---
 <h1>derrière nos portes</h1>
 <div class="quote"><em>«Ce spectacle, c’est une lettre aux trottoirs, aux gravillons, aux dénivelés,
