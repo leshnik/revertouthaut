@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: maladies neuro-évolutives
-summary: 
+summary: Le projet “Maladies neuro-évolutives” de Rêver Tout Haut propose des ateliers créatifs pour les personnes atteintes de maladies comme Parkinson ou Alzheimer, favorisant l’expression, le lien social et le bien-être. 
 ---
 <h1>maladies neuro-évolutives</h1>
 <p class="intro-text">Les maladies évoluent, grignotent le quotidien et les repères, sont dévorantes mais il reste toujours des espaces intimes protégés, des sensations, des souvenirs, des états de conscience, des imaginaires où les symptômes se font moins présents et moins violents. Et les personnes porteuses de la maladie de Alzheimer, Parkinson, ou Corps de Lévy ont bien des choses à nous dire sur ce qu’elles traversent, sur leur attachement aux autres et à l’existence. </p>
