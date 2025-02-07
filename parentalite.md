@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: parentalité
-summary: 
+summary: Le projet “Parentalité” de Rêver Tout Haut propose divers ateliers créatifs pour accompagner les parents dans leur cheminement, abordant des thèmes tels que la remise en question des modèles parentaux, l’adaptation aux réalités familiales et l’expression des émotions. Ces ateliers incluent des initiatives comme “Double Croche”, “Familles d’aujourd’hui” et “Accompagner la parentalité”, offrant un espace d’échange et de soutien pour les parents. 
 ---
 <h1>parentalité</h1>
 <p class="intro-text">Qui a dit qu’être parent était facile, sans embûche et sans culpabilité ? Entre remises en cause des modèles et des injonctions sociales et adaptations aux réalités de sa propre famille,  être parent, devenir parent, s’accepter parent, se projeter parent, est un cheminement intime plein de questions, de doutes. Voici quelques accompagnements de parents et quelques propositions pour tenter de répondre à certaines questions, ou certains silences.</p>
