@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: historique
-summary: 
+summary: La page “Historique” de Rêver Tout Haut retrace le parcours de l’association, ses projets artistiques et son engagement depuis sa création, mettant en lumière les rencontres, les créations et les évolutions qui ont jalonné son histoire.
 ---
 <h1>historique</h1>
 <p class="intro-text">Tout est parti d’un atelier audiovisuel animé par Valérie Gaudissart à la maison d’arrêt des femmes de Dijon en 2008. Atelier pour lequel il n’était ni question de filmer les prévenues, ni les cellules, ni les effets personnels. Des contraintes venant parfois les bonnes idées, Valérie a imaginé l’atelier en deux temps: une semaine d’ateliers d’écriture pendant laquelle elle a filmé les mains des prévenues en train d’écrire et a enregistré leurs voix. Et dans un deuxième temps, après un décryptage des enregistrements et un agencement des écrits, deux comédiennes, Blandine Pelissier et Sylvia Etcheto sont venues à la Maison d’Arrêt pendant une semaine et ont joué devant les prévenues les textes écrits par elles. Les comédiennes, elles pouvaient être filmées.</p>
