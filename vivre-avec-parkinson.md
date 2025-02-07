@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: vivre avec Parkinson
-summary: 
+summary: Le projet “Vivre avec Parkinson” de Rêver Tout Haut propose des ateliers créatifs pour stimuler l’expression, maintenir les capacités motrices et rompre l’isolement des personnes atteintes de la maladie de Parkinson.
 ---
 <h1>VIVRE AVEC PARKINSON</h1>
 <h2>lecture musicale</h2>
