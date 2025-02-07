@@ -1,6 +1,6 @@
 ---
 layout: logoTop
-summary:
+summary: Le projet “Jamais deux sans voix” de Rêver Tout Haut célèbre l’expression et le partage à travers la musique et l’écriture, créant des espaces où les voix se rencontrent, s’écoutent et se révèlent.
 title: jamais deux sans voix
 ---
 <h1>jamais deux sans voix&nbsp;!</h1>
