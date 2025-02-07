@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: handicap / inclusion
-summary:
+summary: Le projet “Handicap/Inclusion” de Rêver Tout Haut propose des accompagnements créatifs pour valoriser les capacités des personnes en situation de handicap, favorisant l’expression artistique et l’inclusion sociale.
 ---
 <h1>handicap / inclusion</h1>
 <p class="intro-text">Qu’est-ce que le handicap ? Un empêchement ? Un isolement ? Un ralentissement ? Oui bien-sûr, mais n’y aurait-il pas autre chose ? Du très sensible, du très affectif, du poétique, de l’énergique, et des capacités incroyables d’adaptation et des sacrées leçons de vie bonnes à prendre et à entendre ? Voici quelques accompagnements créatifs fort riches en émotions et en célébrations de la vie. </p>
