@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: insertion / travail social
-summary: 
+summary: Le projet “Insertion/Travail Social” de Rêver Tout Haut propose des ateliers créatifs pour accompagner les personnes en situation de précarité ou d’exil, facilitant leur intégration sociale et l’expression de leur parcours de vie.
 ---
 <h1>insertion / travail social</h1>
 <p class="intro-text">Quitter son pays, se déraciner, laisser les siens au loin, s’installer en terre étrangère, chercher ses mots pour se faire comprendre, parier sur un avenir apaisé pour ses enfants, et puis peut-être trouver une place dans un monde nouveau. Voilà un long chemin, qui parfois dure toute la vie, pour les personnes en fuite, en transit, en nécessité de s’enraciner loin de leur terre d’origine.</p>
