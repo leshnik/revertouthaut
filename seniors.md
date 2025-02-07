@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: seniors
-summary: 
+summary: Le projet “Seniors” de Rêver Tout Haut propose des ateliers artistiques pour les personnes âgées, favorisant l’expression, la mémoire et le lien social à travers la musique, l’écriture et la création collective.
 ---
 <h1>seniors</h1>
 <p class="intro-text">Accompagner le grand âge, c’est permettre que les émotions restent intactes, que les liens d’affections restent vifs, que des rencontres continuent de se faire, que des traces soient laissées. C’est miser sur le meilleur des liens humains, c’est miser sur ce qui reste d’essentiel et qui ne demande qu’à être transmis. Quelques exemples ici d’accompagnements destinés aux seniors, et aux institutions qui les accueillent. </p>

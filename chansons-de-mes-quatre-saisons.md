@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: chansons de mes quatre saisons
-summary:
+summary: Le projet “Chansons de mes quatre saisons” de Rêver Tout Haut invite les seniors à raconter leurs souvenirs à travers la musique et l’écriture, créant des chansons originales qui tissent mémoire et créativité.
 ---
 <h1>chansons de mes quatre saisons</h1>
 
