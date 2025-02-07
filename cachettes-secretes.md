@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: cachettes secrètes
-summary:
+summary: Le projet “Cachettes secrètes” de Rêver Tout Haut explore les souvenirs enfouis, les blessures invisibles et les désirs cachés à travers la création artistique. Animé par des musiciens et auteurs, il offre aux participants un espace d’expression et de reconstruction personnelle, favorisant le partage et la transformation des émotions.
 ---
  
 <h1>cachettes secrètes</h1>
