@@ -1,8 +1,7 @@
 ---
 layout: logoTop
 title: Histoire de mes ressemblances, atelier d'écriture gratuit destiné aux seniors du Val de Joux
-summary: Atelier d'écriture gratuit destiné aux seniors du val de Joux
-Phrase: Cycle d'ateliers destiné aux résidents de la résidence du val de Joux et aux seniors extérieurs, ayant pour but la création d'un livret sur le thème de la transmission et de l'histoire familiale.
+summary: Le projet “Histoire de mes ressemblances” de Rêver Tout Haut explore l’héritage familial et les liens intergénérationnels à travers la musique et l’écriture, invitant chacun à raconter ce qui le relie à ses proches.
 ---
 
 <h1>Histoire de mes ressemblances</h1>
