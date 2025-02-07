@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: accompagner la parentalité
-summary: 
+summary: Le projet “Accompagner la parentalité” de Rêver Tout Haut a organisé, le 9 décembre 2021, une journée dédiée aux professionnels de la parentalité. Cette rencontre a permis d’explorer, à travers des textes et des chansons, des questions essentielles sur le choix d’aider les autres, les traces laissées par ces rencontres et leur impact sur les accompagnants.  ￼ 
 ---
 <h1>accompagner la parentalité</h1>
 
