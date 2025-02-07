@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: les membres de notre équipe
-summary: Valérie Gaudissart, Isis-Philippe-Jenon, Morton Potash, Patricia Rigo, Lucie Moraillon, Florian Girard
+summary: La page “Équipe” de Rêver Tout Haut présente les artistes, auteurs et intervenants engagés dans les projets de l’association, unissant leurs talents pour créer des espaces d’expression, de partage et de transmission. Valérie Gaudissart, Isis-Philippe-Jenon, Morton Potash, Patricia Rigo, Lucie Moraillon, Florian Girard
 redirect_from:
   - "/valerie/"
   - "/isis/"
