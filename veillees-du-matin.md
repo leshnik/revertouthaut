@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: veillées du matin
-summary: 
+summary: Le projet “Veillées du matin” de Rêver Tout Haut propose des temps de partage artistiques et musicaux au lever du jour, invitant chacun à s’exprimer et à tisser des liens à travers la poésie, la chanson et l’écoute.
 ---
 <h1>Veillées du matin</h1>
 
