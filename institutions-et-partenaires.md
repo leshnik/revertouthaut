@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: institutions et partenaires
-summary:
+summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lumière les collaborations avec divers acteurs culturels, sociaux et médicaux, soutenant la création artistique et l’engagement auprès des publics accompagnés.
 ---
 <h1>les projets de rêver tout haut<br> sont soutenus par&nbsp;:</h1>
 <div class="logo">
