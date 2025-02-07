@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: De l'air !
-summary: De juillet à septembre 2020, nous avons animé des ateliers que nous voulions les plus ouverts possibles, permettant une itinérance, un mouvement, une forme de liberté, restreints jusque là du fait du confinement.
+summary: Le projet “De l’air !” de Rêver Tout Haut a proposé, de juillet à septembre 2020, des ateliers d’art-thérapie, de sophrologie et de composition de chansons pour les résidents et soignants du Foyer de Vie et du Foyer d’Accueil Médicalisé Les Avouards à Bonnay (71). Ces sessions visaient à restaurer un sentiment de liberté après le confinement, en favorisant l’expression créative et le bien-être. Les créations issues de ces ateliers ont été mises en lumière dans le film documentaire “Matins d’Été”, réalisé par Jean-Michel Dury.
 ---
 
 <h1>
