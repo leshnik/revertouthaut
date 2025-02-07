@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Contre-jour
-summary: 
+summary: Le projet “Contre-jour” de Rêver Tout Haut explore l’intimité des souvenirs et des émotions à travers la musique et l’écriture, offrant un espace d’expression artistique pour raconter l’invisible et l’indicible.
 ---
 <h1>contre-jour</h1>
 
