@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: monde rural
-summary: 
+summary: Le projet “Monde Rural” de Rêver Tout Haut met en lumière les transformations que vivent les habitants des zones rurales face aux défis climatiques, économiques et sociaux. En recueillant et partageant leurs témoignages, ce projet vise à rendre visibles ces personnes souvent discrètes mais essentielles à la vie sociale, afin que leurs expériences et perspectives soient entendues et comprises. 
 ---
 <h1>monde rural</h1>
 <p class="intro-text">En mutation, et en constante adaptation aux changements climatiques et sociaux, le monde rural n’est pas une abstraction ni une statistique. Ce sont des vraies personnes, souvent peu visibles, peu revendicatives, mais essentielles à la vie sociale, qui traversent des bouleversements professionnels, familiaux, climatiques, économiques. Leur regard sur le monde et sur leur monde, est important à considérer et à rendre public. Leurs paroles sont à écouter et à partager pour que de l’extérieur, les mutations profondes du monde rural soient entendues et perçues dans leur étendue. </p>
