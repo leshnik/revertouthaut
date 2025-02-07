@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Maintenant il y a
-summary: 
+summary: captation du spectacle le 16 décembre 2023, Théâtre les arts, Cluny où sur scène, 11 personnes racontent en chanson, l'énergie, l'humour et l'émotion, du quotidien avec une cérébro-lésion.
 ---
 <h1>captation maintenant il y a<br>16 décembre 2023<br>théâtre les arts, cluny</h1>
 <p class="intro-text">
