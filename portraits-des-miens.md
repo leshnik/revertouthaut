@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Portraits des miens
-summary: 
+summary: Le projet “Portraits des miens” de Rêver Tout Haut propose des ateliers de composition musicale en hôpital psychiatrique, aidant les patients à exprimer leurs liens familiaux à travers la chanson et la création artistique. 
 ---
 <h1>PORTRAITS DES MIENS</h1>
 
