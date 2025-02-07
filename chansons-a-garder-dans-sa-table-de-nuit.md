@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: chansons à garder dans sa table de nuit
-summary:
+summary: Le projet “Chansons à garder dans sa table de nuit” de Rêver Tout Haut propose un répertoire intime et apaisant, mêlant souvenirs et émotions, pour accompagner les seniors et les personnes en fin de vie à travers la musique.
 ---
 <h1>chansons à garder dans sa table de nuit</h1>
 <p class="intro-text">Ce projet expérimental, s’inscrit dans une recherche d’accompagnements des personnes âgées isolées et/ ou souffrant de dépression et d’angoisses. Vieillir et entrer dans la dernière partie de la vie, bien que ce chemin soit naturel et universel (et que bien d’autres avant nous soient déjà passés par là !) n’est pas une chose simple, loin s’en faut ! Il faut pouvoir accepter cette traversée, ce sentiment de pertes de ses capacités, de son autonomie, de son existence passée, de ses rêves et projets non exaucés et accepter la perte finale, celle de ses proches et de soi-même. Vaste programme pour les animaux tourmentés que nous sommes ! Et de fait, les angoisses, l’agressivité, l’envie suicidaire, la souffrance psychique (et physique quand elle existe), la solitude devant la vieillesse et la fin de vie sont des états émotionnels réels et ne devraient pas être des tabous ni être minimisés. Ce sont de véritables états de détresse pour lesquels il nous parait humain, éthique et essentiel de faire quelque chose.</p>
