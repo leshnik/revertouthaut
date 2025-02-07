@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: 4 fois 20 ans
-summary: 
+summary: Le projet “4 fois 20 ans” de Rêver Tout Haut valorise la parole et les souvenirs des seniors à travers la musique et l’écriture, créant des chansons qui traversent les générations et célèbrent la mémoire vive.
 ---
 <h1>4 fois 20 ans</h1>
 <div class="center-max600-block">
