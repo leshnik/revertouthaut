@@ -1,7 +1,7 @@
 ---
 layout: logoTop
-title: Les petites lucarnes - ateliers destinés aux personnes en insertion à Mâcon et Châlon sur Saône.
-summary: Destiné à des personnes en insertion, un cycle d'ateliers réunissant art thérapie, musique, photographie, vidéo, et ayant comme but la revalorisation, l'estime de soi et le retour vers l'emploi. Soutenu par l'association Le Pont.
+title: Les petites lucarnes
+summary: Le projet “Les Petites Lucarnes” de Rêver Tout Haut, mené d’octobre 2019 à juillet 2020 en partenariat avec l’Association Le Pont, a proposé des ateliers créatifs à Chalon-sur-Saône et Mâcon pour des personnes éloignées de l’emploi et socialement isolées. Ces ateliers ont utilisé divers supports tels que l’écriture, la photographie, le collage, l’argile et la musique, visant à améliorer l’image de soi et à favoriser la réinsertion sociale des participants.
 ---
 
 <h1>Les petites lucarnes</h1>
