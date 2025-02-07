@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: les plus que proches - lecture musicale
+summary: Le projet les plus que proches, lecture musicale de Rêver Tout Haut mêle littérature et musique pour offrir une expérience immersive où les mots et les sons dialoguent, créant une atmosphère sensible et poétique.
 ---
 
 <div id="lpqp" style="background-color: hsl(96,93.2%,96%); margin-top:20px;letter-spacing: 0.2rem; padding:15px">
