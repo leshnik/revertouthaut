@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: une nouvelle page à écrire
-summary:
+summary: Le projet “Une nouvelle page à écrire” de Rêver Tout Haut propose des cycles d’ateliers d’écriture bi-mensuels pour les personnes endeuillées, offrant un espace collectif et bienveillant pour exprimer et partager leurs émotions à travers l’écriture. Ces ateliers visent à aider les participants à traverser le processus de deuil en transformant leur expérience personnelle en une œuvre collective, aboutissant à la création d’un livre commun.
 ---
 <h1>une nouvelle page à écrire</h1>
 <div class="quote">
