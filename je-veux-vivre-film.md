@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Je veux vivre
-summary: 
+summary: Le projet “Je veux vivre” de Rêver Tout Haut, en collaboration avec l’Association Atelier Pluriel, a proposé des ateliers créatifs de juillet à novembre 2021, incluant écriture de chansons, danse et arts plastiques, pour exprimer collectivement le désir de vivre après une année difficile. Ces ateliers ont abouti à la réalisation d’un clip musical intitulé “Je veux vivre”, reflétant l’énergie et l’envie de vivre des participants. 
 ---
 
 <h1>je veux vivre</h1>
