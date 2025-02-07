@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: maintenant, il y a
+summary: Le spectacle “Maintenant, il y a” de Rêver Tout Haut donne la parole à des personnes cérébro-lésées, partageant leur parcours de reconstruction à travers des chansons émouvantes et authentiques.
 ---
 <h1>maintenant, il y a</h1>
 <p class="intro-text">«Avant y’avait la moto, après y’a eu les hostos» nous a dit un jour une personne cérébro-lésée lors d’un cours de musique que nous donnions à la Novelline, habitat partagé et inclusif à Cluny. Une autre lui a répondu, «avant y’avait la fête, après y’a eu ma tête». Et une troisième, à l’humour bien vif a rajouté «avant je ramassais des jonquilles, maintenant je ramasse mes béquilles !».</p>

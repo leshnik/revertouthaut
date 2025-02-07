@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: les mains tendues
-summary:De mars à décembre 2023, des ateliers créatifs auront lieu dans le Brionnais pour les aidants de personnes en perte d’autonomie. Animés par des artistes, ils proposeront écriture, peinture, musique et autres arts pour transformer le quotidien des participants.
+summary: De mars à décembre 2023, des ateliers créatifs auront lieu dans le Brionnais pour les aidants de personnes en perte d’autonomie. Animés par des artistes, ils proposeront écriture, peinture, musique et autres arts pour transformer le quotidien des participants.
 ---
 <h1>les mains tendues</h1>
 <div class="flex-container">
