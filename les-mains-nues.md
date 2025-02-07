@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: les mains nues
+summary: Le projet “Les Mains Nues” de Rêver Tout Haut est une exploration artistique et sensible du toucher, de la mémoire et de la transmission, mêlant témoignages, musique et création pour révéler l’intime et l’invisible.
 ---
 
 <h1>les mains nues</h1>
