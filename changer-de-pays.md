@@ -1,6 +1,7 @@
 ---
 layout: logoTop
 title: Changer de pays
+summary: Le projet “Changer de pays” de Rêver Tout Haut, en collaboration avec l’association Le Pont de Mâcon, a proposé de février à juillet 2020 un cycle de sept ateliers créatifs pour deux familles yézidies résidant dans le Clunisois. Ces ateliers, incluant argile, textile, chansons, traductions et photographies, visaient à accompagner ces familles exilées dans leur adaptation à une nouvelle culture, l’expression de leurs émotions et la reconstruction de leurs repères.
 ---
 
 <h1>changer de pays</h1>
