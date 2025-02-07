@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: composition de chansons
-summary: 
+summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des ateliers d’écriture et de création musicale, invitant chacun à exprimer son histoire, ses émotions et ses souvenirs à travers la chanson.
 ---
 <h1>composition de chansons</h1>
 <main>
