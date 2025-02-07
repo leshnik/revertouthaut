@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: Chansons pour ceux qui ne font pas de bruit
-summary:
+summary: Le projet “Chansons pour ceux qui ne font pas de bruit” de Rêver Tout Haut donne voix aux silences et aux émotions discrètes à travers la musique et l’écriture, offrant un espace d’expression intime et poétique.
 ---
 <h1>Chansons pour ceux qui ne font pas de bruit</h1>
 
