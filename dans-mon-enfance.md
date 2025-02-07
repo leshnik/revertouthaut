@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: dans mon enfance
-summary: 
+summary: Le projet “Dans mon enfance” de Rêver Tout Haut a proposé des ateliers d’écriture et de composition de chansons à Charolles, en partenariat avec l’Association Le Pont et l’Udaf du Charollais-Brionnais. Il a permis aux participants d’explorer leurs souvenirs d’enfance, leurs liens familiaux et la transmission intergénérationnelle, notamment pour ceux ayant quitté leur pays d’origine.
 ---
 
 <h1>dans mon enfance</h1>
