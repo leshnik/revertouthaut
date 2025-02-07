@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: empreintes sur le chemin
-summary: 
+summary: Le projet “Empreintes sur le chemin” de Rêver Tout Haut propose des ateliers d’art-thérapie pour les personnes exilées et les professionnels qui les accompagnent, favorisant l’expression des souvenirs et des expériences liées à l’exil.  ￼ 
 ---
 <h1>empreintes sur le chemin</h1>
 
