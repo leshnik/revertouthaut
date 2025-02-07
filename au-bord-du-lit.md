@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: au bord du lit
-summary:
+summary: Le projet “Au bord du lit” de Rêver Tout Haut est une initiative artistique conçue pour les services de soins palliatifs. Il vise à créer un “long poème” collectif, mêlant écriture, chant et récitation, impliquant patients, proches et soignants. Ce projet offre une expérience poétique et musicale, accompagnant les moments de fin de vie et de deuil.
 ---
 <h1>au bord du lit</h1>
 <p class="intro-text">Au bord du lit, au bord des lèvres, au bord de la mort, au bord du langage et des mots, il y a encore et toujours des choses à vivre et à partager. Que l’on soit malade, souffrant, que l’on soit personne proche, que l’on soit soignant. Chacun.e, avec sa sensibilité, son histoire passée, ses désirs réparateurs, partage l’intimité de ce passage de la vie à la mort, du corps quitté par le mouvement, des mots prononcés, reçus, et des derniers regards échangés.</p>
