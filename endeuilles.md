@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: endeuillé.es
-summary:
+summary: Le projet “Endeuillé.es” de Rêver Tout Haut propose des ateliers créatifs pour accompagner les personnes en deuil, favorisant l’expression des émotions et le partage d’expériences dans un cadre bienveillant.
 ---
 <h1>endeuillé.es</h1>
 <p class="intro-text">
