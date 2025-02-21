@@ -5,13 +5,19 @@ summary:
 ---
 <h1>agenda</h1>
 <ul class="agenda-list">
-<li><a href="#21-06-2025" style="color: #664D01">20 juin 2025 à Mâcon – Empreintes sur le chemin</a></li>
-<li><a href="#11-03-2025" style="color: #664D01">11 mars 2025 à Charolles, 13 mars 2025 à La Clayette – Les Emmêlé‧es</a></li>
+<li><a href="#21-06-2025">Vendredi 20 juin 2025 à Mâcon – Empreintes sur le chemin</a></li>
+<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles, Mercredi 13 mars 2025 à La Clayette – Les Emmêlé‧es</a></li>
+<li><a href="#25-02-2025">Mardi 25 février 2025 à 10h à Saint-Point, à la Pimenterie – dernier atelier suivi d'un repas partagé, Une Nouvelle Page à Écrire</a></li>
+<li><a href="#09-02-2025">Samedi 15 février 2025 à Cluny, à la Galerie Les Mains Libres, collecte de photos, Histoires de Transmission</a></li>
+<li><a href="#09-02-2025">Dimanche 9 février 2025 à 16h à Buffières, Salle du Mille Club – rencontre publique Histoires de Transmission</a></li>
+
 
 </ul>
+<hr>
 <div id="21-06-2025">
+    <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
     <p class="intro-text">
-    20 juin 2025 à Mâcon<a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.</p>
+    Vendredi 20 juin 2025 à Mâcon, <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.</p>
         <p class="intro-text">De mai 2024 à juin 2025, sont proposés à des personnes exilées, enfants et adultes, accompagnées par les CADA le Pont et Adoma à Mâcon, des cycles d’ateliers créatifs. A partir des rencontres faites pendant ces ateliers, sera créé un spectacle, qui réunira certaines des personnes exilées et les artistes Sidonie Dubosc, Valérie Gaudissart, Romane Lasserre et Tahia Strika. Le spectacle fera le récit de cette nouvelle vie à construire quand on a dû quitter son pays, ses racines et ses lieux d’enfance.</p>
         <p class="intro-text">Action soutenue par la Fondation de France, la Direction Départementale aux Solidarités, la DRAC Bourgogne Franche-Comté et la Fédération des Acteurs de la Solidarité,</p>
         <div class="flex-container">
@@ -28,6 +34,7 @@ summary:
 <hr>
 
 <div id="11-03-2025">
+    <h2><a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a></h2>
       <p class="intro-text">
       11 mars 2025 à Charolles, 13 mars 2025 à La Clayette&nbsp;:&nbsp;<a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a> présentations publiques et spectacle autour des jeunes aidants.</p>
       <p class="intro-text">De septembre 2024 à mars 2025 ont lieu à Charolles, au Lycée Agricole, des ateliers créatifs destinés à des jeunes aidant.es du territoire du Charollais-Brionnais. Nous préparons avec eux et elles un spectacle qui relatera de leur enfance et adolescence singulière, faite de responsabilités au quotidien.</p>
@@ -50,8 +57,10 @@ summary:
         </div>
       </div>
     <hr>
-    <li><span style="color:red">Dimanche 9 fevrier 2025</span> à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
-    <li><span style="color:red">Samedi 15 février 2025</span> de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
+    <div id="09-02-2025">
+        <h2><a href="histoires-de-transmission">histoires de transmission</a></h2>
+        <p class="intro-text">Dimanche 9 fevrier 2025 à 16h à Buffières – rencontre publique  Salle du Mille Club<br>
+        Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres</p>
     <p class="intro-text">
     Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole&nbsp;:&nbsp;<a href="histoires-de-transmission">histoires de transmission</a>.<br>
     Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
@@ -66,8 +75,10 @@ summary:
     </div>
     <p class="intro-text">Projet soutenu par le MSA.</p>
     <hr>
-    <li>
-      <span style="color:red">14 janvier - 25 février 2025</span> à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
+    <div id="25-02-2025">
+    <h2><a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a></h2>
+    <p class="intro-text">
+      14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
       <p class="intro-text">Suite, dans une ambiance créative et bienveillante de nos ateliers d'écriture autour du deuil ouverts à toute personne désireuse de mettre en travail, par le biais des mots, son ou ses expériences du deuil, de ses multiples formes, qu’il soit proche ou lointain.</p> 
       <p class="intro-text">Action soutenue par Kalivi et Malakoff Humanis.</p>
       <p class="intro-text">Pour de plus amples renseignements&nbsp;:&nbsp;<br>
@@ -78,7 +89,8 @@ summary:
       <div class="center-max600-block">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
       </div>
-    </li>
+    </p>
+    </div>
     <hr>
     <li>
         <span style="color:red">2025/2027</span>&nbsp;:&nbsp; <a href="les-etres-humaines">les êtres humaines</a>
