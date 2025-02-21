@@ -4,8 +4,14 @@ title: agenda
 summary: 
 ---
 <h1>agenda</h1>
-<ul class="institutions">
-    <li><span style="color:red">20 juin 2025 à Mâcon</span> <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.
+<ul class="agenda-list">
+<li><a href="#21-06-2025" style="color: #664D01">20 juin 2025 à Mâcon – Empreintes sur le chemin</a></li>
+<li><a href="#11-03-2025" style="color: #664D01">11 mars 2025 à Charolles, 13 mars 2025 à La Clayette – Les Emmêlé‧es</a></li>
+
+</ul>
+<div id="21-06-2025">
+    <p class="intro-text">
+    20 juin 2025 à Mâcon<a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.</p>
         <p class="intro-text">De mai 2024 à juin 2025, sont proposés à des personnes exilées, enfants et adultes, accompagnées par les CADA le Pont et Adoma à Mâcon, des cycles d’ateliers créatifs. A partir des rencontres faites pendant ces ateliers, sera créé un spectacle, qui réunira certaines des personnes exilées et les artistes Sidonie Dubosc, Valérie Gaudissart, Romane Lasserre et Tahia Strika. Le spectacle fera le récit de cette nouvelle vie à construire quand on a dû quitter son pays, ses racines et ses lieux d’enfance.</p>
         <p class="intro-text">Action soutenue par la Fondation de France, la Direction Départementale aux Solidarités, la DRAC Bourgogne Franche-Comté et la Fédération des Acteurs de la Solidarité,</p>
         <div class="flex-container">
@@ -15,12 +21,15 @@ summary:
             <div class="column">
                 <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
-            </div>
         </div>
-    </li>
+    </div>
+</div>
+
 <hr>
-      <li>
-      <span style="color:red">11 mars 2025 à Charolles</span>, <span style="color:red">13 mars 2025</span> à La Clayette&nbsp;:&nbsp;<a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a> présentations publiques et spectacle autour des jeunes aidants.
+
+<div id="11-03-2025">
+      <p class="intro-text">
+      11 mars 2025 à Charolles, 13 mars 2025 à La Clayette&nbsp;:&nbsp;<a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a> présentations publiques et spectacle autour des jeunes aidants.</p>
       <p class="intro-text">De septembre 2024 à mars 2025 ont lieu à Charolles, au Lycée Agricole, des ateliers créatifs destinés à des jeunes aidant.es du territoire du Charollais-Brionnais. Nous préparons avec eux et elles un spectacle qui relatera de leur enfance et adolescence singulière, faite de responsabilités au quotidien.</p>
       <p class="intro-text">Action soutenue par AG2R, le Conseil Départemental de Saône et Loire, le Fonds de Développement à la Vie Associative 71, le Conseil Régional de Bourgogne Franche-Comté et la Mutuelle Sociale Agricole.</p>
       <p class="intro-text">Pour de plus amples renseignements&nbsp;:&nbsp;<br>
@@ -40,7 +49,6 @@ summary:
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
         </div>
       </div>
-    </li>
     <hr>
     <li><span style="color:red">Dimanche 9 fevrier 2025</span> à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
     <li><span style="color:red">Samedi 15 février 2025</span> de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
