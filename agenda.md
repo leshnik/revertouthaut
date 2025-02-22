@@ -7,6 +7,9 @@ summary:
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
 <li><a href="#21-06-2025">Vendredi 20 juin 2025 à Mâcon – Empreintes sur le chemin</a></li>
+<li><a href="#19-05-2025">Lundi 19 au Mercredi 21 mai 2025 à Bourbon-Lancy – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#14-05-2025">Mercredi 14 au Samedi 17 mai 2025 à DOLE – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#16-04-2025">Mercredi 16 au Samedi 16 avril 2025 à Saint-Vallier – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#09-04-2025">Mercredi 9 au Samedi 12 avril 2025 à Besançon – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#19-03-2025">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles, Mercredi 13 mars 2025 à La Clayette – Les Emmêlé‧es, spectacle autour des jeunes aidant‧es</a></li>
@@ -151,6 +154,99 @@ summary:
         </div>
         <div class="column">
             <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215901/Flyer_Les_Etres_humaines_Besanc%CC%A7on_Web_k2idbm.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215811/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_16_37_vwee8r.jpg">Clicquer pour télécharger le flyer.</a>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div id="16-04-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Saint-Vallier</a></h2>
+    
+        <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
+        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+        <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
+        <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
+        </ul>  -->    
+        </p>
+        <p class="intro-text center-text">
+        dates et lieux des ateliers à <strong>L'ECLA (Espace culturel Louis Aragon)</strong>&nbsp;:&nbsp;<br>
+            du 16 au 19 avril 2025, de 9h30 à 18h<br>
+            en partenariat avec le Réseau VIF du Bassin Minier<br>
+            L'ECLA<br>
+            22 rue Victor Hugo<br>
+            71230 Saint-Vallier<br>
+            <strong>Renseignements&nbsp;:&nbsp;</strong><br>
+            centresocial@mairie.saintvallier.fr 03&nbsp;85&nbsp;67&nbsp;78&nbsp;20<br>
+            lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
+    </p>
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740225982/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_06_05_wbobug.jpg">
+        </div>
+        <div class="column">
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740226153/Flyer_Les_Etres_humaines_St_Vallier_wi9bm5.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740226084/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_07_54_pip8xe.jpg">Clicquer pour télécharger le flyer.</a>
+        </div>
+    </div>
+</div>
+<hr>
+<div id="14-05-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à DOLE</a></h2>
+    
+        <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
+        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+        <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
+        <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
+        </ul>  -->    
+        </p>
+        <p class="intro-text center-text">
+        dates et lieux des ateliers à <strong>DOLE</strong>&nbsp;:&nbsp;<br>
+            du Mercredi 14 au Samedi 17 mai 2025, de 9h30 à 18h<br>
+            COOPAGIR<br>
+            7 avenue de Landon<br>
+            39100 DOLE<br>
+            03&nbsp;84&nbsp;82&nbsp;45&nbsp;18<br>
+            <strong>Renseignements&nbsp;:&nbsp;</strong><br>
+            lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
+    </p>
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227134/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_21_05_xwcmw1.jpg">
+        </div>
+        <div class="column">
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227390/Flyer_Les_Etres_humaines_Dole_n1kjdu.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227215/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_26_36_tieihm.jpg">Clicquer pour télécharger le flyer.</a>
+        </div>
+    </div>
+</div>
+
+<hr>
+
+<div id="19-05-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Bourbon-Lancy</a></h2>
+    
+        <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
+        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+        <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
+        <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
+        </ul>  -->    
+        </p>
+        <p class="intro-text center-text">
+        dates et lieux des ateliers à <strong>Bourbon-LancyE</strong>&nbsp;:&nbsp;<br>
+            du Lundi 19 au Mercredi 21 mai 2025, de 9h30 à 18h<br>
+            Espace Joséphine BAKER<br>
+            1 chemin de Boussy<br>
+            71140 Bourbon-Lancy<br>
+            En partenariat avec la Ville de Bourbon-Lancy et le Réseau VIF<br>
+            <strong>Renseignements</strong><br>
+            centresocialjbaker@bourbon-lancy.fr 03&nbsp;76&nbsp;15&nbsp;00&nbsp;95<br>
+            lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
+    </p>
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228727/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_51_57_qg14mv.jpg">
+        </div>
+        <div class="column">
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228853/Flyer_Les_Etres_humaines_Bourbon-Lancy_eynm11.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228795/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_53_03_gn973h.jpg">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
