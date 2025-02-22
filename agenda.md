@@ -4,9 +4,12 @@ title: agenda
 summary: 
 ---
 <h1>agenda</h1>
+<p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
 <li><a href="#21-06-2025">Vendredi 20 juin 2025 à Mâcon – Empreintes sur le chemin</a></li>
-<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles, Mercredi 13 mars 2025 à La Clayette – Les Emmêlé‧es</a></li>
+<li><a href="#09-04-2025">Mercredi 9 au Samedi 12 avril 2025 à Besançon – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#19-03-2025">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles, Mercredi 13 mars 2025 à La Clayette – Les Emmêlé‧es, spectacle autour des jeunes aidant‧es</a></li>
 <li><a href="#25-02-2025">Mardi 25 février 2025 à 10h à Saint-Point, à la Pimenterie – dernier atelier suivi d'un repas partagé, Une Nouvelle Page à Écrire</a></li>
 <li><a href="#09-02-2025">Samedi 15 février 2025 à Cluny, à la Galerie Les Mains Libres, collecte de photos, Histoires de Transmission</a></li>
 <li><a href="#09-02-2025">Dimanche 9 février 2025 à 16h à Buffières, Salle du Mille Club – rencontre publique Histoires de Transmission</a></li>
@@ -92,10 +95,73 @@ summary:
     </p>
     </div>
     <hr>
-    <li>
+   
+<div id="19-03-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Chalon-sur-Sâone</a></h2>
+    
+        <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
+        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+        <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
+        <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
+        </ul>  -->    
+        </p>
+        <p class="intro-text center-text">
+        dates et lieux des ateliers à <strong>Chalon-sur-Saône (71)</strong>&nbsp;:&nbsp;<br>
+            du 19 au 22 mars 2025, de 9h30 à 18h<br>
+            du 24 au 27 avril 2025 de 9h30 à 18h<br>
+            en partenariat avec les PEP 71<br>
+            18, rue Colonel Denfert<br>
+            Arrêt de bus : <strong>BUS 02&nbsp;:&nbsp;Arrêt Denfert</strong>
+            Renseignements&nbsp;:&nbsp;lesetreshumaines@gmail.com 06 10 16 66 84
+    </p>
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740147563/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_18_53_pgenhy.jpg">
+        </div>
+        <div class="column">
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740152263/Flyer_Les_Etres_humaines_Cha%CC%82lon_om2ewu.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740147611/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_19_58_iobtuy.jpg">Clicquer pour télécharger le flyer.</a>
+        </div>
+    </div>
+</div>
+
+<div id="09-04-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Besançon</a></h2>
+    
+        <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
+        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+        <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
+        <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
+        </ul>  -->    
+        </p>
+        <p class="intro-text center-text">
+        dates et lieux des ateliers à <strong>Besançon</strong>&nbsp;:&nbsp;<br>
+            du 09 au 12 avril 2025, de 9h30 à 18h<br>
+            en partenariat avec Solidarité Femmes 25<br>
+            Salle Grand Labo<br>
+            Association HOP HOP HOP<br>
+            5, Place Saint-Jacques<br>
+            25000 Besançon<br>
+            Arrêt de bus&nbsp;:&nbsp;<strong>BUS L3,L4,L6&nbsp;:&nbsp;Arrêt Chamars Esplanade</strong><br>
+            Arrêt de tram&nbsp;:&nbsp;<strong>Tram T1,T2&nbsp;:&nbsp;Arrêt Chamars</strong><br>
+            Renseignements&nbsp;:&nbsp;lesetreshumaines@gmail.com 06 10 16 66 84
+    </p>
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215733/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_15_15_vmyuoy.jpg">
+        </div>
+        <div class="column">
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215901/Flyer_Les_Etres_humaines_Besanc%CC%A7on_Web_k2idbm.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215811/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_16_37_vwee8r.jpg">Clicquer pour télécharger le flyer.</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+    <!-- <p class="intro-text">
         <span style="color:red">2025/2027</span>&nbsp;:&nbsp; <a href="les-etres-humaines">les êtres humaines</a>
         <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<p>  
-        <p class="intro-text">Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités.</p>
+        <p class="intro-text">Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.</p>
         <p class="intro-text">Quelques dates à retenir pour la tenue des ateliers :
         <ul>
           <li>Chalon sur Saône, en partenariat avec les PEP 71, du 18 au 22 mars 2025</li>
@@ -119,7 +185,7 @@ summary:
             <div class="center-max600-block">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
             </div>
-    <hr>
+ -->    <hr>
     <li><span style="color:red">2022 - 2025</span>&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
     <li><span style="color:red">Dimanche 9 fevrier 2025</span> à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
     <li><span style="color:red">Samedi 15 février 2025</span> de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
