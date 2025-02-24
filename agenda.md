@@ -3,10 +3,8 @@ layout: logoTop
 title: agenda
 summary: 
 ---
-<h1>agenda</h1>
-<div id="ag">
+<h1 id="ag">agenda</h1>
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
-</div>
 <ul class="agenda-list">
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 28 juin 2025 à Saint-Point</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 20 juin 2025 à Mâcon</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
