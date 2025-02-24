@@ -4,7 +4,9 @@ title: agenda
 summary: 
 ---
 <h1>agenda</h1>
+<div id="ag">
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
+</div>
 <ul class="agenda-list">
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 28 juin 2025 à Saint-Point</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 20 juin 2025 à Mâcon</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
@@ -39,7 +41,7 @@ summary:
         </div>
     </div>
 </div>
-
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 
 <div id="19-05-2025">
@@ -71,6 +73,7 @@ summary:
         </div>
     </div>
 </div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="14-05-2025">
     <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à DOLE</a></h2>
@@ -100,6 +103,7 @@ summary:
         </div>
     </div>
 </div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="16-04-2025">
     <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Saint-Vallier</a></h2>
@@ -130,6 +134,7 @@ summary:
         </div>
     </div>
 </div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="09-04-2025">
     <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Besançon</a></h2>
@@ -161,6 +166,7 @@ summary:
         </div>
     </div>
 </div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="19-03-2025">
     <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Chalon-sur-Sâone</a></h2>
@@ -189,6 +195,7 @@ summary:
         </div>
     </div>
 </div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="11-03-2025">
     <h2><a href="jeunes-aidants">LES EMMÊLÉ&middot;ES</a></h2>
@@ -213,26 +220,11 @@ summary:
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
         </div>
       </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
 
-    <div id="09-02-2025">
-        <h2><a href="histoires-de-transmission">histoires de transmission</a></h2>
-        <p class="intro-text">Dimanche 9 fevrier 2025 à 16h à Buffières – rencontre publique  Salle du Mille Club<br>
-        Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres</p>
-    <p class="intro-text">
-    Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole&nbsp;:&nbsp;<a href="histoires-de-transmission">histoires de transmission</a>.<br>
-    Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
-    <div class="flex-container">
-      <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1738321546/rencontre_buffieres_rdolq6.jpg">
-      </div>
-      <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737638224/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_14_16_46_lg4xmf.png">
-      </div>
-      
-    </div>
-    <p class="intro-text">Projet soutenu par le MSA.</p>
-    <hr>
-    <div id="25-02-2025">
+<div id="25-02-2025">
     <h2><a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a></h2>
     <p class="intro-text">
       14 janvier - 25 février 2025 à Saint Point&nbsp;:&nbsp;<a href="une-nouvelle-page">Une Nouvelle Page à Ecrire</a> 
@@ -247,23 +239,36 @@ summary:
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
       </div>
     </p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="09-02-2025">
+    <h2><a href="histoires-de-transmission">histoires de transmission</a></h2>
+        <p class="intro-text">Dimanche 9 fevrier 2025 à 16h à Buffières – rencontre publique  Salle du Mille Club<br>
+        Samedi 15 février 2025 de 14h à 18h à Cluny, à la Galerie Les Mains Libres</p>
+    <p class="intro-text">
+    Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole&nbsp;:&nbsp;<a href="histoires-de-transmission">histoires de transmission</a>.<br>
+    Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
+    <div class="flex-container">
+      <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1738321546/rencontre_buffieres_rdolq6.jpg">
+      </div>
+      <div class="column">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737638224/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_14_16_46_lg4xmf.png">
+      </div>     
     </div>
-    <hr>
-   
-
-
-
-<hr>
-
-
-<hr>
-
+    <p class="intro-text">Projet soutenu par le MSA.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 
 
 
 
-    <!-- <p class="intro-text">
+
+
+<!-- <p class="intro-text">
         <span style="color:red">2025/2027</span>&nbsp;:&nbsp; <a href="les-etres-humaines">les êtres humaines</a>
         <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<p>  
         <p class="intro-text">Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.</p>
@@ -290,8 +295,8 @@ summary:
             <div class="center-max600-block">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
             </div>
- -->    <hr>
-    <!-- <li><span style="color:red">2022 - 2025</span>&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
+ -->
+<!-- <li><span style="color:red">2022 - 2025</span>&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
     <li><span style="color:red">Dimanche 9 fevrier 2025</span> à 16h à Buffières <a href="histoires-de-transmission">rencontre publique</a> Salle du Mille Club, </li>
     <li><span style="color:red">Samedi 15 février 2025</span> de 14h à 18h à Cluny, à la Galerie Les Mains Libres</li>
     
@@ -305,7 +310,6 @@ summary:
     Projet soutenu par la MSA.
     </p>     
     </li> -->
-<hr>
 <!-- 
     <li>
         <span style="color:red">Jeudi 21 novembre 2024</span>&nbsp;:&nbsp; participation à la soirée des trophées de l’inclusion, Chatenoy-le-Royale<br>
