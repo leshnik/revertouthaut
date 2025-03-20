@@ -14,7 +14,10 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 </ul>
 
 </div>
-
+<h2 id="pod">podcasts des ateliers</h2>
+<ul class="agenda-list">
+  <li><a href="#2025-03-19"><span style="font-weight:bold">2025-03-19 à Chalon-sur-Saône</span></a></li>
+</ul>
 <br>
 <p class="intro-text">
 Une être humaine,<br> <br>
@@ -295,7 +298,14 @@ valeriegaudissart@gmail.com
 
 <p class="intro-text">«J'avais préparé un sac au cas où il faudrait partir d'urgence, un sac avec des vêtements d'enfants, la photocopie des carnets de santé, 20 euros, des gâteaux et des morceaux de sucre. Parce que le sucre, ça console. Le sucre, ça a toujours été mon allié. Donc je le laissai hurler, casser ce qu'il voulait et moi j'avais un morceau de sucre dans la bouche. Il faut pas prendre un morceau entier parce que ça fait mâcher et du coup il peut avoir l'impression que je suis en train de parler dans son dos. Il faut prendre la moitié d'un sucre, comme ça, ça se voit pas. Et pendant qu'il hurle et casse des choses, je me concentre sur le morceau de sucre qui fond dans ma bouche.»</p>
 
-
+<h2>podcasts des ateliers</h2>
+<div id="2025-03-19">
+<figure>
+<figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19</figcaption>
+<audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
+</figure>
+</div>
+<a href="#pod">retourner à la liste des podcasts</a>
 
 
 
