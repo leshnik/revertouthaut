@@ -185,11 +185,16 @@ summary:
             Renseignements&nbsp;:&nbsp;lesetreshumaines@gmail.com 06 10 16 66 84
     </p>
         <h2>podcast de l'atelier</h2>
+        
+        <div class="center-max450-block">
         <figure>
-            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19</figcaption>
+            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19<br>
+                
+            </figcaption>
                 <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
         </figure>
-
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
+        </div>
 
     <div class="flex-container">
         <div class="column">

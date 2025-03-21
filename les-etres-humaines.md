@@ -300,10 +300,16 @@ valeriegaudissart@gmail.com
 
 <h2>podcasts des ateliers</h2>
 <div id="2025-03-19">
-<figure>
-<figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19</figcaption>
-<audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
-</figure>
+<div class="center-max450-block">
+        <figure>
+            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19<br>
+                
+            </figcaption>
+                <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
+        </figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
+        </div>
+
 </div>
 <a href="#pod">retourner à la liste des podcasts</a>
 
