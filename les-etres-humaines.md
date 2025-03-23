@@ -16,7 +16,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 </div>
 <h2 id="pod">podcasts des ateliers</h2>
 <ul class="podcast-list">
-  <li><a href="#2025-03-19"><span style="font-weight:bold">▶19 mars à Chalon-sur-Saône</span></a></li>
+  <li><a href="#2025-03-19"><span style="font-weight:bold">▶&nbsp;19 mars à Chalon-sur-Saône</span></a></li>
 </ul>
 <hr>
 <p class="intro-text">
