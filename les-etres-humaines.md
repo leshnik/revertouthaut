@@ -15,10 +15,10 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 
 </div>
 <h2 id="pod">podcasts des ateliers</h2>
-<ul class="agenda-list">
-  <li><a href="#2025-03-19"><span style="font-weight:bold">2025-03-19 à Chalon-sur-Saône</span></a></li>
+<ul class="podcast-list">
+  <li><a href="#2025-03-19"><span style="font-weight:bold">▶19 mars à Chalon-sur-Saône</span></a></li>
 </ul>
-<br>
+<hr>
 <p class="intro-text">
 Une être humaine,<br> <br>
 c’est celle qui n’a pas le droit de regarder par la fenêtre<br>
@@ -313,7 +313,7 @@ valeriegaudissart@gmail.com
 </div>
 <a href="#pod">retourner à la liste des podcasts</a>
 
-
+<hr>
 
 <h2>tournée 2013&nbsp;:</h2>
 <div class="center-max600-block">

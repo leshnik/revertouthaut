@@ -184,11 +184,11 @@ summary:
             Arrêt de bus : <strong>BUS 02&nbsp;:&nbsp;Arrêt Denfert</strong>
             Renseignements&nbsp;:&nbsp;lesetreshumaines@gmail.com 06 10 16 66 84
     </p>
-        <h2>podcast de l'atelier</h2>
+        <h2>podcasts de l'atelier</h2>
         
         <div class="center-max450-block">
         <figure>
-            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19<br>
+            <figcaption>19 mars au PEPS<br>
                 
             </figcaption>
                 <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
