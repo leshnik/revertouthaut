@@ -20,7 +20,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 </ul>
 <hr>
 <p class="intro-text">
-Une être humaine,<br> <br>
+Une être humaine<br>
 c’est celle qui n’a pas le droit de regarder par la fenêtre<br>
 celle qui doit oublier le mot NON<br>
 celle qui est en danger dans sa propre maison<br>
