@@ -6,6 +6,8 @@ summary:
 <h1 id="ag">agenda</h1>
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
+<li><a href="#23-09-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 23 septembre 2025 à Cluny</span> – Les êtres humaines, présentation du spectacle autour de la violence conjugale</a></li>
+<li><a href="#2-08-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 2 août 2025 à Donzy-le-National</span> – Histoires de Transmissions, présentation publique du projet de film photographique lors du Festival Ciné-Pause</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 28 juin 2025 à Saint-Point</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 20 juin 2025 à Mâcon</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
 <li><a href="#19-05-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 19 au Mercredi 21 mai 2025 à Bourbon-Lancy</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
@@ -23,6 +25,17 @@ summary:
 
 </ul>
 <hr>
+<div id="23-09-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines</a></h2>
+    <p class="intro-text">Mardi 23 septembre 2025 au Théâtre Les Arts à Cluny, présentation du projet <a href="les-etres-humaines">les êtres humaines</a> lors de la présentation de la saison culturelle</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<div id="2-08-2025">
+    <h2><a href="histoires-de-transmission">histoires de transmision</a></h2>
+        <p class="intro-text">Samedi 2 août 2025 à Donzy-le-National, présentation publique du projet de film photographique <a href="histoires-de-transmission">histoires de transmision</a> lors du Festival Ciné-Pause. <br>
+        Horaires pas encore dispo.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
 <div id="21-06-2025">
     <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
     <p class="intro-text">
