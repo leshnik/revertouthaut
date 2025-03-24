@@ -6,6 +6,15 @@ summary:
 <h1 id="ag">agenda</h1>
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
+
+<li><a href="#5-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 5 mars 2026 à Saint Vallier</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
+<li><a href="#27-20-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 27 février 2026 à Cluny</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
+<li><a href="#23-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 23 au jeudi 26 février 2026 à Cluny</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 octobre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#20-10-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 20 au vendredi 25 octobre 2025 à Saint Point</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#6-10-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 6 au vendredi 10 octobre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#4-10-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 4 octobre 2025 à Cluny</span> – Maintenant Il Y A, spectacle musical autour de la cérébro-lésion</a></li>
+<li><a href="#22-09-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 22 septembre au vendredi 26 septembre 2025 à Saint Vallier</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#23-09-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 23 septembre 2025 à Cluny</span> – Les êtres humaines, présentation du spectacle autour de la violence conjugale</a></li>
 <li><a href="#2-08-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 2 août 2025 à Donzy-le-National</span> – Histoires de Transmissions, présentation publique du projet de film photographique lors du Festival Ciné-Pause</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 28 juin 2025 à Saint-Point</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
@@ -25,19 +34,82 @@ summary:
 
 </ul>
 <hr>
+
+<div id="5-03-2026"><h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
+    <p class="intro-text">Jeudi 5 mars 2026, à Saint Vallier, deux représentations, (après-midi et soir).<br>
+    Informations sur réservations et horaires à venir.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr> 
+
+
+<div id="27-20-2026">
+    <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
+    <p class="intro-text">Vendredi 27 février 2026 au Théâtre à Cluny, deux représentations, (après-midi et soir).<br>
+    Informations sur réservations et horaires à venir.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="23-02-2026">
+    <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
+    <p class="intro-text">Lundi 23 au jeudi 26 novembre 2026, à Cluny, résidence de création du spectacle.<br>
+    Au Théâtre de Cluny, horaires précises à déterminer.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+
+<div id="24-11-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
+    <p class="intro-text">Lundi 24 au vendredi 28 novembre 2025, à Cuisery, résidence de création du spectacle.<br>
+    Horaires et lieu à déterminer.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="20-10-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
+    <p class="intro-text">Lundi 20 au vendredi 25 octobre 2025, à Saint Point, résidence de création du spectacle.<br>
+    Horaires et lieu à déterminer.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+
+
+<hr>
+<div id="6-10-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
+    <p class="intro-text">Lundi 6 au vendredi 10 octobre 2025, à Cuisery, résidence de création du spectacle.<br>
+    Horaires et lieu à déterminer.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="4-10-2025">
+    <h2><a href="maintenant-il-y-a">Maintenant il y a – spectacle</a></h2>
+    <p class="intro-text">Samedi 4 octobre 2025 à Cluny, à La Novelline, spectacle musical autour de la cérébro-lésion avec les habitants de La Novelline. <br>
+    Horaires à déterminer.</p>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="22-09-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
+    <p class="intro-text">Lundi 22 au vendredi 26 septembre 2025 à Saint Vallier, résidence de création du spectacle.<br>
+    Horaires et lieu à déterminer.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
 <div id="23-09-2025">
-    <h2><a href="les-etres-humaines">les êtres humaines</a></h2>
-    <p class="intro-text">Mardi 23 septembre 2025 au Théâtre Les Arts à Cluny, présentation du projet <a href="les-etres-humaines">les êtres humaines</a> lors de la présentation de la saison culturelle</p>
+    <h2><a href="les-etres-humaines">les êtres humaines – présentation du projet</a></h2>
+    <p class="intro-text">Mardi 23 septembre 2025 au Théâtre Les Arts à Cluny, présentation du projet <a href="les-etres-humaines">les êtres humaines</a> lors de la présentation de la saison culturelle.</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <div id="2-08-2025">
-    <h2><a href="histoires-de-transmission">histoires de transmision</a></h2>
+    <h2><a href="histoires-de-transmission">histoires de transmision – présentation du projet</a></h2>
         <p class="intro-text">Samedi 2 août 2025 à Donzy-le-National, présentation publique du projet de film photographique <a href="histoires-de-transmission">histoires de transmision</a> lors du Festival Ciné-Pause. <br>
         Horaires pas encore dispo.</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <div id="21-06-2025">
-    <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+    <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin – spectacle</a></h2>
     <p class="intro-text">
     Vendredi 20 juin 2025 à Mâcon, et Samedi 28 juin 2025 à Saint-Point <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.</p>
         <p class="intro-text">De mai 2024 à juin 2025, sont proposés à des personnes exilées, enfants et adultes, accompagnées par les CADA le Pont et Adoma à Mâcon, des cycles d’ateliers créatifs. A partir des rencontres faites pendant ces ateliers, sera créé un spectacle, qui réunira certaines des personnes exilées et les artistes Sidonie Dubosc, Valérie Gaudissart, Romane Lasserre et Tahia Strika. Le spectacle fera le récit de cette nouvelle vie à construire quand on a dû quitter son pays, ses racines et ses lieux d’enfance.</p>
