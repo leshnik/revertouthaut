@@ -281,6 +281,16 @@ summary:
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
         </div>
 
+        <div class="center-max450-block">
+        <figure>
+            <figcaption>22 mars au PEPS<br>
+                
+            </figcaption>
+                <audio controls src="https://TWpull.b-cdn.net/samedi%2022%20mars%202eme%20episode.mp3"></audio>
+        </figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
+        </div>
+
     <div class="flex-container">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740147563/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_18_53_pgenhy.jpg">
