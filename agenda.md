@@ -10,7 +10,7 @@ summary:
 <li><a href="#5-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 5 mars 2026 à Saint Vallier</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
 <li><a href="#27-20-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 27 février 2026 à Cluny</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
 <li><a href="#23-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 23 au jeudi 26 février 2026 à Cluny</span> – Les êtres humaines, résidence de création</a></li>
-<li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 octobre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 novembre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#20-10-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 20 au vendredi 25 octobre 2025 à Saint Point</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#6-10-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 6 au vendredi 10 octobre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#4-10-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 4 octobre 2025 à Cluny</span> – Maintenant Il Y A, spectacle musical autour de la cérébro-lésion</a></li>
