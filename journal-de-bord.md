@@ -4,6 +4,150 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>janvier/mars 2025</h2>
+<p class="intro-text">Ouh la la ! nous sommes en retard pour raconter nos trois premiers mois de l’année !<br>
+ 
+Il faut dire que nous avons galopé de partout et que les projets s’enchainent, se déchainent et que nous avons plein de choses à raconter, organiser, digérer, prévoir, ressentir, penser…
+Et que dans notre monde d’aujourd’hui, nous ressentons encore plus l’urgence et la nécessité de soutenir les plus fragiles, les plus invisibles.<br>
+ 
+Alors par quelle action commencer ?</p>
+<hr>
+<p class="intro-text">Tiens, commençons par <a href="histoires-de-transmission">histoires de transmissions</a>, notre action autour du monde paysan et de ses départs à la retraite problématique, incertain. Nous avons continué notre recueil de témoignages et organisé le 8 février à Buffières devant une salle pleine, une première rencontre publique et proposé des lectures de témoignages et des premières projections des photographies, celles faites par Lucie Moraillon et aussi de photographies de famille, traces de la vie à la ferme depuis le début du XXème siècle jusqu’à aujourd’hui. Beaucoup d’émotions lors de cette première rencontre, car oui, le monde paysan est confronté à de multiples pertes, adaptations et sentiments souvent restés enfouis dans le silence.</p>
+ 
+<p class="intro-text">Nous collectons donc des photographies prises sur les fermes, par les familles et celles-ci disent tant de la transformation des familles, du travail collectif, des engins, du rapport aux animaux… Si vous voulez nous en partager pour qu’elles fassent partie de notre film photographique à venir, c’est avec plaisir !</p>
+ 
+<p class="intro-text">Intervenantes artistiques : Lucie Moraillon, photographe et Valérie Gaudissart, autrice
+</p>
+<h3>Extrait de témoignage :</h3>
+<p class="intro-text">
+<cite>
+Moi je suis pas exploitant agricole. Je suis exploité agricole.<br><br>
+ 
+Et pourtant je suis passionné par ce que je fais : les vaches laitières. Quand je suis dans ma salle de traite, je suis bien, je suis dans un autre monde, je vois pas le temps passer. Et pour rien au monde, je ferai de la vache allaitante. C’est une question de liens, mes vaches sont comme des petits chiens. Et je suis même aussi un peu leur maman.<br><br>
+ 
+Moi ici, je suis la cinquième génération de paysans, la maison où on est là, elle a été construite en 1888, par mon arrière arrière grand père. Moi j’ai rien connu d’autre que la ferme, et j’ai repris après mon père sans même me poser de question, c’était un choix sans être un choix et ça n’a jamais été une contrariété. C’est venu plus tard, la contrariété.<br><br>
+ 
+Sur ma ferme, il y a deux maisons d’habitation, une pour les parents, là devant, et une pour les jeunes qui reprennent. Et pendant 5 générations, ça a tourné, quand les parents mourraient, les jeunes, qui avaient quand même vieilli s’installaient dans la maison des vieux et les jeunes arrivaient dans la maison des jeunes. Ça marchait comme ça, mais ça va s’arrêter.<br><br>
+Parce que mon fils reprendra pas, et tant mieux, parce que ça fera un esclave de moins.
+ 
+Donc moi, je vais être le dernier de ma lignée, et j’aime pas cette idée.</cite></p>
+ 
+<p class="intro-text">Quelques photos :</p>
+<div class="center-max450-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743434845/048_.1937._Fenaisons_et_chapeaux_hca0uq.jpg">
+</div>
+ <div class="center-max800-block">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743434418/dyptique_lucie-9fe%CC%81v25_lvkqxt.png">
+ </div>
+ <div class="center-max450-block">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743434635/50BD_e4rnxa.jpg">
+ </div>
+
+<hr>
+ 
+<p class="intro-text">Continuons avec l’aboutissement de notre action <a href="jeunes-aidants">LES EMMELE&middot;ES</a>, consacrée aux jeunes aidants du Charollais Brionnais. Après avoir accompagné une quinzaine de ces jeunes, sur plusieurs mois lors d’ateliers créatifs, nous sommes parties en résidence de répétitions avec trois d’entre eux et une équipe d’artistes pendant 5 jours et avons réussi l’exploit de monter un très beau spectacle de plus d’une heure. Spectacle que nous avons joué 4 fois, à Charolles et La Clayette, devant 550 personnes, des jeunes, des moins jeunes, des lycéens, des jeunes de la Milo, des jeunes de la MFR, des professionnel.les du travail social, des enseignants et des familles, des fratries…<br><br>
+Et bien, quel impact ! aussi bien sur nos jeunes participants qui ont trouvé là un espace d’expression, que sur le public qui a découvert ou compris les empêchements, les sentiments ambivalents de ces jeunes qui ne parlent pas ou très peu de leurs situations familiales.</p>
+
+<p class="intro-text"> 
+Dans l’équipe, il y avait :<br>
+ 
+Sibylle Charvet, Sidonie Dubosc, Naïma Ferré, Shanna Fructus, Valérie Gaudissart, Morton Potash, Sacha Rogue, Léna Schatz, Flore Simon, Elsa Trouche et Florian Girard à la lumière<br><br>
+
+Bientôt une captation sera visible. En attendant, un extrait du spectacle et des articles de presse.</p>
+<h3>un extrait du texte du spectacle :</h3>
+<p class="intro-text"><cite>J’ai toujours aimé passer du temps avec ma grand-mère, faire des puzzles, boire le café, me promener avec elle sur le chemin qui mène à la forêt.<br><br>
+Quand elle est tombée malade, de la maladie d’Alzheimer, c’est moi qui la comprenais. Les autres étaient durs avec elle, comme si elle le faisait exprès d’oublier des choses. Je trouvais pas ça juste.<br><br>
+Alors j’allais passer encore plus de temps avec elle, et je la faisais écrire, écrire son nom, écrire mon nom, le nom du village, du hameau, des animaux, je la faisais danser aussi, car elle aimait beaucoup danser. Et toutes les deux, on se tenait compagnie et on n’avait pas besoin de beaucoup parler.<br><br>
+ 
+Aujourd’hui je travaille dans une chèvrerie, comme ma grand-mère et comme elle, je traie les chèvres et je fais des fromages. Elle est morte maintenant et ça a fait un grand vide dans ma vie mais comme je fais les mêmes gestes qu’elle, que je vis dans les mêmes odeurs, j’ai l’impression qu’elle n’est pas loin. Il y a sa photo chez moi, dans la salle à manger, et elle me regarde, j’en suis sûre.<br><br>
+
+Ma grand-mère, je l’ai aidée, et pour moi, c’était normal, et j’ai de très bons souvenirs du temps passé avec elle. Et je dirai que ma grand-mère m’a aidée elle aussi, sans le savoir. Elle m’a aidée à choisir un métier.
+Plus tard, je sais qu’il faudra que j’aide aussi mes deux oncles et ma tante, qui n’ont pas d’enfants et qui ne se sont jamais mariés. Ce sera comme ça, et ça ne me dérange pas, au contraire, j’aime bien que tout le monde compte sur moi. Je me sens utile à ma famille et ça me rend gaie et forte.</cite></p>
+ 
+<h3>Et quelques articles de presse :</h3>
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743424516/presse:emmeles-charolles.jpg"><br>
+<a href="https://www.lejsl.com/societe/2025/02/23/les-emmeles-un-spectacle-avec-des-jeunes-aidants-bientot-sur-scene"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743433967/JSL_31_Mar_2025_kgpj45.jpg"><br>Article dans le JSL</a>
+</div>
+
+<hr>
+<p class="intro-text">Et maintenant, relatons les séances d'<a href="empreintes-sur-le-chemin">EMPREINTES SUR LE CHEMIN</a>, notre action d’une année proposée à des personnes exilées.  Nous fêtons en mars la 101e personne accueillie ! cela en fait des histoires de vies, des parcours, des envies de vie nouvelle, et des capacités créatives incroyables. Comme nous aimerions que toutes ces personnes trouvent un refuge, un apaisement et un horizon dégagé.</p>
+<p class="intro-text">Quelques ateliers se tiennent encore en avril, puis en mai et juin, nous commençons à monter un spectacle avec certaines d’entre elles. Spectacle que nous jouerons fin juin à Mâcon et Saint Point. Et ce que nous aimerions pour l’année prochaine, c’est aller jouer ce spectacle dans quelques villages de Saône et Loire. Bonne idée, non, que celle de créer des rencontres pour de vrai ?</p>
+ 
+<p class="intro-text">Intervenantes : Magali Ringoot – musico-thérapeute,
+Tahia Strika – céramiste, Romane Lasserre – céramiste et marionnettiste,
+Marie Quentrec – illustratrice, et Valérie Gaudissart – art-thérapeute.
+</p>
+<p class="intro-text">Quelques photos des créations&nbsp;:&nbsp;</p>
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743433474/empreintes-drawing-2025-03-26_oapi34.jpg"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743433680/empreintes-clay-2025-03-26_ze4hns.jpg">
+</div>
+
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/4da1c296-b80c-4f2d-a2fe-044afe024006?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<p class="intro-text">Et de quoi nous écouter lors d’un atelier musique et percussions</p>
+<audio controls src="https://rth8.b-cdn.net/empreintes-audio.mp3"></audio>
+<hr>
+
+<p class="intro-text">En puis partons maintenant du côté de Saint Point et de nos ateliers d’écriture autour du deuil, <a href="une-nouvelle-page">une nouvelle page à écrire</a>, qui a accueilli sa 38e personne…</p>
+
+<p class="intro-text">Ateliers qui accueillent des personnes qui parfois font 50 kilomètres pour nous rejoindre, comme quoi, le besoin de transformer son deuil, qu’il soit proche ou lointain, est crucial, important. Nous avons donc écrit, mais aussi fait de la lino-gravure, (sur lino perdu…), fait des collages. Travailler les mots et les images pour dire l’absence, la présence, le dialogue, le silence, le manque, la vitalité des souvenirs et la force des liens.</p>
+<p class="intro-text">Un deuxième cycle d’ateliers reprendra à l’automne à la Pimenterie à Saint Point.</p>
+ 
+<p class="intro-text">Quelques images :</p>
+ <div class="center-max450-block">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743440833/deuil-gravure1_xfv3ac.jpg"><br>
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743440904/deuil-gravure2_xar5k5.jpg">
+ </div>
+ <hr>
+ 
+<p class="intro-text">Et enfin, le mois de mars a vu le démarrage concret de <a href="les-etres-humaines">les êtres humaines</a>, notre action de plus de deux ans autour des violences conjugales.</p>
+<p class="intro-text">Une première session d’ateliers a eu lieu à Chalon sur Saône, nous avons accueilli une trentaine de femmes et leurs enfants, et leurs témoignages, leurs envies et leurs besoins de se reconstruire, d’être entendues, crues, d’être moins seules.</p>
+<p class="intro-text">Nous avons proposé musique, argile, fusain, collage, aquarelle, peinture, photographie.<br>
+ 
+Là aussi, vu ce qui a été partagé, dit, crée pendant cette première semaine, pas de doute, nous sommes au bon endroit.
+Nous préparons activement les ateliers d’avril et de mai, ainsi que les résidences de l’automne.</p>
+ 
+<h3>Quelques extraits de témoignages&nbsp;:&nbsp;</h3>
+
+<p class="intro-text"><cite> 
+Moi j’ai été détruite en tant que femme mais j’ai surtout été détruite en tant que mère.  Il m’a dit, je vais te prendre ce que tu as de plus cher. Et en effet, il m’a pris ce que j’avais de plus précieux. Mes enfants ont rompu avec moi, cela fait neuf ans. Sa violence et ses injures à lui, c’est derrière moi, mais le silence de mes enfants, c’est tous les jours. Et les années sans les voir, sont des années perdues.<br>
+Mais bon je suis vivante.<br>
+ 
+Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terrasse de café et je regarde les gens, et les gens des fois, je les trouve beaux, alors je peux m’empêcher, je vais vers eux, et je leur dit : excusez-moi, je voulais juste vous dire que je vous trouve très beau, ou que je vous trouve très belle. Je leur souris, et puis je m’en vais.
+</cite></p>
+<p class="intro-text">Et quelques photos bien parlantes&nbsp;:&nbsp;</p>
+
+<div class="center-max450-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441493/collage_les_couleurs_du_bonheur_dxzzfy.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441576/la_femme_qui_fait_un_pas_eiukfb.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441689/poing_ferme%CC%81-chalon_dqvwvn.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441799/portrait_G-chalon_xvug5b.jpg">
+</div>
+
+<p class="intro-text">Aurélie Loutan réalise des podcasts pendant les ateliers&nbsp;:&nbsp;
+    <div class="center-max450-block">
+        <figure>
+            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19
+                
+            </figcaption>
+                <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
+        </figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
+    </div>
+<div class="center-max450-block">
+        <figure>
+            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-22<br>
+                
+            </figcaption>
+                <audio controls src="https://TWpull.b-cdn.net/samedi%2022%20mars%202eme%20episode.mp3"></audio>
+        </figure>
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
+        </div>
+</p>
+ 
+ 
 <h2>novembre/décembre 2024</h2>
 <p class="intro-text">
 Tout d'abord, pour terminer l'année et démarrer la nouvelle avec un peu de douceur, voici à écouter une de nos chansons composées en 2024, pour et avec les résident&middot;es du Clos Lamartine à Cluny. Elle s'appelle «&nbsp;La liste des choses à ne pas oublier&nbsp;» et fait partie du projet&nbsp;:&nbsp;<a href="chansons-de-mes-quatre-saisons">chansons de mes quatre saisons</a>.
