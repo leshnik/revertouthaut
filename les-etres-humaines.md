@@ -66,12 +66,12 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
 
 <p class="intro-text">Voici les dates et lieux des ateliers&nbsp;:&nbsp; 
  <ul class="institutions">
-          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 18 au 22 mars 2025</li>
-          <li>Besançon, en partenariat avec Solidarité Femmes 25, du 8 au 12 avril 2025</li>
-          <li>Saint Vallier, en partenariat avec le Centre Social de Saint-Vallier, le réseau VIF du Bassin Minier et la salle de spectacle l’Ecla, du 15 au 19 avril 2025</li>
-          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 22 au 26 avril 2025</li>
-          <li>Dôle, en partenariat avec Coop-Agir, du 13 au 17 mai 2025</li>
-          <li>Bourbon-Lancy, en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 18 au 21 mai 2025</li>
+          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 19 au 22 mars 2025</li>
+          <li>Besançon, en partenariat avec Solidarité Femmes 25, du 9 au 12 avril 2025</li>
+          <li>Saint Vallier, en partenariat avec le Centre Social de Saint-Vallier, le réseau VIF du Bassin Minier et la salle de spectacle l’Ecla, du 16 au 19 avril 2025</li>
+          <li>Chalon sur Saône, en partenariat avec les PEP 71, du 24 au 27 avril 2025</li>
+          <li>Dôle, en partenariat avec Coop-Agir, du 14 au 17 mai 2025</li>
+          <li>Bourbon-Lancy, en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 19 au 21 mai 2025</li>
           <li>Macon, en partenariat avec le Centre Social des Blanchettes et les 3 autres centres sociaux de la ville, en mai 2025 (dates à préciser)</li>
         </ul></p>
 
@@ -83,7 +83,8 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
 <ul class="institutions">
   <li>Saint Vallier, du 22 au 26 septembre, à l’Ecla</li>
   <li>Cuisery, du 6 au 10 octobre, au Palace</li>
-  <li>Macon, dates et lieux à définir</li>
+  <li>Saint Point, du 20 au 25 octobre, à La Pimenterie</li>
+  <li>Cuisery, du 24 au 28 novembre, au Palace</li>
   <li>Chalon sur Saône, dates et lieux à définir</li>
 </ul>
 </p>
