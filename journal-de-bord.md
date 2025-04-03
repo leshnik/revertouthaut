@@ -51,7 +51,7 @@ Et bien, quel impact ! aussi bien sur nos jeunes participants qui ont trouvé l�
 <p class="intro-text"> 
 Dans l’équipe, il y avait :<br>
  
-Sibylle Charvet, Sidonie Dubosc, Naïma Ferré, Shanna Fructus, Valérie Gaudissart, Morton Potash, Sacha Rogue, Léna Schatz, Flore Simon, Elsa Trouche et Florian Girard à la lumière<br><br>
+Sibylle Charvet, Sidonie Dubosc, Naïma Ferré, Shanna Fructus, Valérie Gaudissart, Morton Potash, Sacha Rogé, Léna Schatz, Flore Simon, Elsa Trouche et Florian Girard à la lumière<br><br>
 
 Bientôt une captation sera visible. En attendant, un extrait du spectacle et des articles de presse.</p>
 <h3>un extrait du texte du spectacle :</h3>
