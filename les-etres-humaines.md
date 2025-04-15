@@ -18,6 +18,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <ul class="podcast-list">
   <li><a href="#2025-03-19"><span style="font-weight:bold">▶&nbsp;19 mars à Chalon-sur-Saône</span></a></li>
   <li><a href="#2025-03-22"><span style="font-weight:bold">▶&nbsp;22 mars à Chalon-sur-Saône</span></a></li>
+  <li><a href="#2025-04-09"><span style="font-weight:bold">▶&nbsp;9 avril à Besançon</span></a></li>
 </ul>
 <hr>
 <p class="intro-text">
@@ -325,6 +326,23 @@ valeriegaudissart@gmail.com
         </div>
 
 </div>
+<div id="2025-04-09">
+  <div class="center-max600-block">
+      <figure>
+          <figcaption>Besançon&nbsp;:&nbsp;2025-04-09</figcaption>
+          <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
+      </figure>
+      <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
+        </div>
+      </div>  
+  </div>
+</div>
+
 <a href="#pod">retourner à la liste des podcasts</a>
 
 <hr>

@@ -240,6 +240,22 @@ summary:
             Arrêt de tram&nbsp;:&nbsp;<strong>Tram T1,T2&nbsp;:&nbsp;Arrêt Chamars</strong><br>
             Renseignements&nbsp;:&nbsp;lesetreshumaines@gmail.com 06 10 16 66 84
     </p>
+<h2>podcast de l'atelier</h2>
+    <div class="center-max600-block">
+        <figure>
+            <figcaption>9 avril dans la Salle Grand Labo dans les locaux de l'asso HOP HOP HOP</figcaption>
+            <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
+        </figure>
+        <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
+        </div>
+      </div> 
+    </div>
+
     <div class="flex-container">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215733/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_15_15_vmyuoy.jpg">
@@ -290,6 +306,7 @@ summary:
         </figure>
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
         </div>
+
 
     <div class="flex-container">
         <div class="column">
