@@ -88,6 +88,9 @@ summary:
     <h2><a href="maintenant-il-y-a">Maintenant il y a – spectacle</a></h2>
     <p class="intro-text">Samedi 4 octobre 2025 à Cluny, à La Novelline, spectacle musical autour de la cérébro-lésion avec les habitants de La Novelline. <br>
     Horaires à déterminer.</p>
+    <div class="center-max450-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744710034/annonce-10ans-lanovelline_kxnfdp.jpg">
+    </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="22-09-2025">
