@@ -344,11 +344,12 @@ valeriegaudissart@gmail.com
   </div>
 </div>
 <div id="2025-04-19">
-  <div class="center-max600-block">
+  <div class="center-max450-block">
     <figure>
       <figcaption>Saint Vallier&nbsp;:&nbsp;2025-04-19</figcaption>
       <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
     </figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
   </div>
 </div>
 
