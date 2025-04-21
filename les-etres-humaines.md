@@ -19,6 +19,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
   <li><a href="#2025-03-19"><span style="font-weight:bold">▶&nbsp;19 mars à Chalon-sur-Saône</span></a></li>
   <li><a href="#2025-03-22"><span style="font-weight:bold">▶&nbsp;22 mars à Chalon-sur-Saône</span></a></li>
   <li><a href="#2025-04-09"><span style="font-weight:bold">▶&nbsp;9 avril à Besançon</span></a></li>
+  <li><a href="#2025-04-19"><span style="font-weight:bold">▶&nbsp;19 avril à Saint Vallier</span></a></li>
 </ul>
 <hr>
 <p class="intro-text">
@@ -340,6 +341,14 @@ valeriegaudissart@gmail.com
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
         </div>
       </div>  
+  </div>
+</div>
+<div id="2025-04-19">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Saint Vallier&nbsp;:&nbsp;2025-04-19</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
+    </figure>
   </div>
 </div>
 

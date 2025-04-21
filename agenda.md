@@ -211,15 +211,13 @@ summary:
             centresocial@mairie.saintvallier.fr 03&nbsp;85&nbsp;67&nbsp;78&nbsp;20<br>
             lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
     </p>
-    <div class="flex-container">
-        <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740225982/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_06_05_wbobug.jpg">
-        </div>
-        <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740226153/Flyer_Les_Etres_humaines_St_Vallier_wi9bm5.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740226084/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_07_54_pip8xe.jpg">Clicquer pour télécharger le flyer.</a>
-        </div>
+    <h2>podcast de l'atelier</h2>
+    <div class="center-max600-block">
+        <figure>
+            <figcaption>19 avril 2025 à l'ECLA, Espace Culturel Louis Aragon à Saint Vallier</figcaption>
+            <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
+        </figure>
     </div>
-</div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="09-04-2025">
