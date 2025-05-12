@@ -309,6 +309,24 @@ summary:
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
         </div>
 
+            <div class="center-max600-block">
+        <figure>
+            <figcaption>19 avril à Virey-le-Grand<br>
+                
+            </figcaption>
+                <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
+        </figure>
+        <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
+        </div>
+      </div>
+  </div>
+        </div>
+
 
     <div class="flex-container">
         <div class="column">

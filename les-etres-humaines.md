@@ -20,6 +20,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
   <li><a href="#2025-03-22"><span style="font-weight:bold">▶&nbsp;22 mars à Chalon-sur-Saône</span></a></li>
   <li><a href="#2025-04-09"><span style="font-weight:bold">▶&nbsp;9 avril à Besançon</span></a></li>
   <li><a href="#2025-04-19"><span style="font-weight:bold">▶&nbsp;19 avril à Saint Vallier</span></a></li>
+  <li><a href="#2025-04-27"><span style="font-weight:bold">▶&nbsp;27 avril à Virey-le-Grand</span></a></li>
 </ul>
 <hr>
 <p class="intro-text">
@@ -350,6 +351,22 @@ valeriegaudissart@gmail.com
       <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
     </figure>
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
+  </div>
+</div>
+<div id="2025-04-27">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Virey-le-Grand&nbsp;:&nbsp;2025-04-27</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
+    </figure>
+    <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
+        </div>
+      </div>
   </div>
 </div>
 
