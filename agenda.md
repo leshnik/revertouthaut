@@ -311,7 +311,7 @@ summary:
 
             <div class="center-max600-block">
         <figure>
-            <figcaption>19 avril à Virey-le-Grand<br>
+            <figcaption>27 avril à Virey-le-Grand<br>
                 
             </figcaption>
                 <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
