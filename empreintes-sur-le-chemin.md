@@ -10,7 +10,7 @@ Un CADA, un HUDA, un PRAHDA, un CAES : tous ces mots jargonneux qui vont pourtan
 
 <div class="flex-container">
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732959420/Screenshot_of_Finder_at_30_Nov_2024_at_10_36_23_xtavm2.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
     </div>
     <div class="column">
         <a href="FLYER Empreintes sur le chemin web.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">
