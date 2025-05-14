@@ -119,7 +119,7 @@ summary:
         <p class="intro-text">Action soutenue par la Fondation de France, la Direction Départementale aux Solidarités, la DRAC Bourgogne Franche-Comté et la Fédération des Acteurs de la Solidarité,</p>
         <div class="flex-container">
             <div class="column">
-            <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718169486/empreintes-flyer-p1-2024-06-12_n0sit3.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
             </div>
             <div class="column">
                 <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
