@@ -4,6 +4,134 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>avril 2025</h2>
+<p class="intro-text">
+Avril et ses trente jours bien remplis de rencontres, de mots, de récits, de dessins, de tâches de couleurs, de boules d’argile, de photographies, de chansoons, de yeux humides, de sourires soulagés, de « à très bientôt ».</p>
+ 
+<p class="intro-text"><a href="les-etres-humaines">les êtres humaines</a>, sont parties sur les routes, se sont arrêtées à Besançon, à Saint Vallier et à Chalon-sur-Saône. Comment résumer ces journées où tant d’histoires se croisent, résonnent entre elles tout en étant à chaque fois singulières ? Les êtres humaines, ces femmes victimes de violence conjugale, qui viennent participer aux ateliers créatifs sont des femmes debout, des femmes qui ont osé dire non, osé partir et tout recommencer.
+Nous accueillons aussi durant ces journées les femmes, travailleuses sociales ou psychologiques qui sont à leurs côtés.</p>
+ 
+<p class="intro-text">Les Etres Humaines est un projet dont nous mesurons chaque jour la nécessité tant l’étendue des violences conjugales physiques, psychologiques, sexuelles, est immense.
+Nous avons en avril accueilli 35 femmes et 20 enfants.</p>
+ 
+<p class="intro-text">Un grand merci au Fonds pour le Développement de la Vie Associative 71 et à la Communauté de Communes du Maconnais-Beaujolais MBA qui soutiennent le projet !</p>
+ 
+<p class="intro-text">Voici l’extrait d’un texte écrit en atelier :</p>
+ 
+<p class="intro-text">
+<cite>
+Il dit<br>
+ <br>
+Il dit que je suis conne<br>
+Il dit que je lui apprends beaucoup de choses<br>
+ <br>
+Il dit que je ne suis pas assez sexy<br>
+Il dit que je ne peux pas sortir habillée comme ça<br>
+ <br>
+Il dit qu’il n’aime pas le maquillage<br>
+Il dit qu’il ne n’aime pas sans maquillage<br>
+ <br>
+Il dit que j’ai un problème<br>
+Il dit qu’il a un problème<br>
+ <br>
+Il dit qu’il a honte de moi<br>
+Il dit que je suis la femme de sa vie<br>
+ <br>
+Il dit que je ne suis rien sans lui<br>
+Il dit qu’il ne peut pas vivre sans moi<br>
+ <br>
+Il dit t’étais où, avec qui ?<br>
+Il dit moi je n’ai pas de compte à te rendre<br>
+ <br>
+Il dit que c’est en brisant les gens qu’on les garde
+</cite>
+</p>
+ 
+<p class="intro-text">Voici ici, quelques traces, en photo et podcast, de la formidable force créative des Etres Humaines</p>
+ 
+
+
+<div>
+  <div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747294518/poing_leve_argile_rkuxtg.jpg">
+      <figure>
+          <figcaption>Besançon&nbsp;:&nbsp;2025-04-09</figcaption>
+          <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
+      </figure>
+      <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
+        </div>
+      </div>  
+  </div>
+</div>
+<div>
+  <div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747294709/IMG20250410114227_-_copie_vlotwp.jpg">
+    <figure>
+      <figcaption>Saint Vallier&nbsp;:&nbsp;2025-04-19</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
+    </figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
+  </div>
+</div>
+<div id="2025-04-27">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Virey-le-Grand&nbsp;:&nbsp;2025-04-27</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
+    </figure>
+    <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
+        </div>
+      </div>
+  </div>
+<hr>
+<p class="intro-text">Avril a vu aussi se terminer notre long et captivant cycle d’ateliers <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> proposés à des personnes exilées.</p>
+<p class="intro-text">Tout au long de cette année, puisque les ateliers ont démarré en mai 2024, nous avons accueilli 110 personnes exilées dont 45 enfants, 12 travailleuses sociales. Nous avons été accompagnées tout au long de l’année par une psychiatre, une psychologue et deux stagiaires psychologues.</p>
+<p class="intro-text">Et enfin 10 intervenants artistiques ont inventé et proposé des médiations collectives et personnelles, sous forme d’argile, de portraits dessinés, de fresque, de tressage d’osiers, de musiques et de percussions, de fusain, de pastel, d’encres de toutes les couleurs, de lino-gravure.</p>
+<p class="intro-text">Merci à toutes et tous pour cet engagement inventif, et toutes ces ressources créatives exprimées.</p>
+ 
+<p class="intro-text">Des rencontres, des amitiés, des liens se sont tissés et les objets créés sont si nombreux que les placards en sont pleins et les murs recouverts.</p>
+ 
+<p class="intro-text">Nous prolongeons cette action par la création d’un spectacle qui réunira une huitaine de nos participant‧es et une équipe artistique composée de Romane Lasserre, Valérie Gaudissart, Sidonie Dubosc, Tahia Strika et Magali Ringoot. Nous vous en reparlerons car nous serons en écriture dès la fin mai et nous jouerons en juin.</p>
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
+</div>
+ 
+<p class="intro-text">Ici, quelques photos et vidéos des créations d’avril</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/0e2bac7b-f6b9-498c-8066-5bfa33a0533d?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747296186/ScreenFloat_Shot_of_WhatsApp_at_15_May_2025_at_10_02_45_sa31cf.png">
+</div>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eeb6882f-b411-448c-b4c5-3157dbc08e18?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div class="center-max450-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747296519/ScreenFloat_Shot_of_WhatsApp_at_15_May_2025_at_10_08_23_mdj3do.png">
+</div>
+ 
+<hr>
+ 
+<p class="intro-text">Notre action <a href="jeunes-aidants">les emmêlé&middot;es</a>, destinée à des jeunes aidants, continue son chemin. Nous étudions des propositions de reprendre notre spectacle en 2026. Voilà qui serait une belle perspective !</p>
+ 
+<p class="intro-text">Et nous sommes finalistes des <a href="https://kerialis.fr/les-trophees-kerialis">Trophées Kérialis</a>, qui récompense des initiatives innovantes qui font avancer notre société vers un avenir plus juste et équitable ». Merci beaucoup !</p>
+
+ 
+<p class="intro-text">Un grand merci aussi à la Caisse Primaire d’Assurance Maladie 71 de nous avoir accordé son soutien financier ce mois-ci !</p>
+ 
+<p class="intro-text">La captation du spectacle sera visible sur notre site à la fin mai.</p>
+ 
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747297596/les-emmeles-chanson_re4xqy.png">
+</div>
+
 <h2>janvier/mars 2025</h2>
 <p class="intro-text">Ouh la la ! nous sommes en retard pour raconter nos trois premiers mois de l’année !<br>
  
