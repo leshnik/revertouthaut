@@ -9,6 +9,9 @@ summary: Depuis mars 2024, Rêver Tout Haut soutient les jeunes aidants du Charo
 <h2>Atelier créatif pour jeunes aidants
 du Charolais-Brionnais 2024-2025</h2>
 
+<p class="intro-text"> captation du spectacle Les Emmêlé‧es du 13 mars 2025 à La Clayette</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/ddb08e02-eedf-4f6c-aca3-5406cff892e6?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
 <div class="flex-container">
         <div class="column">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">

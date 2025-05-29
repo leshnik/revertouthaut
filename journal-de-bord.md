@@ -126,7 +126,7 @@ Il dit que c’est en brisant les gens qu’on les garde
  
 <p class="intro-text">Un grand merci aussi à la Caisse Primaire d’Assurance Maladie 71 de nous avoir accordé son soutien financier ce mois-ci !</p>
  
-<p class="intro-text">La captation du spectacle sera visible sur notre site à la fin mai.</p>
+<p class="intro-text"><a href="lesemmelescapta">Captation du spectacle.</a></p>
  
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747297596/les-emmeles-chanson_re4xqy.png">
