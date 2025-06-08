@@ -4,6 +4,107 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>mai 2025</h2>
+ 
+<p class="intro-text">En ce mois de mai, on a fait ce qui nous plait : rencontrer des Etres Humaines, imaginer notre nouvelle création,  le spectacle Empreintes sur le chemin, revoir nos jeunes aidants, envisager les mois à venir.</p>  
+ 
+<p class="intro-text"><a href="les-etres-humaines">les êtres humaines</a> ont voyagé et ont installé leurs valises de mots, d’argile, d’encre, de photos, de dessins, de presse à graver à Dôle et à Bourbon Lancy ! Et que de rencontres, de moments de création, d’échanges.  Difficile même de raconter ces journées, par quoi commencer ? comment les résumer ?<br>
+Le mieux est de vous faire partager quelques unes de nos créations. En voici :</p>
+ 
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749377414/plus-moi-meme_oafxxq.jpg">
+<br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749377572/Lucie_IMG_8643_etxbd2.jpg">
+
+<p class="intro-text">
+<cite>
+Je suis la femme qui avance<br>
+Avec des yeux derrière la tête<br>
+L’oreille alerte<br>
+Le poing fermé au fond de la poche<br>
+ <br>
+Je suis la femme masquée<br>
+Coiffée, maquillée, apprêtée<br>
+Celle qu’on ne veut pas croire<br>
+Digne et relevée<br>
+ <br>
+Je suis la femme silence<br>
+La gorge serrée par les mots empêchés<br>
+Les bras, depuis longtemps, sur moi recroquevillés<br>
+ <br>
+Je suis la femme qui chante<br>
+Pour dire, pour raconter<br>
+Et réentendre la voix<br>
+Qui s’était tue en moi<br>
+ <br>
+Je suis la femme de l’ombre<br>
+Lumière éteinte<br>
+Je déteste la beauté du soleil<br>
+ <br>
+Je suis la femme qui met un pas dehors<br>
+Ma porte est entrouverte<br>
+Je réapprends la chaleur et le chant des oiseaux<br>
+La rue m’appelle,<br>
+Aujourd’hui je lui réponds
+</cite></p>
+</div>
+ 
+
+ 
+<p class="intro-text">Un immense merci à Coop-Agir et Femmes Debout à Dôle, au Centre Social Joséphine Baker à Bourbon Lancy pour l’accueil, l’organisation, l’engagement, le relais.</p>
+ 
+<p class="intro-text">Merci aussi à la Direction Régionale des Affaires Culturelles, et au Conseil Régional de Bourgogne Franche Comté pour leur soutien accordé pour toute l’action !<br>
+Nous avançons bien sur l’organisation de la tournée 2026.</p>
+ 
+<p class="intro-text">Et la presse est venue à Bourbon&nbsp;!</p>
+ 
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749377922/presse-bourbon_eathal.jpg">
+</div>
+<hr>
+<p class="intro-text">Et puis, nous avons commencé à écrire notre spectacle <a href="empreintes-sur-le-chemina">empreintes sur le chemin</a> qui va tenter de raconter le temps suspendu de l’exil, l’énergie à déployer pour s’enraciner à nouveau. Quelques mots et une image des instruments de musique que nous créons à partir de tout ce qui se ramasse en chemin.</p>
+
+<div class="center-max600-block">
+<p class="intro-text"><cite>
+« Voilà, tu es arrivé.e quelque part<br>
+Et tu ne sais plus trop d’où tu viens<br>
+Le pays où tu es n’a pas encore de nom<br>
+Et celui que tu as quitté n’est déjà plus le tien »
+</cite></p>
+
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749378922/coquillages-empreintes_p1txhg.jpg">
+</div>
+ 
+<p class="intro-text">Attention, petite jauge, il vaut mieux réserver&nbsp;!</p>
+ 
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
+</div>
+ 
+ 
+<hr>
+<p class="intro-text">Nos <a href="jeunes-aidants">emmêlé&middot;es</a>, nos jeunes aidants vont peut-être retourner sur les planches en 2026 ! Après quelques propositions, nous étudions la question…</p>
+ 
+<p class="intro-text">Voici en attendant, la captation du spectacle faite le 13 mars à la Clayette et une bande annonce. Bonne découverte !</p>
+
+<h2> captation du spectacle Les Emmêlé‧es du 13 mars 2025 à La Clayette</h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/ddb08e02-eedf-4f6c-aca3-5406cff892e6?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<h2>teaser</h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/37903e0a-65b6-47c6-b897-6ed2f5c5acf1?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<hr>
+
+ 
+<p class="intro-text">Et puis bonne nouvelle, la DRAC de Bourgogne Franche-Comté soutient notre action « SUR LE SEUIL », qui sera faite en partenariat avec le LAM (Lits d’Accueil Médicalisé) de Montceau les Mines, géré par l’association le PONT. Un grand merci !</p>
+ 
+<p class="intro-text">Et dernière info : l’Assemblée Générale de Rêver Tout Haut aura lieu le mardi 10 juin à 18h à Buffières, 580 route de la Croix Montchanin, et nous donnera l’occasion de vous résumer toute l’année 24 qui fut bien chargée. (25 n’est pas mal non plus !)</p>
+
+<p class="intro-text">Pour adhérer ou soutenir l’asso, c’est par ici&nbsp;:&nbsp;
+<a href="https://www.revertouthaut.fr/nous-soutenir">nous soutenir&nbsp;!</a></p>
+ 
+
+ 
+
+
 <h2>avril 2025</h2>
 <p class="intro-text">
 Avril et ses trente jours bien remplis de rencontres, de mots, de récits, de dessins, de tâches de couleurs, de boules d’argile, de photographies, de chansoons, de yeux humides, de sourires soulagés, de « à très bientôt ».</p>
