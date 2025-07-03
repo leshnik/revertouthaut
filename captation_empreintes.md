@@ -24,7 +24,7 @@ Alors, ton histoire se raconte par tes silences, par ta pudeur, <br>
 par ce que tes mains ont exprimé et par les battements de ton cœur. »
 </cite></p>
 
-<h1>EMPREINTES SUR LE CHEMIN</h1>
+<h1><a href="empreintes-sur-le-chemin">empreintes sur le chemin – spectacle</a></h1>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/d2ba91e5-4588-4081-abb3-e25af26e6b58?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 <p class="intro-text">Pendant une année, Rêver Tout Haut a mêné des ateliers artistiques destinés à des personnes exilées, résident sur Macon.</p>
