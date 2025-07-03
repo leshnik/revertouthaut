@@ -37,6 +37,8 @@ De l’empreinte des bons souvenirs à celui des traumas...</p>
 
 <p class="intro-text">Les ateliers se termineront en juin 2025 par une présentation sous forme théâtralisée de toute cette année de création. </p>
 
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/d2ba91e5-4588-4081-abb3-e25af26e6b58?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
 <p class="intro-text">Il y a tant à dire de ces séances que nous tenons un journal de bord très conséquent. En voici quelques courts extraits. Il faut que vous arriviez à nous imaginer, dans une grande salle, autour d’une longue table, une ruche d’une bonne quinzaine de personnes, concentrées sur nos mains, sur nos pinceaux, sur la matière… </p>
 
 <p class="intro-text">Il faut imaginer ici un monde sans frontière, où langues étrangères se répondent et se comprennent…</p>
