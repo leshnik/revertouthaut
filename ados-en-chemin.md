@@ -33,6 +33,8 @@ Tu découvriras les paysages que nous avons traversés, les paysages des sommets
 
 <p class="intro-text">
 Quelques photos et quelques extraits de cette formidable création et rencontres entre humaines et chevaux, adultes et ados, public et histoires d’enfance ballotée, souvenirs de voyages et poèmes à garder, moments uniques dans la vie de chacune d’entre nous. </p>
+<h5>Teaser: Filles du Vent</h5>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/937f5194-9fe5-4f5e-bd82-df89a6430e5f?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 <h5>Journal de rando, jour 2</h5>
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -127,5 +129,7 @@ Chacune notre tour, nous avons été traversées par nos propres tempêtes, nous
 Une à une, nous nous sommes redressées, portées par le groupe ;  terreau, ciment, solide...
 À croire que lorsque les fragilités s’allient, elles deviennent force.<br>
 Nous sommes parties orphelines. Nous sommes rentrées filles du vent, chacune, bien accrochées à la fourrure de notre loup blanc…</cite></p>
+
+
 
 
