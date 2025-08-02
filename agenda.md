@@ -271,6 +271,14 @@ summary:
         </div>
     </div>
 </div>
+<h2>podcast de l'atelier</h2>
+    <div class="center-max450-block">
+        <figure>
+            <figcaption>17 mai 2025 à Coop agir, Dole</figcaption>
+            <audio controls src="https://rth8.b-cdn.net/podcast%20dole.mp3"></audio>
+        </figure>
+        <img src="">
+    </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="16-04-2025">

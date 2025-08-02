@@ -21,6 +21,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
   <li><a href="#2025-04-09"><span style="font-weight:bold">▶&nbsp;9 avril à Besançon</span></a></li>
   <li><a href="#2025-04-19"><span style="font-weight:bold">▶&nbsp;19 avril à Saint Vallier</span></a></li>
   <li><a href="#2025-04-27"><span style="font-weight:bold">▶&nbsp;27 avril à Virey-le-Grand</span></a></li>
+  <li><a href="#2025-05-17"><span style="font-weight:bold">▶&nbsp;17 mai à Dole</span></a></li>
 </ul>
 <hr>
 <p class="intro-text">
@@ -365,6 +366,23 @@ valeriegaudissart@gmail.com
         </div>
         <div class="column">
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
+        </div>
+      </div>
+  </div>
+</div>
+
+<div id="2025-05-17">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Dole&nbsp;:&nbsp;2025-05-17</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20dole.mp3"></audio>
+    </figure>
+    <div class="flex-container">
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754130162/Lucie_IMG_9599_hnoes6.jpg">
+        </div>
+        <div class="column">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754130323/Lucie_IMG_9645_xs8gxk.jpg">
         </div>
       </div>
   </div>
