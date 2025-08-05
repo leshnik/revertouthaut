@@ -1,7 +1,7 @@
 ---
 layout: logoTop
 title: agenda
-summary: 
+summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
