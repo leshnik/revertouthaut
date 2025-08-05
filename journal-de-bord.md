@@ -4,6 +4,159 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>juin/juillet 2025</h2>
+
+<p class="intro-text">Notre début d’été a été bien bien occupé, car nous avons travaillé avec ardeur pour créer notre spectacle <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>. Nous étions 11&nbsp;:&nbsp; Bassekou, Magali, Charles, Massangbe, Sidonie, Loveth, Valérie, Mirlène, Tahia, Clarine, Romane, Abdullah, + les enfants de Massangbe.</p>
+
+<p class="intro-text">Aboutissement d’une année d’ateliers artistiques avec des personnes exilées résidant sur Macon, le spectacle est aussi, nous l’espérons pour elles, un nouveau départ. </p>
+
+<p class="intro-text">Nous avons donné 4 représentations, 3 dans les locaux du Pont le 20 mai le jour de la Journée Mondiale des Réfugié.es et le 28 mai à la Pimenterie à Saint Point. Beaucoup de monde à chaque fois et fort impact sur le public&nbsp;!</p>
+
+<p class="intro-text">Comment raconter l’exil, comment trouver les mots pour dire le déracinement, comment continuer de rêver la vie nouvelle. </p>
+
+<p class="intro-text">Ici quelques photos, quelques extraits et la captation de la 3ème représentation.</p>
+<p class="intro-text">Et aussi, deux grands mercis  : au Conseil Régional de Bourgogne Franche Comté et à la Direction Départementale aux Solidarités, DDETS 71 pour leur soutien qui vient de nous être accordé pour la reprise du spectacle cet hiver. Car oui, nous irons jouer ce spectacle dans des villages de Saône et Loire&nbsp;! </p>
+
+<p class="intro-text"><cite>
+«&nbsp;En chemin tu as laissé tes empreintes<br>
+Tes pas sur le sol<br>
+Tes mains dans l’argile<br>
+Tes doigts sur le dessin<br>
+Ton chant dans la nuit<br>
+<br>
+En chemin tu as ramassé des pierres, des morceaux d’écorces, des graines semées parle le vent.
+Et quelques souvenirs de ton enfance ou ceux de tes propres enfants.<br>
+
+En chemin, tu es venu aux ateliers, 29 après-midi exactement, 29 jeudis. Tu as sonné à la porte, tu as gravi l’escalier, et sur les tables, t’attendaient des pinceaux, des fusains, des couleurs, de la terre humide, de l’osier, de l’encre, des tambours. Ces jeudis après-midis, ce sont aussi des empreintes laissées dans nos mémoires.<br>
+
+Ton histoire se raconte avec peu de mots, car la peur, la fuite, l’arrachement, ne peuvent pas se raconter…
+Alors, ton histoire se raconte par tes silences, par ta pudeur, 
+par ce que tes mains ont exprimé et par les battements de ton cœur.&nbsp;»
+</cite></p>
+
+<p class="intro-text"><cite>
+CHARLES&nbsp;:&nbsp;<br>
+Dans mon bagage, il y avait mon grand-père et sa sagesse<br></cite>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0439_tnzyxj.jpg">
+</div></p>
+<p class="intro-text"><cite>    
+MASSANGBE&nbsp;:&nbsp;<br>
+Dans mon bagage, il y avait la honte de mon histoire<br>
+<br>
+LOVETH&nbsp;:&nbsp; <br>
+Dans mon bagage, il y avait des nuits sans sommeil<br>
+<br>
+MIRLENE&nbsp;:&nbsp; <br>
+Dans mon bagage, il y avait la tristesse d’avoir quitté mon pays</cite>
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406538/IMG_0441_zu5tex.jpg">
+</div>
+</p>
+    
+<p class="intro-text"><cite>
+CLARINE&nbsp;:&nbsp;<br> 
+Dans mon bagage, il y avait mes prières et ma destinée<br>
+<br>
+CHARLES&nbsp;:&nbsp;<br>
+Il y avait les champs de cacao et de café au village<br>
+<br>
+MASSANGBE&nbsp;:&nbsp;<br>
+Il y avait les souffrances de ma mère et les 100 coups de fouet qu’elle a reçus<br>
+<br>
+LOVETH&nbsp;:&nbsp;<br>
+il y avait des menaces, et une fuite en secret<br>
+<br>
+MIRLENE&nbsp;:&nbsp;<br>
+Il y avait les regrets que ma famille ne m’ait pas protégée<br>
+<br>
+CLARINE&nbsp;:&nbsp;<br>
+Il y avait la violence et la peine d’avoir laissé ma pauvre mère<br>
+<br>
+CHARLES&nbsp;:&nbsp;<br>
+Il y avait les contes et les proverbes partagés par les enfants<br>
+<br>
+MASSANGBE&nbsp;:&nbsp;<br>
+Dans mon bagage, il y avait les conséquences de l’excision sur ma vie</cite>
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0399_xtwnd9.jpg">
+</div></p>
+<p class="intro-text"><cite>
+LOVETH&nbsp;:&nbsp;<br>
+Il y avait de l’espoir et du désespoir<br>
+<br>
+MIRLENE&nbsp;:&nbsp;<br>
+Dans mon bagage, il y avait la colère de ne pas avoir pu me défendre<br>
+<br>
+ABDULLAH&nbsp;:&nbsp;<br>
+Il y avait mes yeux que je ferme pour ne pas pleurer <br>
+<br>
+MASSANGE&nbsp;:&nbsp;<br>
+Il y avait moi seule face au monde<br>
+<br>
+LOVETH&nbsp;:&nbsp;<br>
+Il y avait la peur de l’inconnu<br>
+<br>
+MIRLENE&nbsp;:&nbsp;<br>
+Il y avait le regret d’avoir été vendue par mon père<br>
+<br>
+CHARLES&nbsp;:&nbsp;<br>
+Il y avait moi qui avait confiance en l’avenir<br>
+<br>
+MASSANGBE&nbsp;:&nbsp;<br>
+Il y avait moi qui suis devenue une nouvelle personne, qui parle, qui affronte et qui se rebelle<br>
+<br>
+LOVETH&nbsp;:&nbsp; <br>
+Il y avait moi qui suis redevenue vivante&nbsp;!<br>
+</cite></p>
+<p class="intro-text">
+L’histoire de Bassekou : <br>
+<p class="intro-text"><cite>
+Il est parti du village, à pied, avec quelques habits jetés dans un sac<br>
+Il n’a dit au revoir à personne, peut-être n’y avait-il personne à qui dire au-revoir<br>
+Il a pris le bus pour Dakar. Dans la grande ville inconnue, il a marché, marché, et dormi en rue pendant 20 nuits<br>
+Puis il a pris une pirogue, avec 70 autres personnes, et il se disait : bientôt je verrai les côtés de l’Espagne<br>
+Mais au milieu de la mer, les marins du Maroc les ont interceptés et les ont ramenés à terre…<br>
+</cite></p>
+
+
+<div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0386_tnbdzt.jpg">  
+</div>
+<div class="flex-container">
+            <div class="column">
+              <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0431_rj4vhk.jpg">
+            </div>
+            <div class="column">
+              <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406521/IMG_0306_blocph.jpg">
+            </div>
+</div>
+
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin – spectacle</a></h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/d2ba91e5-4588-4081-abb3-e25af26e6b58?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<hr>
+<p class="intro-text"><a href="les-etres-humaines">les êtres humaines</a> sont retournées à Besançon pour encore de nouvelles et riches rencontres dans les locaux de Solidarités Femmes 25.<br>
+Et ça y est, nous nous lançons et ce pendant tout l’été, dans l’écriture du spectacle. Il nous faut réunir, agencer, tous les souvenirs que nous avons de la centaine de rencontres que nous avons vécues ce printemps, laisser reposer tous ces témoignages, cette intimité complexe pour en faire une matière artistique. Passionnant, remuant, et vaste !<br>
+<br>
+Et en passant, un grand merci à la Direction Départementale aux Solidarités, DDETS 71 pour son soutien !<br>
+<br>
+Extrait :<br>
+<cite>Je ne souviens plus de ma date de naissance mais je me souviens du 11 mai 2021 à 9h50. C’est le jour qui pour moi n’allait jamais arriver. <br>
+J’avais mis mes baskets, et je suis partie avec rien, pas de téléphone, pas de carte de crédit, pas de passeport<br>
+J’avais organisé mon départ pendant 4 mois avec le réseau VIF.<br>
+Il fallait quitter un jour où les enfants seraient à l’école, et lui était au travail.<br>
+Je suis allée à la sortie de l’école, le réseau VIF m’attendait près de l’école, sur le parking. J’ai pris les enfants. <br>
+Je suis montée dans la voiture avec les enfants, on a roulé, j’ai eu l’impression de sortir du coma. Je peux pas décrire les minutes dans la voiture. Ça a été pour moi comme une explosion. <br>
+J’étais sortie de prison. J’étais sortie de l’orage. J’étais sortie de ma cage. </cite>
+</p>
+<hr>
+<p class="intro-text">Et aussi, bonne nouvelle pour <a href="jeunes-aidants">les emmêlé&middot;es</a> qui viennent d’obtenir le soutien de la Fédération des Acteurs de la Solidarité et de la Fondation Française des Jeux&nbsp;! et qui seront certain.es de partir en tournée à l’automne 26&nbsp;!
+</p>
+
+
+
+
 <h2>mai 2025</h2>
  
 <p class="intro-text">En ce mois de mai, on a fait ce qui nous plait : rencontrer des Etres Humaines, imaginer notre nouvelle création,  le spectacle Empreintes sur le chemin, revoir nos jeunes aidants, envisager les mois à venir.</p>  
