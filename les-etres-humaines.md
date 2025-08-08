@@ -22,6 +22,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
   <li><a href="#2025-04-19"><span style="font-weight:bold">▶&nbsp;19 avril à Saint Vallier</span></a></li>
   <li><a href="#2025-04-27"><span style="font-weight:bold">▶&nbsp;27 avril à Virey-le-Grand</span></a></li>
   <li><a href="#2025-05-17"><span style="font-weight:bold">▶&nbsp;17 mai à Dole</span></a></li>
+  <li><a href="#2025-05-21"><span style="font-weight:bold">▶&nbsp;21 mai à Bourbon-Lancy</span></a></li>
 </ul>
 <hr>
 <p class="intro-text">
@@ -390,6 +391,17 @@ valeriegaudissart@gmail.com
 
 <a href="#pod">retourner à la liste des podcasts</a>
 
+<div id="2025-05-21">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Bourbon-Lancy&nbsp;:&nbsp;2025-05-21</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20bourbon%20lancy.mp3"></audio>
+    </figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754679138/au-bord-du-gouffrez7g5yp.png">
+  </div>
+</div>
+
+<a href="#pod">retourner à la liste des podcasts</a>
 <hr>
 
 <h2>tournée 2013&nbsp;:</h2>

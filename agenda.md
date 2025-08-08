@@ -241,6 +241,14 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
         </div>
     </div>
 </div>
+<h2>podcast de l'atelier</h2>
+<div class="center-max450-block">
+    <figure>
+        <figcaption>21 mai 2025 à l'Espace Josephine Baker</figcaption>
+        <audio controls src="https://rth8.b-cdn.net/podcast%20bourbon%20lancy.mp3"></audio>
+    </figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754679138/au-bord-du-gouffrez7g5yp.png">
+</div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="14-05-2025">
@@ -277,7 +285,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <figcaption>17 mai 2025 à Coop agir, Dole</figcaption>
             <audio controls src="https://rth8.b-cdn.net/podcast%20dole.mp3"></audio>
         </figure>
-        <img src="">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754680588/ScreenFloat_Shot_of_Firefox_at_8_Aug_2025_at_21_16_07_g7ovny.png">
     </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
