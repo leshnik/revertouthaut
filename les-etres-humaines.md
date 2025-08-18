@@ -104,6 +104,7 @@ Les journées de représentations seront doubles, c’est-à-dire que 2 représe
 <ul class="institutions">
   <li>Le 27 février 2026, au Théâtre les Arts de Cluny</li>
   <li>Le 5 mars 2026, à l’Ecla à Saint Vallier</li>
+  <li>Le 2 avril 2026, à Bourbon Lancy</li>
 </ul></p>
 
 <p class="intro-text">Les autres sont en cours d’organisation !</p>
