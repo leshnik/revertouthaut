@@ -21,6 +21,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#4-10-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 4 octobre 2025 à Cluny</span> – Maintenant Il Y A, spectacle musical autour de la cérébro-lésion</a></li>
 <li><a href="#22-09-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 22 septembre au vendredi 26 septembre 2025 à Saint Vallier</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#23-09-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 23 septembre 2025 à Cluny</span> – Les êtres humaines, présentation du spectacle autour de la violence conjugale</a></li>
+<li><a href="#09-09-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 12 et Samedi 13 septembre 2025 à Mâcon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#09-09-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 et Mercredi 10 septembre 2025 à Mâcon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#2-08-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 2 août 2025 à Donzy-le-National</span> – Histoires de Transmissions, présentation publique du projet de film photographique lors du Festival Ciné-Pause</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 28 juin 2025 à Saint-Point</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 20 juin 2025 à Mâcon</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
@@ -182,17 +184,52 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+<div id="09-09-2025">
+    <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Mâcon</a></h2>
+    <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
+        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+        <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
+        <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
+        </ul>  -->    
+        </p>
+        <p class="intro-text center-text">
+            Mardi 9 et Mercredi 10 septembre 2025, de 9h30 à 17h30<br>
+            Centre Social Mosaic<br>
+            193 rue des Blanchettes<br>
+            71000 Mâcon<br>
+            03&nbsp;85&nbsp;38&nbsp;21&nbsp;65<br>
+            Vendredi 12 et Samedi 13 septembre 2025, de 9h30 à 17h30<br>
+            Centre Social de la Chanaye<br>
+            2, rue Paul Eluard<br>
+            71000 Mâcon<br>
+            03&nbsp;85&nbsp;20&nbsp;51&nbsp;55<br>
+            <strong>Renseignements&nbsp;:&nbsp;</strong><br>
+            lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
+    </p>
+    <div class="flex-container">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1755500221/ScreenFloat_Shot_D698496BA3F7_lribcc.png">
+        </div>
+        <div class="column">
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1755500300/Flyer_Les_Etres_humaines_Ma%CC%82con_-_Web_stbvdh.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1755498620/ScreenFloat_Shot_88BC45B09A51_islswz.png">Clicquer pour télécharger le flyer.</a>
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
 <div id="23-09-2025">
     <h2><a href="les-etres-humaines">les êtres humaines – présentation du projet</a></h2>
     <p class="intro-text">Mardi 23 septembre 2025 au Théâtre Les Arts à Cluny, présentation du projet <a href="les-etres-humaines">les êtres humaines</a> lors de la présentation de la saison culturelle.</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
+<hr>
 <div id="2-08-2025">
     <h2><a href="histoires-de-transmission">histoires de transmision – présentation du projet</a></h2>
         <p class="intro-text">Samedi 2 août 2025 à Donzy-le-National, présentation publique du projet de film photographique <a href="histoires-de-transmission">histoires de transmision</a> lors du Festival Ciné-Pause. <br>
-        Horaires pas encore dispo.</p>
+        10h30</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
+<hr>
 <div id="21-06-2025">
     <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin – spectacle</a></h2>
     <p class="intro-text">
