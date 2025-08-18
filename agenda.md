@@ -194,12 +194,13 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <hr>
 <div id="09-09-2025">
     <h2><a href="les-etres-humaines">les êtres humaines: dates et lieux des ateliers à Mâcon</a></h2>
-    <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.<br> 
-        Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités&nbsp;71.
+    <p class="intro-text">Action sur plusieurs départements, la Saône-et-Loire, le Doubs et le Jura et multi-partenariale, sous forme d’animation d’ateliers artistiques, de recueil de témoignages et création d’un spectacle autour de la violence conjugale et intra-familiale.</p>
+    <p class="intro-text">Avec le soutien du Fonds Social Européen et la Direction Départementale aux Solidarités 71 (DDETS 71),
+    la DRAC de Bourgogne Franche-Comté, le Conseil Régional de Bourgogne Franche-Comté, le Conseil Départemental de Saône et Loire, le FDVA 71, La Communauté de Communes du Maconnais-Beaujolais.</p>
         <!-- <ul class="institutions"><li>Valérie Gaudissart, metteuse en scène&nbsp;:&nbsp;07&nbsp;69&nbsp;29&nbsp;53&nbsp;27 – revertouthaut@gmail.com</li>
         <li>Aurélie Loutan, chargée de diffusion&nbsp;:&nbsp;06&nbsp;10&nbsp;16&nbsp;66&nbsp;84 – lesetreshumaines@gmail.com</li> 
         </ul>  -->    
-        </p>
+    
         <p class="intro-text center-text">
             Mardi 9 et Mercredi 10 septembre 2025, de 9h30 à 17h30<br>
             Centre Social Mosaic<br>
