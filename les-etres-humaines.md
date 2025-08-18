@@ -77,7 +77,7 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
           <li>Chalon sur Saône, en partenariat avec les PEP 71, du 24 au 27 avril 2025</li>
           <li>Dôle, en partenariat avec Coop-Agir, du 14 au 17 mai 2025</li>
           <li>Bourbon-Lancy, en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 19 au 21 mai 2025</li>
-          <li>Macon, en partenariat avec le Centre Social des Blanchettes et les 3 autres centres sociaux de la ville, en mai 2025 (dates à préciser)</li>
+          <li>Macon, en partenariat avec le Centre Social des Blanchettes et le Centre Social de la Chanaye, du 9 au 13 septembre 2025 </li>
         </ul></p>
 
 <p class="intro-text">Puis à l’été 2025, nous allons commencer, à partir de tous les témoignages récoltés, à écrire un spectacle, que nous commencerons à répéter en septembre et ce pendant 5 semaines de résidence.</p> 
