@@ -4,6 +4,86 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>août/septembre</h2>
+<p class="intro-text">Allez, hop, nous voilà de retour en atelier, en créa, en écriture, en orga, etc… <br>
+
+Tout d’abord,  nos Etres Humaines, dont la troupe est maintenant constituée et qui va démarrer ses répétitions le 22 septembre à la Salle de l’Ecla à Saint Vallier. Et quelle troupe ! nous sommes 12 : Sidonie, Hayette, Jenny, Marie, Flore, Valérie, Morton, Lydie, Keith, Aurélie, et Florian à la technique et Romane à la scéno.<br>
+Texte et chansons du spectacle sont prêts. Y’a plus qu’à plonger, tenter, recommencer, apprendre, se tromper, confondre, avancer, reculer… </p>
+<p class="intro-text"><cite>
+PREMIÈRE SCÈNE&nbsp;<br>
+Entrée des femmes sur scène, piano qui les accompagne<br>
+TEXTE&nbsp;:&nbsp;<br>
+Tu dis qu’avant tout était noir et gris<br>
+Que tu vivais volet fermé <br>
+Rideaux tirés<br>
+Que tu ne montrais pas ton visage, <br>
+Tu avais l’impression d’être tout le temps de dos, jamais face aux gens <br>
+Tu dis qu’aujourd’hui,  <br>
+tu réapprends à marcher dans la rue <br>
+tu réapprends les couleurs, les nuances, le ciel ouvert <br>
+<br>
+Tu dis qu’avant tu n’entendais que les cris <br>
+Le fracas des piles d’assiettes, <br>
+les interdits <br>
+Et qu’aujourd’hui tu redécouvres le silence de la nuit
+</cite></p>
+
+<p class="intro-text">Les Etres humaines, ça été aussi les derniers ateliers artistiques proposés à des femmes et des enfants victimes de violence, organisés avec le Centre Social Mosaic dans le quartier des Blanchettes et le Centre Social de la Chanaye, à Macon. Le Réseau VIF et le MBA étaient aussi nos partenaires.<br>
+Nous avons passé la semaine du 9 septembre à Macon, et collages, argiles, typogravures, dessins, photographies en veux-tu en voilà. 
+</p>
+<div class="flex-container">
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757605985/IMG-20250910-WA0008_sqtrta.jpg">
+  </div>
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757606254/IMG20250910134130_d5pwo2.jpg">
+  </div>
+</div>
+<div class="center-max450-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757607807/IMG-20250910-WA0019_qpxl0p.jpg">
+</div>
+
+<p class="intro-text">Au passage, nous remercions La CPAM 7 de soutenir le projet&nbsp;!</p>
+
+<div class="flex-container">
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757608340/ScreenFloat_Shot_390C452FB590_iohabj.jpg">
+  </div>
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757610155/ScreenFloat_Shot_08574FB59481_gyc4bd.jpg">
+  </div>
+</div>
+
+<p class="intro-text">Et merci au JSL&nbsp;:&nbsp;
+<a href="https://www.lejsl.com/sante/2025/09/05/des-ateliers-gratuits-pour-reapprendre-a-vivre-apres-avoir-subi-la-violence-conjugale">Des ateliers gratuits pour réapprendre à vivre après avoir subi la violence conjugale</a></p>
+<hr>
+<p class="intro-text">En août, nous avons expérimenté dans le cadre du Festival Ciné-Pause une présentation live de notre projet de film photographique « Histoires de transmission », avec projection de photos, lecture de textes et piano.<br>
+Superbe et très encourageant impact sur le public ! 
+</p>
+<div class="center-max450-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611314/Louton-4_x99ipy.jpg"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611426/052_1937.Charret_e_d_enfants_avec_Papa_Denis_et_marraine_Marie_Polo._temigw.jpg">
+</div>
+<hr>
+<p class="intro-text">Et septembre voit nos ateliers d’écriture autour du deuil se préparer. Le nouveau cycle d’ateliers de <a href="une-nouvelle-page">Une Nouvelle page à écrire</a> aura lieu à la Pimenterie, comme vous pouvez le lire sur ce flyer de rentrée. </p>
+
+<div class="flex-container">
+  <div class="column">
+     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611755/ScreenFloat_Shot_2324429D8667_zapdww.png">
+  </div>
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611881/ScreenFloat_Shot_8CA043A0BAB9_pgcgt6.png">
+  </div>
+</div>
+
+<p class="intro-text">En passant, un grand merci à notre partenaire Kalivi pour mettre en valeur cette action sur son site !<br>
+
+<a href="https://partenaires.kalivi-bfc.fr/projets/une-nouvelle-page-a-ecrire-briser-lisolement-en-ecrivant-le-deuil">Kalivi BFC&nbsp;:&nbsp;briser l'isolement en écrivant le deuil</a><br>
+<a href="https://www.linkedin.com/posts/kalivi-bfc_bienvieillir-liensocial-porteursdeliens-activity-7369314132711485443-Ev-W?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzpWcUB_nzN8Zm-t9R3tMwNOrfbFEWfrts"> Kalivi BFC&nbsp;:&nbsp;Pour bien vieillir en Bourgogne-Franche-Comté (sur linkedin)</a></p>
+
+
+
+
 <h2>juin/juillet 2025</h2>
 
 <p class="intro-text">Notre début d’été a été bien bien occupé, car nous avons travaillé avec ardeur pour créer notre spectacle <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>. Nous étions 11&nbsp;:&nbsp; Bassekou, Magali, Charles, Massangbe, Sidonie, Loveth, Valérie, Mirlène, Tahia, Clarine, Romane, Abdullah, + les enfants de Massangbe.</p>
