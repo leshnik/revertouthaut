@@ -7,9 +7,9 @@ summary:
 Tournée automne 2026</h1>
 
 <p class="intro-text">Le spectacle Les Emmêlés repart sur les routes à l’automne 2026&nbsp;!
-Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidants du charolais-brionnais</a>, le spectacle est un formidable outil de sensibilisation. Sur scène, ils sont quatre, accompagnés par six artistes professionnels (+ un technicien et une coordinatrice).</p>
+Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidant&middot;es du charolais-brionnais</a>, le spectacle est un formidable outil de sensibilisation. Sur scène, ils sont quatre, accompagnés par six artistes professionnels (+ un technicien et une coordinatrice).</p>
 
-<p class="intro-text">Soutenus par le Réseau des Aidants 71, nous voilà donc repartis à partir de l’été 2026 à la rencontre de nouveaux Jeunes Aidants. Ils participeront à quelques ateliers artistiques, puis viendront compléter l’équipe, peut-être remplacer certains jeunes ayant participé aux premières représentations et qui ne seront plus disponibles. La nouvelle équipe participera à 4 jours de résidence en septembre 2026 pour réinventer une nouvelle version du spectacle.</p>
+<p class="intro-text">Soutenus par le Réseau des Aidants 71, nous voilà donc repartis à partir de l’été 2026 à la rencontre de nouveaux jeunes aidant&middot;es. Ils participeront à quelques ateliers artistiques, puis viendront compléter l’équipe, peut-être remplacer certains jeunes ayant participé aux premières représentations et qui ne seront plus disponibles. La nouvelle équipe participera à 4 jours de résidence en septembre 2026 pour réinventer une nouvelle version du spectacle.</p>
 
 <p class="intro-text">Merci à la Fédération des Acteurs de Solidarité et à la Française Des Jeux qui nous soutiennent déjà pour cette nouvelle partie du projet.
 </p>
