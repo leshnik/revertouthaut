@@ -19,7 +19,7 @@ Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidant&middot;es
 coordination.revertouthaut@gmail.com</p>
 
 
-<div class="center-max600-block">
+
 <div class="flex-container">
         <div class="column">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1759395861/ScreenFloat_Shot_0B8B4BE89C48_qkgi0i.png">
@@ -28,7 +28,7 @@ coordination.revertouthaut@gmail.com</p>
             <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1759398293/Flyer_Les_Emme%CC%82le%CC%81s_rcgp87.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1759396000/ScreenFloat_Shot_6C034609A0DE_bley2h.png">Clicquer pour télécharger le flyer.</a>
         </div>
 </div>
-</div>
+
 <h2>quelques souvenirs de la création 2025</h2>
 
 <h2>teaser</h2>
