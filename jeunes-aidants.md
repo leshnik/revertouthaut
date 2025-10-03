@@ -10,9 +10,9 @@ summary: Depuis mars 2024, Rêver Tout Haut soutient les jeunes aidants du Charo
 du&nbsp;Charolais-Brionnais/2024-2025</h2>
 
 
-<p class="intro-text">Pendant plusieurs années, l’association Rêver tout haut a mené, en partenariat avec le Réseau des Aidants, des projets artistiques pour des <a href="aidants">aidants</a> adultes. Au fil des rencontres, nous avons réalisé que les aidants enfants, ados ou jeunes adultes n’avaient aucune proposition d’aide dans notre territoire rural de Saône et Loire. Nous avons donc eu envie d’inventer un projet pour les jeunes aidants du département et plus particulièrement pour les jeunes aidants vivant en milieu rural, dans le Charollais Brionnais.</p>
+<p class="intro-text">Pendant plusieurs années, l’association Rêver tout haut a mené, en partenariat avec le Réseau des Aidants, des projets artistiques pour des <a href="aidants">aidants</a> adultes. Au fil des rencontres, nous avons réalisé que les aidants enfants, ados ou jeunes adultes n’avaient aucune proposition d’aide dans notre territoire rural de Saône et Loire. Nous avons donc eu envie d’inventer un projet pour eux.</p>
 
-<div class="flex-container">
+<div class="content-container-horizontal">
         <div class="column">
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
@@ -36,7 +36,7 @@ Et dans cette vie où tout est mêlé, dans laquelle l’autre est souvent prior
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
 </div>
 
-<p class="intro-text">L’action, étant entièrement nouvelle dans le département, et même la région, Rêver Tout Haut a dans un premier temps pris contact avec une centaine de structures accompagnant des jeunes (service jeunesse, missions locales, lycées, etc…), et a proposé des journées d’informations au Lycée Agricole et au Lycée Wittmer de Charolles, au Lycée du Sacré Cœur de Paray le Monial, là où des élèves suivent des formations en Aide à la Personne, sachant que dans ces filières, les aidant.es familiaux y sont fortement représentés.</p> 
+<p class="intro-text">L’action, étant entièrement nouvelle dans le département, et même la région, Rêver Tout Haut a ensuite pris contact avec une centaine de structures accompagnant des jeunes (service jeunesse, missions locales, lycées, etc…), et a proposé des journées d’informations au Lycée Agricole et au Lycée Wittmer de Charolles, au Lycée du Sacré Cœur de Paray le Monial, là où des élèves suivent des formations en Aide à la Personne, sachant que dans ces filières, les aidant.es familiaux y sont fortement représentés.</p> 
 
 <p class="intro-text">Pendant 7 mois de l’année scolaire 2024/2025, encadré par 6 artistes et art-thérapeutes, quinze Jeunes Aidants ont participé à des ateliers créatifs hebdomadaires, alternant pratique et écriture, musique, danse, théâtre…
 Par la danse, le corps, le rythme, les sons, les jeunes aidants ont pu exprimer les liens visibles et invisibles tissés avec leurs aidés respectifs. De quels gestes quotidiens, de quelles attentions tournées vers un frère, une sœur, un parent malade ou handicapé les jeunes aidants sont-ils imprégnés ? Quelles responsabilités portent-ils, nichées dans les recoins de leurs corps et de leurs têtes d’enfants ? 
@@ -53,9 +53,9 @@ Ce projet collectif a aussi permis aussi aux jeunes de partager leur expérience
 
 <p class="intro-text">Les ateliers se sont déroulés tous les mercredis au Lycée Agricole de Charolles et ont été encadrés par : Flore Simon, Elsa Trouche, comédiennes, Morton Potash, compositeur, Sidonie Dubosc, chanteuse, Naïma Ferré, danseuse et Valérie Gaudissart, autrice.</p>
 
-<p class="intro-text">C’est à partir de ces ateliers et de leurs témoignages qu’a été écrit le spectacle. Il est à l’image de ce qui s’est vécu au fil des mois, un mélange d’émotions, de combativité, de tendresse, de refus, d'incompréhensions, de rires... emmêlés !</p>
+<p class="intro-text">À partir de ces ateliers et des témoignages récoltés nous avons écrit un spectacle. Il est à l’image de ce qui s’est vécu au fil des mois, un mélange d’émotions, de combativité, de tendresse, de refus, d'incompréhensions, de rires... emmêlés !</p>
 
-<p class="intro-text">Le spectacle a été joué par 3 des jeunes ayant suivi les ateliers et l’équipe artistique, à Charolles le mardi 11 mars 2025 et à La Clayette le jeudi 13 mars 2025, devant près de 600 personnes, dont plus de 200 scolaires et 120 professionnels.</p>
+<p class="intro-text">Le spectacle <a href="les-emmeles">les emmêlé&middot;es</a> a été joué par 3 des jeunes ayant suivi les ateliers et l’équipe artistique, à Charolles le mardi 11 mars 2025 et à La Clayette le jeudi 13 mars 2025, devant près de 600 personnes, dont plus de 200 scolaires et 120 professionnels.</p>
 <p class="intro-text">Sur scène, les jeunes se sont surpassés. Avec l’étayage des artistes, ils ont pris confiance en eux progressivement. Ils ont énormément travaillé, appris leurs textes, les chorégraphies. Ils ont pu constater qu’ils sont plein de ressources. Ils peuvent maintenant se dire : « ça, je l’ai fait ! ». Ce n’est pas rien pour des jeunes qui se dévalorisent beaucoup habituellement. L’impact des représentations est évident pour eux. Cela permet d’aller au bout de la démarche artistique et thérapeutique, de porter haut et fort sa voix et son histoire, de la faire entendre, de la percuter à d’autres histoires, de réaliser qu’on n’est pas seul.e, et qu’on peut être compris.e.</p>
 
 <p class="intro-text"> captation du spectacle Les Emmêlé‧es du 13 mars 2025 à La Clayette</p>
@@ -79,13 +79,8 @@ coordination.revertouthaut@gmail.com</p>
         </div>
       </div>
 
-<p class="intro-text">La classe de BTS SP3S du Lycée du Sacré Cœur de Paray le Monial est chargée de la communication autour des représentations. Merci à elle !</p>
-
-<div class="center-max600-block">
-           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
-      </div>
-
-<p class="intro-text">Un extrait de témoignage&nbsp;:&nbsp;<br> 
+<h3>Un extrait de témoignage&nbsp;:&nbsp;</h3>
+<p class="intro-text">
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 «&nbsp;Aujourd’hui, je vais parler, Je vais parler aux autres, et aussi à moi-même. C’est important, je crois. J’ai vingt ans. J’ai un père, une mère, une grande soeur, une petite soeur, un petit frère. Mais c’est moi qui depuis toujours joue le rôle de parent. 
 Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un. D’abord de mon père, qui était en fauteuil roulant. Puis de mes soeurs et de mon frère. Et encore aujourd’hui je m’occupe de tout le monde, tout le temps, je fais tout.&nbsp;»
@@ -93,12 +88,12 @@ Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un
 <hr>
 
 <p class="intro-text">
-Le projet a reçu le soutien de l’AG2R, du Conseil Régional de Bourgogne Franche-Comté, du Conseil Départemental de Saône et Loire, de la Mutuelle Sociale Agricole et du Fonds de Développement de la Vie Associative. Merci à eux !</p>
+Le projet a reçu le soutien de l’AG2R, du Conseil Régional de Bourgogne Franche-Comté, du Conseil Départemental de Saône et Loire, de la Mutualité Sociale Agricole, de la CPAM, du Réseau des Aidants et du Fonds de Développement de la Vie Associative. Merci à eux !</p>
 
 
  
 
-
+<!-- 
 <div class="center-block">
         <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
     </div>
@@ -132,7 +127,7 @@ Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprime
 </div>
 
  
- 
+ --> 
  
  
  
