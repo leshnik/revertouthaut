@@ -22,11 +22,10 @@ Afin que des textes, des poèmes, des lettres, des chansons, des témoignages pu
 <p class="intro-text">
 Ce projet innovant est financé par Malakoff Humanis et le GIE IMPA/ KALIVI-BFC.</p> 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1710944758/to5ldpaxrzhwpqfazbnv.png
-    ">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429188/ScreenFloat_Shot_662E47588752_dg2smo.jpg">
 </div>
 <div id="dates" class="center-max600-block">
-    <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
 </div>
 
 <h2>rencontre le 13 mai à la pimenterie</h2>
