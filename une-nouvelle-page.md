@@ -27,7 +27,8 @@ Ce projet innovant est financé par Malakoff Humanis et le GIE IMPA/ KALIVI-BFC.
 <div id="dates" class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
 </div>
-
+<h2>article en ligne écrit par notre partenaire KALIVI</h2>
+<a href="https://partenaires.kalivi-bfc.fr/projets/une-nouvelle-page-a-ecrire-briser-lisolement-en-ecrivant-le-deuil" rel="noopener noreferrer" target="_blank">Briser l'isolement en écrivant sur le deuil</a>
 <h2>rencontre le 13 mai à la pimenterie</h2>
 <p class="intro-text">
 Le 13 mai aura lieu à la Pimenterie une première rencontre de toute personne, toute institution concernées par le deuil et intéressée par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>.</p>
