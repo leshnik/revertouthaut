@@ -10,7 +10,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <div class="center-max600-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1732960614/LEH-dossier-2024-11-30.png">
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
-    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="https://res.cloudinary.com/dnxcesebo/image/upload/v1755933895/Dossier_de_pre%CC%81sentation_Basse_def_-_Les_Etres_humaines_p7efy2.pdf" download="Les êtres humaines 2025">●&nbsp;cliquer pour télécharger le dossier</a></li>    
+    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="https://res.cloudinary.com/dnxcesebo/image/upload/v1760521884/Dossier_de_pre%CC%81sentation_Les_Etres_humaines_1_eaktup.pdf" download="Les êtres humaines 2025" rel="noopener noreferrer" target="_blank">●&nbsp;cliquer pour télécharger le dossier</a></li>    
 </ul>
 
 </div>
