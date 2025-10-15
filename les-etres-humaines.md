@@ -8,7 +8,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <h2>spectacle autour des violences conjugales</h2>
 <h1 style="color: #7c0a25;">nouvelle création en 2025</h1>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1732960614/LEH-dossier-2024-11-30.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1760523632/ScreenFloat_Shot_88C34565B4E8_lplqpo.jpg">
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
     <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="https://res.cloudinary.com/dnxcesebo/image/upload/v1760521884/Dossier_de_pre%CC%81sentation_Les_Etres_humaines_1_eaktup.pdf" download="Les êtres humaines 2025" rel="noopener noreferrer" target="_blank">●&nbsp;cliquer pour télécharger le dossier</a></li>    
 </ul>
