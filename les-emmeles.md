@@ -11,7 +11,7 @@ Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidant&middot;es
 
 <p class="intro-text">Soutenus par le Réseau des Aidants 71, nous voilà donc repartis à partir de l’été 2026 à la rencontre de nouveaux jeunes aidant&middot;es. Ils participeront à quelques ateliers artistiques, puis viendront compléter l’équipe, peut-être remplacer certains jeunes ayant participé aux premières représentations et qui ne seront plus disponibles. La nouvelle équipe participera à 4 jours de résidence en septembre 2026 pour réinventer une nouvelle version du spectacle.</p>
 
-<p class="intro-text">Merci à la Fédération des Acteurs de Solidarité et à la Française Des Jeux qui nous soutiennent déjà pour cette nouvelle partie du projet.
+<p class="intro-text">Merci à la Fédération des Acteurs de Solidarité, à la Française Des Jeux, à  AG2R La Mondiale et à la région Bourgogne-Franche-Comté qui nous soutiennent déjà pour cette nouvelle partie du projet.
 </p>
 
 <p class="intro-text">Si vous souhaitez accueillir le spectacle à l’automne 2026, ou y participer parce que vous êtes jeune aidant&middot;e, n’hésitez pas à contacter Marina De Lajudie :
