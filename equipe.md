@@ -43,15 +43,23 @@ redirect_from:
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto,w_400/v1601709554/gatsby-cloudinary/portraitVal.jpg"></div>
 Après des études théâtrales à Paris III, Valérie se forme, en étudiant les films des autres, au scénario et à la réalisation audiovisuelle. Elle réalise une huitaine de courts-métrages, tous primés en festival et un long-métrage de fiction, sorti en 2012. 
 
-Ayant toujours ressenti la nécessité d’allier son travail fictionnel à un travail plus relié au monde social et à ses problématiques, elle monte à Chalon-sur-Saône un long projet de médiations théâtrales pour femmes victimes de violences conjugales. Elle crée la pièce «&nbsp;Les êtres humaines&nbsp;»  qui traite de l’intimité de ces violences, et qui tournera trois ans en Saône et Loire. Cette expérience riche et fondatrice lui a donné le désir de se former à l’art-thérapie. Elle est depuis 2017, diplômée de l’Institut de Psychologie de Lyon II et est titulaire du Diplôme Universitaire «&nbsp;Soins Psychiques, créativité et expression artistique&nbsp;».
+Ayant toujours ressenti la nécessité d’allier son travail fictionnel à un travail plus relié au monde social et à ses problématiques, elle monte à Chalon-sur-Saône un long projet de médiations théâtrales pour femmes victimes de violences conjugales. Elle crée la pièce <a href="les-etres-humaines">les êtres humaines</a>  qui traite de l’intimité de ces violences, et qui tournera trois ans en Saône et Loire. Cette expérience riche et fondatrice lui a donné le désir de se former à l’art-thérapie. Elle est depuis 2017, diplômée de l’Institut de Psychologie de Lyon II et est titulaire du Diplôme Universitaire «&nbsp;Soins Psychiques, créativité et expression artistique&nbsp;».
 
-Elle a monté en 2018 et joue actuellement un nouveau spectacle «&nbsp;Bercer l’enfant manquant&nbsp;», qui traite de la complexité des liens mère/enfant. Elle en prépare un autre, «&nbsp;Parent solo et ses marmots&nbsp;» sur la mono-parentalité. Valérie a toujours considéré les rencontres comme étant les moteurs et les prétextes de ses créations, et toujours pensé que son travail devait être pluri-disciplinaire. Elle intervient en tant qu’art-thérapeute, anime des ateliers, adore trouver des nouvelles idées de médiations, de spectacles et quand elle a le temps, écrit des histoires pour ses personnages de fiction. Elle vit depuis une quinzaine d’années dans un petit village de Saône et Loire.
+Elle a monté en 2018 le spectacle <a href="bercer-l-enfant-manquant">bercer l’enfant manquant</a>, qui traite de la complexité des liens mère/enfant&nbsp;;&nbsp; en 2022 <a href="parent-solo-et-ses-marmots">parent solo et ses marmots</a> autour de la mono-parentalité&nbsp;;&nbsp; en 2023 <a href="maintenant-il-y-a">maintenant&nbsp;il&nbsp;y&nbsp;a</a>, spectacle de chansons autour de la cérébro-lésion&nbsp;;&nbsp; en 2024 <a href="les-emmeles">les emmêlés</a> autour de la jeune aidance&nbsp;;&nbsp; et en 2025 <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> autour de l’exil. 
+
+Depuis 2023, elle co-réalise avec Lucie Moraillon un film photographique <a href="histoires-de-transmission">histoires de transmissions</a>, sur la difficulté des transmissions dans les fermes d’élevage. 
+
+Valérie a toujours considéré les rencontres comme étant les moteurs et les prétextes de ses créations, et toujours pensé que son travail devait être pluri-disciplinaire. Elle intervient en tant qu’art-thérapeute, anime des ateliers, adore trouver des nouvelles idées de médiations, de spectacles et quand elle a le temps, écrit des histoires pour ses personnages de fiction. Elle vit depuis une quinzaine d’années dans un petit village de Saône et Loire.
 
 
 <div id="morton"></div>
 <h2 class="music-color"> Morton Potash : compositeur, musicien, mime, et danseur</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
-Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la Compagnie les Achille Tonic.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. Il vit dans un village de Saône et Loire où il a installé son studio de musique.
+Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux Supérieurs et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la compagnie <i>Achille Tonic</i>.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. 
+
+Morton compose les chansons et musiques des spectacles de Rêver Tout Haut et les accompagne, de manière très vivante, en répétitions et représentations. 
+
+Il vit dans un village de Saône et Loire où il a installé son studio de musique.
 
 <div id="marina"></div>
 <h2 style="color: #75B0C2">Marina de Lajudie&nbsp;: coordinatrice <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés (jeunes aidant.e.s)</a></h2>
@@ -61,7 +69,7 @@ Titulaire d’une licence en Sciences de l’Education de l’université de Lyo
 Elle est installée en Saône et Loire depuis 2008 où, en parallèle de la création et de la gestion de deux gîtes ruraux, elle a exercé comme assistante maternelle pendant une douzaine d’années.
 En 2018, elle a fait partie de l’équipe créatrice du Festival Boulan’zic à Montmelard dont l’objectif était de présenter des spectacles d’artistes locaux de qualité au cœur d’un monde rural où peu de propositions culturelles existent.
 
-Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver Tout Haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe pour coordonner les projets <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.<br>
+Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver Tout Haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe en 2024 pour coordonner les projets de Rêver Tout Haut, notamment <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.<br>
 <img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718194512/marina-contact_qiu6wb.png">
 
 <div id="patricia"></div>
@@ -98,15 +106,23 @@ Originaire de Dijon, après quelques voyages et quelques années à Paris puis �
 Florian Girard griffonne depuis plus de vingt ans, des poèmes sur un coin de table, des éditos, des dialogues, des chansons dans le train, des nouvelles dans le camion … car il se déplace sans cesse, pour chanter le plus souvent. Il faut qu’il chante, sinon il étouffe. Il faut qu’il bricole des mots, sinon il rouille. Des mots, il en a déposé dans les titres des Trapettistes, de Fred Radix, d’Amélie les Crayons entre autres, et plus récemment d’Alfonce. Des mots ronds, rouges, ravageurs, rugueux, vivants, odorants, rose et tendres comme les fesses d’un babouin, des mots vengeurs, mordants, des mots sans valeur mais jamais sans saveur…
 Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses ateliers d’écriture, enfants, adultes, professionnels, amateurs, différents, improbables, depuis des années, à leur grande surprise et satisfaction.
 
-47 ans, intermittent du spectacle depuis 20 ans, auteur, compositeur, interprète, musicien, metteur en scène, régisseur, pour différents projets de spectacle vivant… et avant cela des études scientifiques, quelques années d’enseignement. Voilà son parcours en quelques phrases, un parcours de flâneur-bosseur-cueilleur, en zig zag, en liberté !
+53 ans, intermittent du spectacle depuis 25 ans, auteur, compositeur, interprète, musicien, metteur en scène, régisseur, pour différents projets de spectacle vivant… et avant cela des études scientifiques, quelques années d’enseignement. Voilà son parcours en quelques phrases, un parcours de flâneur-bosseur-cueilleur, en zig zag, en liberté !
 
 <div id="sidonie"></div>
 ## Sidonie Dubosc : chanteuse, autrice, compositrice
 {: .sido-color}
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632970564/69083084_2998676670174302_8033193834143809536_n_nxeb6f.jpg"></div>
-Sidonie débute le chant à 13 ans alors qu‘elle enregistre pour un film de Valérie Gaudissart (Ich bin eine terroristin). Morton Potash (compositeur des musiques du film) et Olivier Marcaud lui enseignent le chant jusqu‘à ses 16 ans, âge auquel elle intègre le Conservatoire du Grand Chalon avec Aude Husson Patru pour professeure. Elle y étudie le chant, la danse contemporaine, le trombone et le théâtre et s‘oriente vers la chanson française. En 2016, elle créé «&nbsp;Les gardiens de phare&nbsp;» et entame la création de «&nbsp;Pour tout bagage on a 20 ans&nbsp;» avec son groupe La Sido (premier disque en 2018). Sidonie chante aussi avec les Momitcheta (ensemble polyphonique de chant bulgare) jusqu’en 2020, dans le spectacle sur le lien mère/enfant «&nbsp;Bercer l’enfant manquant&nbsp;», dans le conte musical «&nbsp;Cette mémoire des étoiles&nbsp;» inspiré de «&nbsp;La folle allure&nbsp;» de Christian Bobin, dans le duo avec Morton Potash «&nbsp;Berceuses pour adultes&nbsp;» dont Valérie Gaudissart signe avec elle les paroles (premier disque en 2020) et récemment dans le spectacle «&nbsp;Parent solo et ses marmots&nbsp;» autour de la mono-parentalité. 
+Après des études au Conservatoire de Chalon-sur-Saône, où elle étudie le chant, la danse contemporaine, le trombone et le théâtre, Sidonie  s‘oriente vers la chanson française. 
+En 2016 elle crée le groupe La Sido qui a 3 créations et 2 albums à son actif&nbsp;:&nbsp;
+<i>Les gardiens de phare</i> en 2016 à partir d’un répertoire sur le thème du voyage et de l’exil&nbsp;;&nbsp;
+<i>Pour tout bagage on a 20 ans</i> en  2021, reprises des chansons de Vian et Ferré&nbsp;;&nbsp;
+<i>Filles de vague ou de ruisseau</i> en 2024, reprises des chansons d’Anne Sylvestre, Colette Magny et Barbara.
 
-L'été 2021, Sidonie sort son premier spectacle musical en solo chant/kalimba : «&nbsp;Portraits des miens&nbsp;». En parallèle, la chanteuse propose également des ateliers de médiation artistique en EHPAD, en école et en hôpital. 
+Entre 2018 et 2020, elle chante avec les Momitcheta (ensemble polyphonique de chant bulgare), crée le spectacle <i>Cette mémoire des étoiles</i> inspiré de «&nbsp;La folle allure&nbsp;» de Christian Bobin, crée un récital de chansons en duo avec Morton Potash <i>Berceuses pour adultes</i> dont Valérie Gaudissart signe avec elle les paroles. 
+En 2021, elle crée son premier spectacle musical en solo chant/kalimba : <i>Portraits des miens</i> autour des portraits qu’elle a écrit en pensant à ses proches.
+Au sein de la compagnie La Roue Voilée, elle a participé à la création des spectacles <i>Une chenille dans le cœur</i> et <i>Tu rêvais d’être libre et je te continue</i> avec Flore Simon. 
+Depuis 2018, elle travaille en tant qu’intervenante,  chanteuse et comédienne sur les créations de la compagnie Rêver tout Haut, dans le spectacle sur le lien mère/enfant <i>Bercer l’enfant manquant</i>, dans le spectacle <i>Parent solo et ses marmots</i> autour de la mono-parentalité, 
+En parallèle, la chanteuse propose des ateliers de médiation artistique en EHPAD, en école, en hôpital psychiatrique, en milieu carcéral, auprès de victimes de violences conjugales, de personnes exilées, ou auprès de personnes porteuses de handicap en Bourgogne-Franche-Comté.
 
 <div id="romane"></div>
 <h2 style="color: #29c"> Romane Lasserre: marionnettiste et céramiste</h2>
@@ -114,19 +130,22 @@ L'été 2021, Sidonie sort son premier spectacle musical en solo chant/kalimba :
 Jeune diplômée des Arts décoratifs de Strasbourg à 24 ans, Romane Lasserre explore l’objet et plus particulièrement la céramique dans sa dimension narrative et théâtrale.
 Pendant 3 ans, elle étudie à l’École Supérieure d’Art de Lorraine d’Épinal spécialisée dans le travail de l’image et de la narration. Elle y cultive différents champs artistiques avec enthousiasme. Que ce soit des formes dessinées, vidéos, installées, animées, écrites ou même vivantes et mises en scène. Imaginer une relation entre le fond et la forme l’a très vite intéressée et petit à petit emmenée vers des envies de formes sculpturales et vers une affection toute particulière pour le travail de la terre et la céramique.
 
-Elle présente pour son DNA, avec une amie, un premier spectacle de théâtre d’objet intitulé Mécanolie, au même titre qu’une installation de sculptures ouvertes et participatives en céramique, tous deux à destination du jeune public.
-Par la suite, elle monte une nouvelle forme théâtrale avec sa compagnie Ecoutilles : Mon gosier de métal parle toutes les langues, et OIZO, dans lequelles elle fabrique des objets hybrides en céramique.
+Elle présente pour son DNA, avec une amie, un premier spectacle de théâtre d’objet intitulé <i>Mécanolie</i>, au même titre qu’une installation de sculptures ouvertes et participatives en céramique, tous deux à destination du jeune public.
+Par la suite, elle monte une nouvelle forme théâtrale avec sa compagnie Ecoutilles : <i>Mon gosier de métal parle toutes les langues</i>, et <i>OIZO</i>, dans lequelles elle fabrique des objets hybrides en céramique. Elle crée et joue depuis 2023 le spectacle <i>Eri</i>, spectacle de théâtre d’objets, et <i>Histoire Taupe Secrète</i>, spectacle de marionnette. Elle rencontre la compagnie La Mâchoire 36. S’ensuit une collaboration artistique foisonnante (interventions artistiques dans différents lieux culturels et théâtre en France, fabrication d’objets de spectacles, résidences...). 
 
-Elle rencontre la compagnie La Mâchoire 36. S’ensuit une collaboration artistique foisonnante (interventions artistiques dans différents lieux culturels et théâtre en France, fabrication d’objets de spectacles, résidences...). Elle anime des médiations pour des centres sociaux et des personnes en situation de handicap dans lesquelles elle propose son approche du théâtre d’objets et de la marionnette. 
-
+Elle anime pour différents publics et notamment au sein de Rêver Tout Haut, des médiations dans lesquelles elle propose son approche du théâtre d’objets et de la marionnette.
 <div id="flore"></div>
 <h2 style="color: #7551e1" >Flore Simon: comédienne, metteur en scène, assistante</h2>
 <div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648630231/flore_carre%CC%81_zjantt.jpg"></div>
-Formée au Conservatoire Régional de Chalon-sur-Saône puis en Master-pro mise en scène et dramaturgie à Paris X, elle assiste divers metteurs en scène entre 2012 et 2019 : Jean-Yves Ruf (Hughie), Laurent Fréchuret (Revenez demain, Ervart ou les derniers jours de F.Nietzche) Vincent Thomasset (Les Lettres de non-motivation, Ensemble, ensemble, Médail décor), Lancelot Hamelin (Light House), Édouard Signolet (Zerballodu), Pierre Hoden (De beaux héros en vérité !, Prologue, Land an freedom)… Elle est également amenée à jouer ou tenir des régies sur différents projets (Le Bossu, Douze hommes en colère, Titouane, Le Moche, Projet Nituür…). En 2018, elle rejoint le projet Tapis Noir de la compagnie Les Affranchis en Seine Saint-Denis.
+Formée au Conservatoire du Grand Chalon puis en Master-pro mise en scène et dramaturgie à Paris X, elle assiste divers metteurs en scène entre 2012 et 2018 (Jean-Yves Ruf, L. Fréchuret, V. Thomasset, L. Hamelin, É. Signolet, P. Hoden…) et joue sur différents projets théâtraux. En 2018, elle rejoint la compagnie <i>Les Affranchis</i> en Seine Saint-Denis. De 2019 à 2021, elle est assistante de direction du Studio-Théâtre de la Comédie-Française. 
 
-En 2018 et 2019, elle met en scène Juliette, suite et fin trop précoce, d’après un texte de Sylvain Levey puis le conte musical Cette mémoire des étoiles, à partir du roman La Folle allure de Christian Bobin. Elle collabore régulièrement avec des groupe de musique (La Sido, Jon and the minou’s).
-De 2019 à 2021, elle a été assistante de direction du Studio-Théâtre de la Comédie-Française.
-Elle anime des ateliers théâtre avec différents publics, enfants, adolescents et adultes. 
+Depuis 2018, elle travaille en tant que comédienne, dramaturge et metteuse en scène au sein de <i>A nos lisières compagnie</i> (anciennement <i>La Roue Voilée</i>) et dans d’autres structures bourguignonnes (<i>Quintette Alliance, La Chahutte, UnisSons</i>…).
+
+Elle a plusieurs mises en scènes à son actif&nbsp;:&nbsp; 
+<i>Juliette, suite et fin trop précoce</i> (texte de S. Levey), <i>Prologue</i> (projet scolaire sur l’histoire de la Plaine à Saint-Denis), <i>Un Temps pour nous</i> (projet musical, texte écrit à partir de Roméo et Juliette). <i>Cette mémoire des étoiles</i> (d’après La Folle allure de C. Bobin), <i>Tu rêvais d’être libre et je te continue…</i> (musiques et textes sur les résistances), <i>Une Chenille dans le cœur</i> (texte de S. Jaubertie), <i>Assistance Réincarnation ? Veuillez patienter…</i>
+Elle anime aussi des ateliers théâtre avec différents publics, enfants, adolescents et adultes. 
+
+Flore intervient au sein de Rêver Tout Haut sur différentes médiations et créations de spectacles depuis 2019. 
 
 <div id="estelle"></div>
 <h2 class="music-color">Estelle Bernigal: musicienne, comédienne, compositirice</h2>
