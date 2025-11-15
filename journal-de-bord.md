@@ -4,6 +4,38 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>octobre</h2>
+<p class="intro-text">Et bien ça y est, nous avons plongé dans la création des Etres Humaines, et nous voici 13 sur scène ! Marie, Jenny, Keith, Lydie, Marie-Adeline, Hayate, Inga  ont rejoint notre équipe d’artistes pour exprimer sur scène la lente reconstruction après le vécu de violences conjugales. 
+On ne peut raconter nos journées si denses, tant de liens se créent, de paroles émergent et de transformations deviennent visibles dans les corps, dans le jeu, dans l’assurance prise. Tout ça se verra sur scène lors des représentations. 
+</p>
+<p class="intro-text">Belles présences et bel engagement de toutes ces femmes en tout cas. Romane Lasserre, à la scéno et Florian Girard à la lumière se sont mis eux aussi au travail avec plein d’idées. </p>
+
+<p class="intro-text">Nous avons donc eu deux semaines de résidence en octobre : une au Palace à Cuisery et une à la Pimenterie à Saint Point et nous avons avancé à pas de géante. 
+</p>
+
+<p class="intro-text">Un petit extrait d’une des scènes  et quelques photos pour vous faire patienter avant la première&nbsp;!</p>
+
+<div class="center-max450-block">
+<p class="intro-text"><cite>Je pensais que l’amour, c’était tout accepter de l’autre.  
+Et depuis petite je dois dire pardon pour les actions des autres.<br>
+Je me suis excusé 50000 fois auprès de cet homme après ses actions de merde.
+Et comme j’ai fait ça toute mon enfance avec mon père violent, ça ne me posait pas de problème de le faire avec cet homme.<br>
+J’étais habituée.<br>
+Et si le mot pardon vient apaiser un climat de tension, autant dire pardon.
+Et comme j’avais une estime de moi en dessous de zéro, il y avait forcément des bonnes raisons pour lesquelles je devais m’excuser.<br>
+J’avais sûrement fait, dit, quelque chose de pas bien. Je méritais les punitions.</cite></p>
+</div>
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0055_zr7kly.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0054_hyrr9y.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0059_yyic9m.jpg">
+</div>
+<p class="intro-text">Et puis octobre nous a permis aussi de rejouer notre spectacle <a href="maintenant-il-y-a">maintenant il y a</a> avec notre troupe de personnes porteuses de cérébro-lésion lors de la journée festive des <i>10 ans de la Noveline, habitant inclusif de Cluny</i>. Toujours autant de plaisir partagé et sans cesse renouvelé. Il est même possible que nous repartions sur les routes en 2026. Ben oui, pourquoi s’arrêter en si bon chemin&nbsp;? </p>
+
+<div class="center-big-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207010/la-novelline-a-dix-ans_wluapk.png">
+</div>
+
 <h2>août/septembre</h2>
 <p class="intro-text">Allez, hop, nous voilà de retour en atelier, en créa, en écriture, en orga, etc… <br>
 
