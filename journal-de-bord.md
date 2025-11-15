@@ -36,6 +36,8 @@ J’avais sûrement fait, dit, quelque chose de pas bien. Je méritais les punit
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207010/la-novelline-a-dix-ans_wluapk.png">
 </div>
 
+<p class="intro-text">Et puisqu’Octobre est aussi le mois où se prépare l’année à venir, un grand merci à AG2R et le Conseil Régional de Bourgogne Franche Comté pour leur généreux soutien pour la continuité de notre action consacrée à la jeune aidance, <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a>&nbsp;!</p>
+
 <h2>août/septembre</h2>
 <p class="intro-text">Allez, hop, nous voilà de retour en atelier, en créa, en écriture, en orga, etc… <br>
 
