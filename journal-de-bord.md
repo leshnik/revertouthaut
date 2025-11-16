@@ -30,11 +30,20 @@ J’avais sûrement fait, dit, quelque chose de pas bien. Je méritais les punit
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0054_hyrr9y.jpg"><br>
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0059_yyic9m.jpg">
 </div>
+<hr>
 <p class="intro-text">Et puis octobre nous a permis aussi de rejouer notre spectacle <a href="maintenant-il-y-a">maintenant il y a</a> avec notre troupe de personnes porteuses de cérébro-lésion lors de la journée festive des <i>10 ans de la Noveline, habitant inclusif de Cluny</i>. Toujours autant de plaisir partagé et sans cesse renouvelé. Il est même possible que nous repartions sur les routes en 2026. Ben oui, pourquoi s’arrêter en si bon chemin&nbsp;? </p>
 
 <div class="center-big-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207010/la-novelline-a-dix-ans_wluapk.png">
 </div>
+<hr>
+<p class="intro-text">Et nos ateliers d’écriture « Une nouvelle page à écrire » ont repris, faisant la part belle à nos inspirations du moment et à un travail graphique accompagné par Anne De Lagonde, habile artiste du papier découpé et Céline Thoué, graveuse de mots colorés.
+Par ici, pour avoir les dates de l’automne&nbsp;:&nbsp;</p>
+
+<div class="center-big-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
+</div>
+<hr>
 
 <p class="intro-text">Et puisqu’Octobre est aussi le mois où se prépare l’année à venir, un grand merci à AG2R et le Conseil Régional de Bourgogne Franche Comté pour leur généreux soutien pour la continuité de notre action consacrée à la jeune aidance, <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a>&nbsp;!</p>
 
