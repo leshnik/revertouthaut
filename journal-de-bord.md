@@ -37,7 +37,7 @@ J’avais sûrement fait, dit, quelque chose de pas bien. Je méritais les punit
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207010/la-novelline-a-dix-ans_wluapk.png">
 </div>
 <hr>
-<p class="intro-text">Et nos ateliers d’écriture « Une nouvelle page à écrire » ont repris, faisant la part belle à nos inspirations du moment et à un travail graphique accompagné par Anne De Lagonde, habile artiste du papier découpé et Céline Thoué, graveuse de mots colorés.
+<p class="intro-text">Et nos ateliers d’écriture <a href="une-nouvelle-page">Une nouvelle page à écrire</a> ont repris, faisant la part belle à nos inspirations du moment et à un travail graphique accompagné par Anne De Lagonde, habile artiste du papier découpé et Céline Thoué, graveuse de mots colorés.
 Par ici, pour avoir les dates de l’automne&nbsp;:&nbsp;</p>
 
 <div class="center-big-block">
