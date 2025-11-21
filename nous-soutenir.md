@@ -3,7 +3,19 @@ layout: logoTop
 title: nous soutenir
 summary:
 ---
-<h1>adhérer à rêver tout haut</h1>
+<h1>financement participatif</h1>
+<p class="intro-text">Vous pouvez participer à financer la tournée du spectacle <a href="les-etres-humaines2">le êtres humaines</a>. Clicquer sur le lien pour voir en détail en quoi consiste cette participation&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines">collecte tournée Les êtres humaines</a>.
+</p>
+
+<h2>faire un don</h2>
+<p class="intro-text">Nous aider financièrement c'est facile. L'association <strong>helloasso</strong> s'occupe de tout. Rever tout haut étant reconnue d'intérêt général, <strong>les dons qui lui sont faits sont déductibles des impôts</strong>. Merci.</p>
+<ul style="text-align:right; list-style-type:none">
+    <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/formulaires/1">Faire un don (déductible des impôts)</a></li>
+</ul>
+<div class="qrcode">
+<img src="qrcodeHelloAssoAdhesion.png" />
+</div>
+<h2>adhérer à rêver tout haut</h2>
 <div class="center-max-450-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1718005235/1718000451971_kunhr0.jpg">
 </div>
@@ -16,14 +28,7 @@ summary:
     <img src="qrcodeHelloAssoAdhesion.png">
 </div>
 
-<h2>faire un don</h2>
-<p class="intro-text">Nous aider financièrement c'est facile. L'association <strong>helloasso</strong> s'occupe de tout. Rever tout haut étant reconnue d'intérêt général, <strong>les dons qui lui sont faits sont déductibles des impôts</strong>. Merci.</p>
-<ul style="text-align:right; list-style-type:none">
-    <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/formulaires/1">Faire un don (déductible des impôts)</a></li>
-</ul>
-<div class="qrcode">
-<img src="qrcodeHelloAssoAdhesion.png" />
-</div>
+
 
 <h2>Politique de confidentialité (2025)</h2>
 <p class="intro-text">Quand vous adhérez à notre association, nous collectons dans notre
