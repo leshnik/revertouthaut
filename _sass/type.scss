@@ -38,7 +38,7 @@ h2 {
   padding-bottom: 1rem;
 }
 
-h3left {
+.h3left {
   font-family: "amatic sc";
   font-size: 1.8rem;
   color: #a27c55;
@@ -185,7 +185,8 @@ a:hover {
 }
 .quote {
   font-family: "Crimson Text", serif;
-  font-size: 1.1rem;
+  font-size: 1.3rem;
+  font-style: italic;
   letter-spacing: 0.1rem;
   line-height: 1.6rem;
   margin: 0.5rem 8% 1rem 15%;

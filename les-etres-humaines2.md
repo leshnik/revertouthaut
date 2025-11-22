@@ -7,7 +7,7 @@ summary:
 <h2>spectacle musical autour des violences conjugales</h2>
 <h1>création 2025 et tournée 2026-27</h1>
 
-<h3left>les êtres humaines en répétition</h3left>
+<h3 class="h3left">les êtres humaines en répétition</h3>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/8d4bd8f5-4844-4aa9-920a-f99c2b4b0654?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
 
@@ -79,7 +79,7 @@ Assistanat mise en scène: Flore Simon</p>
 
 <h2>Quelques extraits du texte et quelques photos de répétition&nbsp;:&nbsp;</h2>
 
-<div class="quote"><em>
+<div class="quote">
 «&nbsp;Tous les soirs j’avais droit à ma volée et tous les soirs, j’avais droit à ma baffe. La baffe était routinière. Et quand elle avait claqué, j’étais soulagée parce que je pouvais aller me coucher. J’étais habituée, à cette baffe, et même certains soirs, je la provoquais, pour pouvoir me coucher de bonne heure. Je savais comment l’obtenir, je disais un truc, et paf, j’y avais droit et je pouvais aller me coucher. Et avoir droit à ma baffe quand je la provoquais, ça me donnait l’impression de contrôler quelque chose, de maîtriser au moins le moment où elle allait tomber, ça me donnait presque un petit sentiment de victoire. Ça a duré 8 ans comme ça.&nbsp;»<br><br>
 
 «&nbsp;Je ne savais pas ce que je vivais, je pensais vivre une vie normale. Je croyais vivre une vie et en fait, j’en vivais une autre. C’est comme si j’étais deux personnes. Une qui vivait les choses et une autre qui croyait vivre autre chose, qui idéalisait et qui refusait la réalité. Donc je ne voyais rien.<br>
@@ -93,7 +93,7 @@ Il fallait partir un jour où les enfants étaient à l’école, et lui au trav
 Je suis arrivée à la sortie de l’école.  L’assistante sociale m’attendait dans une voiture sur le parking. J’ai pris les enfants. On a couru.<br>
 On est monté dans la voiture, on a roulé, j’ai eu l’impression de sortir du coma. Je peux pas décrire les minutes dans la voiture. Ça a été pour moi une libération.<br>
 On était enfin sorti de la cage.<br>
-Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le paysage.&nbsp;»</em>
+Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le paysage.&nbsp;»
 </div>
 
 <p class="intro-text">Les résidences de création ont eu et auront lieu ici (et merci à tous les lieux qui nous accueillent !)&nbsp;:&nbsp;</p> 
@@ -219,7 +219,7 @@ Les premiers temps tout beaux, tout roses mais qui s’installent là où il y a
 
 <p class="intro-text"><strong>La musique et l’écrit</strong>, lieux d’expression et de consolation par excellence, ont jalonné et bercé chacune de nos journées.
 Des chansons ont été composées à partir des textes écrits, chantées ensemble, enregistrées. Voici quelques extraits de textes&nbsp;:&nbsp;</p>
-<div class="quote"><em><strong>Il dit</strong><br>
+<div class="quote"><strong>Il dit</strong><br>
  <br>
 Il dit que je suis conne<br>
 Il dit que je lui apprends beaucoup de choses<br>
@@ -242,22 +242,22 @@ Il dit qu’il ne peut pas vivre sans moi<br>
 Il dit t’étais où, avec qui ?<br>
 Il dit moi je n’ai pas de compte à te rendre<br>
 
-Il dit que c’est en brisant les gens qu’on les garde</em>
+Il dit que c’est en brisant les gens qu’on les garde
 </div>
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763664613/ScreenFloat_Shot_E500443998D6_scbepx.png">
 </div>
 
-<div class="quote"><strong>Beauté</strong><br><em>
+<div class="quote"><strong>Beauté</strong><br>
 «&nbsp;Moi j’ai été détruite en tant que femme mais j’ai surtout été détruite en tant que mère.  Il m’a dit, je vais te prendre ce que tu as de plus cher. Et en effet, il m’a pris ce que j’avais de plus précieux. Mes enfants ont rompu avec moi, cela fait neuf ans. Sa violence et ses injures à lui, c’est derrière moi, mais le silence de mes enfants, c’est tous les jours. Et les années sans les voir, sont des années perdues.
 Mais bon je suis vivante.
-Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terrasse de café et je regarde les gens, et les gens des fois, je les trouve beaux, alors je peux m’empêcher, je vais vers eux, et je leur dit : excusez-moi, je voulais juste vous dire que je vous trouve très beau, ou que je vous trouve très belle. C’est tout, et puis je m’en vais.&nbsp;»</em></div>
+Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terrasse de café et je regarde les gens, et les gens des fois, je les trouve beaux, alors je peux m’empêcher, je vais vers eux, et je leur dit : excusez-moi, je voulais juste vous dire que je vous trouve très beau, ou que je vous trouve très belle. C’est tout, et puis je m’en vais.&nbsp;»</div>
 
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763718335/ScreenFloat_Shot_27F54686BC36_r88vbc.png">
 </div>
 
-<div class="quote"><strong>Traces</strong><em><br>
+<div class="quote"><strong>Traces</strong><br>
 Traces de coup<br>
 Sur mes bras, sur mon dos<br>
 Il me suit<br>
@@ -278,7 +278,7 @@ Traces écrites poétiques<br>
 Et mes mots laissent des traces<br>
 Je m’éloigne<br>
 Je m’échappe<br>
-Et ma route je la trace</em>
+Et ma route je la trace
 </div>
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763718611/ScreenFloat_Shot_D0CA4CA88D9D_c7ibil.png">
@@ -521,7 +521,7 @@ Et ma route je la trace</em>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/43210943-1156-4585-b98c-721adc57e1bf?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 <h2>Quelques extraits du texte&nbsp;:</h2>
-<div class="quote"><em>«&nbsp;Quand c’est le moment de partir, c’est le moment. Le pire c’est que c’était prévu, on m’appelle le matin, on me dit : “y’a une place, est-ce que vous pouvez venir ?" J’ai dit, ce soir je suis là. J’avais fait en sorte de tout laver, de tout laisser à portée de main, et hop, une fois qu’il partirait au travail, tout dans les sacs poubelles. Les hommes, ils se rendent pas compte des sacs poubelles, ils se méfient pas. Alors j’ai pris les sacs poubelles avec dedans ma boîte à trésors avec les bracelets de la maternité, les cordons ombilicaux et les dents de lait, des photos des enfants parce que je voulais pas lui laisser, le dossier avec tous les papiers administratifs, des habits, des chaussettes et des culottes (les chaussettes des garçons, elles ont toujours des trous), la petite télé qui était dans la chambre de mon fils, avec la télécommande, des parts de pizza et des bouteilles d’eau. Et les enfants avec leur doudou. Et aussi de la peur, l’impression d’être suivie, c’est fou ce que je dis mais c’est vrai.&nbsp;»<br>
+<div class="quote">«&nbsp;Quand c’est le moment de partir, c’est le moment. Le pire c’est que c’était prévu, on m’appelle le matin, on me dit : “y’a une place, est-ce que vous pouvez venir ?" J’ai dit, ce soir je suis là. J’avais fait en sorte de tout laver, de tout laisser à portée de main, et hop, une fois qu’il partirait au travail, tout dans les sacs poubelles. Les hommes, ils se rendent pas compte des sacs poubelles, ils se méfient pas. Alors j’ai pris les sacs poubelles avec dedans ma boîte à trésors avec les bracelets de la maternité, les cordons ombilicaux et les dents de lait, des photos des enfants parce que je voulais pas lui laisser, le dossier avec tous les papiers administratifs, des habits, des chaussettes et des culottes (les chaussettes des garçons, elles ont toujours des trous), la petite télé qui était dans la chambre de mon fils, avec la télécommande, des parts de pizza et des bouteilles d’eau. Et les enfants avec leur doudou. Et aussi de la peur, l’impression d’être suivie, c’est fou ce que je dis mais c’est vrai.&nbsp;»<br>
 
 <hr>
 
@@ -529,4 +529,4 @@ Et ma route je la trace</em>
 
 <hr>
 
-«&nbsp;J'avais préparé un sac au cas où il faudrait partir d'urgence, un sac avec des vêtements d'enfants, la photocopie des carnets de santé, 20 euros, des gâteaux et des morceaux de sucre. Parce que le sucre, ça console. Le sucre, ça a toujours été mon allié. Donc je le laissai hurler, casser ce qu'il voulait et moi j'avais un morceau de sucre dans la bouche. Il faut pas prendre un morceau entier parce que ça fait mâcher et du coup il peut avoir l'impression que je suis en train de parler dans son dos. Il faut prendre la moitié d'un sucre, comme ça, ça se voit pas. Et pendant qu'il hurle et casse des choses, je me concentre sur le morceau de sucre qui fond dans ma bouche.&nbsp;»</em></div>
+«&nbsp;J'avais préparé un sac au cas où il faudrait partir d'urgence, un sac avec des vêtements d'enfants, la photocopie des carnets de santé, 20 euros, des gâteaux et des morceaux de sucre. Parce que le sucre, ça console. Le sucre, ça a toujours été mon allié. Donc je le laissai hurler, casser ce qu'il voulait et moi j'avais un morceau de sucre dans la bouche. Il faut pas prendre un morceau entier parce que ça fait mâcher et du coup il peut avoir l'impression que je suis en train de parler dans son dos. Il faut prendre la moitié d'un sucre, comme ça, ça se voit pas. Et pendant qu'il hurle et casse des choses, je me concentre sur le morceau de sucre qui fond dans ma bouche.&nbsp;»</div>
