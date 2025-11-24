@@ -10,7 +10,7 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
 <div class="space-around--wrap">
   <p class="shadow" style="background: #9d1737; width: 50ch">
       <a style="color: #72fc3b" class="nav-list-heading subtlehover" href="/spectacles">●&nbsp;Spectacles</a><br>
-      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/les-etres-humaines2">●&nbsp;Les êtres humaines reprise 2025</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/les-etres-humaines">●&nbsp;Les êtres humaines reprise 2025</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/maintenant-il-y-a">●&nbsp;Maintenant il y a (2023 - 2024)</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/bercer-l-enfant-manquant">●&nbsp;Bercer l'enfant manquant (2019 - 2022 )</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/parent-solo-et-ses-marmots">●&nbsp;Parent solo et ses marmots (2021 - 2022 )</a><br>
