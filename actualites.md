@@ -5,10 +5,10 @@ summary:
 ---
 <h1>événements à venir</h1>
 <ul class="institutions">
-    <!-- <li>
+    <li>
         A partir de janvier 2024, démarrage de <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a> à l’EHPAD de Cluny, cycles de concerts individuels et intimes en chambre pour personnes résidentes ayant des difficultés à rentrer dans le sommeil et dans la nuit.
-    </li><hr> -->
-    <!-- <li>
+    </li><hr>
+    <li>
         Tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, spectacle musical avec une formidable troupe de personnes porteuses d’une cérébro-lésion
         <br><br>
         <ul>
@@ -21,8 +21,8 @@ summary:
             <li><span style="color: rgb(216, 87, 0);">Le 5 avril à Montceau les Mines</span>, à 19h aux Ateliers du Jour, 56 quai Jules-Chagot, Gratuit, Suivi d'un temps déchanges. Réservation:03&nbsp;85&nbsp;58&nbsp;73&nbsp;37
             <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706440338/maintenant-only-date-montceau-nologo_noyzja.png"></div></li>
         </ul>
-    </li><hr> -->
-    <!-- <li>
+    </li><hr>
+     <li>
         13 mai 2024, première réunion d’un groupe de travail regroupant associations, soignants, usagers, institutions, autour de la notion de deuil, en préparation de notre long cycle d’ateliers créatifs et littéraires, <a href="une-nouvelle-page">une nouvelle page à écrire</a>
         <div class="flex-container">
             <div class="column">
