@@ -42,7 +42,7 @@ Faire en sorte que les portes s’ouvrent.</p>
  
 <p class="intro-text">Par des médiations qui proposeront musique, chant, écriture, peinture, argile, photographies, les intervenant.es iront à la rencontre des résidents et leur proposeront de déposer leur vécu et de le transformer.</p>
  
-<p class="intro-text">Seront abordées aussi et mises en travail durant ces médiations les notions d’habiter : habiter sa chambre, son corps, sa vie et son récit.</p>
+<!-- <p class="intro-text">Seront abordées aussi et mises en travail durant ces médiations les notions d’habiter : habiter sa chambre, son corps, sa vie et son récit.</p> -->
  
 <p class="intro-text">L’action déroulera dans le creux de l'hiver quand les fêtes de fin d'année peuvent être des moments délicats pour les personnes isolées, souvent dénuées de liens familiaux et amicaux.</p>
  
