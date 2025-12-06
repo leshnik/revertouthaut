@@ -4,6 +4,53 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+
+<h2>novembre</h2>
+ 
+<p class="intro-text">Pas de brouillard pour nous en ce mois de novembre&nbsp;! On voit loin&nbsp;!</p>
+ 
+<p class="intro-text">Et tout d’abord, <a href="les-etres-humaines">les êtres humaines</a> qui ont terminé leur quatrième semaine de création, et qui sont prêtes pour jouer leur première représentation le 5 décembre.
+Afin de soutenir la tournée qui s’annonce, les Etres Humaines ont tourné un petit film et lancé un financement participatif. Afin de pouvoir jouer devant le plus grand nombre, et notamment devant la jeune génération, nous récoltons des dons.</p>
+ 
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/67fbdcea-f4d8-41b1-a54d-350a878a3d18?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+ 
+<p class="intro-text">Pour soutenir la tournée, c’est là&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">financement participatif</a></p>
+ 
+<p class="intro-text">Si vous préférez contribuer par chèque, c’est à notre adresse:
+ 
+Rêver Tout Haut
+192, impasse de Champloi
+71250 Bergesserin</p>
+ 
+<p class="intro-text">Et si vous préférez contribuer par virement, dites-le nous, nous vous enverrons notre rib.</p>
+
+<p class="intro-text">Voici un lien direct vers le film, que vous pouvez partager&nbsp;:&nbsp;<br>
+<a href="https://tinyurl.com/2puw5vk4">https://tinyurl.com/2puw5vk4</a></p> 
+
+<p class="intro-text">Rêver Tout Haut étant une association d’intérêt général, nous vous enverrons un reçu fiscal, pour que vous puissiez bénéficier d’une réduction d’impôt (en 2025 et/ou 2026). L’appel à dons est ouvert du 1er décembre 2025 au 15 mars 2026.</p>
+ 
+<p class="intro-text">Un immense merci pour votre solidarité et reconnaissance de notre travail et engagement !</p>
+
+<div class="flex-container">
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046178/ScreenFloat_Shot_4B704B90860E_kgdnwu.png">
+  </div>
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046465/ScreenFloat_Shot_CACD4993B3DA_zsw8wx.png">
+  </div>
+</div>
+
+ 
+<p class="intro-text">Et puis, nous avons bien avancé notre film <a href="histoires-de-transmission">histoires de transmissions</a>. Nous avons passé une semaine à collecter des sons et créer de nouveaux portraits photographiques auprès de paysannes et paysans du Clunysois et du Charolais qui ont bien voulu nous partager leurs difficultés face à leur départ à la retraite. Et en cette période de maladie bovine et de directives qui l’accompagnent,  la question est encore plus poignante.</p>
+ 
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047055/ScreenFloat_Shot_802B48C98A5F_ohkxx8.png"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047414/ScreenFloat_Shot_51104C36A816_gpzaoh.png">
+</div>
+ 
+<p class="intro-text">Et nous avançons aussi au grand galop vers les projets de 2026 avec l’organisation de la tournée de <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> en mai et juin, et la reprise de notre spectacle autour de la jeune aidance <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a> en octobre.</p>
+ 
+<p class="intro-text">Bref, on ne s’ennuie pas. Mais que faire de mieux que de permettre aux personnes fragilisées par leur parcours de vie que de (re)devenir créatives&nbsp;?</p>
 <h2>octobre</h2>
 <p class="intro-text">Et bien ça y est, nous avons plongé dans la création des Etres Humaines, et nous voici 13 sur scène ! Marie, Jenny, Keith, Lydie, Marie-Adeline, Hayate, Inga  ont rejoint notre équipe d’artistes pour exprimer sur scène la lente reconstruction après le vécu de violences conjugales. 
 On ne peut raconter nos journées si denses, tant de liens se créent, de paroles émergent et de transformations deviennent visibles dans les corps, dans le jeu, dans l’assurance prise. Tout ça se verra sur scène lors des représentations. 
