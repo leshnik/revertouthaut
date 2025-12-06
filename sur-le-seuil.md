@@ -17,14 +17,14 @@ C’est un espace minuscule où une porte s’entrouvre, se ferme, se claque.</p
  
 <p class="intro-text">Et c’est aussi une image de l’entre deux, entre le soin et le quotidien, entre la précarité de la vie d’avant et la vie future à imaginer.</p>
  
-<p class="intro-text">Mais c’est aussi la limite de la pauvreté, et la frontière de la tolérance à la douleur.
+<p class="intro-text">C’est à la limite de la pauvreté, et la frontière de la tolérance à la douleur.
 C’est aussi ce temps suspendu entre la vie et la mort.</p>
  
-<p class="intro-text">Franchir le seuil d’une maison ou d’une chambre, c’est être accepté chez quelqu’un, être reçu,</p>
+<!-- <p class="intro-text">Franchir le seuil d’une maison ou d’une chambre, c’est être accepté chez quelqu’un, être reçu,</p>
  
 <p class="intro-text">Franchir le seuil de pauvreté, c’est trouver en soi des capacités de survie et des inventions pour se maintenir,</p>
  
-<p class="intro-text">Atteindre son seuil de tolérance à la douleur, c’est exprimer ce qui nous rend vulnérable et accepter de l’aide. </p>
+<p class="intro-text">Atteindre son seuil de tolérance à la douleur, c’est exprimer ce qui nous rend vulnérable et accepter de l’aide. </p> -->
 
 <p class="intro-text">
 <strong>Le lieu d’accueil</strong><br>
