@@ -39,13 +39,26 @@ Rêver Tout Haut
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046465/ScreenFloat_Shot_CACD4993B3DA_zsw8wx.png">
   </div>
 </div>
-
+<hr>
  
 <p class="intro-text">Et puis, nous avons bien avancé notre film <a href="histoires-de-transmission">histoires de transmissions</a>. Nous avons passé une semaine à collecter des sons et créer de nouveaux portraits photographiques auprès de paysannes et paysans du Clunysois et du Charolais qui ont bien voulu nous partager leurs difficultés face à leur départ à la retraite. Et en cette période de maladie bovine et de directives qui l’accompagnent,  la question est encore plus poignante.</p>
  
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047055/ScreenFloat_Shot_802B48C98A5F_ohkxx8.png"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047055/ScreenFloat_Shot_802B48C98A5F_ohkxx8.png">
+</div>
+<div class="center-max600-block">
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047414/ScreenFloat_Shot_51104C36A816_gpzaoh.png">
+<figcaption class="figCapCenter">prise de son et d'image in situ par Lola Corps et Lucie Moraillon</figcaption>
+</div>
+<hr>
+<p class="intro-text">Et notre <a href="une-nouvelle-page">une nouvelle page à écrire</a> se déploie, se déplie.. et dans les plis de nos mémoires viennent s’inscrire les mots du deuil et du manque. Nous avons travaillé avec les mots, avec aussi avec des papiers découpés, accompagnées en novembre par la graphiste Anne de Lagonde.
+Elle reviendra en 2026.</p>
+
+<div class="center-max450-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765105891/IMG20251109124642_gj2ztn.jpg"><br>
+</div>
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765105892/IMG20251109124758_guis7g.jpg">
 </div>
  
 <p class="intro-text">Et nous avançons aussi au grand galop vers les projets de 2026 avec l’organisation de la tournée de <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> en mai et juin, et la reprise de notre spectacle autour de la jeune aidance <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a> en octobre.</p>
