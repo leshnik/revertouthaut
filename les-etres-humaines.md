@@ -117,6 +117,7 @@ Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le 
 <ul class="bullet">
 <li>Le 27 février 2026 au Théâtre les Arts à Cluny (71), après-midi et soir </li>
 <li>Le 5 mars 2026 à l’ECLA à Saint Vallier (71), après-midi</li>
+<li>le 19 mars 2026 à Besançon (25)
 <li>Le 2 avril à la Salle Saint Luc à Bourbon Lancy (71), après-midi et soir</li>  
 </ul>
 <p class="intro-text">D’autres dates à venir à Macon, Chalon sur Saône, Besançon, Dole, Cuisery, Yzeure, etc… </p>

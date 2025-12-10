@@ -8,6 +8,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <ul class="agenda-list">
 
 <li><a href="#2-04-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 2 avril 2026 à Bourbon Lancy</span> – Les êtres humaines, deux représentations (après-midi et soir)</a></li>
+<li><a href="#19-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 19 mars 2026 à Besançon</span> – Les êtres humaines</a></li>
 <li><a href="#5-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 5 mars 2026 à Saint Vallier</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
 <li><a href="#27-20-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 27 février 2026 à Cluny</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
 <li><a href="#23-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 23 au jeudi 26 février 2026 à Cluny</span> – Les êtres humaines, résidence de création</a></li>
@@ -44,7 +45,15 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <hr>
 <div id="2-04-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
-    <p class="intro-text">Jeudi 5 mars 2026, à Bourbon Lancy, deux représentations, (après-midi et soir).<br>
+    <p class="intro-text">Jeudi 2 avril 2026, à Bourbon Lancy, deux représentations, (après-midi et soir).<br>
+    Informations sur réservations et horaires à venir.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="19-03-2026">
+<h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
+    <p class="intro-text">Jeudi 19 mars 2026, à Besançon.<br>
     Informations sur réservations et horaires à venir.</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
