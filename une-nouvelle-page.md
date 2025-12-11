@@ -9,6 +9,7 @@ summary: Le projet “Une nouvelle page à écrire” de Rêver Tout Haut propos
 L’automne et l’hiver qui ont suivi ta mort, je les ai occupés à défricher pour toi ce petit jardin d’encre.&nbsp;»</em>
 <p class="cite">Christian Bobin, «&nbsp;La plus que vive&nbsp;»
 </p>
+</div>
 
 <p class="intro-text">
 C’est en pensant à ces phrases écrites par Christian Bobin dans la préface de son livre évoquant la perte de sa «&nbsp;plus que vive&nbsp;» que nous avons conçu ce projet d’accompagnement de personnes endeuillées. 
