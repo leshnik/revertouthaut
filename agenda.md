@@ -110,7 +110,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <div id="27-20-2026">
     <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text">Vendredi 27 février 2026 au Théâtre à Cluny, deux représentations, (après-midi et soir).<br>
-    Informations sur réservations et horaires à venir.</p>
+    Réservations pour le soir à 20h&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a></p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
