@@ -8,10 +8,16 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <ul class="agenda-list">
 
 <li><a href="#2-04-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 2 avril 2026 à Bourbon Lancy</span> – Les êtres humaines, deux représentations (après-midi et soir)</a></li>
+<li><a href="#25-03-2026"><span style="color:#CB6120; font-weight:bold;">Mercredi 25 mars 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#19-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 19 mars 2026 à Besançon</span> – Les êtres humaines</a></li>
+<li><a href="#15-03-2026"><span style="color:#CB6120; font-weight:bold;">Dimanche 15 mars à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#5-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 5 mars 2026 à Saint Vallier</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
 <li><a href="#27-20-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 27 février 2026 à Cluny</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
 <li><a href="#23-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 23 au jeudi 26 février 2026 à Cluny</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#19-02-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 19 février 2026 à Saint Point</span>- Une nouvelle page à écrire</a></li>
+<li><a href="#9-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 9 février 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
+<li><a href="#30-01-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 30 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
+<li><a href="#11-01-2026"><span style="color:#CB6120; font-weight:bold;">Dimanche 11 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#21-12-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 21 decembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#9-12-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 decembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 novembre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
@@ -51,10 +57,43 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 
+<div id="25-03-2026"><h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Mercredi 25 mars 2026à la Pimenterie à Saint-Point(71)<br>
+      Gratuit・Participation ponctuelle possible<br>
+      De 17h à 19h</p>
+      <div class="flex-container">
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="center-max600-block" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+        </div>
+    </div>
+</div>
+
+<a href="#ag">retourner à l'agenda</a>
+<hr>
 <div id="19-03-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text">Jeudi 19 mars 2026, à Besançon.<br>
     Informations sur réservations et horaires à venir.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="15-03-2026">
+<h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Dimanche 15 mars 2026 à la Pimenterie à Saint-Point(71)<br>
+      Gratuit・Participation ponctuelle possible<br>
+      De 10h30 à 12h30</p>
+      <div class="flex-container">
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="center-max600-block" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+        </div>
+    </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -78,14 +117,81 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 <div id="23-02-2026">
     <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
-    <p class="intro-text">Lundi 23 au jeudi 26 novembre 2026, à Cluny, résidence de création du spectacle.<br>
+    <p class="intro-text">Lundi 23 au jeudi 26 février 2026, à Cluny, résidence de création du spectacle.<br>
     Au Théâtre de Cluny, horaires précises à déterminer.</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="19-02-2026">
+  <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Jeudi 19 février 2026 à la Pimenterie à Saint-Point(71)<br>
+      Gratuit・Participation ponctuelle possible<br>
+      De 18h à 20h</p>
+      <div class="flex-container">
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="center-max600-block" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+
+<div id="9-02-2026">
+  <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Lundi 9 février 2026 à La Pimenterie à Saint-Point(71)<br>
+    Gratuit・Participation ponctuelle possible<br>
+    De 15h00 à 17h00</p>
+    <div class="flex-container">
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="center-max600-block" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="30-01-2026">
+ <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Vendredi 30 janvier 2026 à La Pimenterie à Saint-Point(71)<br>
+    Gratuit・Participation ponctuelle possible<br>
+    De 18h00 à 20h00</p>
+    <div class="flex-container">
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="center-max600-block" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="11-01-2026">
+ <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Dimanche 11 janvier 2026 à La Pimenterie à Saint-Point(71)<br>
+    Gratuit・Participation ponctuelle possible<br>
+    De 10h30 à 12h30</p>
+    <div class="flex-container">
+        <div class="center-max600-block">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="center-max600-block" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+        </div>
+    </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="21-12-2025">
     <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
-    <p class="intro-text">Les Ateliers auront lieu à La Pimenterie à Saint-Point(71)<br>
+    <p class="intro-text">Dimanche 21 décembre 2025 à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 10h30 à 13h00</p>
     <div class="flex-container">
@@ -99,6 +205,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+
+
 
 <div id="9-12-2025">
     <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
