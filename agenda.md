@@ -18,8 +18,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#9-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 9 février 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#30-01-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 30 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#11-01-2026"><span style="color:#CB6120; font-weight:bold;">Dimanche 11 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
-<li><a href="#21-12-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 21 decembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
-<li><a href="#9-12-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 decembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
+<li><a href="#21-12-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 21 décembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
+<li><a href="#9-12-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 décembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#5-12-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 5 décembre 2025 à Charnay-les-Mâcon</span>- Les êtres humaines, avant-première</a></li>
 <li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 novembre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#17-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 17 novembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
@@ -765,7 +765,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             ">
             </div>
             <div class="column">
-                <a href="une-nouvelle-page#dates"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png" alt="mercredi 25 septembre de 15h à 17h, samedi 5 octobre de 15h à 17h, lundi 14 octobre de 18h30 à 20h30, lundi 28 octobre de 10h à 12h, mardi 12 novembre de 14h30 à 16h30, samedi 30 novembre de 10h à 12h, vendredi 13 decembre de 18h30 à 21h (apéro partagé), 2025: dates à venir"></a>
+                <a href="une-nouvelle-page#dates"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718170866/Screenshot_of_Finder_at_12_Jun_2024_at_07_40_39_ihwzyx.png" alt="mercredi 25 septembre de 15h à 17h, samedi 5 octobre de 15h à 17h, lundi 14 octobre de 18h30 à 20h30, lundi 28 octobre de 10h à 12h, mardi 12 novembre de 14h30 à 16h30, samedi 30 novembre de 10h à 12h, vendredi 13 décembre de 18h30 à 21h (apéro partagé), 2025: dates à venir"></a>
             </div>
         </div>
         Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !
