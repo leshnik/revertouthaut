@@ -20,6 +20,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#11-01-2026"><span style="color:#CB6120; font-weight:bold;">Dimanche 11 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#21-12-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 21 decembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#9-12-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 decembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
+<li><a href="#5-12-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 5 décembre 2025 à Charnay-les-Mâcon</span>- Les êtres humaines, avant-première</a></li>
 <li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 novembre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#17-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 17 novembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#9-11-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 9 novembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
@@ -224,6 +225,13 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+
+<div id="5-12-2025">
+ <h2><a href="les-etres-humaines">les êtres humaines – séance privée pour l'ensemble des salariés des PEP71</a></h2>
+ <p class="intro-text">Vendredi 5 décembre, à Charnay-les-Mâcon, avant première du spectacle.</p>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
 <div id="24-11-2025">
     <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
     <p class="intro-text">Lundi 24 au vendredi 28 novembre 2025, à Cuisery, résidence de création du spectacle.<br>
