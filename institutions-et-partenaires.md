@@ -112,6 +112,11 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <h1>nos partenaires</h1>
 <h2>Soutien aux Aidants :</h2>
 <div class="logo">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1767864866/Logo_La_Pause_Brindille_pmuixk.png">Association La Pause Brindille
+</div>
+<br>
+
+<div class="logo">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577828/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_18_03_39_svkbbo.png">Association Nationale France Répit
 </div>
 <br>
