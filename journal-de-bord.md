@@ -5,6 +5,79 @@ summary:
 ---
 <h1>journal de bord</h1>
 
+<h2>décembre</h2>
+<p class="intro-text">Et voilà, ça y est ! Nous nous sommes lancées ! <a href="les-etres-humaines">les étres humaines</a> ont vécu leur première représentation le 5 décembre à Charnay les Macon devant les 400 professionnelles des PEP 71 et quelle première !<br>
+Beaucoup d’émotions sur scène et dans le public, des messages qui atteignent leur but, des femmes qui transforment petit à petit par le regard des autres et par la création, leur vécu traumatique. Bref, tout ce qu’on aime et tout ce qui nous anime.<br>
+Bravo à Keith, Marie-Adeline, Jenny, Hayate, Inga, Lydie qui sont montées pour la première fois de leur vie sur une scène et qui l’ont transcendée  par leur présence et engagement.</p>
+ 
+<p class="intro-text">C’est donc en confiance et pleines d’énergie que nous envisageons et préparons la tournée 2026.<br>
+Avons-nous des photos de cette journée ? Eh bien, non même pas, tant tout le monde était absorbé.<br>
+Juste ce petit souvenir tout flou ! que l’on vous donne quand même.</p>
+
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768044780/ScreenFloat_Shot_E3314EE4B9DE_ftk5ao.png">
+ 
+<p class="intro-text">Les Etres Humaines en décembre, ça a aussi été le lancement de notre financement participatif pour nous aider à jouer le spectacle le plus largement possible.<br>
+Car il faut, cela est une évidence, faire de la prévention. Les actualités, les agressions envers les femmes, les féminicides nous percutent si souvent, que les bras, les bouches, nous en tombent. Il faut qu’on continuer d’avancer, d’y croire et accompagner qui on peut.</p>
+
+<p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
+
+<hr>
+
+<p class="intro-text">Décembre a aussi été le mois du démarrage de l’action <a href="sur-le-seuil">sur le seuile</a>, que nous menons dans ce lieu unique qu’est le LAM de Montceau les Mines, où cohabitent une vingtaine de personnes très précaires et souffrant de pathologies chroniques.</p>
+ 
+<p class="intro-text">Des ateliers artistiques qui mêlent chansons, musique, argile, fresques, dessins et qui font s’exprimer et se rencontrer des personnes très différentes, dans une ambiance particulière, tendue et détendue à la fois.</p>
+ 
+<h2>Souvenirs d’une séance&nbsp;:&nbsp;</h2>
+<div class="quote">Avec Hervé, on va chercher Maurice, il vient, c’est un ancien pâtissier, il crée une fleur en argile comme celle qu’il faisait pour les gâteaux. Il reste tout l’après-midi qui se passe en mains occupés par la terre, discussion à bâtons rompus entre souvenirs, chansons et blagues de bistrot.<br>
+Florian chante beaucoup, histoire d’alléger : Renaud, Brel, Cabrel et autres.<br>
+Moment d’émotions avec François et son cancer, qui écoute la Callas et chantonne.<br>
+Martine qui recopie un petit ange en terre fait par Tahia pour elle.<br>
+Le monsieur yougoslave qui sort de la chambre en entendant l’accordéon et se met à danser, puis repart dans sa chambre fermée.<br>
+L’odeur du pain fait par la dame de macédoine<br>
+Samba qui se lance dans un dessin d’un arbre géant.<br>
+Daniel qui regrette de ne pas être là demain.<br>
+Elise qui a écrit un petit texte à ses enfants qui ne lui répondront pas.<br>
+François qui nous parle de la mort et de la physique quantique.<br>
+Marcel qui aime Nina Hagen.<br>
+Magali et Larissa qui tape sur un petit tambour avec sa main valide&#8230;
+</div>
+
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045121/ScreenFloat_Shot_D36D45758D8E_wfveio.png">
+  <br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045330/ScreenFloat_Shot_128444A491EA_hdgsoq.png">
+</div>
+
+<hr>
+ 
+<p class="intro-text">Et puis nous avons aussi passé du très bon temps en ateliers d’écriture avec <a href="une-nouvelle-page">une nouvelle page à écrire</a>. Nous avons innové en proposant une séance accompagnée au piano live par le musicien Morton Potash, qui a donné un rythme et une tonalité aux textes que nous avons écrits. Et nous avons aussi passé une très bonne matinée à écrire et à graver des images et des mots avec Céline Thoué, artiste typographe.<br>
+Ces ateliers sont toujours des moments de partages très forts, agréables, dont on sort un peu plus légers.</p>
+<h2>Quelques images gravées&nbsp;:&nbsp;</h2>
+ 
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045484/1767971693486_kvrpkl.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045637/ScreenFloat_Shot_89C14ACBAE80_rmzhoh.png">
+</div>
+
+<hr> 
+ 
+<p class="intro-text">Et puis puis, nous avons trouvé le temps de réaliser une maquette de notre film photographique <a href="histoires-de-transmission">histoires de transmissions</a>, pour tester notre dispositif qui mêle, images, photographies d’aujourd’hui et d’ailleurs, sons directs et musique. Notre sujet, celui de la transmission des fermes d’élevage nous apparait encore plus cruciale dans notre actualité d’aujourd’hui qui rend visible des difficultés traversées par le monde agricole.</p>
+ 
+ 
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045799/Capture_d_e%CC%81cran_2026-01-09_a%CC%80_15.50.18_rvj9yj.png">
+</div>
+ 
+<h2>Extrait d’un témoignage&nbsp;:&nbsp;</h2>
+ 
+<div class="quote">Quand je me balade aujourd’hui dans la région, je vois des fermes qui ont cessé, des terres qui se libèrent, des bâtiments agricoles dormir, parce que les paysans n’ont pas trouvé de repreneur. Je me dis mais putain, c’est mieux que ce que j’ai laissé à mes gamins, c’est quand même ballot&nbsp;!<br>
+ 
+C’est sûr que les petites structures comme la nôtre, elles sont plus intéressantes pour des jeunes qui veulent s’installer. Parce que les grosses fermes, y’a pas de perspective heureuse, elles sont surendettées, elles coutent une fortune, et elles sont coincées dans ce système de subventions à la con.<br>
+ 
+Je porte pas de jugement, je fais des constats. Et je me dis qu’aujourd’hui, faut essayer de se bouger le cul et d’allumer des contre-feux. Pour qu’il y ait de la vie à la campagne, qu’il y ait toujours des paysans qui y travaillent et qui en vivent, et pas des grands groupes qui rachètent nos terres une bouchée de pain pour y planter de la merde&nbsp;!
+</div>
+ 
+
 <h2>novembre</h2>
  
 <p class="intro-text">Pas de brouillard pour nous en ce mois de novembre&nbsp;! On voit loin&nbsp;!</p>
@@ -39,6 +112,7 @@ Rêver Tout Haut
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046465/ScreenFloat_Shot_CACD4993B3DA_zsw8wx.png">
   </div>
 </div>
+
 <hr>
  
 <p class="intro-text">Et puis, nous avons bien avancé notre film <a href="histoires-de-transmission">histoires de transmissions</a>. Nous avons passé une semaine à collecter des sons et créer de nouveaux portraits photographiques auprès de paysannes et paysans du Clunysois et du Charolais qui ont bien voulu nous partager leurs difficultés face à leur départ à la retraite. Et en cette période de maladie bovine et de directives qui l’accompagnent,  la question est encore plus poignante.</p>
