@@ -5,7 +5,46 @@ summary:
 ---
 <h1>journal de bord</h1>
 
-<h2>décembre</h2>
+<h2>janvier 2026</h2>
+<p class="intro-text">Ô plaisir de janvier et de la comptabilité&nbsp;!</p>
+
+<p class="intro-text">Car oui, une asso, c’est des projets formidables mais aussi des dossiers, des rendus de compte, de la communication, de la maintenance de site internet, et des chiffres avec des virgules.</p>
+
+<p class="intro-text">Mais voilà, une fois de plus et après quelques dolipranes, nos comptes sont tout jolis tout beaux. Et nous pouvons mettre ça de côté et nous relancer dans l’organisation de toute l’année qui va en consister en&nbsp;:&nbsp;</p> 
+
+<p class="intro-text">
+<ul class="bullet">
+
+<li>La fin des ateliers <a href-"sur-le-seuil">sur le seuil</a>, avec une restitution publique le 6 février…</li>
+
+<li>La tournée de <a href="les-etres-humaines">les êtres humaines</a>, avec des dates en février, mars, avril, et novembre…</li>
+
+<li>La reprise et la tournée de <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> en mai et juin…</li>
+
+<li>La reprise et la tournée de <a href="les-emmeles">les emmêlé&middot;es</a> en septembre et octobre…</li>
+
+<li>Les ateliers <a href="une-nouvelle-page">une nouvelle page à écrire</a>, toute l’année… avec une nouvelle proposition : en plus des séances habituelles, des journées entières à créer avec ses mots et ses mains, grâce à la gravure, la musique et le papier découpé.</li>
+
+<li>La réalisation du film complet <a href="histoires-de-transmission">histoires de transmissions</a>, qui va continuer de s’enrichir de nouveaux témoignages</li>
+
+</ul>
+</p>
+
+<p class="intro-text">Et puis sûrement plein d’autres choses et rencontres imprévues à venir…</p>
+
+
+
+<p class="intro-text">En attendant, merci à deux nouveaux soutiens : la Fondation PFG pour Une Nouvelle Page à écrire, et la MSA pour nos ateliers les EMMELES, pour jeunes aidants.</p>
+
+
+
+<p class="intro-text">Et bien-sûr, merci à toutes les personnes qui continuent de soutenir financièrement la tournée des Etres Humaines&nbsp;!</p>
+
+<p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
+
+<hr>
+
+<h2>décembre 2025</h2>
 <p class="intro-text">Et voilà, ça y est ! Nous nous sommes lancées ! <a href="les-etres-humaines">les étres humaines</a> ont vécu leur première représentation le 5 décembre à Charnay les Macon devant les 400 professionnelles des PEP 71 et quelle première !<br>
 Beaucoup d’émotions sur scène et dans le public, des messages qui atteignent leur but, des femmes qui transforment petit à petit par le regard des autres et par la création, leur vécu traumatique. Bref, tout ce qu’on aime et tout ce qui nous anime.<br>
 Bravo à Keith, Marie-Adeline, Jenny, Hayate, Inga, Lydie qui sont montées pour la première fois de leur vie sur une scène et qui l’ont transcendée  par leur présence et engagement.</p>
@@ -78,7 +117,7 @@ Je porte pas de jugement, je fais des constats. Et je me dis qu’aujourd’hui,
 </div>
  
 
-<h2>novembre</h2>
+<h2>novembre 2025</h2>
  
 <p class="intro-text">Pas de brouillard pour nous en ce mois de novembre&nbsp;! On voit loin&nbsp;!</p>
  
@@ -138,7 +177,7 @@ Elle reviendra en 2026.</p>
 <p class="intro-text">Et nous avançons aussi au grand galop vers les projets de 2026 avec l’organisation de la tournée de <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> en mai et juin, et la reprise de notre spectacle autour de la jeune aidance <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a> en octobre.</p>
  
 <p class="intro-text">Bref, on ne s’ennuie pas. Mais que faire de mieux que de permettre aux personnes fragilisées par leur parcours de vie que de (re)devenir créatives&nbsp;?</p>
-<h2>octobre</h2>
+<h2>octobre 2025</h2>
 <p class="intro-text">Et bien ça y est, nous avons plongé dans la création des Etres Humaines, et nous voici 13 sur scène ! Marie, Jenny, Keith, Lydie, Marie-Adeline, Hayate, Inga  ont rejoint notre équipe d’artistes pour exprimer sur scène la lente reconstruction après le vécu de violences conjugales. 
 On ne peut raconter nos journées si denses, tant de liens se créent, de paroles émergent et de transformations deviennent visibles dans les corps, dans le jeu, dans l’assurance prise. Tout ça se verra sur scène lors des représentations. 
 </p>
@@ -181,7 +220,7 @@ Par ici, pour avoir les dates de l’automne&nbsp;:&nbsp;</p>
 
 <p class="intro-text">Et puisqu’Octobre est aussi le mois où se prépare l’année à venir, un grand merci à AG2R et le Conseil Régional de Bourgogne Franche Comté pour leur généreux soutien pour la continuité de notre action consacrée à la jeune aidance, <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a>&nbsp;!</p>
 
-<h2>août/septembre</h2>
+<h2>août/septembre 2025</h2>
 <p class="intro-text">Allez, hop, nous voilà de retour en atelier, en créa, en écriture, en orga, etc… <br>
 
 Tout d’abord,  nos Etres Humaines, dont la troupe est maintenant constituée et qui va démarrer ses répétitions le 22 septembre à la Salle de l’Ecla à Saint Vallier. Et quelle troupe ! nous sommes 12 : Sidonie, Hayette, Jenny, Marie, Flore, Valérie, Morton, Lydie, Keith, Aurélie, et Florian à la technique et Romane à la scéno.<br>
