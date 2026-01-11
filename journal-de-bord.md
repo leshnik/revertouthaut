@@ -15,7 +15,7 @@ summary:
 <p class="intro-text">
 <ul class="bullet">
 
-<li>La fin des ateliers <a href-"sur-le-seuil">sur le seuil</a>, avec une restitution publique le 6 février…</li>
+<li>La fin des ateliers <a href="sur-le-seuil">sur le seuil</a>, avec une restitution publique le 6 février…</li>
 
 <li>La tournée de <a href="les-etres-humaines">les êtres humaines</a>, avec des dates en février, mars, avril, et novembre…</li>
 
