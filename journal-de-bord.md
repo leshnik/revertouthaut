@@ -62,7 +62,7 @@ Car il faut, cela est une évidence, faire de la prévention. Les actualités, l
 
 <hr>
 
-<p class="intro-text">Décembre a aussi été le mois du démarrage de l’action <a href="sur-le-seuil">sur le seuile</a>, que nous menons dans ce lieu unique qu’est le LAM de Montceau les Mines, où cohabitent une vingtaine de personnes très précaires et souffrant de pathologies chroniques.</p>
+<p class="intro-text">Décembre a aussi été le mois du démarrage de l’action <a href="sur-le-seuil">sur le seuil</a>, que nous menons dans ce lieu unique qu’est le LAM de Montceau les Mines, où cohabitent une vingtaine de personnes très précaires et souffrant de pathologies chroniques.</p>
  
 <p class="intro-text">Des ateliers artistiques qui mêlent chansons, musique, argile, fresques, dessins et qui font s’exprimer et se rencontrer des personnes très différentes, dans une ambiance particulière, tendue et détendue à la fois.</p>
  
@@ -100,7 +100,7 @@ Ces ateliers sont toujours des moments de partages très forts, agréables, dont
 
 <hr> 
  
-<p class="intro-text">Et puis puis, nous avons trouvé le temps de réaliser une maquette de notre film photographique <a href="histoires-de-transmission">histoires de transmissions</a>, pour tester notre dispositif qui mêle, images, photographies d’aujourd’hui et d’ailleurs, sons directs et musique. Notre sujet, celui de la transmission des fermes d’élevage nous apparait encore plus cruciale dans notre actualité d’aujourd’hui qui rend visible des difficultés traversées par le monde agricole.</p>
+<p class="intro-text">Et puis puis, nous avons trouvé le temps de réaliser une maquette de notre film photographique <a href="histoires-de-transmission">histoires de transmissions</a>, pour tester notre dispositif qui mêle images, photographies d’aujourd’hui et du passé, sons directs et musique. Notre sujet, celui de la transmission des fermes d’élevage nous apparait encore plus cruciale dans notre actualité d’aujourd’hui qui rend visible des difficultés traversées par le monde agricole.</p>
  
  
 <div class="center-max600-block">
