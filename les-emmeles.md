@@ -4,7 +4,7 @@ title: les emmêlés
 summary: 
 ---
 <h1 style="color: #7c0a25;">Le spectacle les&nbsp;emmêlé&middot;es<br>
-Tournée automne 2026</h1>
+Tournée 2026 - 2027</h1>
 
 <p class="intro-text">Le spectacle Les Emmêlés repart sur les routes à l’automne 2026&nbsp;!
 Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidant&middot;es du charolais-brionnais</a>, le spectacle est un formidable outil de sensibilisation. Sur scène, ils sont quatre, accompagnés par six artistes professionnels (+ un technicien et une coordinatrice).</p>
