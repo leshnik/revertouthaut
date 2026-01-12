@@ -7,6 +7,15 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
 
+<li><a href="#19-06-2026">Vendredi 19 juin au Creusot – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 2 séances : après-midi + soirée </a></li>
+
+<li><a href="#13-06-2026">Samedi 13 juin à Blanot – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, en soirée</a></li>
+<li><a href="#12-05-2026">Mardi 12 mai à Matour – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, une séance scolaire l'après-midi et une séance tout public le soir au CART</a></li>
+<li><a href="#08-05-2026">Vendredi 8 mai à La Vineuse – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à la Grange de la Dîme, en soirée</a> </li>
+<li><a href="#05-05-2026">Mardi 5 mai à Davayé – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, séance scolaire pour le Lycée Agricole Lucie Aubrac</a></li>
+<li><a href="#03-05-2026">Dimanche 3 mai à Sivignon – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, sortie de résidence à La Limace, l'après-midi</a></li>
+<li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
+
 <li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span></a></li>
