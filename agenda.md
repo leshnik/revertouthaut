@@ -67,7 +67,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="center-max600-block" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -92,7 +92,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="center-max600-block" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -133,7 +133,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="center-max600-block" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -151,7 +151,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="center-max600-block" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -167,7 +167,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="center-max600-block" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -184,7 +184,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="center-max600-block" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
