@@ -8,7 +8,6 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <ul class="agenda-list">
 
 <li><a href="#19-06-2026">Vendredi 19 juin au Creusot – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 2 séances : après-midi + soirée </a></li>
-
 <li><a href="#13-06-2026">Samedi 13 juin à Blanot – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, en soirée</a></li>
 <li><a href="#12-05-2026">Mardi 12 mai à Matour – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, une séance scolaire l'après-midi et une séance tout public le soir au CART</a></li>
 <li><a href="#08-05-2026">Vendredi 8 mai à La Vineuse – <span style="color:oklch(75% 30% 64); font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à la Grange de la Dîme, en soirée</a> </li>
