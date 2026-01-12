@@ -7,40 +7,40 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
 
-<li><a href="#2-04-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 2 avril 2026 à Bourbon Lancy</span> – Les êtres humaines, deux représentations (après-midi et soir)</a></li>
+<li><a href="#2-04-2026"><span style="color:#5bafb6; font-weight:bold;">Jeudi 2 avril 2026 à Bourbon Lancy</span> – Les êtres humaines, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026"><span style="color:#CB6120; font-weight:bold;">Mercredi 25 mars 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
-<li><a href="#19-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 19 mars 2026 à Besançon</span> – Les êtres humaines</a></li>
+<li><a href="#19-03-2026"><span style="color:#5bafb6; font-weight:bold;">Jeudi 19 mars 2026 à Besançon</span> – Les êtres humaines</a></li>
 <li><a href="#15-03-2026"><span style="color:#CB6120; font-weight:bold;">Dimanche 15 mars à Saint Point</span> - Une nouvelle page à écrire</a></li>
-<li><a href="#5-03-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 5 mars 2026 à Saint Vallier</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
-<li><a href="#27-20-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 27 février 2026 à Cluny</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
-<li><a href="#23-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 23 au jeudi 26 février 2026 à Cluny</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#5-03-2026"><span style="color:#5bafb6; font-weight:bold;">Jeudi 5 mars 2026 à Saint Vallier</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
+<li><a href="#27-20-2026"><span style="color:#5bafb6; font-weight:bold;">Vendredi 27 février 2026 à Cluny</span> – Les êtres humaines, deux représentations (après-midi et soir).</a></li>
+<li><a href="#23-02-2026"><span style="color:#5bafb6; font-weight:bold;">Lundi 23 au jeudi 26 février 2026 à Cluny</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#19-02-2026"><span style="color:#CB6120; font-weight:bold;">Jeudi 19 février 2026 à Saint Point</span>- Une nouvelle page à écrire</a></li>
 <li><a href="#9-02-2026"><span style="color:#CB6120; font-weight:bold;">Lundi 9 février 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#30-01-2026"><span style="color:#CB6120; font-weight:bold;">Vendredi 30 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#11-01-2026"><span style="color:#CB6120; font-weight:bold;">Dimanche 11 janvier 2026 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#21-12-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 21 décembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#9-12-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 décembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
-<li><a href="#5-12-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 5 décembre 2025 à Charnay-les-Mâcon</span>- Les êtres humaines, avant-première</a></li>
-<li><a href="#24-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 24 au vendredi 28 novembre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#5-12-2025"><span style="color:#5bafb6; font-weight:bold;">Vendredi 5 décembre 2025 à Charnay-les-Mâcon</span>- Les êtres humaines, avant-première</a></li>
+<li><a href="#24-11-2025"><span style="color:#5bafb6; font-weight:bold;">Lundi 24 au vendredi 28 novembre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#17-11-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 17 novembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#9-11-2025"><span style="color:#CB6120; font-weight:bold;">Dimanche 9 novembre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
 <li><a href="#30-10-2025"><span style="color:#CB6120; font-weight:bold;">Jeudi 30 octobre 2025 à Saint Point</span> - Une nouvelle page à écrire</a></li>
-<li><a href="#20-10-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 20 au vendredi 25 octobre 2025 à Saint Point</span> – Les êtres humaines, résidence de création</a></li>
-<li><a href="#6-10-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 6 au vendredi 10 octobre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#20-10-2025"><span style="color:#5bafb6; font-weight:bold;">Lundi 20 au vendredi 25 octobre 2025 à Saint Point</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#6-10-2025"><span style="color:#5bafb6; font-weight:bold;">Lundi 6 au vendredi 10 octobre 2025 à Cuisery</span> – Les êtres humaines, résidence de création</a></li>
 <li><a href="#4-10-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 4 octobre 2025 à Cluny</span> – Maintenant Il Y A, spectacle musical autour de la cérébro-lésion</a></li>
-<li><a href="#22-09-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 22 septembre au vendredi 26 septembre 2025 à Saint Vallier</span> – Les êtres humaines, résidence de création</a></li>
-<li><a href="#23-09-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 23 septembre 2025 à Cluny</span> – Les êtres humaines, présentation du spectacle autour de la violence conjugale</a></li>
-<li><a href="#09-09-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 12 et Samedi 13 septembre 2025 à Mâcon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#09-09-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 9 et Mercredi 10 septembre 2025 à Mâcon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#22-09-2025"><span style="color:#5bafb6; font-weight:bold;">Lundi 22 septembre au vendredi 26 septembre 2025 à Saint Vallier</span> – Les êtres humaines, résidence de création</a></li>
+<li><a href="#23-09-2025"><span style="color:#5bafb6; font-weight:bold;">Mardi 23 septembre 2025 à Cluny</span> – Les êtres humaines, présentation du spectacle autour de la violence conjugale</a></li>
+<li><a href="#09-09-2025"><span style="color:#5bafb6; font-weight:bold;">Vendredi 12 et Samedi 13 septembre 2025 à Mâcon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#09-09-2025"><span style="color:#5bafb6; font-weight:bold;">Mardi 9 et Mercredi 10 septembre 2025 à Mâcon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#2-08-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 2 août 2025 à Donzy-le-National</span> – Histoires de Transmissions, présentation publique du projet de film photographique lors du Festival Ciné-Pause</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Samedi 28 juin 2025 à Saint-Point</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
 <li><a href="#21-06-2025"><span style="color:#CB6120; font-weight:bold;">Vendredi 20 juin 2025 à Mâcon</span> – Empreintes sur le chemin, spectacle autour de l'exil et de l'enfance</a></li>
-<li><a href="#19-05-2025"><span style="color:#CB6120; font-weight:bold;">Lundi 19 au Mercredi 21 mai 2025 à Bourbon-Lancy</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#14-05-2025"><span style="color:#CB6120; font-weight:bold;">Mercredi 14 au Samedi 17 mai 2025 à DOLE</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#19-03-2025"><span style="color:#CB6120; font-weight:bold;">Jeudi 24 au Dimanche 27 avril 2025 à Châlon-sur-Sâone</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#16-04-2025"><span style="color:#CB6120; font-weight:bold;">Mercredi 16 au Samedi 19 avril 2025 à Saint-Vallier</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#09-04-2025"><span style="color:#CB6120; font-weight:bold;">Mercredi 9 au Samedi 12 avril 2025 à Besançon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#19-03-2025"><span style="color:#CB6120; font-weight:bold;">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#19-05-2025"><span style="color:#5bafb6; font-weight:bold;">Lundi 19 au Mercredi 21 mai 2025 à Bourbon-Lancy</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#14-05-2025"><span style="color:#5bafb6; font-weight:bold;">Mercredi 14 au Samedi 17 mai 2025 à DOLE</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#19-03-2025"><span style="color:#5bafb6; font-weight:bold;">Jeudi 24 au Dimanche 27 avril 2025 à Châlon-sur-Sâone</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#16-04-2025"><span style="color:#5bafb6; font-weight:bold;">Mercredi 16 au Samedi 19 avril 2025 à Saint-Vallier</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#09-04-2025"><span style="color:#5bafb6; font-weight:bold;">Mercredi 9 au Samedi 12 avril 2025 à Besançon</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#19-03-2025"><span style="color:#5bafb6; font-weight:bold;">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone</span> – Les êtres humaines, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#11-03-2025"><span style="color:#CB6120; font-weight:bold;">Mercredi 13 mars 2025 à La Clayette</span> – Les Emmêlé‧es, spectacle autour des jeunes aidant‧es</a></li>
 <li><a href="#11-03-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 11 mars 2025 à Charolles</span> – Les Emmêlé‧es, spectacle autour des jeunes aidant‧es</a></li>
 <li><a href="#25-02-2025"><span style="color:#CB6120; font-weight:bold;">Mardi 25 février 2025 à 10h à Saint-Point</span> dernier atelier d'écriture autour du deuil, à la Pimenterie, suivi d'un repas partagé – Une Nouvelle Page à Écrire</a></li>
