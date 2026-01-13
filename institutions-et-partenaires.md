@@ -109,6 +109,9 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577269/SACEM_SIGNATURE_FR_2L_4C_2020_ht6lku.jpg">La Sacem
 </div>
 <br>
+<div class="logo">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768316321/ScreenFloat_Shot_560842FC95FE_ig21vj.png">PFG
+</div><br><br><br><br><br>
 <h1>nos partenaires</h1>
 <h2>Soutien aux Aidants :</h2>
 <div class="logo">
