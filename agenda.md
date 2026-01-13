@@ -60,8 +60,15 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <hr>
 <div id="2-04-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
-    <p class="intro-text">Jeudi 2 avril 2026, à Bourbon Lancy, deux représentations, (après-midi et soir).<br>
-    Informations sur réservations et horaires à venir.</p>
+    <p class="intro-text center-text">Jeudi 2 avril 2026, à Bourbon-Lancy<br>
+    Espace Culturel Saint Léger<br>
+    Rue du Parc<br>
+    71140 BOURBON LANCY<br>
+    Séance scolaire et professionnels à 14h30 – GRATUIT<br>
+    Séance tout public à 20h – GRATUIT<br>
+    Réservations auprès du Centre social&nbsp;:&nbsp;03&nbsp;76&nbsp;15&nbsp;00&nbsp;95
+
+    </p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -84,8 +91,15 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <hr>
 <div id="19-03-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
-    <p class="intro-text">Jeudi 19 mars 2026, à Besançon.<br>
-    Informations sur réservations et horaires à venir.</p>
+    <p class="intro-text center-text">Jeudi 19 mars 2026, à Besançon.<br>
+      Maison de quartier de Planoise<br>
+      13, avenue Ile de France<br>
+      25000 BESANCON<br>
+      Séance scolaire et professionnels à 14h – GRATUIT<br>
+      Séance tout public à 19h – GRATUIT<br>
+      Réservations auprès de Solidarité&nbsp;Femmes&nbsp;:&nbsp;chrs@solidaritefemmes25.org<br>
+      ou de la Maison de Quartier Planoise&nbsp;:&nbsp;03&nbsp;81&nbsp;87&nbsp;81&nbsp;20
+    </p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -109,8 +123,15 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 <div id="5-03-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
-    <p class="intro-text">Jeudi 5 mars 2026, à Saint Vallier, deux représentations, (après-midi et soir).<br>
-    Informations sur réservations et horaires à venir.</p>
+    <p class="intro-text center-text">Jeudi 5 mars 2026, à Saint-Vallier<br>
+         Espace Culturel Louis Aragon (ECLA)<br>
+         22, rue Victor Hugo<br>
+         71230 SAINT-VALLIER</p>
+    <p class="intro-text center-text">
+        <strong>Séance scolaire et tout public à 14h30 – 6 à 10€</strong><br>
+        <a href="https://mairie-saintvallier.notre-billetterie.fr/billets?kld=2526" rel="noopener noreferrer" target="_blank">billetterie ECLA </a><br>
+        03&nbsp;85&nbsp;67&nbsp;78&nbsp;20 / admi.ecla@mairie-saintvallier.fr
+    </p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr> 
@@ -118,8 +139,18 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 <div id="27-20-2026">
     <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
-    <p class="intro-text">Vendredi 27 février 2026 au Théâtre à Cluny, deux représentations, (après-midi et soir).<br>
-    Réservations pour le soir à 20h&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a></p>
+    <p class="intro-text center-text">Vendredi 27 février 2026 au Théâtre des Arts<br>
+    Place du Marché<br>
+    71250 Cluny</p>
+    <p class="intro-text center-text"><strong>Séance scolaire et professionnels à 14h30 – GRATUIT</strong><br>
+    Réservation pour les scolaires&nbsp;:&nbsp;<br>
+    secretariat-culture@cluny.fr, 03&nbsp;85&nbsp;59&nbsp;89&nbsp;49<br>
+    Réservation pour les professionnels&nbsp;:&nbsp;<br>
+    coordination.revertouthaut@gmail.com, 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16</p>
+    
+    <p class="intro-text center-text"><strong>Séance tout public à 20h – GRATUIT</strong><br>
+    Réservations tout public&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a>
+    </p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
