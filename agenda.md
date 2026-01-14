@@ -15,6 +15,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#03-05-2026">Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, sortie de résidence à La Limace, l'après-midi</a></li>
 <li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
 
+<li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, toute la journée</a></li> 
+
 <li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span></a></li>
