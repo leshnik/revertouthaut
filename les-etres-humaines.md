@@ -11,7 +11,9 @@ summary:
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/67fbdcea-f4d8-41b1-a54d-350a878a3d18?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <p class="cite">Captation réalisée par Mickaël Pillisio</p>
 <p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
-<p class="intro-text">Pour résérver votre place au Théâtre de Cluny le 27 février, cliquer ici: <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a></p>
+
+<p class="intro-text">Pour résérver votre place au Théâtre de Cluny le 27 février, cliquer ici: <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a><span style="color:red"> La séance de 27/02 à 20h est COMPLETE. Il reste des places à 14h30. <a href="http://www.revertouthaut.fr/agenda#27-20-2026">voir la page agenda pour plus de détails</a></span></p>
+
 
 <h2>Résumé et présentation</h2>
 
@@ -113,7 +115,7 @@ Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le 
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732590/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.22.02_xrqt8h.png">
 </div>
 
-<h2>représantations</h2>
+<h2>représentations</h2>
 <p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
 
 <ul class="bullet">
@@ -122,7 +124,7 @@ Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le 
 <li>le 19 mars 2026 à Besançon (25)</li>
 <li>Le 2 avril 2026 à la Salle Saint Luc à Bourbon Lancy (71), après-midi et soir</li>  
 </ul>
-<p class="intro-text">D’autres dates à venir à Macon, Chalon sur Saône, Besançon, Dole, Cuisery, Yzeure, etc… </p>
+<p class="intro-text">D’autres dates à venir à Macon, Chalon sur Saône, Besançon, Dole, Cuisery, Yzeure, etc… <span style="color:red">Voir les dates en bleu sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations. </span></p>
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732592/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.23.31_z7nhis.png">
 </div>
