@@ -150,7 +150,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     Réservation pour les professionnels&nbsp;:&nbsp;<br>
     coordination.revertouthaut@gmail.com, 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16</p>
     
-    <p class="intro-text center-text"><strong>Séance tout public à 20h – GRATUIT</strong><br>
+    <p class="intro-text center-text"><strong>Séance tout public à 20h – GRATUIT</strong> <span style="color:red">COMPLETE</span><br>
     Réservations tout public&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a>
     </p>
 </div>
