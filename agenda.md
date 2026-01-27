@@ -153,6 +153,9 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text center-text"><strong>Séance tout public à 20h – GRATUIT</strong> <span style="color:red">COMPLETE</span><br>
     Réservations tout public&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a>
     </p>
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769502069/ScreenFloat_Shot_57C84210BF10_xyy8oq.png">
+    </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
