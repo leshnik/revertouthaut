@@ -88,9 +88,14 @@
     justify-content: space-around;
   }
   .column {
-    flex: 45%;
+    flex: 40%;
     padding: 5%;
   }
+ .column250 {
+  flex: 1 1 40%;   /* grow: 1, shrink: 1, basis: 40% */
+  padding: 5px;
+  min-width: 250px; /* or whatever width you want as the wrap breakpoint */
+ }
   //only in psesm
   .center-max600-block {
     margin-left: auto;

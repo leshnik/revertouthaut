@@ -14,9 +14,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#05-05-2026">Mardi 5 mai 2026 à Davayé – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, séance scolaire pour le Lycée Agricole Lucie Aubrac</a></li>
 <li><a href="#03-05-2026">Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, sortie de résidence à La Limace, l'après-midi</a></li>
 <li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
-
 <li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, toute la journée</a></li> 
-
 <li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span></a></li>
@@ -25,6 +23,9 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#27-20-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
 <li><a href="#23-02-2026">Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
 <li><a href="#19-02-2026">Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+
+<li><a href="#13-02-2026">Vendredi 13 février 2026 à Saint-Vallier – Sur le seuil</a></li>
+
 <li><a href="#9-02-2026">Lundi 9 février 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#30-01-2026">Vendredi 30 janvier 2026 à Saint Point -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
 <li><a href="#11-01-2026">Dimanche 11 janvier 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
@@ -103,8 +104,17 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
       ou de la Maison de Quartier Planoise&nbsp;:&nbsp;03&nbsp;81&nbsp;87&nbsp;81&nbsp;20
     </p>
 </div>
+<div class="flex-container-wrap">
+  <div class="column250">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769771278/ScreenFloat_Shot_874E4DBE9CBB_ft8apu.png">
+  </div>
+  <div class="column250">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769771568/ScreenFloat_Shot_12364C0296F6_aqpjjw.png">
+  </div>
+</div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+
 
 <div id="15-03-2026">
 <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
@@ -122,7 +132,6 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
-
 <div id="5-03-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text center-text">Jeudi 5 mars 2026, à Saint-Vallier<br>
@@ -134,12 +143,13 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
         <a href="https://mairie-saintvallier.notre-billetterie.fr/billets?kld=2526" rel="noopener noreferrer" target="_blank">billetterie ECLA </a><br>
         03&nbsp;85&nbsp;67&nbsp;78&nbsp;20 / admi.ecla@mairie-saintvallier.fr
     </p>
+    <div class="center-max600-block">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769769623/ScreenFloat_Shot_E36E40498940_kytf5r.png">
+    </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr> 
-
-
-<div id="27-20-2026">
+<div id="27-02-2026">
     <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text center-text">Vendredi 27 février 2026 au Théâtre des Arts<br>
     Place du Marché<br>
@@ -183,8 +193,21 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
-
-
+<div id="13-02-2026">
+  <h2><a href="sur-le-seuil">sur le seuil</a></h2>
+  <p class="intro-text">Vendredi 13 février 2026 à Saint-Vallier<br>
+  Les associations Le Pont et Rêver Tout Haut vous invitent à une restitution publique&nbsp;:&nbsp;</p>
+  <p class="intro-text center-text"><strong>15h – GRATUIT</strong><br>
+  Association Le Pont ・ LAM ・ Galuzot<br>
+  71230 SAINT-VALLIER<br>
+  (sur le site du centre hospitalier Jean Bouveri - ancien SSR 1er étage)
+  </p>
+  <div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769769881/ScreenFloat_Shot_A06D4442A451_uwqnq4.png">
+  </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
 <div id="9-02-2026">
   <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
     <p class="intro-text">Lundi 9 février 2026 à La Pimenterie à Saint-Point(71)<br>
