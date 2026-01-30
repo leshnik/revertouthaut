@@ -57,9 +57,52 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#25-02-2025">Mardi 25 février 2025 à 10h à Saint-Point dernier atelier d'écriture autour du deuil, à la Pimenterie, suivi d'un repas partagé – <span style="color:#CB6120; font-weight:bold;">Une Nouvelle Page à Écrire</span></a></li>
 <li><a href="#09-02-2025">Samedi 15 février 2025 à Cluny</span>  collecte de photos à la Galerie Les Mains Libres – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
 <li><a href="#09-02-2025">Dimanche 9 février 2025 à 16h à Buffières rencontre publique à la Salle du Mille Club – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
-
-
 </ul>
+<hr>
+
+<div id="19-06-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Vendredi 19 juin 2026 au Creusot<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="13-06-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="12-05-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Mardi 12 mai 2026 à Matour<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="08-05-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Vendredi 8 mai 2026 à La Vineuse<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="05-05-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Mardi 5 mai 2026 à Davayé<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="03-05-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Dimanche 3 mai 2026 à Sivignon<br>sortie de résidence à La Limace, l'après-midi<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="01-05-2026">
+<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Vendredi 1er au dimanche 3 mai 2026 à Sivignon<br>résidence de création<br>infos à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="2-04-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
