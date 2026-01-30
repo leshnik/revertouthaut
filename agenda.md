@@ -77,14 +77,14 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <hr>
 
 <div id="25-03-2026"><h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
-    <p class="intro-text">Mercredi 25 mars 2026à la Pimenterie à Saint-Point(71)<br>
+    <p class="intro-text">Mercredi 25 mars 2026 à la Pimenterie à Saint-Point(71)<br>
       Gratuit・Participation ponctuelle possible<br>
       De 17h à 19h</p>
-      <div class="flex-container">
-        <div class="center-max600-block">
+      <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
@@ -105,10 +105,10 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     </p>
 </div>
 <div class="flex-container-wrap">
-  <div class="column250">
+  <div class="column">
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769771278/ScreenFloat_Shot_874E4DBE9CBB_ft8apu.png">
   </div>
-  <div class="column250">
+  <div class="column">
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769771568/ScreenFloat_Shot_12364C0296F6_aqpjjw.png">
   </div>
 </div>
@@ -121,11 +121,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Dimanche 15 mars 2026 à la Pimenterie à Saint-Point(71)<br>
       Gratuit・Participation ponctuelle possible<br>
       De 10h30 à 12h30</p>
-      <div class="flex-container">
-        <div class="center-max600-block">
+      <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
@@ -182,11 +182,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Jeudi 19 février 2026 à la Pimenterie à Saint-Point(71)<br>
       Gratuit・Participation ponctuelle possible<br>
       De 18h à 20h</p>
-      <div class="flex-container">
-        <div class="center-max600-block">
+      <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
@@ -213,11 +213,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Lundi 9 février 2026 à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 15h00 à 17h00</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
@@ -229,11 +229,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Vendredi 30 janvier 2026 à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 18h00 à 20h00</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
@@ -246,11 +246,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Dimanche 11 janvier 2026 à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 10h30 à 12h30</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
@@ -262,11 +262,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Dimanche 21 décembre 2025 à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 10h30 à 13h00</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
@@ -281,11 +281,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Les Ateliers auront lieu à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 10h30 à 12h30</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
@@ -311,11 +311,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Les Ateliers auront lieu à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 15h à 17h</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
@@ -327,11 +327,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Les Ateliers auront lieu à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 10h30 à 12h30</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
@@ -350,11 +350,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">Les Ateliers auront lieu à La Pimenterie à Saint-Point(71)<br>
     Gratuit・Participation ponctuelle possible<br>
     De 16h à 19h</p>
-    <div class="flex-container">
-        <div class="center-max600-block">
+    <div class="flex-container-wrap">
+        <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
-        <div class="center-max600-block" style="margin-left:5px;">
+        <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
@@ -407,7 +407,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <strong>Renseignements&nbsp;:&nbsp;</strong><br>
             lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
     </p>
-    <div class="flex-container">
+    <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1755500221/ScreenFloat_Shot_D698496BA3F7_lribcc.png">
         </div>
@@ -437,7 +437,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     Vendredi 20 juin 2025 à Mâcon, et Samedi 28 juin 2025 à Saint-Point <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.</p>
         <p class="intro-text">De mai 2024 à juin 2025, sont proposés à des personnes exilées, enfants et adultes, accompagnées par les CADA le Pont et Adoma à Mâcon, des cycles d’ateliers créatifs. A partir des rencontres faites pendant ces ateliers, sera créé un spectacle, qui réunira certaines des personnes exilées et les artistes Sidonie Dubosc, Valérie Gaudissart, Romane Lasserre et Tahia Strika. Le spectacle fera le récit de cette nouvelle vie à construire quand on a dû quitter son pays, ses racines et ses lieux d’enfance.</p>
         <p class="intro-text">Action soutenue par la Fondation de France, la Direction Départementale aux Solidarités, la DRAC Bourgogne Franche-Comté et la Fédération des Acteurs de la Solidarité,</p>
-        <div class="flex-container">
+        <div class="flex-container-wrap">
             <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
             </div>
@@ -470,7 +470,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             centresocialjbaker@bourbon-lancy.fr 03&nbsp;76&nbsp;15&nbsp;00&nbsp;95<br>
             lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
     </p>
-    <div class="flex-container">
+    <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228727/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_51_57_qg14mv.jpg">
         </div>
@@ -508,7 +508,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <strong>Renseignements&nbsp;:&nbsp;</strong><br>
             lesetreshumaines@gmail.com 06&nbsp;10&nbsp;16&nbsp;66&nbsp;84
     </p>
-    <div class="flex-container">
+    <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227134/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_21_05_xwcmw1.jpg">
         </div>
@@ -584,7 +584,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <figcaption>9 avril dans la Salle Grand Labo dans les locaux de l'asso HOP HOP HOP</figcaption>
             <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
         </figure>
-        <div class="flex-container">
+        <div class="flex-container-wrap">
         <div class="column">
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
         </div>
@@ -594,7 +594,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
       </div> 
     </div>
 
-    <div class="flex-container">
+    <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215733/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_15_15_vmyuoy.jpg">
         </div>
@@ -652,7 +652,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             </figcaption>
                 <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
         </figure>
-        <div class="flex-container">
+        <div class="flex-container-wrap">
         <div class="column">
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
         </div>
@@ -664,7 +664,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
         </div>
 
 
-    <div class="flex-container">
+    <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740147563/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_18_53_pgenhy.jpg">
         </div>
@@ -689,7 +689,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
       <p class="intro-text">
         <a href="https://www.billetweb.fr/seance-scolaire-spectacle-les-emmeles" rel="noopener noreferrer" target="_blank">Réservations sur billetweb</a>
       </p>
-      <div class="flex-container">
+      <div class="flex-container-wrap">
         <div class="column">
            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
         </div>
@@ -728,7 +728,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <p class="intro-text">
     Dans le but de réaliser un documentaire, l'association Rêver Tout Haut, animée par Lucie Moraillion, photographe, et Valérie Gaudissart, écrivaine, mène depuis 2023 un travail autour des questions des transmissons et des départs à la retraite dans le milieu agicole&nbsp;:&nbsp;<a href="histoires-de-transmission">histoires de transmission</a>.<br>
     Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
-    <div class="flex-container">
+    <div class="flex-container-wrap">
       <div class="column">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1738321546/rencontre_buffieres_rdolq6.jpg">
       </div>
