@@ -30,6 +30,11 @@ Ce projet innovant va se déployer en plusieurs étapes et sur une temporalité 
 <div class="center-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673796609/cow-staring-dark_a9v76u.jpg">
 </div>
+
+<!-- <h2>film photographique en cours de réalisation</h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/2832e49c-b3a0-473d-be85-581d1d92644b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+ -->
+
 <p class="intro-text">La transmission des biens, des terres, des traditions agricoles n’est pas une problématique nouvelle dans le sens où elle a toujours été cruciale dans les familles rurales et leur lignée. Mais aujourd’hui, du fait des changements sociaux, des crises économiques, sanitaires, des remises en cause des méthodes de travail et d’exploitation, de ce qu’on appelle aussi le «agribashing», la transmission est devenue encore plus complexe et parfois plus douloureuse. Cette transmission s’inscrit aussi dans un contexte de forts départs à la retraite des éleveurs dans les années à venir et de peu de candidats en capacité de reprendre les exploitations. Il va donc se passer dans les années qui viennent une autre problématique, qui est celle de la conservation des fermes, ou de leur transformation et avec elle de la transformation des paysages, et d’une culture rurale.</p>
 
 <p class="intro-text">Une donnée très importante des départs en retraite et des cessions agricoles tient aussi au fait que les repreneurs en grande majorité ne sont plus issus de la famille mais viennent de l’extérieur. Les enfants reprennent rarement l’exploitation parentale. C’est une nouvelle donne et elle ajoute des questionnements, des regrets, des complexités au départ à la retraite.</p>
