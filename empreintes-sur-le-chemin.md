@@ -8,7 +8,7 @@ summary: Le projet “Empreintes sur le chemin” de Rêver Tout Haut propose de
 <p class="intro-text">Dans le contexte de l’exil, il existe un point d’arrivée, qui peut être passager mais qui va permettre aux personnes exilées de poser leur maigre baluchon, leurs traumas, leur demande d’asile et se reposer en se sentant un peu plus en sécurité.
 Un CADA, un HUDA, un PRAHDA, un CAES : tous ces mots jargonneux qui vont pourtant dans le réel de la vie des personnes, donner un toit, une écoute et un accompagnement par un travailleur social dans la complexe et procédurière administration à laquelle sont confrontés celles et ceux qui n’ont pas eu la chance de naître du bon côté, à la bonne époque, sous le bon régime.</p>
 
-<div class="flex-container">
+<div class="flex-container-wrap">
     <div class="column">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
     </div>
@@ -155,15 +155,8 @@ Puis il s’en va, avant les autres, il a tout donné, on dirait. »</cite></p>
  
 <p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Foundation de France, de la DRAC Bourgogne Franche-Comté, de la Délégation Départementale aux Solidarités, de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
 
-<div class="center-max600-block">
-    <div class="flex-container">
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png"></div>
-    </div>
-    <div class="flex-container">
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png" style="width:8rem;"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png" style="width:12rem;"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png"></div>
-    </div>
-</div>
+<img style="width:11rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png"> <img style="width:8rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png"> <img style="width:8rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png">
+<img style="width:6rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png">
+<img style="width:18rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png">
+<img style="width:8rem" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png">
+
