@@ -12,8 +12,13 @@ summary:
 <p class="cite">Captation réalisée par Mickaël Pillisio</p>
 <p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
 
-<p class="intro-text">Pour résérver votre place au Théâtre de Cluny le 27 février, cliquer ici: <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a><span style="color:red"> La séance de 27/02 à 20h est COMPLETE. Il reste des places à 14h30. <a href="http://www.revertouthaut.fr/agenda#27-20-2026">voir la page agenda pour plus de détails</a></span></p>
+<p class="intro-text">Pour résérver votre place au Théâtre de Cluny le 27 février, cliquer ici: <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a><span style="color:red"> La séance de 27/02 à 20h est COMPLETE. Il reste quelques places à 14h30. <a href="http://www.revertouthaut.fr/agenda#27-20-2026">voir la page agenda pour plus de détails</a></span></p>
 
+<h2>Notre premier article de presse 25/02/2026</h2>
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
+</div>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire</a> Article, et photos prises lors des répétions au théâtre de Cluny, par Adrien Wagnon.</p>
 
 <h2>Résumé et présentation</h2>
 
@@ -70,7 +75,7 @@ La musique y joue une grande place, et donne rythme, consolation, et vitalité a
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732595/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.24.52_fzsta6.png">
 </div>
 
-<p class="intro-text">Sur scène, 12 personnes : Keith Akenda, Jenny Bailly, Hayate Benikhlef, Marie Charles-Mangeon, Marie-Adeline Gnolud, Sidonie Dubosc, Inga Gasciuc, Valérie Gaudissart, Aurélie Loutan, Lydie Nkoumou, Morton Potash, Flore Simon</p>
+<p class="intro-text">Sur scène, 11 personnes : Keith Akenda, Jenny Bailly, Hayate Benikhlef, Marie-Adeline Gnolud, Sidonie Dubosc, Inga Gasciuc, Valérie Gaudissart, Aurélie Loutan, Lydie Nkoumou, Morton Potash, Flore Simon</p>
 
 <p class="intro-text">Lumières: Florian Girard<br>
 Scénographie : Romane Lasserre<br>
