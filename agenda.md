@@ -217,7 +217,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <div id="23-02-2026">
     <h2><a href="les-etres-humaines">les êtres humaines – résidence de création</a></h2>
     <p class="intro-text">Lundi 23 au jeudi 26 février 2026, à Cluny, résidence de création du spectacle.<br>
-    Au Théâtre de Cluny, horaires précises à déterminer.</p>
+    Au Théâtre des Arts à Cluny, 9h - 17h</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
