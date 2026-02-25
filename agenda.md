@@ -20,7 +20,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span></a></li>
 <li><a href="#15-03-2026">Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
 <li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
-<li><a href="#27-20-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
+<li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
 <li><a href="#23-02-2026">Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
 <li><a href="#19-02-2026">Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 
@@ -191,7 +191,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
-<hr> 
+<hr>
+
 <div id="27-02-2026">
     <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text center-text">Vendredi 27 février 2026 au Théâtre des Arts<br>
