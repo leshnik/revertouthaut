@@ -18,7 +18,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h, inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li> 
 <li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span></a></li>
+<li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span> à 14h et à 19h, à la Maison de quartier Planoise</a></li>
 <li><a href="#15-03-2026">Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
 <li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, à l'ECLA à 14h30, tout public et scolaires.</a></li>
 <li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
@@ -159,7 +159,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <div id="19-03-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text center-text">Jeudi 19 mars 2026, à Besançon.<br>
-      Maison de quartier de Planoise<br>
+      Maison de quartier Planoise<br>
       13, avenue Ile de France<br>
       25000 BESANCON<br>
       Séance scolaire et professionnels à 14h – GRATUIT<br>
