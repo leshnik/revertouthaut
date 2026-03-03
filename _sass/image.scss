@@ -92,10 +92,10 @@
   padding: 5px;
   min-width: 250px; /* or whatever width you want as the wrap breakpoint */
   }
- .column250 {
-  flex: 1 1 45%;   /* grow: 1, shrink: 1, basis: 40% */
+ .column3 {
+  flex: 1 1 1 30%;   
   padding: 5px;
-  min-width: 250px; /* or whatever width you want as the wrap breakpoint */
+  min-width: 250px; 
  }
   //only in psesm
   .center-max600-block {
