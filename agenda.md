@@ -15,12 +15,12 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#05-05-2026">Mardi 5 mai 2026 à Davayé – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, séance scolaire pour le Lycée Agricole Lucie Aubrac</a></li>
 <li><a href="#03-05-2026">Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, sortie de résidence à La Limace, l'après-midi</a></li>
 <li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
-<li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, toute la journée</a></li> 
+<li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h, inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li> 
 <li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span></a></li>
 <li><a href="#15-03-2026">Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
-<li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
+<li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, à l'ECLA à 14h30, tout public et scolaires.</a></li>
 <li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
 <li><a href="#23-02-2026">Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
 <li><a href="#19-02-2026">Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
@@ -105,6 +105,26 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+
+<div id="25-04-2026"><h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Samedi 25 avril 2026 à la Pimenterie à Saint-Point(71)<br>
+      Gratuit・Participation ponctuelle possible<br>
+      De 10h30 à 12h30 et de 14h à 17h, inscription à la demi-journée possible, pique-nique tiré du sac pour ceux qui souhaitent rester le midi</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</div>
+
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+
+
 <div id="2-04-2026">
 <h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
     <p class="intro-text center-text">Jeudi 2 avril 2026, à Bourbon-Lancy<br>
@@ -129,7 +149,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
@@ -170,7 +190,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
