@@ -25,7 +25,7 @@ summary:
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
 </div>
-<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire le 25/02/2026</a> Article, et photos prises lors des répétions au théâtre de Cluny, par Adrien Wagnon.</p>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire le 25/02/2026</a> Article, et photos prises lors des répétitions au théâtre de Cluny, par Adrien Wagnon.</p>
 
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png">
