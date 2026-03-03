@@ -5,6 +5,63 @@ summary:
 ---
 <h1>journal de bord</h1>
 
+<h2>fevrier 2026</h2>
+<p class="intro-text">Quel beau mois de février ! <a href="les-etres-humaines">les êtres humaines</a> ont pris corps, rencontré leur public, se sont lancées dans le grand imprévu de leur tournée, et dans le grand tourbillon des rencontres.</p>
+<p class="intro-text">Après une semaine de résidence à Cluny, Jenny, Keith, Inga, Hayette, Lydie, Marie-Adeline, Aurélie, Sidonie, Flore, Valérie, Morton, Marina et Florian ont tout donné sur scène.</p>
+<p class="intro-text">Et entre rires, larmes, émotions, frissons, trac, détermination, ovations, les messages sont passés, et le public, qu’il soit jeune ou plus âgé, homme ou femme, en est ressorti un peu transformé…</p>
+<p class="intro-text">Et nous, eh bien, nous continuons sur notre lancée et préparons la tournée de ce printemps.</p>
+<p class="intro-text">Des photos de répétition par Lucie Moraillon&nbsp;:&nbsp;
+  <div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560067/ScreenFloat_Shot_7D3F455F8BE7_oluizk.png"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560550/ScreenFloat_Shot_99484D96A583_qq8jf1.png"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560687/ScreenFloat_Shot_FDBD40E797E5_d30yu6.png"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560791/ScreenFloat_Shot_A0FF4C1FBB72_dwe4gv.png">
+  </div>
+</p>
+<p class="intro-text">Reportage France3&nbsp;:&nbsp;</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/275ec5b7-e7d0-4f90-86a1-1a22cb4d20c4?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<p class="intro-text">Articles de presse&nbsp;:&nbsp;
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
+</div>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire le 25/02/2026</a> Article, et photos prises lors des répétions au théâtre de Cluny, par Adrien Wagnon.</p>
+
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png">
+</div>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon</p>
+<hr>
+<p class="intro-text">Février a aussi été pour Rêver Tout Haut l’aboutissement de son action <a href="sur-le-seuil">sur le seuil</a>, cycle d’ateliers artistiques pour les résident.es du LAM de Montceau les Mines.</p>
+<p class="intro-text">Ici, quelques souvenirs des œuvres créées : portraits photographiques, fresques qui décorent maintenant le long couloir, et textes.
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772562807/ScreenFloat_Shot_803B4FA6B27D_r2yqd6.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772562898/ScreenFloat_Shot_546747138289_ttvi0g.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772563024/ScreenFloat_Shot_254944ED9591_juobfp.png"><br>
+  <figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772563146/ScreenFloat_Shot_A1EA4691B636_yszu3r.png">
+      <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
+  </figure>
+</div>
+<div class="quote">Les Chambres<br>
+Ici, les chambres sont numérotées, pas par ordre de grandeur, ou d’ancienneté ou d’arrivée. Non, par un autre ordre, qui est celui de la pensée, de tes états d’âme et tu passes d’une chambre à l’autre, au gré des heures de la journée<br>
+Chambre 100, c’est la chambre pour quand tu bous, que tu es près à déborder, quand c’est ébullition assurée dans tes émotions<br>
+La chambre 103, c’est quand tu revois sur ta mob trafiquée, avec tes copains, c’est samedi soir et tu sais que la nuit sera longue et qu’elle ne fait que commencer<br>
+Chambre 109, sang neuf, tu l’écris comment&nbsp;? le sang qui coule dans tes veines, le sang qui circule et qui fait battre ton pouls et qui te faire sentir vivant&nbsp;? <br>
+Chambre 110 : c’est la chambre de la ta course d’obstacles, tes 110 mètres haies à franchir à toute blinde pour ne pas te faire choper. Et tu vas passer le relais à ton voisin ou ta voisine et ensemble, vous galopez vers l’arrivée<br>
+Chambre 111, c’est la chambre au chiffre magique, la chambre a nombre entier que rien ne viendra jamais diviser, pas les autres, pas tes souvenirs, pas le passé, rien. Plus rien ici ne pourra te couper en mille morceaux, c’est la chambre où tu restes entier<br>
+Chambre 114, c’est la chambre qui te rappelle le numéro sauveur, que tu appelles quand tu te raccroches à la vie, c’est SOS TS, là où quelqu’un te dira, TS, tentative de suicide, ou tentative de survie<br>
+Chambre 115, c’est la chambre du toit pour la nuit, ton hébergement d’urgence quand tu traines dehors, et que le trottoir est ta maison. Tu sais qu’un lit va t’y attendre, une soupe, un radiateur, des copains qui sait&nbsp;?
+Chambre 117, c’est quand tu te prends pour OSS 117 et que tu es l’agent secret de tes propres pensées, l’espion qui habite en toi, c’est ton double bien planqué<br>
+Chambre 119, c’est la chambre des enfants qui cherchent une protection, quelqu’un à qui parler, car oui, parfois, les adultes ne sont pas forcément bons avec les enfants<br>
+Chambre 120, c’est les battements de ton cœur quand il s’emballe, quand il est furieux, quand il fuit, quand tu détalles, quand tu te bats contre la terre entière et contre toi-même et il s’emballe ton cœur, il explose, il se brise il se recolle, tu lui en fais voir mais mine de rien, il tient<br>
+Chambre 130 : tu sais que c’est ta limite de vitesse à ne pas dépasser, mais tu tentes le coup, allez j’y vais, personne me voit, et tu doubles toute la file à devant toi par la bande d’arrêt d’urgence<br>
+Chambre 140, t’es à fond sur l’autoroute, tu es tout puissant, tu es le maitre à bord, tu te fais invisible et tu sais que tu fais le parieur avec le danger<br>
+Et puis allons plus loin, vers une chambre qu’il faudrait rajouter&nbsp;:&nbsp;
+
+Chambre 180, c’est celle qui te ferait virer de bord, de 180 degrés et qui donnerait à ta vie une autre direction
+</div>
+
 <h2>janvier 2026</h2>
 <p class="intro-text">Ô plaisir de janvier et de la comptabilité&nbsp;!</p>
 
