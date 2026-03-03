@@ -7,10 +7,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
 
-<li><a href="#19-06-2026">Vendredi 19 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 2 séances : après-midi + soirée </a></li>
+<li><a href="#19-06-2026">Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 2 séances : après-midi + soirée </a></li>
 <li><a href="#13-06-2026">Samedi 13 juin 2026 à Blanot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, en soirée</a></li>
-<li><a href="#12-05-2026">Mardi 12 mai 2026 à Matour – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, une séance scolaire l'après-midi et une séance tout public le soir au CART</a></li>
-<li><a href="#08-05-2026">Vendredi 8 mai 2026 à La Vineuse – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à la Grange de la Dîme, en soirée</a> </li>
+<li><a href="12-06-2026">Vendredi 12 juin en soirée à La Méandre à Chalon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, scolaire + tout public</a></li>
+<li><a href="#12-05-2026">Mardi 12 mai 2026 au cinéma à Matour – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, scolaire + tout public</a></li>
+<li><a href="#08-05-2026">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à la Grange de la Dîme, en soirée, avec les FRGS</a> </li>
 <li><a href="#05-05-2026">Mardi 5 mai 2026 à Davayé – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, séance scolaire pour le Lycée Agricole Lucie Aubrac</a></li>
 <li><a href="#03-05-2026">Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, sortie de résidence à La Limace, l'après-midi</a></li>
 <li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
@@ -76,7 +77,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 <div id="12-05-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Mardi 12 mai 2026 à Matour<br>infos à venir</p>
+<p class="intro-text center-text">Mardi 12 mai 2026 dans l'après-midi,  au cinéma à Matour<br>infos à venir</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
