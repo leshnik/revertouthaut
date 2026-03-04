@@ -30,10 +30,10 @@ summary:
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png">
 </div>
-<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon</p>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noreferrer noopener" target=_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon</p>
 <hr>
 <p class="intro-text">Février a aussi été pour Rêver Tout Haut l’aboutissement de son action <a href="sur-le-seuil">sur le seuil</a>, cycle d’ateliers artistiques pour les résident.es du LAM de Montceau les Mines.</p>
-<p class="intro-text">Ici, quelques souvenirs des œuvres créées : portraits photographiques, fresques qui décorent maintenant le long couloir, et textes.
+<p class="intro-text">Ici, quelques souvenirs des œuvres créées&nbsp;:&nbsp;portraits photographiques faits par Lucie Moraillon, fresques qui décorent maintenant le long couloir, encadrées par Laure Cambi, chansons composées pour les résidents par Florian Girard et textes écrits pour le lieu par Valérie Gaudissart.
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772562807/ScreenFloat_Shot_803B4FA6B27D_r2yqd6.png"><br>
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772562898/ScreenFloat_Shot_546747138289_ttvi0g.png"><br>
@@ -41,8 +41,12 @@ summary:
   <figure>
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772563146/ScreenFloat_Shot_A1EA4691B636_yszu3r.png">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
-  </figure>
-</div>
+  </figure><br>
+  <figure><audio controls src="https://rth8.b-cdn.net/Michel..m4a"></audio><figcaption class="figCapCenter">chanson de Florian Girard</figcaption></figure>
+</div></p>
+
+
+
 <div class="quote">Les Chambres<br>
 Ici, les chambres sont numérotées, pas par ordre de grandeur, ou d’ancienneté ou d’arrivée. Non, par un autre ordre, qui est celui de la pensée, de tes états d’âme et tu passes d’une chambre à l’autre, au gré des heures de la journée<br>
 Chambre 100, c’est la chambre pour quand tu bous, que tu es près à déborder, quand c’est ébullition assurée dans tes émotions<br>

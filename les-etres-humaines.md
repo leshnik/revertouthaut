@@ -12,13 +12,50 @@ summary:
 <p class="cite">Captation réalisée par Mickaël Pillisio</p>
 <p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
 
-<p class="intro-text">Pour résérver votre place au Théâtre de Cluny le 27 février, cliquer ici: <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a><span style="color:red"> La séance de 27/02 à 20h est COMPLETE. Il reste quelques places à 14h30. <a href="http://www.revertouthaut.fr/agenda#27-20-2026">voir la page agenda pour plus de détails</a></span></p>
+<p class="intro-text">Cliquer sur notre page <a href="agenda">agenda</a> pour connaitre les dates de la tournée</p>
+<p class="intro-text">Pour relater notre début de tournée, voici les mots de Sidonie Dubosc, chanteuse et comédienne des Êtres Humaines&nbsp;:&nbsp;
+  <div class="quote">«&nbsp;Les Êtres Humaines&nbsp;», grande aventure qui dure depuis un an déjà. Nous avons posé nos valises, nos pinceaux et nos bouts de papier à travers la Bourgogne-Franche-Comté. Nous avons rencontré des femmes de tous âges, de tous milieux, de tous horizons, avec pour ressemblance la fracture brulante inscrite en elles par les violences conjugales. Nous avons recueilli leurs voix et leurs histoires à travers des ateliers artistiques, et voilà qu'aujourd'hui un spectacle est né, porté par 6 d'entre elles, 4 comédiennes et un musicien. Ce spectacle tient du miracle et de la puissance de ces femmes, d'une urgence absolue de dire, d'un travail colossal de Rêver Tout Haut.
+La première s'est passée vendredi 27 février à Cluny, et à sentir l'étreinte effrénée du public à la fin du spectacle, on mesure l'importance d'aborder un tel sujet au plus grand nombre. C'est vertigineux »
+  </div></p>
 
-<h2>Notre premier article de presse 25/02/2026</h2>
+<h2>Reportage France3 du 27 février 2026&nbsp;:&nbsp;</h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/275ec5b7-e7d0-4f90-86a1-1a22cb4d20c4?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<h2>Photos de notre résidence au Théâtre les Arts de Cluny, du 23 au 26  février, faites par Lucie Moraillon</h2>
+<div class="center-max600-block">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624412/ScreenFloat_Shot_37814526A41F_hglqbf.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624536/ScreenFloat_Shot_10C74EAF944D_qxwijd.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624702/ScreenFloat_Shot_35594ADAB67B_t6y247.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624805/ScreenFloat_Shot_9E7D4970B146_fmy8fz.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624890/ScreenFloat_Shot_417E4786B504_ocjaek.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624986/ScreenFloat_Shot_0F7A4322A9FB_r0o57d.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772625082/ScreenFloat_Shot_B00C46798B5D_gh4sam.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772625184/ScreenFloat_Shot_9AC64671A62D_s40iii.png">
+</div>
+
+<h2>Articles de presse</h2>
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
 </div>
 <p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire</a> Article, et photos prises lors des répétitions au théâtre de Cluny, par Adrien Wagnon.</p>
+<hr>
+<div class="center-max600-block">
+  <a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png"></a>
+</div>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon</p>
+
+<h2>représentations</h2>
+<p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
+
+<ul class="bullet">
+<li>Le 27 février 2026 au Théâtre les Arts à Cluny (71), après-midi et soir </li>
+<li>Le 5 mars 2026 à l’ECLA à Saint Vallier (71), après-midi</li>
+<li>le 19 mars 2026 à Besançon (25)</li>
+<li>Le 2 avril 2026 à la Salle Saint Luc à Bourbon Lancy (71), après-midi et soir</li> 
+<li>Le 24 novembre 2026 à Yzeure (03)</li>
+<li>Le 01 décembre 2026 à Bellerive-sur-Allier (03)</li> 
+</ul>
+<p class="intro-text">D’autres dates à venir à Macon, Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en bleu sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
 
 <h2>Résumé et présentation</h2>
 
@@ -120,16 +157,7 @@ Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le 
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732590/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.22.02_xrqt8h.png">
 </div>
 
-<h2>représentations</h2>
-<p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
 
-<ul class="bullet">
-<li>Le 27 février 2026 au Théâtre les Arts à Cluny (71), après-midi et soir </li>
-<li>Le 5 mars 2026 à l’ECLA à Saint Vallier (71), après-midi</li>
-<li>le 19 mars 2026 à Besançon (25)</li>
-<li>Le 2 avril 2026 à la Salle Saint Luc à Bourbon Lancy (71), après-midi et soir</li>  
-</ul>
-<p class="intro-text">D’autres dates à venir à Macon, Chalon sur Saône, Besançon, Dole, Cuisery, Yzeure, etc… <span style="color:red">Voir les dates en bleu sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations. </span></p>
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732592/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.23.31_z7nhis.png">
 </div>

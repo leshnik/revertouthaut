@@ -6,7 +6,9 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <h1 id="ag">agenda</h1>
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
 <ul class="agenda-list">
+<li><a href="#01-12-2026">Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
 
+<li><a href="#24-11-2026">Mardi 24 novembre 2026 à Yzeure (03) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
 <li><a href="#19-06-2026">Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 2 séances : après-midi + soirée </a></li>
 <li><a href="#13-06-2026">Samedi 13 juin 2026 à Blanot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, en soirée</a></li>
 <li><a href="12-06-2026">Vendredi 12 juin en soirée à La Méandre à Chalon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, scolaire + tout public</a></li>
