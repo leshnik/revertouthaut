@@ -30,7 +30,8 @@ summary:
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png">
 </div>
-<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noreferrer noopener" target=_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon</p>
+<p class="intro-text">
+  <a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noreferrer noopener" target="_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026 </a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon</p>
 <hr>
 <p class="intro-text">Février a aussi été pour Rêver Tout Haut l’aboutissement de son action <a href="sur-le-seuil">sur le seuil</a>, cycle d’ateliers artistiques pour les résident.es du LAM de Montceau les Mines.</p>
 <p class="intro-text">Ici, quelques souvenirs des œuvres créées&nbsp;:&nbsp;portraits photographiques faits par Lucie Moraillon, fresques qui décorent maintenant le long couloir, encadrées par Laure Cambi, chansons composées pour les résidents par Florian Girard et textes écrits pour le lieu par Valérie Gaudissart.
