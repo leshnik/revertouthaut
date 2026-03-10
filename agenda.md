@@ -138,6 +138,9 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     Réservations auprès du Centre social&nbsp;:&nbsp;03&nbsp;76&nbsp;15&nbsp;00&nbsp;95
 
     </p>
+    <div class="center-max600-block">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1773128768/leh2_bourbon_fn1awb.jpg">
+    </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
