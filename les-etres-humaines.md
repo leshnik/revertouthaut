@@ -6,10 +6,14 @@ summary:
 <h1>les êtres humaines</h1> 
 <h2>spectacle musical autour des violences conjugales</h2>
 <h1>création 2025 et tournée 2026-27</h1>
-<h3 class="h3left">Et voici notre toute dernière bande-annonce, filmée le 25 novembre 2025 au Théâtre Le Palace à Cuisery</h3>
+<p class="intro-text">Émission France Info, <strong>«&nbsp;ici 12/13 Franche Comté&nbsp;» </strong>du mercredi 18 mars 2026</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/bfc80f35-9673-45b3-86ca-b46c2d338b1d?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+
+<p class="intro-text">Et voici notre toute dernière bande-annonce, filmée le 25 novembre 2025 au Théâtre Le Palace à Cuisery</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eed31e47-9253-40ed-ba64-bd722a41b6c5?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
-<h3 class="h3left">Les êtres Humaines en répétition le 20 octobre 2025</h3>
+<p class="intro-text">Les êtres Humaines en répétition le 20 octobre 2025</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/67fbdcea-f4d8-41b1-a54d-350a878a3d18?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <p class="cite">Captation réalisée par Mickaël Pillisio</p>
 <p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
@@ -20,10 +24,10 @@ summary:
 La première s'est passée vendredi 27 février à Cluny, et à sentir l'étreinte effrénée du public à la fin du spectacle, on mesure l'importance d'aborder un tel sujet au plus grand nombre. C'est vertigineux »
   </div></p>
 
-<h2>Reportage France3 du 27 février 2026&nbsp;:&nbsp;</h2>
+<p class="intro-text">Reportage France3 du 27 février 2026&nbsp;:&nbsp;</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/275ec5b7-e7d0-4f90-86a1-1a22cb4d20c4?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
-<h2>Photos de notre résidence au Théâtre les Arts de Cluny, du 23 au 26  février, faites par Lucie Moraillon</h2>
+<p class="intro-text">Photos de notre résidence au Théâtre les Arts de Cluny, du 23 au 26  février, faites par Lucie Moraillon</p>
 <div class="center-max600-block">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624412/ScreenFloat_Shot_37814526A41F_hglqbf.png"><br>
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624536/ScreenFloat_Shot_10C74EAF944D_qxwijd.png"><br>
