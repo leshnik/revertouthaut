@@ -18,7 +18,7 @@ summary:
 </div> -->
 <h2>adhérer à rêver tout haut</h2>
 <div class="center-max-450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1718005235/1718000451971_kunhr0.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1718005235/1718000451971_kunhr0.jpg">
 </div>
 <p class="intro-text">Si vous souhaitez devenir membre de l'association  <span class="rever-typog">rêver tout haut</span>, nous soutenir et participer à la vie de l'association, vous pouvez devenir adhérent&middot;e. Vous serez tenu&middot;es au courant de nos projets et invité&middot;es à l'Assemblée Générale annuelle. Merci&nbsp;!</p>
 <ul style="text-align:right;list-style-type:none">

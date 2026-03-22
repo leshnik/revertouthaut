@@ -7,12 +7,12 @@ summary: Le projet “Contre-jour” de Rêver Tout Haut explore l’intimité d
 
 <p class="intro-text">En partenariat avec la Roue Voilée, nous sommes intervenus auprès des résidents de l’EHPAD du Centre Hospitalier du Clunisois d’août à septembre 2022.</p>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663763436/panorama-concert_htfoeh.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663763436/panorama-concert_htfoeh.jpg">
 </div>
  
 <p class="intro-text">Ce cycle d’ateliers artistiques était ouvert à une trentaine de résidents, dont la mobilité leur permettait de sortir de leur chambre. Au fil des séances et des rencontres, Sidonie Dubosc (chanteuse et compositrice), Valérie Gaudissart (parolière et metteuse en scène) et Morton Potash (pianiste et compositeur) ont écrit des chansons individuelles et collectives créées à partir des  personnes et de ce qu’elles ont pu raconter ou faire comprendre par le non-verbal de ce qui leur fait ou leur a fait du bien (souvenirs, sensations, lieux, personnes, odeurs, goûts, paysages, couleurs…), ou les apaise. Un concert public pour tous les résidents, leurs proches et les soignants, restituant toutes les créations, s’est tenu à l’Hôtel Dieu de Cluny le 15 septembre.</p>
 <div class="center-big-block" style="border: .1rem solid">
-   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
+   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
 </div>
 
 
@@ -20,7 +20,7 @@ summary: Le projet “Contre-jour” de Rêver Tout Haut explore l’intimité d
  </p>
 
 <div class="center-max600-block">
-   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662205620/P1010015_800_bht29k.png">
+   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662205620/P1010015_800_bht29k.png">
    <figcaption class="figCap">© Médéric Roquesalane</figcaption>
 </div>
 
@@ -67,8 +67,8 @@ au petit matin»
 </cite>
 </div>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663754669/les-mains-de-robertP1_cwin3z.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663754669/les-mains-de-robertP2_dvmj5k.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663754669/les-mains-de-robertP1_cwin3z.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663754669/les-mains-de-robertP2_dvmj5k.jpg">
 </div>
 
 <h4 class="h4song-titles">les mains des paysannes</h4>
@@ -111,7 +111,7 @@ Et Jeanne accourait
 </div>
 
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663756926/jeanne-viens-voir_enzrkc.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663756926/jeanne-viens-voir_enzrkc.jpg">
 </div>
 
 <h4 class="h4song-titles">les mains des femmes de ménage, venues du monde rural</h4>
@@ -143,8 +143,8 @@ font des grasses matinées.
 </cite>
 </div>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663756348/ont-tenu-des-balaisP1_rqil7i.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663756348/ont-tenu-des-balaisP2_ekqk7g.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663756348/ont-tenu-des-balaisP1_rqil7i.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663756348/ont-tenu-des-balaisP2_ekqk7g.jpg">
 </div>
 
 
@@ -339,8 +339,8 @@ Charles, le frère de Lucienne»
 <div class="institutions">
 <p class="intro-text">Pour conclure cette série de textes individuels, nous avons écrit un texte collectif sur ce langage des mains :</p>
 <div class="flex-container space-around--wrap">
-<img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663789581/P9130089_af43y3.jpg">
-<img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1663790289/P9130033_kauqwg.jpg">
+<img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663789581/P9130089_af43y3.jpg">
+<img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1663790289/P9130033_kauqwg.jpg">
 </div>
 <div class="institutions">
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">

@@ -11,7 +11,7 @@ summary: Concert de textes chantés crées et interprétés par des personnes c�
 <p class="intro-text">Spectacle encadré par Morton Potash et Valérie Gaudissart et représenté en juin 2022.</p>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1654880484/cabosses-flyer_nza7lo.jpg">
 </div>
 <h2>captation du spectacle du 25 juin</h2>
 <div class="center-max600-block">
@@ -21,7 +21,7 @@ summary: Concert de textes chantés crées et interprétés par des personnes c�
 
 <h2>le livret avec une partie des textes et des dessins des participants</h2>
 <div class="center-max600-block">
-<a href="livret-cabosse.pdf"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1655545898/cabosses-livret-cover_zv56z0.jpg"></a>
+<a href="livret-cabosse.pdf"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1655545898/cabosses-livret-cover_zv56z0.jpg"></a>
 <ul style="text-align:right;list-style-type:none">
     <li>
       <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="livret-cabosse.pdf">●&nbsp;cliquer pour voir ou télécharger le livret </a>

@@ -8,7 +8,7 @@ summary: Joué par des femmes anciennement victimes et des comédiennes professi
 <h2>spectacle autour des violences conjugales</h2>
 <h1 style="color: #7c0a25;">nouvelle création en 2025</h1>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1760523632/ScreenFloat_Shot_88C34565B4E8_lplqpo.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1760523632/ScreenFloat_Shot_88C34565B4E8_lplqpo.jpg">
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
     <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="https://res.cloudinary.com/dnxcesebo/image/upload/v1760521884/Dossier_de_pre%CC%81sentation_Les_Etres_humaines_1_eaktup.pdf" download="Les êtres humaines 2025" rel="noopener noreferrer" target="_blank">●&nbsp;cliquer pour télécharger le dossier</a></li>    
 </ul>
@@ -44,7 +44,7 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
 <p class="intro-text"><cite>Les Êtres humaines</cite> est un spectacle basé sur un long travail de recueil et de transformation artistique de témoignages. Il est joué par des comédiennes professionnelles et par des femmes ayant survécu à la violence conjugale, et qui, par la démarche artistique témoignent ainsi de leur cheminement et de leur expérience. Il explore toute la complexité, l’intimité des situations d’emprise et fait émerger l’énergie à déployer pour s’en sortir. Faire monter sur scène des femmes anciennement victimes ou qui se débattent encore avec la violence, la peur, les représailles, les ambivalences, fait partie intégrante du processus artistique&nbsp;:&nbsp;montrer la transformation, la prise de parole publique, et toucher le public non seulement par la sincérité du propos mais aussi par le chemin intérieur et concret qu’il faut parcourir pour le transmettre à d’autres. En résumé, l’objectif créatif, humain et social est de faire et de montrer comment faire de son expérience quelque chose de vivant, de transcendé et de partageable.
 </p>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082415/j_ai24ans_small_-_copie_p4liic.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082415/j_ai24ans_small_-_copie_p4liic.jpg">
 </div>
 
 <p class="intro-text">Ce spectacle, théâtral et musical est donc une proposition artistique originale mais il est aussi un outil, une façon de comprendre, vu de l’intérieur, le fonctionnement de la violence intra-familiale. Il est aussi une formidable leçon de courage, et de réappropriation de sa propre existence. Et la cause en a bien besoin ! </p>
@@ -54,7 +54,7 @@ C’est donc celle qui va changer de statut, dans son propre regard et dans celu
 <p class="intro-text">Les spectatrices et spectateurs sont invité.es à la suite de représentations à un long temps d’échanges, d’écoutes et de conseils.</p>
 
 <div class="center-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
 </div>
 
 <p class="intro-text">C’est un spectacle qui a déjà une histoire et qui, chargé de celle-ci, se remet en mouvement et en création en 2025, avec le soutien du Fonds Social Européen, de la Délégation Départementale aux Solidarités 71. Le projet est porté par <span class="rever-typog">rêver tout haut</span> conjointement avec l’association ILS SCENENT&nbsp;:&nbsp;</p>
@@ -112,7 +112,7 @@ Les journées de représentations seront doubles, c’est-à-dire que 2 représe
 
 <div class="center-max600-block">
     <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
-    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="https://res.cloudinary.com/dnxcesebo/image/upload/v1755933895/Dossier_de_pre%CC%81sentation_Basse_def_-_Les_Etres_humaines_p7efy2.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705086946/leh2025dossier_p2_lofc3d.png"><br>●&nbsp;voir le dossier</a></li>    
+    <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="https://res.cloudinary.com/dnxcesebo/image/upload/v1755933895/Dossier_de_pre%CC%81sentation_Basse_def_-_Les_Etres_humaines_p7efy2.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705086946/leh2025dossier_p2_lofc3d.png"><br>●&nbsp;voir le dossier</a></li>    
     </ul>
 </div>
 <h2>la petite histoire</h2>
@@ -147,7 +147,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705081952/Les_e%CC%82tres_humaines-P1010716_vnrsoy.jpg" style="width:100%;" alt="">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705081952/Les_e%CC%82tres_humaines-P1010716_vnrsoy.jpg" style="width:100%;" alt="">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -159,7 +159,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082195/Les_e%CC%82tres_humaines-547_duh22c.jpg" style="width: 100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082195/Les_e%CC%82tres_humaines-547_duh22c.jpg" style="width: 100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -170,7 +170,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082323/Les_e%CC%82tres_humaines-487_klrxxt.jpg" style="width:100%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082323/Les_e%CC%82tres_humaines-487_klrxxt.jpg" style="width:100%;">
       <figcaption class="figCap">© So Beau-Blache</figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -182,7 +182,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg" style="width:100%;">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg" style="width:100%;">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -193,7 +193,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082521/_DSC1616_rh2vjd.jpg" style="width:100%">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082521/_DSC1616_rh2vjd.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -204,7 +204,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082630/30_NOVEMBRE_2012_149_cyknzz.jpg" style="width:100%">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082630/30_NOVEMBRE_2012_149_cyknzz.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -216,7 +216,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082728/30_NOVEMBRE_2012_202_l8hf5x.jpg" style="width: 100%;">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082728/30_NOVEMBRE_2012_202_l8hf5x.jpg" style="width: 100%;">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -226,7 +226,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082837/_DSC2506_qxoypn.jpg" style="width:100%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082837/_DSC2506_qxoypn.jpg" style="width:100%;">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -237,7 +237,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082978/_DSC1602_u0mswg.jpg" style="width:100%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082978/_DSC1602_u0mswg.jpg" style="width:100%;">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -247,7 +247,7 @@ Les tournées 2011, 2012 et 2013 ont été soutenues par la Délégation Région
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705083490/manif-671_ink8f3.jpg" style="width:100%"> 
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705083490/manif-671_ink8f3.jpg" style="width:100%"> 
     </figure>
     <a class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
   </div>
@@ -407,7 +407,7 @@ valeriegaudissart@gmail.com
 
 <h2>tournée 2013&nbsp;:</h2>
 <div class="center-max600-block">
-<img alt="flyer de la tournée 2013, théâtre témoignage, violences, femmes, partir, revivre" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705063729/leh_tourne%CC%81e2013_flyer_ocszwr.png"/>
+<img alt="flyer de la tournée 2013, théâtre témoignage, violences, femmes, partir, revivre" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705063729/leh_tourne%CC%81e2013_flyer_ocszwr.png"/>
 </div>
 <ul class="institutions">
     <li>25&nbsp;novembre, Théâtre Rameau, Lyon, en partenariat avec l’Association Filactions</li>
@@ -420,7 +420,7 @@ valeriegaudissart@gmail.com
 </ul>
 <h2>tournée 2012</h2>
 <div class="center-max600-block">
-<img alt="flyer de la tournée 2012, théâtre témoignage, violences, femmes, partir, revivre" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705065029/leh_tourne%CC%81e2012_flyer_pfsapl.png"/>
+<img alt="flyer de la tournée 2012, théâtre témoignage, violences, femmes, partir, revivre" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705065029/leh_tourne%CC%81e2012_flyer_pfsapl.png"/>
 </div>
 <ul class="institutions">
     <li>23 octobre, Théâtre Sauvageot, Paray le Monial (2&nbsp;représentations)</li>
@@ -441,7 +441,7 @@ valeriegaudissart@gmail.com
 
 <h2>dans la presse</h2>
 <div class="right-side-text">
-<a href="http://lesetreshumaines.net/dans-la-presse-2/dans-la-presse/" target="_blank"><img alt="les femmes tiennent chacune une bannière avec un mot: je, te, détruirai, j'ai, tout, mon, temps" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705086052/leh_old-site_presse2012_m7jt5t.png">dossier presse 2012</a>
+<a href="http://lesetreshumaines.net/dans-la-presse-2/dans-la-presse/" target="_blank"><img alt="les femmes tiennent chacune une bannière avec un mot: je, te, détruirai, j'ai, tout, mon, temps" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705086052/leh_old-site_presse2012_m7jt5t.png">dossier presse 2012</a>
 <br>
 <a href="http://lesetreshumaines.net/dans-la-presse-2013/" target="_blank">dossier presse 2013</a>
 </div>

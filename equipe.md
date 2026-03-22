@@ -111,7 +111,7 @@ Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses atelier
 <div id="sidonie"></div>
 ## Sidonie Dubosc : chanteuse, autrice, compositrice
 {: .sido-color}
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632970564/69083084_2998676670174302_8033193834143809536_n_nxeb6f.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632970564/69083084_2998676670174302_8033193834143809536_n_nxeb6f.jpg"></div>
 Après des études au Conservatoire de Chalon-sur-Saône, où elle étudie le chant, la danse contemporaine, le trombone et le théâtre, Sidonie  s‘oriente vers la chanson française. 
 En 2016 elle crée le groupe La Sido qui a 3 créations et 2 albums à son actif&nbsp;:&nbsp;
 <i>Les gardiens de phare</i> en 2016 à partir d’un répertoire sur le thème du voyage et de l’exil&nbsp;;&nbsp;
@@ -126,7 +126,7 @@ En parallèle, la chanteuse propose des ateliers de médiation artistique en EHP
 
 <div id="romane"></div>
 <h2 style="color: #29c"> Romane Lasserre: marionnettiste et céramiste</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648632329/romane01_diravd.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1648632329/romane01_diravd.jpg"></div>
 Jeune diplômée des Arts décoratifs de Strasbourg à 24 ans, Romane Lasserre explore l’objet et plus particulièrement la céramique dans sa dimension narrative et théâtrale.
 Pendant 3 ans, elle étudie à l’École Supérieure d’Art de Lorraine d’Épinal spécialisée dans le travail de l’image et de la narration. Elle y cultive différents champs artistiques avec enthousiasme. Que ce soit des formes dessinées, vidéos, installées, animées, écrites ou même vivantes et mises en scène. Imaginer une relation entre le fond et la forme l’a très vite intéressée et petit à petit emmenée vers des envies de formes sculpturales et vers une affection toute particulière pour le travail de la terre et la céramique.
 
@@ -136,7 +136,7 @@ Par la suite, elle monte une nouvelle forme théâtrale avec sa compagnie Ecouti
 Elle anime pour différents publics et notamment au sein de Rêver Tout Haut, des médiations dans lesquelles elle propose son approche du théâtre d’objets et de la marionnette.
 <div id="flore"></div>
 <h2 style="color: #7551e1" >Flore Simon: comédienne, metteur en scène, assistante</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1648630231/flore_carre%CC%81_zjantt.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1648630231/flore_carre%CC%81_zjantt.jpg"></div>
 Formée au Conservatoire du Grand Chalon puis en Master-pro mise en scène et dramaturgie à Paris X, elle assiste divers metteurs en scène entre 2012 et 2018 (Jean-Yves Ruf, L. Fréchuret, V. Thomasset, L. Hamelin, É. Signolet, P. Hoden…) et joue sur différents projets théâtraux. En 2018, elle rejoint la compagnie <i>Les Affranchis</i> en Seine Saint-Denis. De 2019 à 2021, elle est assistante de direction du Studio-Théâtre de la Comédie-Française. 
 
 Depuis 2018, elle travaille en tant que comédienne, dramaturge et metteuse en scène au sein de <i>A nos lisières compagnie</i> (anciennement <i>La Roue Voilée</i>) et dans d’autres structures bourguignonnes (<i>Quintette Alliance, La Chahutte, UnisSons</i>…).
@@ -149,7 +149,7 @@ Flore intervient au sein de Rêver Tout Haut sur différentes médiations et cr�
 
 <div id="estelle"></div>
 <h2 class="music-color">Estelle Bernigal: musicienne, comédienne, compositirice</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662108436/photo_estel_mu0o6g.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662108436/photo_estel_mu0o6g.jpg"></div>
 Elle débute la musique par l'accordéon et dès l'âge de 14 ans, joue dans les bals.
 Elle découvre la composition et compose des pièces pour plusieurs spectacles et compagnies "Yeyette", comédie musicale de Alain Chambosse, "Labora" de Jean Michel Debarbat – Cie Lug, Et pour une dizaine d'albums C.D.
 
@@ -161,7 +161,7 @@ Elle s'est installé depuis 20 ans dans un petit village de Saône et Loire.
 
 <div id="naima"></div>
 <h2 style="color: #29c">naïma ferré&nbsp;:&nbsp;danseuse, psychomotricienne</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1686567581/naima-ferre-carre_brovmr.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1686567581/naima-ferre-carre_brovmr.jpg"></div>
 Danseuse contemporaine, Naïma Ferré explore les liens entre le corps et l’esprit, ou comment habiter un corps, que ce soit au travers d’une pratique intensive de chorégraphie instantanée solo, d’un travail de recherche approfondi sur l’activité de modèle vivant, ou encore par le biais de la pratique de la danse du tournoiement.
 
 Naïma collabore pendant de nombreuses années avec divers danseurs, chorégraphes, metteurs en scène et musiciens (Jean-Philippe Naas, Isabelle Schad, Bazar Andalus, Marina Abramovic, Joan Jonas, Judith Hummel, etc.). Mue par le désir d’ouvrir des espaces intérieurs chez elle comme chez les autres, elle partage tout au long de son parcours ses recherches et connaissances lors de divers ateliers pour adultes comme pour enfants.
@@ -172,7 +172,7 @@ Elle est installée dans le clunisois.
 
 <div id="magali"></div>
 <h2 class="music-color">Magali Ringoot : musicothérapeute en cours de formation</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718198173/magali-carre%CC%81_ntqqxt.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto/v1718198173/magali-carre%CC%81_ntqqxt.png"></div>
 C’est à l’âge de 6 ans que Magali commence à jouer du piano et à découvrir le plaisir de jouer de la musique (ou jouer avec la musique ?). Diplômée de Sciences Po Paris en sociologie et communication, elle se consacre pendant plus de 20 ans à diverses causes écologiques en tant que coordinatrice de projets en ONG et continue, à côté de son métier, à cultiver son jardin musical. En plus du piano, elle apprend l’accordéon chromatique. C’est avec le chant en groupe, en particulier le chant spontané et les chants en cercle, que Magali développe un rapport à la musique plus intuitif, plus libre. Elle se forme à la pédagogie du rythme inspirée de la batucada « O Passo » avec son fondateur, Lucas Ciavatta, à l’éveil musical avec l’ADEM. Au fil des années, elle collecte divers chants du monde lors de stages, en particulier des chants « afropéens » auprès d’Anita Daulne (ex Zap Mama).
 
 Animée du désir de transmettre et de vivre davantage la musique en partage, Magali fonde l’association culturelle « La Marmite » en 2013 à Cluny. Elle y donne des cours de piano, des ateliers de chants du monde et d’éveil musical jusqu’en 2018.  Convaincue que nous sommes tous musiciens, Magali a à cœur de rendre la musique accessible à tous. Elle mène différents projets participatifs d’action culturelle avec des artistes et habitants du territoire (fête de la solidarité, carnaval, festival de la transition écologique, …).
@@ -190,7 +190,7 @@ Elle développe ainsi autour de son œuvre des concepts liés aux sciences natur
 
 <div id="elsa"></div>
 <h2 style="color: #BE3C31">Elsa Trouche</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1725628059/ElsaTrouche_Portrait_y0rabc.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1725628059/ElsaTrouche_Portrait_y0rabc.jpg"></div>
 Après plusieurs années à naviguer dans les eaux tumultueuses de la psychiatrie en tant qu'infirmière, Elsa quitte le navire. Changement de cap ! 
 
 
@@ -203,7 +203,7 @@ Elle s'est également formée en Relation d'Aide par le Toucher, pratique théra
 
 <div id="quentrec"></div>
 <h2 style="color: #FA785D">Marie Quentrec</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1726481959/nz2csuwncw8rwziu0zax.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1726481959/nz2csuwncw8rwziu0zax.png"></div>
 1977 : premier bonhomme têtard. Marie a 3 ans et bénit sa maman qui lui a donné son premier feutre.
 
 1980 : entrée au CP, Madame Lalia lui apprend à lire. Qu’elle en soit éternellement remerciée. Marie adhère de ce pas au club des « enfants qui lisent en douce sous la couette avec une lampe de poche alors qu’il faudrait se coucher».
@@ -236,7 +236,7 @@ En 2024, un partenariat avec ses élèves adultes et le musée d’Art et d’Ar
 
 <!-- <div id="anastasia"></div>
 <h2 style="color: #29c">Anastasia Granata&nbsp;:&nbsp;chargée de diffusion</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1693291208/anastasia-portrait_feiwxz.jpg"></div>
 
 Initiée à la danse moderne jazz ainsi qu'au théâtre depuis son plus jeune âge, Anastasia s’est dirigée vers des études dans le domaine culturel afin d'allier ses passions à un environnement professionnel. 
 

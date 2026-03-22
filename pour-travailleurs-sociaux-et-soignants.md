@@ -24,7 +24,7 @@ summary: Le travail social et soignant demandant de la part des professionnels u
 <h2>Complexité de l'accompagnement</h2>
 
 <div style="max-width: 600px; margin: auto">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300,r_10,q_auto,f_auto/v1526489452/collage_Valérie_2_d4onec.jpg"/>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/c_scale,h_300,r_10,q_auto/v1526489452/collage_Valérie_2_d4onec.jpg"/>
 </div> 
 <p class="intro-text">Au-delà cette complexité des liens à créer et à maintenir avec les usagers, le travail social et le travail soignant s’inscrivent et sont les témoins de leur époque. Et la nôtre n’est pas particulièrement tendre avec le monde du travail en général et encore moins avec le travail soignant et social : politique du management qui remplace petit à petit des relations dites «&nbsp;plus humaines&nbsp;», plus souples et plus proches des attentes et des missions pour lesquelles le professionnel s’était engagé dans ce métier. Burn out, stress, conflits et souffrances au travail sont une réalité à prendre en compte aujourd’hui.
 </p>

@@ -80,7 +80,7 @@ summary: Le projet “Histoire de mes ressemblances” de Rêver Tout Haut explo
 <p class="intro-text">Différents supports sont proposés (évocations d’objets, écriture, parole, photographie.), et sont réunis dans un livret destiné aux participants, à leurs familles et à la jeune génération.
 </p>
 <div class="center-max600-block">
-<a href="http://0.0.0.0:4000/LivretHistoiresV4.pdf"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645704680/histoire-de-mes-reesemblances-couverture_msvvfg.jpg"></a>
+<a href="http://0.0.0.0:4000/LivretHistoiresV4.pdf"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1645704680/histoire-de-mes-reesemblances-couverture_msvvfg.jpg"></a>
 <ul style="text-align:right;list-style-type:none">
     <li>
       <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="LivretHistoiresV4.pdf">●&nbsp;cliquer pour voir ou télécharger le livret </a>

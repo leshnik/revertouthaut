@@ -1016,7 +1016,7 @@ N’hésitez pas à nous contacter si vous êtes intéressées par LES ÊTRES HU
 
 
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1730800566/1730726976951_gabinw.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1730800566/1730726976951_gabinw.jpg">
 </div>
 <div class="flex-container">
     <div class="column">
@@ -1202,7 +1202,7 @@ Il est midi passé, elle est sur les routes depuis 6 heures ce matin. Et il s’
 <p class="intro-text"><a href="les-etres-humaines">Les Êtres Humaines</a> vont bientôt prendre la route, car le projet a maintenant de multiples partenaires en Bourgogne Franche-Comté avec lesquels nous allons mener des ateliers artistiques ouverts à des personnes victimes de violences conjugales: Les PEP 71 à Chalon sur Saône, Coop—Agir à Dôle, Solidarité Femmes à Besançon, le Centre Social et l’ECLA et le réseau ViF de Saint-Vallier, le Centre Social de Bourbon-Lancy et encore plein d’autres  venir. La délégation aux Territoires et à la Solidarité (DDETS) de Saône et Loire soutient le projet : un grand merci !</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1732960614/LEH-dossier-2024-11-30.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1732960614/LEH-dossier-2024-11-30.png">
 <ul style="text-align:right;list-style-type:none;font-size:1.2rem">
     <li><a style="color:hsl(171,93.5%,36.5%); font-size:1.3em" href="Dossier de présentation Basse def - Les Etres humaines.pdf" download="Les êtres humaines 2025">●&nbsp;cliquer pour télécharger le dossier</a></li>    
 </ul>
@@ -1219,7 +1219,7 @@ Il est midi passé, elle est sur les routes depuis 6 heures ce matin. Et il s’
 
 <h2>Août 2024</h2>
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1725359223/ados-et-chevaux-affiche_iqzbor.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1725359223/ados-et-chevaux-affiche_iqzbor.png">
 </div>
 <p class="intro-text">
 Août a été un mois de création pour Rêver Tout Haut avec notre participation au spectacle <a href="ados-en-chemin">Ados et Chevaux en Chemin</a> à la mise en scène, à l’écriture et à la composition.<br>
@@ -1252,7 +1252,7 @@ Avalanche de bonnes nouvelles et de soutiens pour nos projets. L’été sera do
 <p class="intro-text">Alors, commençons par <a href="les-etres-humaines">les êtres humaines</a> et le soutien financier de l’Europe ! Comme vous pouvez le voir sur ce logo ! Mille mercis ! </p>
 
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto,f_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
 </div>
 
 <p class="intro-text">Ce qui va nous permettre de réaliser un projet d’envergure, sur tout le département de Saône et Loire, et sur les départements voisins, Côte d’Or et Doubs, avec de multiples partenariats. Projet étendu sur le territoire et aussi dans le temps, car nous voilà parties jusqu’en 2026, avec ce projet consacré à la violence conjugale et intra-familiale.</p>
@@ -1269,7 +1269,7 @@ N’hésitez pas à nous contacter si vous êtes jeune aidant et que vous désir
 
 <div class="flex-container">
         <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
                 <a href="Flyer quiz Les jeunes aidants ados.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
@@ -1373,7 +1373,7 @@ Avant de nous quitter, cette dame  nous dit qu’elle mourra chez elle, d’une 
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721488920/photo_celles_qui_veillent_1_c1cuuq.jpg">
 </div>
 <h2>juin 2024</h2>
-<p class="intro-text">On remercie Clara Desmottes pour son article du 14 juin dans L'Exploitant Agricole de Saône-et-Loire. <a href="EXPAG_P32_S24.pdf" target="_blank"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718648017/article-clara-desmottes_tcwssa.png">cliquer ici pour lire l'article</a></p>
+<p class="intro-text">On remercie Clara Desmottes pour son article du 14 juin dans L'Exploitant Agricole de Saône-et-Loire. <a href="EXPAG_P32_S24.pdf" target="_blank"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto/v1718648017/article-clara-desmottes_tcwssa.png">cliquer ici pour lire l'article</a></p>
 <p class="intro-text">Voilà le mois de juin déjà entamé, et il nous faut vite faire un petit résumé des semaines passées.
 Alors, par quoi commencer ?</p>
 
@@ -1450,7 +1450,7 @@ Comment quitter cette maison, cette exploitation qui me vient depuis des génér
 <p class="intro-text">Pour nourrir ce projet de film photographique plus que nécessaire, nous organisons une collecte de photos. Voici le flyer: 
 </p>
 <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718181158/Screenshot_of_Finder_at_12_Jun_2024_at_10_32_24_i6dgwu.png">
+        <img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto/v1718181158/Screenshot_of_Finder_at_12_Jun_2024_at_10_32_24_i6dgwu.png">
     </div>
 
 <hr>
@@ -1519,20 +1519,20 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
 <hr>
 <p class="intro-text">Le 13 mai aura lieu à la Pimenterie une première rencontre autour de ce projet à laquelle sont conviées toute personne, toute institution concernées par le deuil et intéressées par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>. 
     <div class="center-block">
-        <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
+        <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
     </div>
 <p class="intro-text">Le GIE IMPA nous offre un soutien financier pendant trois ans pour ce dispositif ! Merci beaucoup !</p>
 <hr>
 <p class="intro-text">Le projet <a href="jeunes-aidants">jeunes aidant.es&nbsp;/&nbsp;les emmêlé.es</a> avance aussi à grands pas et trouve de nouveaux partenaires sur le territoire.
     <div class="center-block">
-        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
     </div>
 </p>
 <hr>
 <p class="intro-text"><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>, qui démarre le 2 mai, et qui est un cycle d’art-thérapie de plus d’un an pour personnes exilées s’est mis en place et le voici maintenant accompagné d’un suivi psychologique ponctuel par deux professionnelles de la santé mentale.
     <div class="center-block">
         <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
     </div>
 </p>
 <hr>
@@ -1557,14 +1557,14 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
         <p class="quote">Ma mère, notre mère, elle, s’est sacrifiée sans limite. Ma mère a failli mourir en accouchant de ma sœur, ma sœur a faillit mourir en naissant, ça crée je pense entre elles des liens très spéciaux. Je ne peux pas changer cette histoire là, tout comme je ne peux pas changer l’histoire de couple de mes parents. Car je pense que sans le handicap, ils ne seraient plus ensemble depuis longtemps, le handicap les a rapprochés, leur a donné un but commun.</p>
         <p class="quote">Et je pense que si ma sœur n’était pas née, si elle n’avais pas survécu, je ne serais pas née non plus. Et c’est parce qu’elle est là que je suis là. »</p>
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
         </div>
 <hr>
     <p class="intro-text">
         Nous avons continué les ateliers de composition de chansons pour le projet <a href="maintenant-il-y-a">maintenant il y a</a>, avec les résidents de la Novelline à Cluny et les adhérents du GEM de Macon, autour de l’expérience de la cérébro-lésion et de la vie à continuer et à reconstruire après l’accident. 12 personnes y participent et quelle énergie ! Après une semaine de résidence et de répétitions au Théâtre de Cluny, nous avons donné notre première représentation le 16 décembre devant une salle bondée. Incroyable retour des spectateurs devant la palette émotionnelle des chansons, devant la force des participant.es et la solidarité de la troupe. 
         D’autres représentations vont suivre en 2024. 
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704044719/maintenant_ilya_banner_vcc5zv.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1704044719/maintenant_ilya_banner_vcc5zv.png">
         </div>
 
         <h4 class="h4song-titles">introduction du spectacle : </h4>
@@ -1594,10 +1594,10 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
             Alors, lève toi et chante</p>
 
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1700661658/maintenant_il_y_a_cluny_2023_puaeor.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1700661658/maintenant_il_y_a_cluny_2023_puaeor.png">
         </div>
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704194432/jsl-2023_12_28-milya_e0wa7a.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1704194432/jsl-2023_12_28-milya_e0wa7a.png">
         </div>
     </p>
 <hr>
@@ -1633,17 +1633,17 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
         Nous avons achevé notre cycle d’ateliers créatifs pour aidant.es, <a href="les-mains-tendues">les mains tendues</a>, et tout le monde est reparti avec ses modelages, ses peintures, ses collages et des souvenirs de discussions et d’amitiés naissantes. 
         <div class="flex-container">
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
             </div>
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688792015/les-mains-tendues-paray2023p2_qurzz0.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1688792015/les-mains-tendues-paray2023p2_qurzz0.png">
             </div>
         </div>
     </p>
 <hr>
     <p class="intro-text">Salle comble jeudi, 28 décembre à Sivignon à La Limace pour notre spectacle poétique sur l'amour et les entendeurs de voix <a href="jamais-deux-sans-voix">jamais deux sans voix</a>,  
     <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
     </div>
     <p class="cite">Textes de Baptiste Gaubert et musiques de Morton Potash sur une création lumière de Florian Girard.
     </p>
@@ -1677,7 +1677,7 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
     <p class="intro-text">
         Avec tout d’abord les ateliers de compositions de chansons avec une vingtaine de patients accueillis par le service Addictologie de l’Hôpital de Montceau les Mines, suivis de deux représentations absolument géniales ! 
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1684332779/cachettes-secretes_wijkxz.png">
        </div>
         <p class="intro-text">Nous avons adoré ce travail, le jaillissement des idées, le dévoilement des choses gardées cachées et l’engagement aussi bien des patients que des soignants.
         Un aperçu des créations sur ce lien&nbsp;:&nbsp; <a href="cachettes-secretes">cachettes secrètes</a> 
@@ -1694,7 +1694,7 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
     <p class="intro-text">
         Un cycle de deux jours d’ateliers de pratiques musicales pour grands-parents et petits-enfants a été donné par la formidable accordéoniste Estelle Bernigal à Semur en Brionnais pendant les vacances de Toussaint. Expérience inter-générationnelle à reproduire ! <a href="double-croche">double croche</a>
         <div class="center-max600-block">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693231069/Double_croche_daoosp.jpg">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1693231069/Double_croche_daoosp.jpg">
         </div>
     </p>
 <hr>
@@ -1719,7 +1719,7 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
 
 <p class="intro-text">Le samedi 30 septembre à Chissey les Macon, dans la matinée : lecture de témoignages d’aidants, dans le cadre d’une matinée consacrée aux aidants, organisée par le Bus Marguerite et les Foyers Ruraux du Clunisois.
     <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1695741962/comm-chissey-mailing_aqqgjn.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1695741962/comm-chissey-mailing_aqqgjn.jpg">
     </div>
 </p>
 
@@ -1736,10 +1736,10 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
 <p class="intro-text">Tout d’abord, fin des ateliers et concerts <a href="rencontres">Rencontres</a> au sein de la Résidence Seniors de Saint Bonnet de Joux, avec une magnifique douzaine de chansons composées pour les résident.es, qui deviennent les leurs puisqu’elles leur ressemblent et parlent d’elles et d’eux. Deux de ces chansons sont composées avec des élèves du cours de création de l’Ecole de Musique du Grand Charolais.</p>
     <div class="flex-container">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
         </div>
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
         </div>
     </div>
     <hr>
@@ -1750,19 +1750,19 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
     <p class="intro-text">La programme du spectacle avec portraits des participant.es et recueil des textes crées, offerte à tous les résident.es et aux nombreux spectateurs&nbsp;:<br><br>
 
         <div class="center-block" style="border: 1px solid grey">
-            <a href="nos vies en(chantees)2023-06- Livret recueil des textes.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1687445362/nos_vies_recueil_de_textes_p1_qt8uib.png">cliquer pour consulter/télécharger le recueil des textes</a>
+            <a href="nos vies en(chantees)2023-06- Livret recueil des textes.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1687445362/nos_vies_recueil_de_textes_p1_qt8uib.png">cliquer pour consulter/télécharger le recueil des textes</a>
         </div>
     </p>
 <hr>
 <p class="intro-text">Fin du convivial cycle d’accompagnement créatif et artistique en tout genre <a href="les-mains-tendues">Les Mains tendues</a>, pour des aidants demeurant non loin de Semur en Brionnais. Merci au sympathique accueil du Centre Social Abise à Semur.</p>
 <p class="intro-text">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
     <div class="flex-container">
 <div class="column">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1677512592/les-mains-tenduesP1_s4iu55.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1677512592/les-mains-tenduesP1_s4iu55.png">
 </div>
 <div class="column">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1677512592/les-mains-tenduesP2_z3c8ms.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1677512592/les-mains-tenduesP2_z3c8ms.png">
 </div>
  </div>
     </p>
@@ -1796,10 +1796,10 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
 organisée par la MSA des Portes de Bretagne
         <div class="flex-container">
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1680542541/Aff_conf_aidants_pleurtuit_qmex4r.jpg">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1680542541/Aff_conf_aidants_pleurtuit_qmex4r.jpg">
             </div>
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1680542541/Tract_conf_aidants_pleurtuit_y03xiw.jpg">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1680542541/Tract_conf_aidants_pleurtuit_y03xiw.jpg">
             </div>
         </div>
     </p>
@@ -1820,7 +1820,7 @@ organisée par la MSA des Portes de Bretagne
     </p><hr>
     <p class="intro-text">le 26 mars, au Foyer Rural de Buffières, lecture musicale et poétique sur la thème des frontières, dans le cadre du Printemps des Poètes avec la participation de Piero Dubosc, Baptiste Gaubert et Sabine Gaudissart.<br>
     <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1678975028/printemps-poetes2023_n4g7bh.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1678975028/printemps-poetes2023_n4g7bh.png">
     </div>    
     </p><hr>
 
@@ -1864,10 +1864,10 @@ Des nouvelles très bientôt des partenariats qui se mettent en place avec plusi
     <p class="intro-text">Tournée de <a href="/parent-solo-et-ses-marmots">parent solo et ses marmots</a></p>
         <div class="flex-container">
             <div class="column">
-                <a href="parent-solo-et-ses-marmots"> <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg"></a>
+                <a href="parent-solo-et-ses-marmots"> <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg"></a>
             </div>
             <div class="column">
-                <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
+                <a href="parent-solo-et-ses-marmots"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg"></a>
             </div>
         </div>
         <p class="intro-text">
@@ -1887,7 +1887,7 @@ Des nouvelles très bientôt des partenariats qui se mettent en place avec plusi
 `   <p class="intro-text">le 27 novembre, deux représentations du spectacle <a href="derriere-nos-portes">derrière nos portes</a> écrit et composé à partir de nos ateliers avec et pour les résidents du Foyer de Vie les Villandières, à
 Charnay-les-Mâcon.</p>
         <div class="center-big-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
         </div>
     <hr>
     <p class="intro-text">le 30 novembre, concert <a href="accordeon-quizz">accordéon quizz</a> pour l'Ehpad Hôtel-Dieu du Centre Hospitalier de Mâcon. Comment accorder grâce à la musique, l'amusement et le soin cognitif.
@@ -1911,10 +1911,10 @@ Charnay-les-Mâcon.</p>
     <p class="intro-text">Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</p>
     <div class="flex-container">
         <div class="column">
-            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
+            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
         </div>
         <div class="column">
-            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
+            <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg"></a>
         </div>
     </div>
 
@@ -1925,7 +1925,7 @@ composées avec et pour les résidents de l'Ehpad de Cluny, dans le
 cadre du projet <a href="contre-jour">Contre-Jour</a>.
    </p>
    <div class="center-block" style="border: .1rem solid">
-       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
+       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662204404/contrejour-flyer_u0k4ii.jpg">
     </div>
     <hr>
    <p class="intro-text">A partir du 30 septembre, redémarrage de notre cycle de performances artistiques <a href="derriere-nos-portes">derrière nos portes</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon</p>
@@ -1951,11 +1951,11 @@ nuit.</p><hr>
 <p class="intro-text">Mois bien chargé et très fructueux, en rencontres, en créations et représentations !</p>
  
 <p class="intro-text">Une lecture <a href="lpqp-lecture-musicale">les plus que proches</a>, témoignages d’aidants, à Bourbon Lancy, en partenariat avec la Ville de Bourbon Lancy le 3 juin</p>
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg">
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1652895351/Lecture-musicale-Affiche_ktcntq.jpg">
 </div>
 <hr>
 <p class="intro-text">Une série de répétitions et de compositions,  suivies de deux représentations de <a href="/cabosses">Cabossés</a>&nbsp;:&nbsp; spectacle de chansons de l'atelier <a href="/reapprendre-a-aimer">ré-apprendre à aimer</a> avec les résidents et usagers de <a href="https://la-novelline.fr/">la novelline</a> de Cluny et du <a href="https://www.gem71.org/"> groupe d’entraide mutuelle</a> de Mâcon. Un superbe accueil et une énorme envie de la part de la troupe et du public de nous voir partir en tournée ! Pourquoi pas ?<br>Le 11 juin à Cortembert et Le 25 juin à Mâcon à la MJC de l’Héritan</p>
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1654880484/cabosses-flyer_nza7lo.jpg">
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1654880484/cabosses-flyer_nza7lo.jpg">
 </div>
 <hr>
 <p class="intro-text">Un cycle d’ateliers, <a href="portrait-des-miens">portrait des miens</a> très créatifs et assez exaltants avec les patients de du Centre Hospitalier Spécialisé de Sevrey. Nous avons composé avec et pour les patients 40 chansons et monté avec une vingtaine d’entre eux un spectacle de 2 heures le 17 juin. Beaucoup d’émotions, de transformations et de consolations aussi...</p>
@@ -1972,7 +1972,7 @@ nuit.</p><hr>
     <p class="intro-text">Le 10 mai&nbsp;: représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Villeurbanne en partenariat avec La Cause des Parents et l'Association Maman Blues</p>
     <hr>
     <p class="intro-text">En partenariat avec <em>La Roue Voilée</em>, notre atelier de compositions de chansons <a href="portraits-des-miens">Portraits des miens</a> pour l’Hôpital Spécialisé de Sevrey a bien démarré. Déjà huit chansons composées et beaucoup de participants.</p>
-    <div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660472198/affiche-sevrey_zd1i1p.jpg">
+    <div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660472198/affiche-sevrey_zd1i1p.jpg">
 </div>
     <hr>
     <p class="intro-text">Les quatre nouveaux résidents de la Novelline de Cluny et les usagers du GEM de Mâcon ont bien créé chacun leur chanson pour le spectacle de chansons "Cabossés", dans le cadre du travail artistique <a href="/reapprendre-a-aimer">Ré-apprendre à aimer</a>. </p>
@@ -1983,18 +1983,18 @@ nuit.</p><hr>
     <hr>
     <p class="intro-text">En partenariat avec le réseau des Aidants 71, un cycle d'ateliers créatifs qui réuniront collage, écriture, musique, peinture, et qui permettront de transformer ensemble, l'expérience de l'aidant.e.<br>
     4 séances sont prévues à la salle des associations de Semur-en-Brionnais, rue Bouthier de Rochefort&nbsp;:&nbsp;le mardi 7 juin, le mardi 5 juillet, le mardi 30 août, le mardi 13 septembre de 10h à 12h</p>
-    <p class="intro-text">Le 21 mai : lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la La journée mondiale Parkinson à Paray-le-Monial, en partenariat avec France Parkinson 71.</p><div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71_phihkp.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1652090498/invitation_A5_71p2_ab5fe4.jpg"></div></div>
+    <p class="intro-text">Le 21 mai : lecture en musique de témoignages de personnes atteintes de la maladie de Parkinson, dans le cadre de la La journée mondiale Parkinson à Paray-le-Monial, en partenariat avec France Parkinson 71.</p><div class="flex-container"><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1652090498/invitation_A5_71_phihkp.jpg"></div><div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1652090498/invitation_A5_71p2_ab5fe4.jpg"></div></div>
 
 <h2>Avril 2022</h2>
 <p class="intro-text">
     <p class="intro-text">Démarrage de notre recueil de témoignages et de travail photographique <a href="/histoires-de-transmission">Histoires de transmission</a> autour de la question des départs à la retraite au sein des familles d'agriculteurs. Signature de la convention avec la MSA.
-        <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
+        <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
 </p>
 
 <p class="intro-text">
     <hr>
     <p class="intro-text">Continuité de notre cycle de performances artistiques <a href="/derriere-nos-portes">derrière nos portes</a> et de préparation de spectacle avec les résidents du Foyer La Villandière/Ugecam de Charnay les Macon
-        <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159519/IMG-20220422-WA0000_vrk8hx.jpg"></div></p>
+        <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1651159519/IMG-20220422-WA0000_vrk8hx.jpg"></div></p>
     <hr>
     <p class="intro-text">Préparation de notre prochaine lecture musicale basée sur des témoignages de personnes porteuses de la maladie de Parkinson.</p>
     <hr>
@@ -2005,12 +2005,12 @@ nuit.</p><hr>
 
 <h2>Mars 2022</h2>
 <p class="intro-text">
-    <p class="intro-text">Le 5 mars 2022 à 17h&nbsp;: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></p>
+    <p class="intro-text">Le 5 mars 2022 à 17h&nbsp;: Représentation de <a href="bercer-l-enfant-manquant">bercer l'enfant manquant</a> à Tournus au Cellier des Moines, en partenariat avec Vivre au Féminin<br><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg"></div></p>
     <hr>
-    <p class="intro-text">Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></p>
+    <p class="intro-text">Les 8 et 9 mars à Lyon&nbsp;: Lectures en musique de plusieurs témoignages d’aidants, <a href="lpqp-lecture-musicale">les plus que proches</a> pour le 3ème Congrès Francophone sur le répit et l’accompagnement des aidants, en préambule des conférences de Boris Cyrulnik, Eric Fiat, Tanguy Châtel...<a href="https://www.france-repit.fr/actualites/a-vos-agendas/"><img class="center-max600-block" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1645288092/flyer-3e-congre%CC%80s-sur-le-re%CC%81pit_b69ekm.jpg"></a><div class="figCapCenter">cliquer pour aller sur le site</div></p>
     <hr>
     <p class="intro-text">Le 11 mars à Charnay les Mâcon&nbsp;: démarrage de l’atelier <a href="/derriere-nos-portes">derrière nos portes</a>
-    <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></p>
+    <div style="margin-top:10px" class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1645291002/art-postal-chat-jaune_kkpnls.jpg"></div><div class="figCapCenter">une des soixante invitations personnalisées envoyées aux résidents</div></p>
 
     <hr>
 <h2>Février 2022</h2>

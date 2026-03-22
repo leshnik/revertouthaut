@@ -13,7 +13,7 @@ Un CADA, un HUDA, un PRAHDA, un CAES : tous ces mots jargonneux qui vont pourtan
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
     </div>
     <div class="column">
-        <a href="FLYER Empreintes sur le chemin web.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">
+        <a href="FLYER Empreintes sur le chemin web.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1707897853/empreintes-back_sc02cr.png">
         <div class="cite">cliquer pour télécharger le flyer</div></a>
     </div>
 </div>
@@ -150,7 +150,7 @@ Puis il s’en va, avant les autres, il a tout donné, on dirait. »</cite></p>
 
 <div class="center-block">
         <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour une courte présentation à télécharger.</a>
 </div>
  
 <p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Foundation de France, de la DRAC Bourgogne Franche-Comté, de la Délégation Départementale aux Solidarités, de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>

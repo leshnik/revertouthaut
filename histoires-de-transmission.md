@@ -12,23 +12,23 @@ Donc je vends que l’outil de travail, les bêtes, les bâtiments, le matériel
 Le chêne devant l’entrée de la ferme, je le vends pas, je peux pas, c’est mon arbre, celui de mes parents, de mes grands-parents. Il faut que je le garde. Je vais faire passer un géomètre pour qu’il change le tracé de ce que je vends. Il faut que je garde cet arbre, il m’a vu grandir et bosser comme un taré.&nbsp;»</em></div>
 <div class="cite">Frédéric, éleveur Bovin, Brionnais</div>
 
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673783378/IMG_6115_ojnoiz.jpg"></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673783378/IMG_6115_ojnoiz.jpg"></div>
 
 <p class="intro-text">
 <a href="#">Histoires de transmissions</a> est un projet social et artistique,  basé sur des rencontres, des échanges de paroles et d’expériences avec des agriculteurs en âge du départ à la retraite <span style="font-weight:bold">installés en Saône et Loire</span> et se confrontant à la difficile question de trouver un ou des repreneurs.</p>
 
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
 
 <p class="intro-text">Les objectifs de ce projet sont d'accompagner sur une certaine durée et de manière intime des familles durant ce passage complexe d'une époque vers une autre, de faire connaître leurs situations à la société toute entière, d'aider les autres agriculteurs qui devront d'ici quelques temps prendre ce même chemin de décisions, et de participer de manière artistique et créative à la prise en compte de cette problématique contemporaine, cruciale pour notre territoire. De manière plus large, ce projet s'inscrit dans la nécessité de rendre compte des changements que traverse le monde rural. Et ils sont nombreux, complexes, enchevêtrés, au carrefour de l’intime, du familial, de l’économique, du foncier, du paysage et de l’aménagement du territoire, de l’écologie, des besoins alimentaires et des changements de consommation et des changements sociaux. </p>
 
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673783378/IMG_2575_udrp6w.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673783378/IMG_2575_udrp6w.jpg">
 </div>
 <p class="intro-text">Ce projet est mené par Valérie Gaudissart, cinéaste et médiatrice artistique et Lucie Moraillon, photographe, toutes deux installées dans le Clunysois depuis de nombreuses années, engagées artistiquement et socialement dans leur territoire rural, et sensibilisées à la question de la transformation du monde rural.
 Ce projet innovant va se déployer en plusieurs étapes et sur une temporalité assez étendue, sur deux ans. Il va réunir un travail photographique, des expositions, des recueils de témoignages, un travail d’écriture, la réalisation d’un film documentaire photographique, et un cycle de projections et de rencontres sur notre territoire et au-delà.</p>
 
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673796609/cow-staring-dark_a9v76u.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673796609/cow-staring-dark_a9v76u.jpg">
 </div>
 
 <!-- <h2>film photographique en cours de réalisation</h2>
@@ -54,7 +54,7 @@ Ce projet innovant va se déployer en plusieurs étapes et sur une temporalité 
 
 <h2>STRESSE</h2>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673783378/IMG_6545_gjmead.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673783378/IMG_6545_gjmead.jpg">
 </div>
 <div class="quote"><em>«&nbsp;Mon père a toujours compté sur moi, depuis tout gamin. 
 Il voulait que je reprenne, il me disait:</em> <span style="font-weight:bold">«&nbsp;Il faut faire la ferme, il faut rester&nbsp;».</span>
@@ -72,7 +72,7 @@ Mais au fond de moi, j’ai un rêve, que je dis pas. J’ai un petit fils, le f
 
 <h2>LA SOLITUDE</h2>
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673783378/IMG_6156_a9optc.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673783378/IMG_6156_a9optc.jpg">
 </div>
 <div class="quote"><em>«&nbsp;L’élevage, c’est de la présence. Et j’ai tout le temps travaillé seul. Tout seul. 
 Je me suis senti tout le temps tout seul. Dans les coins de pré des après-midi à tourner avec le tracteur, l’hiver à l’étable. 
@@ -96,12 +96,12 @@ Je peux pas me dire, c’est la retraite, c’est la fête&nbsp;!&nbsp;»</em>
 <div class="cite">Frédéric, éleveur bovin, Brionnais</div>
 <br>
 <div class="center-max600-block" style="border: 1px solid grey">
-<a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
+<a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
 </div>
 
 <p class="intro-text">
 Projet soutenu par la MSA, début mars 2022. 
 </p>
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673783378/IMG_6553_ghefds.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673783378/IMG_6553_ghefds.jpg">
 </div>

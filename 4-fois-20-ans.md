@@ -50,13 +50,13 @@ On dit qu'on a toujours vingt ans...»</em></div>
 
 <div class="flex-container-wrap">
   <div>
-    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666776341/monique-piano-thumbnail_rnszq1.jpg">
+    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1666776341/monique-piano-thumbnail_rnszq1.jpg">
       <source src="https://rth8.b-cdn.net/au-piano-monique+morton-gmail-large.mp4">
     </video>
     <figcaption class="figCapCenter">L'ancienne professeure de piano<br>retrouve son instrument...</figcaption>
   </div>
   <div>
-    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666289661/dans-les-yeux-clairs-thumb_qzpko9.jpg">
+    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1666289661/dans-les-yeux-clairs-thumb_qzpko9.jpg">
       <source src="https://rth8.b-cdn.net/dans-les-yeux-clairs272x480.mp4">
     </video>
     <figcaption class="figCapCenter">Chanson: Les yeux clairs de Monique</figcaption>

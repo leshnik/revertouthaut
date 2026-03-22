@@ -453,7 +453,7 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705081952/Les_e%CC%82tres_humaines-P1010716_vnrsoy.jpg" style="width:100%;" alt="">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705081952/Les_e%CC%82tres_humaines-P1010716_vnrsoy.jpg" style="width:100%;" alt="">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -465,7 +465,7 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082195/Les_e%CC%82tres_humaines-547_duh22c.jpg" style="width: 100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082195/Les_e%CC%82tres_humaines-547_duh22c.jpg" style="width: 100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -476,7 +476,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082323/Les_e%CC%82tres_humaines-487_klrxxt.jpg" style="width:100%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082323/Les_e%CC%82tres_humaines-487_klrxxt.jpg" style="width:100%;">
       <figcaption class="figCap">© So Beau-Blache</figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -488,7 +488,7 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg" style="width:100%;">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg" style="width:100%;">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -499,7 +499,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082521/_DSC1616_rh2vjd.jpg" style="width:100%">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082521/_DSC1616_rh2vjd.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -510,7 +510,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082630/30_NOVEMBRE_2012_149_cyknzz.jpg" style="width:100%">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082630/30_NOVEMBRE_2012_149_cyknzz.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -522,7 +522,7 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082728/30_NOVEMBRE_2012_202_l8hf5x.jpg" style="width: 100%;">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082728/30_NOVEMBRE_2012_202_l8hf5x.jpg" style="width: 100%;">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -532,7 +532,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082837/_DSC2506_qxoypn.jpg" style="width:100%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082837/_DSC2506_qxoypn.jpg" style="width:100%;">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -543,7 +543,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705082978/_DSC1602_u0mswg.jpg" style="width:100%;">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082978/_DSC1602_u0mswg.jpg" style="width:100%;">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -553,7 +553,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1705083490/manif-671_ink8f3.jpg" style="width:100%"> 
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705083490/manif-671_ink8f3.jpg" style="width:100%"> 
     </figure>
     <a class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
   </div>

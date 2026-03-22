@@ -150,14 +150,14 @@ Saurons nous continuer à soutenir ta joie de vivre, ton caractère de feu&nbsp;
 
 <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630667517/mains-famille-coeur_vhiwug.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1630667517/mains-famille-coeur_vhiwug.png">
       <figcaption class="figCap"></figcaption>
     </figure>
     <div class="numbertext center-text">1 / 2</div>
 </div>
 <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630667521/mains-adeline_vg8plb.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1630667521/mains-adeline_vg8plb.png">
       <figcaption class="figCap"></figcaption>
     </figure>
     <div class="numbertext center-text">2 / 2</div>

@@ -20,7 +20,7 @@ summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des
 
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157919/partition-sur-genoux_rjzsbs.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632157919/partition-sur-genoux_rjzsbs.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <div class="numbertext center-text">1 / 6</div>
@@ -28,7 +28,7 @@ summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des
 
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157915/sid-uku-white-hair_gqphyv.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632157915/sid-uku-white-hair_gqphyv.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <div class="numbertext center-text">2 / 6</div>
@@ -36,7 +36,7 @@ summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des
 
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157911/morton_christelle_raqzev.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632157911/morton_christelle_raqzev.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <div class="numbertext center-text">3 / 6</div>
@@ -44,7 +44,7 @@ summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des
 
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157919/morton-piano-ipad_groupe-au-loin_xruixe.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632157919/morton-piano-ipad_groupe-au-loin_xruixe.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <div class="numbertext center-text">4 / 6</div>
@@ -52,7 +52,7 @@ summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des
 
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157920/isis_sylvie_v_m-outside_fbwkmx.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632157920/isis_sylvie_v_m-outside_fbwkmx.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <div class="numbertext center-text">5 / 6</div>
@@ -60,7 +60,7 @@ summary: Le projet “Composition de chansons” de Rêver Tout Haut propose des
 
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632157922/magali_val_morton_restitution_fleixi.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632157922/magali_val_morton_restitution_fleixi.jpg">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <div class="numbertext center-text">6 / 6</div>
