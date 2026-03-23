@@ -9,6 +9,9 @@ summary:
 <p class="intro-text">Les êtres humaines invitées du JT de France3 Franche-Comté le mercredi 18 mars 2026</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/1945e274-31f0-428b-a804-3f768d20c81b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
+<p class="intro-text">Interview de Valérie Gaudissart sur RCF Franche-Comté par Chloé Vernet</p>
+<audio controls src="https://rth8.b-cdn.net/RCF_Franche-Comte%CC%81_Chloe%CC%81-Vernet.mp4"></audio>
+
 
 <p class="intro-text">Et voici notre toute dernière bande-annonce, filmée le 25 novembre 2025 au Théâtre Le Palace à Cuisery</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eed31e47-9253-40ed-ba64-bd722a41b6c5?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
