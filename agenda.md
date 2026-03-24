@@ -141,7 +141,10 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     <div class="center-max600-block">
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1773128768/leh2_bourbon_fn1awb.jpg">
     </div>
-</div>
+    <div class="center-max450-block">
+      <a href="Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
+    </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 
