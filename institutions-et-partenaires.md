@@ -5,12 +5,12 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 ---
 <h1>rêver tout haut est membre de&nbsp;:&nbsp;</h1>
 <div class="logo">
-  <a href="Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)">
+  <a href="https://www.federationsolidarite.org/regions/bourgogne-franche-comte/" rel="noopener noreferrer" target="_blank">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png">Fédération des acteurs de la Solidarité (FAS)</a>
 </div>
 <br>
 <div class="logo">
-  <a href="Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)">
+  <a href="https://www.federation-apcp.org/printemps-des-arts-participatifs/" rel="noopener noreferrer" target="_blank">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
 </div>
 <br><br>
