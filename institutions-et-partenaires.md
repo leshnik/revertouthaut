@@ -3,7 +3,7 @@ layout: logoTop
 title: institutions et partenaires
 summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lumière les collaborations avec divers acteurs culturels, sociaux et médicaux, soutenant la création artistique et l’engagement auprès des publics accompagnés.
 ---
-<h1>Rever tout haut est membre de&nbsp;:&nbsp;</h1>
+<h1>rêver tout haut est membre de&nbsp;:&nbsp;</h1>
 <div class="logo">
   <a href="Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png">Fédération des acteurs de la Solidarité (FAS)</a>
