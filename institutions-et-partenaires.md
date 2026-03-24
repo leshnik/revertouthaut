@@ -10,8 +10,8 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 </div>
 <br>
 <div class="logo">
-  <a href="https://www.federation-apcp.org/printemps-des-arts-participatifs/" rel="noopener noreferrer" target="_blank">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
+  <a href="https://www.federation-apcp.org" rel="noopener noreferrer" target="_blank">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774348332/ScreenFloat_Shot_B6D045C78EAD_ehkfww.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
 </div>
 <br><br>
 
