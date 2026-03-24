@@ -3,6 +3,20 @@ layout: logoTop
 title: institutions et partenaires
 summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lumière les collaborations avec divers acteurs culturels, sociaux et médicaux, soutenant la création artistique et l’engagement auprès des publics accompagnés.
 ---
+<h1>Rever tout haut est membre de&nbsp;:&nbsp;</h1>
+<div class="logo">
+  <a href="Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png">Fédération des acteurs de la Solidarité (FAS)</a>
+</div>
+<br>
+<div class="logo">
+  <a href="Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
+</div>
+<br><br>
+
+
+
 <h1>les projets de rêver tout haut<br> sont soutenus par&nbsp;:</h1>
 <div class="logo">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721553691/_logo_conseil_de%CC%81partemental_officiel_fnr1lj.png">Le Conseil Départemental de Saône et Loire
