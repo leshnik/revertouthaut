@@ -5,7 +5,11 @@ summary:
 ---
 <h1>les êtres humaines</h1> 
 <h2>spectacle musical autour des violences conjugales</h2>
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png" style="width:400px;">Le Fonds Social Européen
+</div><br><br>
 <h1>création 2025 et tournée 2026-27</h1>
+
 <p class="intro-text">Les êtres humaines invitées du JT de France3 Franche-Comté le mercredi 18 mars 2026</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/1945e274-31f0-428b-a804-3f768d20c81b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
