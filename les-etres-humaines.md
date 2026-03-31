@@ -1,6 +1,6 @@
 ---
 layout: logoTop
-title: journal de bord
+title: Les êtres humaines
 summary: 
 ---
 <h1>les êtres humaines</h1> 
