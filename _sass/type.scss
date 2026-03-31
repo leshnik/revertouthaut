@@ -290,6 +290,37 @@ li > ul {
 li {
   padding-bottom: 0.7em;
 }
+/*
+Source - https://stackoverflow.com/a/15710719
+Posted by What have you tried, modified by community. See post 'Timeline' for change history
+Retrieved 2026-03-28, License - CC BY-SA 4.0
+*/
+
+.horizontal-list ul > li {
+    display: inline-block;
+    
+    /* You can also add some margins here to make it look prettier */
+}
+.horizontal-list-color ul > li > a {
+  color:#fff;
+
+}
+.sticky-div {
+    background-color: #9a7448;
+    position: relative;
+    width: 100%;
+    padding: 1px 0px;
+    z-index: 1;
+}
+
+.start {
+    height: 0px;
+}
+
+.end {
+    height: 0px;
+}
+
 .bullet {
   font-family: "Crimson Text", serif;
   letter-spacing: 0.2rem;
