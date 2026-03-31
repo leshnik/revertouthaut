@@ -1,26 +1,147 @@
 ---
 layout: logoTop
-title: les êtres humaines
-summary:
+title: journal de bord
+summary: 
 ---
 <h1>les êtres humaines</h1> 
 <h2>spectacle musical autour des violences conjugales</h2>
 <h1>création 2025 et tournée 2026-27</h1>
 <div class="right-side-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png" style="width:200px;"></div><br>
+    <img src="https://ik.imagekit.io/eownvzurl/Cofinanc%C3%A9EU_a0aRQLa7T.png" style="width:200px;"></div><br style="margin-bottom:20px">
+<p class="start"></p>
+<div class="sticky-div">
+  <nav class="horizontal-list horizontal-list-color">
+    <ul style="margin-top:0px; margin-bottom:0px; display:flex; flex-wrap:wrap; white-space:normal; justify-content: space-evenly;">
+      <li><a href="#présentation">Présentation&nbsp;</a></li>
+      <li><a href="#genèse">Genèse&nbsp;</a></li>
+      <li><a href="#presse">Presse&nbsp;</a></li>
+      <li><a href="#tv/radio">TV_Radio&nbsp;</a></li>
+      <li><a href="#media">Media&nbsp;</a></li>
+      <li><a href="#photos">Photos&nbsp;</a></li>
+      <li><a href="#extraits">Extraits&nbsp;Texte&nbsp;</a></li>
+      <li><a href="#dates">Agenda&nbsp;</a></li>
+      <li><a href="#contribuer">Contribuer&nbsp;</a></li>
+      <li><a href="#">&uarr;</a></li>
+    </ul>
+  </nav>
+</div>
+<div class="end"></div>
+
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/LehFlyer_0d28fikec.png">
+</div>
+
+<div id="tv/radio"></div><br style="margin-bottom:25px">
 <p class="intro-text">Les êtres humaines invitées du JT de France3 Franche-Comté le mercredi 18 mars 2026</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/1945e274-31f0-428b-a804-3f768d20c81b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
 <p class="intro-text">Interview de Valérie Gaudissart sur RCF Franche-Comté, le 19 mars 2026, par Chloé Vernet</p>
 <audio controls src="https://rth8.b-cdn.net/RCF_Franche-Comte%CC%81_Chloe%CC%81-Vernet.mp4"></audio>
 
+<p class="intro-text">Reportage France3 du 27 février 2026&nbsp;:&nbsp;</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/275ec5b7-e7d0-4f90-86a1-1a22cb4d20c4?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<div id="media"></div><br style="margin-bottom:15px;">
 
 <p class="intro-text">Et voici notre toute dernière bande-annonce, filmée le 25 novembre 2025 au Théâtre Le Palace à Cuisery</p>
-<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eed31e47-9253-40ed-ba64-bd722a41b6c5?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eed31e47-9253-40ed-ba64-bd722a41b6c5?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div><br>
+
 
 <p class="intro-text">Les êtres Humaines en répétition le 20 octobre 2025</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/67fbdcea-f4d8-41b1-a54d-350a878a3d18?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <p class="cite">Captation réalisée par Mickaël Pillisio</p>
+
+<h2>podcasts des ateliers</h2>
+<div id="2025-03-19">
+<div class="center-max450-block">
+        <figure>
+            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19<br>
+                
+            </figcaption>
+                <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
+        </figure>
+        <img src="https://ik.imagekit.io/eownvzurl/clayFrogBigSmilingFace_huoWMI840.png"></div>
+</div>
+<div id="2025-03-22">
+<div class="center-max450-block">
+        <figure>
+            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-22<br>
+                
+            </figcaption>
+                <audio controls src="https://TWpull.b-cdn.net/samedi%2022%20mars%202eme%20episode.mp3"></audio>
+        </figure>
+        <img src="https://ik.imagekit.io/eownvzurl/fourPhotosTrees_G7fWyusXr-.png">
+        </div>
+</div>
+<div id="2025-04-09">
+  <div class="center-max600-block">
+      <figure>
+          <figcaption>Besançon&nbsp;:&nbsp;2025-04-09</figcaption>
+          <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
+      </figure>
+      <div class="flex-container">
+        <div class="column">          
+          <img src="https://ik.imagekit.io/eownvzurl/childBlackHairRedHeartTopRight_p51XsFYLf.png">
+        </div>
+        <div class="column">
+          <img src="https://ik.imagekit.io/eownvzurl/collageTypoJeReveDe_mcfI4qxNM.jpg">
+        </div>
+      </div>  
+  </div>
+</div>
+<div id="2025-04-19">
+  <div class="center-max450-block">
+    <figure>
+      <figcaption>Saint Vallier&nbsp;:&nbsp;2025-04-19</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
+    </figure>
+    <img src="https://ik.imagekit.io/eownvzurl/handDrawingWomanFlowersHairHandsScissors_PrWWyA-Ov.png">
+  </div>
+</div>
+<div id="2025-04-27">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Virey-le-Grand&nbsp;:&nbsp;2025-04-27</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
+    </figure>
+    <div class="flex-container">
+        <div class="column">
+          <img src="https://ik.imagekit.io/eownvzurl/typeIngStefIliadaNala_io173UtHE.png">
+        </div>
+        <div class="column">
+          <img src="https://ik.imagekit.io/eownvzurl/drawingKeithCrayonQuentrecWatching_Z80JvA7gN.png">
+        </div>
+      </div>
+  </div>
+</div>
+<div id="2025-05-17">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Dole&nbsp;:&nbsp;2025-05-17</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20dole.mp3"></audio>
+    </figure>
+    <div class="flex-container">
+        <div class="column">
+          <img src="https://ik.imagekit.io/eownvzurl/typeTrioC%C3%A9lineRightSide_OlXPLO6kE.png">
+        </div>
+        <div class="column">
+          <img src="https://ik.imagekit.io/eownvzurl/8atTableSidStandingRedCenter_F7SE6XN8J.png">
+        </div>
+      </div>
+  </div>
+</div>
+<div id="2025-05-21">
+  <div class="center-max600-block">
+    <figure>
+      <figcaption>Bourbon-Lancy&nbsp;:&nbsp;2025-05-21</figcaption>
+      <audio controls src="https://rth8.b-cdn.net/podcast%20bourbon%20lancy.mp3"></audio>
+    </figure>
+    <img src="https://ik.imagekit.io/eownvzurl/auBordDuGouffre-handwritten_PiTNlbzhH.png">
+  </div>
+</div>
+
+<div id="contribuer"></div><br style="margin-bottom:25px">
+<h2>contribution</h2>
 <p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
 
 <p class="intro-text">Cliquer sur notre page <a href="agenda">agenda</a> pour connaitre les dates de la tournée</p>
@@ -28,30 +149,30 @@ summary:
   <div class="quote">«&nbsp;Les Êtres Humaines&nbsp;», grande aventure qui dure depuis un an déjà. Nous avons posé nos valises, nos pinceaux et nos bouts de papier à travers la Bourgogne-Franche-Comté. Nous avons rencontré des femmes de tous âges, de tous milieux, de tous horizons, avec pour ressemblance la fracture brulante inscrite en elles par les violences conjugales. Nous avons recueilli leurs voix et leurs histoires à travers des ateliers artistiques, et voilà qu'aujourd'hui un spectacle est né, porté par 6 d'entre elles, 4 comédiennes et un musicien. Ce spectacle tient du miracle et de la puissance de ces femmes, d'une urgence absolue de dire, d'un travail colossal de Rêver Tout Haut.
 La première s'est passée vendredi 27 février à Cluny, et à sentir l'étreinte effrénée du public à la fin du spectacle, on mesure l'importance d'aborder un tel sujet au plus grand nombre. C'est vertigineux »
   </div></p>
-
-<p class="intro-text">Reportage France3 du 27 février 2026&nbsp;:&nbsp;</p>
-<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/275ec5b7-e7d0-4f90-86a1-1a22cb4d20c4?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+  
+<div id="photos"></div><br style="margin-bottom:20px">
 
 <p class="intro-text">Photos de notre résidence au Théâtre les Arts de Cluny, du 23 au 26  février, faites par Lucie Moraillon</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624412/ScreenFloat_Shot_37814526A41F_hglqbf.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624536/ScreenFloat_Shot_10C74EAF944D_qxwijd.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624702/ScreenFloat_Shot_35594ADAB67B_t6y247.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624805/ScreenFloat_Shot_9E7D4970B146_fmy8fz.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624890/ScreenFloat_Shot_417E4786B504_ocjaek.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772624986/ScreenFloat_Shot_0F7A4322A9FB_r0o57d.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772625082/ScreenFloat_Shot_B00C46798B5D_gh4sam.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772625184/ScreenFloat_Shot_9AC64671A62D_s40iii.png">
+  <img src="https://ik.imagekit.io/eownvzurl/noussommeressucit%C3%A9es_aWFhdux86.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/lydHayMad-table_A5uEPzj1f.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/jenFloMasngbe_retroproj_O6ELVesFf.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/sidB&Wdispardon_Zoo4YmWh9.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/keithHands-stretched_LVnzcXeOd.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/jenIng-background_q2N8XV2njh.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/madAurelScreenFloHayJen-front_6uB5eKlJr.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/SidJenMadHay-hands-saluts_0473n05f8.png">
 </div>
 
+<div id="presse"><br style="margin-bottom:15px">
 <h2>Articles de presse</h2>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
+  <img src="https://ik.imagekit.io/eownvzurl/jslC'estUneTh%C3%A9rapie_F03oq0FrZ.png">
 </div>
 <p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire</a> Article, et photos prises lors des répétitions au théâtre de Cluny, par Adrien Wagnon.</p>
 <hr>
 <div class="center-max600-block">
-  <a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png"></a>
+  <a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/JslLeSpectEnImages_CVt9-emzfi.png"></a>
 </div>
 <p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon. Son article paru le 03/03/2026&nbsp;:&nbsp;</p>
 <div class="quote">Cluny<br>
@@ -61,20 +182,26 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
 «&nbsp;Une être humaine, c'est celle qui n'a pas le droit de regarder par la fenêtre, celle qui doit oublier le mot non, celle qui est en danger dans sa propre maison. Et c'est celle qui un jour, emportant ses gamins et son baluchon, trouve la force de s'enfuir, de s'échapper d'un domicile conjugal nocif, mortifère, violent. C'est celle qui sauve sa peau et qui, avec le temps, va reconstruire une vie ailleurs, autrement, et va monter sur scène pour raconter.&nbsp;»<br>
 –Après le spectacle "Vive" en novembre, la représentation des "Etres humaines" a constitué le second temps de la démarche collective menée par la Ville de Cluny, avec le soutien de différents partenaires (Département, Communauté de Communes, associations locales concernant les violences intrafamiliales. Le réseau VIF Cluny (réseau de lutte contre les violences intrafamiliales) est coordonné par le centre social.
 </div>
-
+<div id="dates"></div><br style="margin-bottom:20px">
 <h2>représentations</h2>
 <p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
 
 <ul class="bullet">
-<li>Le 27 février 2026 au Théâtre les Arts à Cluny (71), après-midi et soir </li>
-<li>Le 5 mars 2026 à l’ECLA à Saint Vallier (71), après-midi</li>
-<li>le 19 mars 2026 à Besançon (25)</li>
-<li>Le 2 avril 2026 à la Salle Saint Luc à Bourbon Lancy (71), après-midi et soir</li> 
-<li>Le 24 novembre 2026 à Yzeure (03)</li>
-<li>Le 01 décembre 2026 à Bellerive-sur-Allier (03)</li> 
+  <li>Le 27 février 2026 au Théâtre les Arts à Cluny (71), deux représentations</li>
+  <li>Le 5 mars 2026 à l’ECLA à Saint Vallier (71), une représentation</li>
+  <li>le 19 mars 2026 à Besançon (25), au Centre Social Planoise, deux représentations</li>
+  <li>Le 2 avril 2026 à la Salle Saint Luc à Bourbon Lancy (71), deux représentations</li>
+  <li>Du 2 au 13 novembre à Chauffailles (71) deux semaines de résidence, répétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</li>
+  <li>Le 14 novembre 2026 à Chauffailles (71), une représentation tout public </li>
+  <li>Le 17 novembre 2026 : à Montluçon (03), deux représentations </li>
+  <li>Le 24 novembre 2026 à Yzeure (03) deux représentations</li>
+  <li>Le 25 novembre 2026 à Chalon-sur-Saône (71) à confirmer</li>
+  <li>Le 1 décembre 2026 à Bellerive-sur-Allier (03) deux représentations</li>
+  <li>Les 3 et 4 décembre 2026 à Mâcon (71) quatre représentations</li>
 </ul>
-<p class="intro-text">D’autres dates à venir à Macon, Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en bleu sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
+<p class="intro-text">D’autres dates à venir à Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en bleu sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
 
+<div id="présentation"></div><br style="margin-bottom:20px">
 <h2>Résumé et présentation</h2>
 
 <p class="poem">Une être humaine,<br>
@@ -88,14 +215,12 @@ et qui par sa parole, aidera les autres à se protéger, à comprendre et à leu
 
 <p class="intro-text">C’est donc une femme qui va changer de statut, dans son propre regard et dans celui des autres, et qui ne sera plus ni victime ni paillasson, mais être humaine, entière et transformée.</p>
 
-<div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479944/ScreenFloat/Screenshot_of_Iridium_at_20_Jul_2024_at_14_51_58_s3p6ea.jpg">
-</div>
+
 <p class="intro-text"><strong>Les Êtres humaines</strong> est un spectacle basé sur des rencontres et des échanges avec une centaine de femmes victimes et une trentaine de travailleuses sociales, lors d’ateliers artistiques menées en 2025 dans différentes villes de Bourgogne Franche-Comté : Besançon, Dole, Chalon sur Saône, Macon, Saint Vallier, Bourbon Lancy, en partenariat avec de multiples structures d’accompagnement de victimes (PEP 71, réseaux VIF, Solidarité Femmes, Coop’Agir…)</p>
 
 <p class="intro-text">Les témoignages recueillis ont été transformés pour la scène et le spectacle est joué par des artistes professionnelles et par des femmes ayant survécu à la violence conjugale.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732606/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.26.04_f1tvok.png">
+  <img src="https://ik.imagekit.io/eownvzurl/RageDeVivre+allManif_e3Tuaa40o.png">
 </div>
 
 <p class="intro-text">Ces femmes, anciennement victimes et qui se débattent toujours avec les retentissements de cette violence, prennent la parole, sortent de leur invisibilité, du silence imposé, et apportent la preuve sur scène d’une forme de reconstruction, et de la nécessité de transmettre leur expérience, pour les autres.</p>
@@ -103,13 +228,13 @@ et qui par sa parole, aidera les autres à se protéger, à comprendre et à leu
 
 <p class="intro-text">Le spectacle, explore toute la complexité, l’intimité, les ambivalences des situations d’emprise et fait émerger l’énergie à déployer pour s’en sortir. Il est en soi une sorte de leçon : il aide à comprendre les mécanismes de la violence conjugale, il aide à penser, il donne des outils pour agir, pour tendre la main.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732589/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.22.34_uhdgme.png">
+  <img src="https://ik.imagekit.io/eownvzurl/retroProjBeigeCircle_8Z-tfQYtM.png">
 </div>
 
 <p class="intro-text">La violence conjugale est un désastre humain et social. Il concerne la société toute entière, surtout dans une société qui a tendance à privilégier l’agression plutôt que la protection.</p>
 <p class="intro-text">Les Êtres Humaines est pour Rêver Tout Haut une manière d’apporter son soutien à cette lutte et prise de conscience globale et de participer à de la prévention, notamment à destination des jeunes. </p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732597/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.20.54_vgtrbz.png">
+  <img src="https://ik.imagekit.io/eownvzurl/marcellineWithMarieWholeGroup__CmU8sD7V.png">
 </div>
 
 <p class="intro-text">Les ateliers artistiques et la création du spectacle ont été possibles grâce à de nombreux soutiens : le Fonds Social Européen, la Délégation Départementale aux Solidarités 71, les PEP 71, Solidarité Femmes Besançon, le Conseil Départemental de Saône et Loire, le Conseil Régional de Bourgogne Franche-Comté, la DRAC Bourgogne Franche-Comté, le FDVA BFC, la CPAM 71, et l’agglomération Maconnais-Beaujolais.</p> 
@@ -118,18 +243,14 @@ et qui par sa parole, aidera les autres à se protéger, à comprendre et à leu
 <h2>Le spectacle 2025 et sa tournée en 2026-27</h2>
 <p class="intro-text">A partir des rencontres et des témoignages recueillis en 2025, nous avons écrit un texte et des chansons. Pour la scénographie, nous nous sommes inspirées de ce qui a été créé en ateliers, notamment les photos et les peintures. 
 La musique y joue une grande place, et donne rythme, consolation, et vitalité aux multiples récits qui se croisent, se répondent et se complètent.</p>
-
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732589/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.25.30_jv0nsx.png">
+  <img src="https://ik.imagekit.io/eownvzurl/paintingBlackBoardIngValHayKeith_Q_eRA4X8t.png">
 </div>
-
 <p class="intro-text">Sur scène, cinq artistes professionnelles et sept femmes anciennement victimes, racontent et incarnent toute la facette émotionnelle que la violence et l’emprise engendrent.  </p>
 <p class="intro-text">Nous voici donc 15 dans l’équipe ! </p>
-
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732595/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.24.52_fzsta6.png">
+  <img src="https://ik.imagekit.io/eownvzurl/all9AurFlorSidValKeithIngHayJenMad_gB_Rf4atl.png">
 </div>
-
 <p class="intro-text">Sur scène, 11 personnes : Keith Akenda, Jenny Bailly, Hayate Benikhlef, Marie-Adeline Gnolud, Sidonie Dubosc, Inga Gasciuc, Valérie Gaudissart, Aurélie Loutan, Lydie Nkoumou, Morton Potash, Flore Simon</p>
 
 <p class="intro-text">Lumières: Florian Girard<br>
@@ -141,6 +262,7 @@ Composition: Morton Potash et Sidonie Dubosc<br>
 Assistanat mise en scène: Flore Simon</p>
 
 
+<div id="extraits"></div><br style="margin-bottom:20px">
 <h2>Quelques extraits du texte et quelques photos de répétition&nbsp;:&nbsp;</h2>
 
 <div class="quote">
@@ -172,14 +294,9 @@ Les enfants se sont endormis dans la voiture et moi j’ai regardé défiler le 
 
 <p class="intro-text">Les spectatrices et spectateurs sont invité.es à la suite de représentations à un long temps d’échanges, d’écoutes et de conseils. Nous jouerons le spectacle deux fois par jour, pour pouvoir accueillir en après-midi les scolaires, les professionnel.les et toute autre personne, et en soirée pour le tout public. Les représentations sont gratuites pour le public et sont co-organisées avec des structures locales d’accompagnement de victimes.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732590/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.22.02_xrqt8h.png">
+  <img src="https://ik.imagekit.io/eownvzurl/flore-painterJen-stool_KJOQOxXZ1F.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/keithPartialCircleRetroproj_k-oaeOza5.png">
 </div>
-
-
-<div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763732592/Capture_d_e%CC%81cran_2025-11-19_a%CC%80_17.23.31_z7nhis.png">
-</div>
-
 <p class="intro-text">Pour tout renseignement&nbsp;:&nbsp;<br> 
 
 Coordinatrice<br>
@@ -192,7 +309,7 @@ Laurent Forest, (Ils Scenent)<br>
 06&nbsp;29&nbsp;75&nbsp;83&nbsp;96<br>
 ilsscenent@yahoo.fr
 </p>
-
+<div id="genèse"></div><br style="margin-bottom:25px">
 <h2>Quelques souvenirs des ateliers artistiques</h2>
 <p class="intro-text">Au printemps 2025, ont été proposés en partenariat avec des structures d’accompagnement de victimes, des structures socio-culturelles, et des Réseaux VIF, 7 cycles d’ateliers artistiques&nbsp;:&nbsp;</p>
 <ul class="bullet">
@@ -204,10 +321,10 @@ ilsscenent@yahoo.fr
   <li>Bourbon-Lancy, (71) en partenariat avec le Centre Social et le réseau VIF du Brionnais, du 19 au 21 mai 2025</li>
   <li>Macon (71), en partenariat avec le Centre Social des Blanchettes et le Centre Social de la Chanaye, du 9 au 13 septembre 2025 </li>
 </ul>
-
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757610155/ScreenFloat_Shot_08574FB59481_gyc4bd.jpg">
+  <img src="https://ik.imagekit.io/eownvzurl/flyer9-13sept25M%C3%A2con_UGyT5VteP.png">
 </div>
+
 <p class="intro-text">Ces ateliers de plusieurs jours entiers, proposaient musique, écriture, chant, argile, peinture, art-thérapie, collage, gravure, photographie, et ont permis de nombreux recueils de témoignages, aussi bien de femmes victimes que de travailleuses sociales. Nous avons accueilli des femmes de 18 à 86 ans, et certaines avec leurs enfants, de quelques mois à jeunes adultes.</p> 
 
 <p class="intro-text">Les ateliers étaient encadrés conjointement par une équipe d’artistes : </p>
@@ -221,9 +338,8 @@ ilsscenent@yahoo.fr
   <li>Gaelle Almeras, bédéiste</li>
   <li>Aurélie Loutan, comédienne</li>
 </ul>
-
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763660941/ScreenFloat_Shot_4D6646C6A0D5_yrhi8k.png">
+  <img src="https://ik.imagekit.io/eownvzurl/atelierValStandingFarRight_q8xaOlE6u.png">
 </div>
 <p class="intro-text">Ces ateliers ont été très forts en terme de rencontres, de dépôts de paroles, de liens créés, et de créations. Certaines femmes accueillies avaient vécu de la violence dans le passé et d’autres n’en étaient pas sorties.</p>
  
@@ -238,42 +354,37 @@ Les premiers temps tout beaux, tout roses mais qui s’installent là où il y a
 
 <p class="intro-text"><strong>L’argile</strong> permet une expression directe avec la matière et l’inconscient. L’argile est malléable, se transforme, mais ne se détruit pas. L’argile permet aussi de raconter son histoire sans les mots.</p>
 
-<div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763662242/ScreenFloat_Shot_EFCA450EBCBD_pd9hhi.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763662408/ScreenFloat_Shot_837140E3A33D_ddfg6z.png">
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/clayObjectsPencilLeftSide_UWgRaOIPt.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/clayMomPregnantBasket4kidsSketchKeith_RmVzrtAWy.png">
 </div>
 <p class="intro-text"><strong>La photographie</strong> permet d’être regardée, et regardée dans toute sa dignité. Elle permet aussi par des effets de profondeurs, de flous, de raconter ce qui était invisible, et qui devient visible.</p>
-<div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763662603/ScreenFloat_Shot_8F0E4C0E9C94_qy6tkw.png">
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/photoBWkeithFromBackWhiteWithStripes_7n9qoO1HK.png">
 </div>
-
 <p class="intro-text"><strong>Le dessin, la peinture</strong> permettent de se pencher sur une feuille, concentrée, de laisser parler les couleurs, d’apprendre des gestes nouveaux et de choisir entre différentes matières : fusain, crayons, encre, aquarelle, acrylique… , cela n’a l’air de rien mais choisir est un pas vers une autonomisation quand on n’a jamais pu décider de quoi que ce soit dans sa vie.</p>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763662839/ScreenFloat_Shot_BA8441738F46_t0blg4.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763662983/ScreenFloat_Shot_E879481AABED_mjdbba.png">
+  <img src="https://ik.imagekit.io/eownvzurl/drawingQuentrecRightKeithLeft_4E7o3l9k6.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/atelierRedTableRightBigRoundFaces_R9GZAThaF.png">
 </div>
 <p class="intro-text">Ce travail visuel permet aussi de réunir plusieurs matières&nbsp;:&nbsp;peinture, collage, écrit, et réunir est très important quand on a l’impression d’avoir été morcelée.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763663135/ScreenFloat_Shot_6D0E430CB9E3_piumdz.png">
+  <img src="https://ik.imagekit.io/eownvzurl/paintedFaceFlowersInHairHandsChickens_pbrNtQ6bz.png">
 </div>
-
 <p class="intro-text"><strong>La typographie et la gravure</strong> sont l’art d’utiliser des caractères d’imprimerie ou des images taillées dans des linos, et de les graver. Cela apprend que les mots ont un poids, une gravité, un sens, et leur utilisation n’est pas anodine. Cela permet d’écrire en grosses lettres ce que l’on a envie de dire ou de crier.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763663334/ScreenFloat_Shot_24C84959ACD1_cpsdtp.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763663396/ScreenFloat_Shot_4E174265B98F_fzhkvh.png">
+  <img src="https://ik.imagekit.io/eownvzurl/c%C3%A9lineCenterMarinaRight_hIuJ9-Sfa.png"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/incapableDeToutTypographie_FWOK_U54b.png">
 </div>
-
 <p class="intro-text"><strong>Le collage</strong> permet de choisir des illustrations, de les agencer, et de construire un récit, de se raconter, de dresser une sorte d’autoportrait par des images et des mots glanés dans des revues et des livres.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763663575/ScreenFloat_Shot_92D64A7796E0_pp33x7.png">
+  <img src="https://ik.imagekit.io/eownvzurl/collageLesCauses_EFfxsPNqQ.png">
 </div>
-
 <p class="intro-text"><strong>Les portraits dessinés</strong>, faits par notre intervenante, Romane Lasserre permettent d’être des nouvelles cartes d’identité, de laisser une trace de soi par le regard et le trait de l’autre. Toutes les femmes dessinées ont amené avec elles ce petit «&nbsp;trophée&nbsp;».</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763663816/ScreenFloat_Shot_17DE40D4977C_ybolw5.png">
+  <img src="https://ik.imagekit.io/eownvzurl/trypticSketchesMohRahmaAbdul_wh15Qiab2.png">
 </div>
-
 <p class="intro-text"><strong>La musique et l’écrit</strong>, lieux d’expression et de consolation par excellence, ont jalonné et bercé chacune de nos journées.
 Des chansons ont été composées à partir des textes écrits, chantées ensemble, enregistrées. Voici quelques extraits de textes&nbsp;:&nbsp;</p>
 <div class="quote"><strong>Il dit</strong><br>
@@ -302,18 +413,15 @@ Il dit moi je n’ai pas de compte à te rendre<br>
 Il dit que c’est en brisant les gens qu’on les garde
 </div>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763664613/ScreenFloat_Shot_E500443998D6_scbepx.png">
+  <img src="https://ik.imagekit.io/eownvzurl/MarinaValSidGuitarRomaneFront_1i8zOytQt.png">
 </div>
-
 <div class="quote"><strong>Beauté</strong><br>
 «&nbsp;Moi j’ai été détruite en tant que femme mais j’ai surtout été détruite en tant que mère.  Il m’a dit, je vais te prendre ce que tu as de plus cher. Et en effet, il m’a pris ce que j’avais de plus précieux. Mes enfants ont rompu avec moi, cela fait neuf ans. Sa violence et ses injures à lui, c’est derrière moi, mais le silence de mes enfants, c’est tous les jours. Et les années sans les voir, sont des années perdues.
 Mais bon je suis vivante.
 Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terrasse de café et je regarde les gens, et les gens des fois, je les trouve beaux, alors je peux m’empêcher, je vais vers eux, et je leur dit : excusez-moi, je voulais juste vous dire que je vous trouve très beau, ou que je vous trouve très belle. C’est tout, et puis je m’en vais.&nbsp;»</div>
-
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763718335/ScreenFloat_Shot_27F54686BC36_r88vbc.png">
+  <img src="https://ik.imagekit.io/eownvzurl/typoLEHmerci_ML8a0GgYD.png">
 </div>
-
 <div class="quote"><strong>Traces</strong><br>
 Traces de coup<br>
 Sur mes bras, sur mon dos<br>
@@ -338,110 +446,12 @@ Je m’échappe<br>
 Et ma route je la trace
 </div>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763718611/ScreenFloat_Shot_D0CA4CA88D9D_c7ibil.png">
+  <img src="https://ik.imagekit.io/eownvzurl/stopRedHand_BT6KTQuN4.png">
 </div>
-
-<h2>podcasts des ateliers</h2>
-<div id="2025-03-19">
-<div class="center-max450-block">
-        <figure>
-            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-19<br>
-                
-            </figcaption>
-                <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
-        </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
-        </div>
-
-</div>
-<div id="2025-03-22">
-<div class="center-max450-block">
-        <figure>
-            <figcaption>Chalon-sur-Saône&nbsp;:&nbsp;2025-03-22<br>
-                
-            </figcaption>
-                <audio controls src="https://TWpull.b-cdn.net/samedi%2022%20mars%202eme%20episode.mp3"></audio>
-        </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
-        </div>
-
-</div>
-<div id="2025-04-09">
-  <div class="center-max600-block">
-      <figure>
-          <figcaption>Besançon&nbsp;:&nbsp;2025-04-09</figcaption>
-          <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
-      </figure>
-      <div class="flex-container">
-        <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
-        </div>
-        <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
-        </div>
-      </div>  
-  </div>
-</div>
-<div id="2025-04-19">
-  <div class="center-max450-block">
-    <figure>
-      <figcaption>Saint Vallier&nbsp;:&nbsp;2025-04-19</figcaption>
-      <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
-    </figure>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
-  </div>
-</div>
-<div id="2025-04-27">
-  <div class="center-max600-block">
-    <figure>
-      <figcaption>Virey-le-Grand&nbsp;:&nbsp;2025-04-27</figcaption>
-      <audio controls src="https://rth8.b-cdn.net/podcast%20virey%20le%20grand.mp3"></audio>
-    </figure>
-    <div class="flex-container">
-        <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
-        </div>
-        <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
-        </div>
-      </div>
-  </div>
-</div>
-
-<div id="2025-05-17">
-  <div class="center-max600-block">
-    <figure>
-      <figcaption>Dole&nbsp;:&nbsp;2025-05-17</figcaption>
-      <audio controls src="https://rth8.b-cdn.net/podcast%20dole.mp3"></audio>
-    </figure>
-    <div class="flex-container">
-        <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754130162/Lucie_IMG_9599_hnoes6.jpg">
-        </div>
-        <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754130323/Lucie_IMG_9645_xs8gxk.jpg">
-        </div>
-      </div>
-  </div>
-</div>
-
-<div id="2025-05-21">
-  <div class="center-max600-block">
-    <figure>
-      <figcaption>Bourbon-Lancy&nbsp;:&nbsp;2025-05-21</figcaption>
-      <audio controls src="https://rth8.b-cdn.net/podcast%20bourbon%20lancy.mp3"></audio>
-    </figure>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754679138/au-bord-du-gouffrez7g5yp.png">
-  </div>
-</div>
-
-
-
-
 
 <h2>Une première action en 2011-2013</h2>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1705065029/leh_tourne%CC%81e2012_flyer_pfsapl.png">
+  <img src="https://ik.imagekit.io/eownvzurl/flyerTourn%C3%A9GrndChalon2012_R_JeeDabg.png">
 </div>
 <p class="intro-text">C’est en 2011 que Valérie Gaudissart, cinéaste et metteuse en scène a l’idée de contacter la Résidence l’Ecluse à Chalon sur Saône qui accueille des femmes et leurs enfants, victimes de violences intra-familiales, en proposant de mener un cycle d’ateliers artistiques de plusieurs mois. Ce que l’Ecluse a accepté avec enthousiasme, tant la nécessité de faire s’exprimer et d’entendre les paroles des femmes et des travailleuses sociales qui les accompagnent était cruciale à l’époque (et l’est toujours d’ailleurs).</p>
 <p class="intro-text">Ces ateliers ont permis à l’équipe artistique de proposer à une vingtaine de femmes, des échanges de paroles et de récits, de la peinture, de la photographie et une pratique théâtrale et musicale. Devant la motivation des femmes rencontrées, et la motivation des équipes de travailleuses sociales accompagnant ces mères dans un long chemin de reconstruction, il s’est petit à petit monté avec évidence un spectacle, réunissant une équipe de comédiennes professionnelles et plusieurs femmes anciennement victimes, résidentes à l’Ecluse. Et c’est devant un public de 300 travailleurs sociaux de tout le département de Saône et Loire que nous avons joué une première version de notre spectacle en novembre 2011.</p>
@@ -458,19 +468,18 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705081952/Les_e%CC%82tres_humaines-P1010716_vnrsoy.jpg" style="width:100%;" alt="">
+      <img src="https://ik.imagekit.io/eownvzurl/mortonPianoRedLowerLeftTroupe_XpyS7yPZm.png" style="width:100%;" alt="">
       <figcaption class="figCap"></figcaption>
-    </figure>
+    </figure>"
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
   </div>
     <div class="numbertext center-text">1 / 10</div>
   </div>
-  
-  <div class="mySlides">
+<div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082195/Les_e%CC%82tres_humaines-547_duh22c.jpg" style="width: 100%">
+      <img src="https://ik.imagekit.io/eownvzurl/mariamaEtchetoSheets_MPrFS0E4S.png" style="width: 100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -481,7 +490,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082323/Les_e%CC%82tres_humaines-487_klrxxt.jpg" style="width:100%;">
+    <figure><img src="https://ik.imagekit.io/eownvzurl/etchetoStandDiagMariamSitLaugh_CcPbTKUR5.png" style="width:100%;">
       <figcaption class="figCap">© So Beau-Blache</figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -493,7 +502,7 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1526489642/soloMireilleavec_David_small_-_copie_mbkxai.jpg" style="width:100%;">
+      <img src="https://ik.imagekit.io/eownvzurl/davidTractorMaboya_OlODWElgR.png" style="width:100%;">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -504,7 +513,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082521/_DSC1616_rh2vjd.jpg" style="width:100%">
+    <figure><img src="https://ik.imagekit.io/eownvzurl/blandineSmileMariamLookingOn_2k80NFiFF.png" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -515,7 +524,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082630/30_NOVEMBRE_2012_149_cyknzz.jpg" style="width:100%">
+    <figure><img src="https://ik.imagekit.io/eownvzurl/etchetoCenterFacingValUpRight_7mzOVPhg6.png" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -527,7 +536,7 @@ Et ma route je la trace
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082728/30_NOVEMBRE_2012_202_l8hf5x.jpg" style="width: 100%;">
+      <img src="https://ik.imagekit.io/eownvzurl/jeTeD%C3%A9truirai_edbwbtrul.png" style="width: 100%;">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -537,7 +546,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082837/_DSC2506_qxoypn.jpg" style="width:100%;">
+    <figure><img src="https://ik.imagekit.io/eownvzurl/mariamPoubelleSolo_QVFfjx24D.png" style="width:100%;">
       <figcaption class="figCap"></figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -548,7 +557,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705082978/_DSC1602_u0mswg.jpg" style="width:100%;">
+    <figure><img src="https://ik.imagekit.io/eownvzurl/mortDrumMariamStand_yZ_4civha2.png" style="width:100%;">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -558,7 +567,7 @@ Et ma route je la trace
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1705083490/manif-671_ink8f3.jpg" style="width:100%"> 
+    <figure><img src="https://ik.imagekit.io/eownvzurl/signsPouvoirRireCoupPouceCogiter_XdVIZLbhO.png" style="width:100%"> 
     </figure>
     <a class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
   </div>
@@ -569,7 +578,38 @@ Et ma route je la trace
 <br>
 <script type="text/javascript" src="/js/slideshow.js"></script>
 
-<h2>captation 29 novembre 2011</h2>
+
+
+
+
+
+
+<script>
+        stickyElem = document.querySelector(".sticky-div");
+
+        /* Gets the amount of height
+        of the element from the
+        viewport and adds the
+        pageYOffset to get the height
+        relative to the page */
+        currStickyPos = stickyElem.getBoundingClientRect().top
+            + window.pageYOffset;
+        window.onscroll = function () {
+
+            /* Check if the current Y offset
+            is greater than the position of
+            the element */
+            if (window.pageYOffset > currStickyPos) {
+                stickyElem.style.position = "fixed";
+                stickyElem.style.top = "0px";
+            } else {
+                stickyElem.style.position = "relative";
+                stickyElem.style.top = "initial";
+            }
+        }
+    </script>
+
+    <h2>captation 29 novembre 2011</h2>
 <h4 style="color: #a27c55;">La Maison Verte, Plateau Saint-Jean, Chalon-sur-Saône</h4>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/fda803b3-b087-44ee-af56-7540ea9bfbf9?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 
