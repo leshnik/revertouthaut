@@ -36,7 +36,11 @@ redirect_from:
 <li><a href="#elsa" style="color:#BE3C31">Elsa Trouche: comédienne</a></li>
 <li><a href="#quentrec" style="color: #FA785D">Marie Quentrec: autrice, illustratrice, passeuse de bouts de ficelles</a></li>
 <li><a href="#cambie" style="color: #AF8587">Laure Cambie: peintre</a></li>
+<li><a href="#lagonde" style="color: #29c">Anne de Lagonde: graphiste illustratrice</a></li>
+<li><a href="#thoue" style="color: rgb(216, 87, 0">Céline Thoué: artiste visuelle</a></li>
 </ul>
+
+
 <div id="valerie"></div>
 ## Valérie Gaudissart : art-thérapeute, autrice, comédienne et metteuse en scène
 {: .art-color}
@@ -232,6 +236,26 @@ Depuis 2018, elle anime des stages et des cours hebdomadaires de peinture et de 
 Elle a accompagné une séniore à domicile avec un handicap en proposant des séances hebdomadaires d’art thérapie pendant 3 ans.
 Elle intervient ponctuellement dans des musées pour des animations ou des créations artistiques. 
 En 2024, un partenariat avec ses élèves adultes et le musée d’Art et d’Archéologie de Cluny a permis la réalisation pour l’exposition, Cluny, les Abbés du roi, d’une grande tapisserie en linogravure d’après les motifs de l’Hôtel de ville.
+
+<div id="lagonde"></div>
+<h2>Anne de Lagonde</h2>
+<div class="left-side-block"><img src="https://ik.imagekit.io/eownvzurl/anne-de-lagonde-thumb__wsGMMo4Z.png"></div>
+Après des études de langues et de lettres, des séjours en Angleterre et en Italie, et de l’enseignement par-ci par-là (des tout-petits aux étudiants), cap sur les Beaux-Arts de Lyon, puis formation à ce qu’on nommait alors, au siècle dernier (!), la PAO (publication assistée par ordinateur). C’est pour Anne la porte d’entrée dans le graphisme, la découverte de la typographie, de l’équilibre entre les textes et les blancs dans la page – le dit et le non-dit–, de l’importance de l’iconographie, de l’incidence de la couleur, du format, de la qualité du papier… Un petit vent de liberté la pousse à devenir graphiste free-lance, et voilà presque trente ans que ça dure : des affiches de théâtre, de cirque, des logos, des plaquettes, des couvertures de livres, des travaux d’édition dans plusieurs journaux… 
+
+Parallèlement, de l’illustration aussi, avec un goût particulier pour les collages : quelques expos collectives, deux albums jeunesse et puis des ateliers avec les plus jeunes dans les écoles, les médiathèques, sur les salons du livre et même un jeu de l’oie immense où les enfants prenaient la place des pions… 
+
+Des choses variées, de belles rencontres, d’autres moins mémorables, mais toujours la curiosité pour le nouveau projet qui se présente.
+
+C’est par la création du logo de Rêver Tout Haut qu’Anne découvre avec enthousiasme le travail de la compagnie. S’ensuivent les affiches de plusieurs spectacles et plus récemment, sa participation à un atelier sur le Deuil avec la création de livres accordéons à partir de collages.
+
+<div id="thoue"></div>
+<h2>Céline Thoué</h2>
+<div class="left-side-block"><img src="https://ik.imagekit.io/eownvzurl/celineThou%C3%A9-thumb_bTqM068FK.png"></div>
+La gravure et la typographie sont au coeur de ma pratique. Les jeux de répétitions, de rythmes, de cadences me questionnent en permanence : par les motifs, les lettres, les écrits, des images de construisent. 
+Mais ce qui m'intéresse avant tout est de montrer un processus de création dans son ensemble : comment un dessin peut être la conséquence d'un autre, comment une gravure par sa répétition peut dire le sujet.
+
+Parallèlement à mon travail plastique, la diffusion prend une part importante dans ma vie. J'encadre de nombreux ateliers de gravure ou typo vers différents publics afin de développer différentes formes collectives ou personnelles."
+
 
 
 <!-- <div id="anastasia"></div>
