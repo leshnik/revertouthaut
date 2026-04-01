@@ -21,7 +21,7 @@ summary:
       <li><a href="#extraits">Extraits&nbsp;Texte&nbsp;</a></li>
       <li><a href="#dates">Agenda&nbsp;</a></li>
       <li><a href="#contribuer">Contribuer&nbsp;</a></li>
-      <li><a href="#">&uarr;</a></li>
+      <li><a href="#">&uarr;&nbsp;</a></li>
     </ul>
   </nav>
 </div>
