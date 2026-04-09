@@ -86,7 +86,7 @@ summary: Le projet les plus que proches, lecture musicale de RÃªver Tout Haut mÃ
     <figcaption>les valeurs morales:</figcaption>
     <audio
         controls
-        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602255340/les_valeurs_morales_hu7tfc.mp3">
+        src="https://rth8.b-cdn.net/les_valeurs_morales_hu7tfc.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -98,7 +98,7 @@ summary: Le projet les plus que proches, lecture musicale de RÃªver Tout Haut mÃ
     <figcaption>la traductrice et une maladie Ã  deux:</figcaption>
     <audio
         controls
-        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602258378/la_traductrice_et_une_maladie_a%CC%80_deux_-_ce_terme_siosh6.mp3">
+        src="https://rth8.b-cdn.net/la_traductrice_et_une_maladie_a%CC%80_deux_-_ce_terme_siosh6.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -110,7 +110,7 @@ summary: Le projet les plus que proches, lecture musicale de RÃªver Tout Haut mÃ
     <figcaption>la muse patience:</figcaption>
     <audio
         controls
-        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602256064/la_muse_patience_v5wkke.mp3">
+        src="https://rth8.b-cdn.net/la_muse_patience_v5wkke.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
@@ -121,7 +121,7 @@ summary: Le projet les plus que proches, lecture musicale de RÃªver Tout Haut mÃ
     <figcaption>la maison de retraite et l'amour pur:</figcaption>
     <audio
         controls
-        src="https://res.cloudinary.com/dnxcesebo/video/upload/v1602255718/la_maison_de_retraite_et_l_amour_pur_ohxarh.mp3">
+        src="https://rth8.b-cdn.net/la_maison_de_retraite_et_l_amour_pur_ohxarh.mp3">
             Your browser does not support the
             <code>audio</code> element.
     </audio>
