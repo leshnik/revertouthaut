@@ -4,6 +4,57 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>mars 2026</h2>
+<p class="intro-text">Comment résumer ce mois de mars ? Quels mots pour décrire tout ce que <a href="les-etres-humaines">les êtres humaines</a> ont vécu et traversé durant ce mois et les premières représentations loin de Cluny&nbsp;?</p>
+<p class="intro-text">Étonnement devant l’impact du spectacle du public&nbsp;?<br>
+Reconnaissance devant les salles debout&nbsp;?<br>
+Intensité des échanges à l’issue des représentations, notamment avec la jeune génération qui se pose les bonnes questions&nbsp;?<br>
+Fatigue heureuse d’enchainer deux représentations dans la même journée&nbsp;?<br>
+Émotions devant les petits mots glissés dans notre boite aux lettres&nbsp;?<br>
+Excitation joueuse de passer à la télé&nbsp;?<br>
+Fantaisie des coulisses et solidarité de la troupe&nbsp;?<br>
+Colère devant ce système des violences qui semblent ne jamais ralentir&nbsp;?</p>
+<p class="intro-text">Jouer les êtres humaines, c’est être bousculée, c’est arriver à décentrer les autres, à faire en sorte que toute la société fasse un pas de côté, c’est donner beaucoup et recevoir beaucoup, c’est se projeter dans un avenir plus apaisé sans naïveté, c’est trouver des alliés, c’est avancer ensemble, se découvrir des capacités enfouies, c’est transmettre et c’est aider les autres à penser.<br>
+Vaste chantier et en même temps, petites avancées millimétriques vers un changement individuel et sociétal.</p>
+<p class="intro-text">En tout cas, nous travaillons d’arrache-pied pour organiser notre tournée de l’automne, et c’est bien, les dates s’ajoutent, des partenaires motivés apparaissent, des liens se tissent et se consolident.<br>
+Nous faisons d’ailleurs maintenant partie de la <a href="https://www.federation-apcp.org/" rel="noopener noreferrer" target="_blank">Fédération des Arts Participatifs et des Créations Partagées</a>.   
+</p>
+<p class="intro-text">Ici, quelques souvenirs de la troupe, de son bonheur d’être sur scène et son énergie communicative&nbsp;:&nbsp;</p>
+
+<p class="intro-text">Notre nouvelle bande-annonce&nbsp;:&nbsp;</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eed31e47-9253-40ed-ba64-bd722a41b6c5?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div><br>
+<p class="intro-text">Reportage France3 du 27 février 2026&nbsp;:&nbsp;</p>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/275ec5b7-e7d0-4f90-86a1-1a22cb4d20c4?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_3464_6LCU2yzd0.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_3396_8Kn2ZFzh0.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_3428__dO9NDDGn.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_3557_FANDeMF4y2.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_3318_5n8JjxOWf.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_3773_91z8rbF64.jpg">
+</div>
+
+<p class="intro-text">Et puis, <a href="une-nouvelle-page">Une Nouvelle Page à écrire</a> continue sa route créative et les mots du deuil résonnent dans la salle de la Pimenterie et restent dans nos mémoires, comme ce texte d’A. à partir de la consigne : ce que ton décès me coûte&nbsp;?</p>
+<p class="quote">En respirations, de souffles lourds<br>
+En souffrance, se sentir démuni<br>
+En absence, un rire qui n'est plus<br>
+En silence, ta voix qui s'est tue<br>
+En espérance, on ne retourne pas vers le passé<br>
+En énergie, pour retracer le chemin de ta vie<br>
+En temps passé, à me remémorer les souvenirs<br>
+En allers et venues, entre passé et présent<br>
+ <br>
+En sentiments, la peur d'oublier les bons moments<br>
+En émotions, les hauts et les bas qui tiraillent<br>
+En distance, la séparation et sa brèche ouverte<br>
+En lumière, pour contrebalancer l'obscurité<br>
+En invisible, parce que le non-palpable<br>
+En déception, comme un poids trop lourd<br>
+En musique, parce que ton âme est libre<br>
+En équilibre, pour ne pas me laisser happer<br>
+En lâcher-prise, en acceptant de te laisser partir
+</p>
+<p class="intro-text">Enfin, Mars a été aussi le mois de l’avancée dans l’organisation de la reprise de <a href="les-emmeles">Les Emmelées</a> à la rentrée et de l’engagement de A2micile dans le projet (un grand merci à eux pour leur soutien).</p>
 
 <h2>fevrier 2026</h2>
 <p class="intro-text">Quel beau mois de février ! <a href="les-etres-humaines">les êtres humaines</a> ont pris corps, rencontré leur public, se sont lancées dans le grand imprévu de leur tournée, et dans le grand tourbillon des rencontres.</p>
@@ -959,7 +1010,7 @@ B., sa voisine de table, transforme son totem et celui ci devient un bateau à v
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 BA. réfléchit longtemps, et scie des petits bouts de bois en diagonale. Il prend son temps et laisse toujours passer son tour pour avoir les outils. BA dont je me dis, tant il est expert pour ne rien réclamer, qu’il a dû souvent manger le dernier et manger ce qui restait aux fonds des plats quand il était enfant. R. et ses nerfs en pelote, et son impatience devant le temps, devant les outils, se sont lancés dans une structure qui tient debout et qui ressemble mi à une croix, mi à un humain, qu’il visse avec acharnement et qu’il entoure de laine, presque à l’étouffer…</cite></p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735409649/1732870660743_fetkis.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774867918/ScreenFloat_Shot_48554050AA5A_vqsadz.png">
 </div>
 <p class="intro-text"> Et bonne nouvelle ! <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
 
