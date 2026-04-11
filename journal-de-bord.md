@@ -54,7 +54,7 @@ En musique, parce que ton âme est libre<br>
 En équilibre, pour ne pas me laisser happer<br>
 En lâcher-prise, en acceptant de te laisser partir
 </p>
-<p class="intro-text">Enfin, Mars a été aussi le mois de l’avancée dans l’organisation de la reprise de <a href="les-emmeles">Les Emmelées</a> à la rentrée et de l’engagement de A2micile dans le projet (un grand merci à eux pour leur soutien).</p>
+<p class="intro-text">Enfin, Mars a été aussi le mois de l’avancée dans l’organisation de la reprise de <a href="les-emmeles">Les Emmelées</a> à la rentrée et de l’engagement de <a href="https://www.fonds-dotation-a2micile.com/" rel="noopener noreferrer" target="_blank">A2micile</a> dans le projet (un grand merci à eux pour leur soutien).</p>
 
 <h2>fevrier 2026</h2>
 <p class="intro-text">Quel beau mois de février ! <a href="les-etres-humaines">les êtres humaines</a> ont pris corps, rencontré leur public, se sont lancées dans le grand imprévu de leur tournée, et dans le grand tourbillon des rencontres.</p>

@@ -16,7 +16,7 @@ summary:
       <li><a href="#genèse">Genèse&nbsp;</a></li>
       <li><a href="#presse">Presse&nbsp;</a></li>
       <li><a href="#tv/radio">TV_Radio&nbsp;</a></li>
-      <li><a href="#media">Media&nbsp;</a></li>
+      <li><a href="#media">Vidéos&nbsp;</a></li>
       <li><a href="#photos">Photos&nbsp;</a></li>
       <li><a href="#extraits">Extraits&nbsp;Texte&nbsp;</a></li>
       <li><a href="#dates">Agenda&nbsp;</a></li>
