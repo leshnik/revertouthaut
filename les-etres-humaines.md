@@ -30,6 +30,9 @@ summary:
 <div class="center-max600-block">
   <img src="https://ik.imagekit.io/eownvzurl/LehFlyer_0d28fikec.png">
 </div>
+<ul style="text-align:right;list-style-type:none">
+  <li><a style="color:#40a7b2; font-size:1.3rem" href="https://ik.imagekit.io/eownvzurl/Dossier%20de%20pre%CC%81sentation%20Les%20Etres%20humaines%202%20Web_hfPuz2Jmv.pdf" rel="noopener noreferrer" target="_blank">Dossier de présentation à télécharger</a></li>
+</ul>
 
 <div id="tv/radio"></div><br style="margin-bottom:25px">
 <p class="intro-text">Les êtres humaines invitées du JT de France3 Franche-Comté le mercredi 18 mars 2026</p>

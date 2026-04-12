@@ -22,17 +22,26 @@ Ecrire aux êtres manquants, pour pouvoir continuer de dialoguer avec eux, pour 
 Afin que des textes, des poèmes, des lettres, des chansons, des témoignages puissent être consignés, réunis, retravaillés et composent un livre, qui pourrait aller rejoindre sur les étagères des bibliothèques du deuil les ouvrages de Christian Bobin, Brigitte Giraud, Joan Didion, Joyce Carol Oates, pour ne citer qu’elles et lui. Non pas dans l’idée grandiloquente de laisser une œuvre impérissable mais plutôt de contribuer, modestement à la recherche de moyens de consolation et de transmettre aux autres, aux futurs endeuillés une forme d’accompagnement, de pensées et de soutien.</p>
 <p class="intro-text">
 Ce projet innovant est financé par <strong>Malakoff Humanis, KALIVI-BFC et la Fondation PFG</strong>.</p> 
-<div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429188/ScreenFloat_Shot_662E47588752_dg2smo.jpg">
-</div>
-<div id="dates" class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/flyer_une-nouvelle-page_p1_XzZuMAy8Bh.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/flyer-une-nouvlle-page_p2_40XqCsdQE.jpg">
+  </div>
 </div>
 
-<h2>dates en 2026</h2>
-<div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+<h2>dates en 2025</h2>
+
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429188/ScreenFloat_Shot_662E47588752_dg2smo.jpg">
+  </div>
+  <div class="column">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
+  </div>
 </div>
+
 <h2>article en ligne écrit par notre partenaire KALIVI</h2>
 <a href="https://partenaires.kalivi-bfc.fr/projets/une-nouvelle-page-a-ecrire-briser-lisolement-en-ecrivant-le-deuil" rel="noopener noreferrer" target="_blank">Briser l'isolement en écrivant sur le deuil</a>
 <h2>rencontre le 13 mai à la pimenterie</h2>

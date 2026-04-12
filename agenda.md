@@ -15,14 +15,18 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#02-11-2026">Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</a></li>
 
 <li><a href="#19-06-2026">Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</a></li>
+<li><a href="#16-06-2026">Mardi 16 juin 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et musique (en compagnie du compositeur Morton Potash). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</a></li>
+
 <li><a href="#13-06-2026">Samedi 13 juin 2026 à Blanot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, 19h</a></li>
-<li><a href="12-06-2026">Vendredi 12 juin à Chalon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Méandre, 20h</a></li>
+<li><a href="#12-06-2026">Vendredi 12 juin à Chalon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Méandre, 20h</a></li>
+<li><a href="#31-05-2026">Dimanche 31 mai 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et gravure (en compagnie de l’artiste typographe Céline Thoué). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li>
+
 <li><a href="#12-05-2026">Mardi 12 mai 2026 à Matour – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, Salle du CART, 14h45</a></li>
 <li><a href="#08-05-2026">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à la Grange de la Dîme, 20h, avec les FRGS</a> </li>
 <li><a href="#05-05-2026">Mardi 5 mai 2026 à Davayé – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, Lycée Agricole Lucie Aubrac, à 13h30</a></li>
 <li><a href="#03-05-2026">Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Limace, 17h</a></li>
 <li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
-<li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h, inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li> 
+<li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h, écriture et papiers découpés (en compagnie de la graphiste Anne De Lagonde). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li> 
 <li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
 <li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span> à 14h et à 19h, à la Maison de quartier Planoise</a></li>
