@@ -11,7 +11,7 @@ summary:
 <p class="start"></p>
 <div class="sticky-div">
   <nav class="horizontal-list horizontal-list-color">
-    <ul style="margin-top:0px; margin-bottom:0px; display:flex; flex-wrap:wrap; white-space:normal; justify-content: space-evenly;">
+    <ul style="margin-top:0px; margin-bottom:0px; margin-right:20px; display:flex; flex-wrap:wrap; white-space:normal; justify-content: space-evenly;">
       <li><a href="#présentation">Présentation&nbsp;</a></li>
       <li><a href="#genèse">Genèse&nbsp;</a></li>
       <li><a href="#presse">Presse&nbsp;</a></li>
@@ -175,13 +175,24 @@ La première s'est passée vendredi 27 février à Cluny, et à sentir l'étrein
   <a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/JslLeSpectEnImages_CVt9-emzfi.png"></a>
 </div>
 <p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noopener noreferrer" target="_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026</a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon. Son article paru le 03/03/2026&nbsp;:&nbsp;</p>
-<div class="quote">Cluny<br>
+<p class="quote">Cluny<br>
 <strong>Un spectacle pour dénoncer les violences intrafamiliales</strong><br>
 Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'une centaine de femmes en Saine-et-Loire et toute la Boungogne-Franche-Comté, le spectacle "Les êtres humaines" rassemble des artistes et des femmes qui ont été victimes de violences conjugales pour raconter et faire comprendre le fléau des violences intrafamiliales. La première représentation publique vendredi soir au Théâtre Les Arts a fait le piein et reçu une véritable ovation, après la séance de l'après-midi réservée aux professionnels et aux lycéens. Portée par les associations Réver Tout Haut et lls Scènent, cette création mêle théâtre, musique, chansons, danses et arts visuels. Le spectacle est original, d'une formidable force et très émouvant. Un spectacle où se mélent théâtre, musique, chansons, danses et arts visuels.<br>
 <strong>Trouver la force de s'enfuir</strong><br>
 «&nbsp;Une être humaine, c'est celle qui n'a pas le droit de regarder par la fenêtre, celle qui doit oublier le mot non, celle qui est en danger dans sa propre maison. Et c'est celle qui un jour, emportant ses gamins et son baluchon, trouve la force de s'enfuir, de s'échapper d'un domicile conjugal nocif, mortifère, violent. C'est celle qui sauve sa peau et qui, avec le temps, va reconstruire une vie ailleurs, autrement, et va monter sur scène pour raconter.&nbsp;»<br>
-–Après le spectacle "Vive" en novembre, la représentation des "Etres humaines" a constitué le second temps de la démarche collective menée par la Ville de Cluny, avec le soutien de différents partenaires (Département, Communauté de Communes, associations locales concernant les violences intrafamiliales. Le réseau VIF Cluny (réseau de lutte contre les violences intrafamiliales) est coordonné par le centre social.
-</div>
+–Après le spectacle "Vive" en novembre, la représentation des "Etres humaines" a constitué le second temps de la démarche collective menée par la Ville de Cluny, avec le soutien de différents partenaires (Département, Communauté de Communes, associations locales concernant les violences intrafamiliales. Le réseau VIF Cluny (réseau de lutte contre les violences intrafamiliales) est coordonné par le centre social.<br>
+<strong>&#12539;Jean-Claude Vouillon</strong></p>
+
+<hr>
+<div class="center-max600-block"><img src="https://ik.imagekit.io/eownvzurl/bourbon-article-langlois_IWhw6300t.jpeg"></div>
+<p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/04/08/les-etres-humaines-pour-evoquer-sur-scene-le-fleau-des-violences-conjugales">paru dans le Journal du Sâone-et-Loire le 08/04/2026</a> Bourbon-Lancy&nbsp;:&nbsp;"Les Êtres Humaines" pour évoquer sur scène le fléau des violences conjugales. Article de Rémi Langlois.</p>
+<p class="quote">
+  La Ville de Bourbon-Lancy, son Centre social et son réseau VIF ont accueilli une nouvelle fois la résidence créative clunysoise «&nbsp;Rêver Tout Haut&nbsp;», ce jeudi 2 avril, à 20 heures, à l'espace culturel Saint-Léger pour son spectacle "Les Êtres Humaines".<br>
+  Ce spectacle musical traite de la complexité des violences conjugales. Il réunit sur scène des artistes professionnelles et des femmes victimes. Il est un outil de prévention, de formation, très émouvant car basé sur de nombreux receuils de témoignages, aussi un moment de théâtre det de chansons.<br>
+  Le spectacle a été vu par une centaine de collégiens de 3e dans l'après-midi et près de 80 personnes en soirée. Tous ont été fortement marqués. «&nbsp;Les collégiens sont restés sans voix&nbsp;» souligne Karine Debut-Thévenoux, directrice du Centre Social Josephine Baker. "Les étres humaines" abordent avec une formidable énergie les multiples facettes de la violence conjugale, ses mécanismes, et sa complexité.<br>
+  Durant près d'une heure et demie sur la musique d'un piano électrique enchanteur, troublant, omniprésent, jouée avec passion, 11 femmes ont livré leurs pensées et chantées leurs vies, les vies de plus de 100 femmes victimes rencontrées lors d'ateliers précédents dans la région.<br>
+  <strong>&#12539;Rémi Langlois (CLP)</strong><br><br></p>
+  <hr>
 <div id="dates"></div><br style="margin-bottom:20px">
 <h2>représentations</h2>
 <p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
