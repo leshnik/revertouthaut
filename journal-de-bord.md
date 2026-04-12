@@ -4,6 +4,46 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>avril 2026</h2>
+<p class="intro-text">Les valises des Etres Humaines sont à peine rangées, que nous voici à refaire nos bagages pour la tournée de <a href="empreintes-sur-le-chemin">Empreintes sur le Chemin</a>, notre spectacle autour des traces laissées par l’enfance et l’exil et interprété par 7 personnes exilées et une équipe artistique.</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/IMG_0354%20-%20copie_d4vXkic8-.jpg">
+</div>
+<p class="intro-text">Nous partons jouer ce spectacle au mois de mai et juin, en villages, et en lycée et collège, afin de faire se rencontrer Kinshasa et Davayé, Abidjan et Matour, Karthoum et la Vineuse…<br>
+Nous participons aussi avec ce spectacle au <a href="https://www.saone-et-loire.gouv.fr/Actions-de-l-Etat/Sante-solidarite-et-cohesion-sociale/Solidarites/Challenge-des-solidarites-2026">Challenge des Solidarités</a> porté par le département.</p>
+<p class="intro-text">Créer des passerelles, des connivences, faire en sorte que solidarité soit le contraire de solitude, en ce monde guerrier, voilà ce que nous pouvons faire, ce que nous pouvons défendre et tenter de protéger.</p>
+<p class="quote">«&nbsp;Empreintes sur un chemin…<br>
+Tu empruntes un chemin<br>
+Je te prête le mien,<br>
+Tu me prêtes ton lit, ta maison,<br>
+Ce qui est à moi est aussi à toi<br>
+Tu me prêtes tes mots, ton langage,<br>
+Je te donne mon histoire<br>
+Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
+
+<h2>dates de tournée</h2>
+<ul class="bullet">
+  <li>Mardi 23 juin 2026 au Creusot –  Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</li>
+  <li>Samedi 13 juin 2026 à Blanot –  au Coing, 19h</li>
+  <li>Vendredi 12 juin en soirée à à Chalon – à La Méandre, 20h</li>
+  <li>Mardi 12 mai 2026 à Matour – Salle du CART, 14h45</li>
+  <li>Vendredi 8 mai 2026 à La Vineuse-sur-Fregande – à la Grange de la Dîme, 20h avec les FRGS</li>
+  <li>Mardi 5 mai 2026 à Davayé – Lycée Agricole Lucie Aubrac, 13h30</li>
+  <li>Dimanche 3 mai 2026 à Sivignon – à La Limace, 17h</li>
+</ul>
+
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
+
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg">
+</div>
 <h2>mars 2026</h2>
 <p class="intro-text">Comment résumer ce mois de mars ? Quels mots pour décrire tout ce que <a href="les-etres-humaines">les êtres humaines</a> ont vécu et traversé durant ce mois et les premières représentations loin de Cluny&nbsp;?</p>
 <p class="intro-text">Étonnement devant l’impact du spectacle du public&nbsp;?<br>
@@ -263,7 +303,7 @@ Rêver Tout Haut
  
 <p class="intro-text">Un immense merci pour votre solidarité et reconnaissance de notre travail et engagement !</p>
 
-<div class="flex-container">
+<div class="flex-container-wrap">
   <div class="column">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046178/ScreenFloat_Shot_4B704B90860E_kgdnwu.png">
   </div>
