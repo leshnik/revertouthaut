@@ -10,17 +10,23 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
 <div class="space-around--wrap">
   <p class="shadow" style="background: #9d1737; width: 50ch">
       <a style="color: #72fc3b" class="nav-list-heading subtlehover" href="/spectacles">●&nbsp;Spectacles</a><br>
-      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/les-etres-humaines">●&nbsp;Les êtres humaines reprise 2025</a><br>
-      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/maintenant-il-y-a">●&nbsp;Maintenant il y a (2023 - 2024)</a><br>
+      <span class="nav-list-heading-sub">en cours</span><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/les-etres-humaines">●&nbsp;Les êtres humaines reprise 2025, tournée 2026 - 2027</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" style="color: #aafc89" href="les-emmeles">●&nbsp;Les&nbsp;Emmêlé&middot;es 2025 - 2026</a><br>
+      <a class="nav-list-item subtlehover" style="color: #aafc89" href="captation_empreintes">●&nbsp;Empreintes sur le chemin 2025 - 2026</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/maintenant-il-y-a">●&nbsp;Maintenant il y a (2023 - 2026)</a><br>
+      <span class="nav-list-heading-sub">passés</span><br>
+       <a style="color:#aafc89" class="nav-list-item" href="jamais-deux-sans-voix">●&nbsp;Jamais deux sans voix (2022 - 2024)</a>
+       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/parent-solo-et-ses-marmots">●&nbsp;Parent solo et ses marmots (2021 - 2022 )</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/bercer-l-enfant-manquant">●&nbsp;Bercer l'enfant manquant (2019 - 2022 )</a><br>
-      <a style="color: #aafc89" class="nav-list-item subtlehover" href="/parent-solo-et-ses-marmots">●&nbsp;Parent solo et ses marmots (2021 - 2022 )</a><br>
+      
       <a style="color: #aafc89" class="nav-list-item subtlehover"  href="/lpqp-lecture-musicale">●&nbsp;Les plus que proches (2019 - 2022)</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/vivre-avec-parkinson">●&nbsp;Vivre avec Parkinson (2022)</a><br>
       <a class="nav-list-item subtlehover" style="color: #aafc89" href="/cabosses">●&nbsp;Cabossés (2022)</a>
       <br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="chansons-pour-ceux-qui-ne-font-pas-de-bruit">●&nbsp;Chansons pour ceux qui ne font pas de bruit (2022)</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover"  href="les-etres-humaines">●&nbsp;Les&nbsp;Étres&nbsp;Humaines&nbsp;(2015 - 2018)</a><br>
-      <a style="color:#aafc89" class="nav-list-item" href="jamais-deux-sans-voix">●&nbsp;Jamais deux sans voix (2022 - 2024)</a>
+     
     </p> 
 </div>
 
