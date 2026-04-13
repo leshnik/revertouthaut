@@ -4,7 +4,7 @@ title: agenda
 summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
-<p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements.</p>
+<p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements. Les liens fonctionnent des que nous recevons des précisions.</p>
 <ul class="agenda-list">
 <li><a href="#0304-12-2026">Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
 <li><a href="#01-12-2026">Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
@@ -74,45 +74,158 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 <div id="19-06-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Vendredi 19 juin 2026 au Creusot<br>infos à venir</p>
+<p class="intro-text center-text">Vendredi 19 juin 2026 à 17h au Creusot<br>
+Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, au Technopôle</p>
+</div>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg?updatedAt=1775991283705">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg?updatedAt=1775997501377">
+  </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+<div id="16-06-2026">
+<h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+<p class="intro-text center-text">Mardi 16 juin 2026 à Saint Point<br>de 10h30 à 12h30 / 14h à 17h<br>La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+écriture et musique (en compagnie du compositeur Morton Potash)<br>Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</p>
 
+<div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
 <div id="13-06-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>infos à venir</p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
+<p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>
+au Coing à 19h</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
+<div id="12-06-2026">
+<p class="intro-text center-text">Vendredi 12 juin 2026 à Chalon-sur-Saône<br>
+à La Méandre à 20h<br>
+Port Nord<br>
+1 rue Denis Papin<br>
+71100 Chalon-sur-Saône </p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
+</div>
+<hr>
+<a href="#ag">retourner à l'agenda</a>
+<div id="31-05-2026">
+<h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+<p class="intro-text center-text">de 10h30 à 12h30 / 14h à 17h<br>
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+écriture et gravure (en compagnie de l’artiste typographe Céline Thoué) 
+<br>Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</p>
 
+
+<div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
 <div id="12-05-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Mardi 12 mai 2026 dans l'après-midi,  au cinéma à Matour<br>infos à venir</p>
+<p class="intro-text center-text">Mardi 12 mai 2026 à Matour<br>
+Salle du CART à 14h45 <br></p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="08-05-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Vendredi 8 mai 2026 à La Vineuse<br>infos à venir</p>
+<p class="intro-text center-text">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande<br>
+à la Grange de la Dîme, 20h <br>
+avec les FRGS</p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="05-05-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Mardi 5 mai 2026 à Davayé<br>infos à venir</p>
+<p class="intro-text center-text">Mardi 5 mai 2026 à Davayé<br>
+Lycée Agricole Lucie Aubrac, 13h30<br>
+43 rue des Poncétys 71960 DAVAYE<br>
+Téléphone : 03 85 33 56 00</p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="03-05-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Dimanche 3 mai 2026 à Sivignon<br>sortie de résidence à La Limace, l'après-midi<br>infos à venir</p>
+<p class="intro-text center-text">Dimanche 3 mai 2026 à Sivignon<br>sortie de résidence à La Limace, à 17h<br>
+Laurendon<br>
+71220 Sivignon</p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+  </div>
+</div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="01-05-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Vendredi 1er au dimanche 3 mai 2026 à Sivignon<br>résidence de création<br>infos à venir</p>
+<p class="intro-text center-text">Vendredi 1er au dimanche 3 mai 2026 à Sivignon<br>résidence de création<br>
+La Limace<br>
+Laurendon<br>
+71220 Sivignon</p></p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
