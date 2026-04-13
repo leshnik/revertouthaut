@@ -145,7 +145,7 @@ summary:
 
 <div id="contribuer"></div><br style="margin-bottom:25px">
 <h2>contribution</h2>
-<p class="intro-text">Si vous voulez contribuer au financement participatif de la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>. En vous remerciant&nbsp;!</p>
+<p class="intro-text">Si vous voulez soutenir la tournée, c'est par ici&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/formulaires/1" rel="noopener noreferrer" target="_blank">faire un don</a>. En vous remerciant&nbsp;!</p>
 
 <p class="intro-text">Cliquer sur notre page <a href="agenda">agenda</a> pour connaitre les dates de la tournée</p>
 <p class="intro-text">Pour relater notre début de tournée, voici les mots de Sidonie Dubosc, chanteuse et comédienne des Êtres Humaines&nbsp;:&nbsp;
