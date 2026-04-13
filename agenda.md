@@ -4,7 +4,7 @@ title: agenda
 summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
-<p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements. Les liens fonctionnent des que nous recevons des précisions.</p>
+<p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements. Les liens fonctionnent dès que nous recevons des précisions.</p>
 <ul class="agenda-list">
 <li><a href="#0304-12-2026">Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
 <li><a href="#01-12-2026">Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
