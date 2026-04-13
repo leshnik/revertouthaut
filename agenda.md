@@ -74,7 +74,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 <div id="19-06-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
-<p class="intro-text center-text">Vendredi 19 juin 2026 à 17h au Creusot<br>
+<p class="intro-text center-text">Mardi 23 juin 2026 à 17h au Creusot<br>
 Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, au Technopôle</p>
 </div>
 <div class="flex-container-wrap">
@@ -89,7 +89,8 @@ Château de la Verrerie, en clôture du Challenge Départemental des Solidarité
 <hr>
 <div id="16-06-2026">
 <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
-<p class="intro-text center-text">Mardi 16 juin 2026 à Saint Point<br>de 10h30 à 12h30 / 14h à 17h<br>La Pimenterie<br>
+<p class="intro-text center-text">Mardi 16 juin 2026 à Saint Point<br>de 10h30 à 12h30 / 14h à 17h<br>
+La Pimenterie<br>
 1789 route du Lac<br>
 71520 Saint Point<br>
 écriture et musique (en compagnie du compositeur Morton Potash)<br>Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</p>
@@ -106,6 +107,8 @@ Château de la Verrerie, en clôture du Challenge Départemental des Solidarité
 <a href="#ag">retourner à l'agenda</a>
 <div id="13-06-2026">
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>
+au Coing à 19h</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -114,8 +117,7 @@ Château de la Verrerie, en clôture du Challenge Départemental des Solidarité
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-<p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>
-au Coing à 19h</p>
+
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
