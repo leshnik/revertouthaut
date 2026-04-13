@@ -4,18 +4,13 @@ title: nous soutenir
 summary:
 ---
 <h1>nous soutenir<h1>
-<h2>financement participatif pour la tournée du spectacle &middot;&nbsp;les&nbsp;êtres&nbsp;humaines&nbsp;&middot;</h2>
-<p class="intro-text">Vous pouvez participer à financer la tournée du spectacle <a href="les-etres-humaines">les êtres humaines</a> en 2026/2027. Clicquer sur le lien pour voir en détail en quoi consiste cette participation&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/collectes/la-tournee-des-etres-humaines" rel="noopener noreferrer" target="_blank">collecte tournée Les êtres humaines</a>.
-</p>
 
 <h2>faire un don à l'association</h2>
 <p class="intro-text">Nous aider financièrement c'est facile. L'association <strong>helloasso</strong> s'occupe de tout. <span class="rever-typog">rêver tout haut</span> étant reconnue d'intérêt général, <strong>les dons qui lui sont faits sont déductibles des impôts</strong>. Merci.</p>
 <ul style="text-align:right; list-style-type:none">
     <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/formulaires/1" rel="noopener noreferrer" target="_blank">Faire un don (déductible des impôts)</a></li>
 </ul>
-<!-- <div class="qrcode">
-<img src="qrcodeHelloAssoAdhesion.png" />
-</div> -->
+
 <h2>adhérer à rêver tout haut</h2>
 <div class="center-max-450-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1718005235/1718000451971_kunhr0.jpg">
