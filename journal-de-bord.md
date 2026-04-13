@@ -49,6 +49,8 @@ Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
 Nous allons pouvoir continuer d’aller à la rencontre des paysan.nes de notre territoire confronté.es aux difficultés de leur cessation d’activités, de leur recherche de repreneurs et qui traversent toute une palette de sentiments, de ressentiments liés à cette période complexe.<br>
 En avant gout du film à venir, voilà une maquette de 16 minutes que nous avons réalisée et qui réunit 5 portraits d’éleveurs et d’éleveuse et qui montre notre dispositif de film photographique.
 </p>
+<h2>film photographique en cours de réalisation</h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/2832e49c-b3a0-473d-be85-581d1d92644b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <h2>mars 2026</h2>
 <p class="intro-text">Comment résumer ce mois de mars ? Quels mots pour décrire tout ce que <a href="les-etres-humaines">les êtres humaines</a> ont vécu et traversé durant ce mois et les premières représentations loin de Cluny&nbsp;?</p>
 <p class="intro-text">Étonnement devant l’impact du spectacle du public&nbsp;?<br>
