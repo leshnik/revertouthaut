@@ -44,6 +44,11 @@ Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
 <div class="center-max300-block">
   <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg">
 </div>
+<hr>
+<p class="intro-text">Et bonne nouvelle pour notre projet de film documentaire <a href="histoires-de-transmission" rel="noopener noreferrer" target="_blank">Histoires de transmissions</a> qui vient d’obtenir l’aide à la production de la Région Bourgogne Franche Comté&nbsp;!
+Nous allons pouvoir continuer d’aller à la rencontre des paysan.nes de notre territoire confronté.es aux difficultés de leur cessation d’activités, de leur recherche de repreneurs et qui traversent toute une palette de sentiments, de ressentiments liés à cette période complexe.<br>
+En avant gout du film à venir, voilà une maquette de 16 minutes que nous avons réalisée et qui réunit 5 portraits d’éleveurs et d’éleveuse et qui montre notre dispositif de film photographique.
+</p>
 <h2>mars 2026</h2>
 <p class="intro-text">Comment résumer ce mois de mars ? Quels mots pour décrire tout ce que <a href="les-etres-humaines">les êtres humaines</a> ont vécu et traversé durant ce mois et les premières représentations loin de Cluny&nbsp;?</p>
 <p class="intro-text">Étonnement devant l’impact du spectacle du public&nbsp;?<br>

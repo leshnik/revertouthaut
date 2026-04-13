@@ -17,7 +17,10 @@ Le chêne devant l’entrée de la ferme, je le vends pas, je peux pas, c’est 
 <p class="intro-text">
 <a href="#">Histoires de transmissions</a> est un projet social et artistique,  basé sur des rencontres, des échanges de paroles et d’expériences avec des agriculteurs en âge du départ à la retraite <span style="font-weight:bold">installés en Saône et Loire</span> et se confrontant à la difficile question de trouver un ou des repreneurs.</p>
 
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div>
+<h2>film photographique en cours de réalisation</h2>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/2832e49c-b3a0-473d-be85-581d1d92644b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
+
+<!-- <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1651159797/Capture_d_e%CC%81cran_2022-04-28_a%CC%80_17.17.10_butrxl.png"></div> -->
 
 <p class="intro-text">Les objectifs de ce projet sont d'accompagner sur une certaine durée et de manière intime des familles durant ce passage complexe d'une époque vers une autre, de faire connaître leurs situations à la société toute entière, d'aider les autres agriculteurs qui devront d'ici quelques temps prendre ce même chemin de décisions, et de participer de manière artistique et créative à la prise en compte de cette problématique contemporaine, cruciale pour notre territoire. De manière plus large, ce projet s'inscrit dans la nécessité de rendre compte des changements que traverse le monde rural. Et ils sont nombreux, complexes, enchevêtrés, au carrefour de l’intime, du familial, de l’économique, du foncier, du paysage et de l’aménagement du territoire, de l’écologie, des besoins alimentaires et des changements de consommation et des changements sociaux. </p>
 
@@ -31,9 +34,6 @@ Ce projet innovant va se déployer en plusieurs étapes et sur une temporalité 
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673796609/cow-staring-dark_a9v76u.jpg">
 </div>
 
-<!-- <h2>film photographique en cours de réalisation</h2>
-<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/2832e49c-b3a0-473d-be85-581d1d92644b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
- -->
 
 <p class="intro-text">La transmission des biens, des terres, des traditions agricoles n’est pas une problématique nouvelle dans le sens où elle a toujours été cruciale dans les familles rurales et leur lignée. Mais aujourd’hui, du fait des changements sociaux, des crises économiques, sanitaires, des remises en cause des méthodes de travail et d’exploitation, de ce qu’on appelle aussi le «agribashing», la transmission est devenue encore plus complexe et parfois plus douloureuse. Cette transmission s’inscrit aussi dans un contexte de forts départs à la retraite des éleveurs dans les années à venir et de peu de candidats en capacité de reprendre les exploitations. Il va donc se passer dans les années qui viennent une autre problématique, qui est celle de la conservation des fermes, ou de leur transformation et avec elle de la transformation des paysages, et d’une culture rurale.</p>
 
