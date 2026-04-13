@@ -140,7 +140,8 @@ Port Nord<br>
 <a href="#ag">retourner à l'agenda</a>
 <div id="31-05-2026">
 <h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
-<p class="intro-text center-text">de 10h30 à 12h30 / 14h à 17h<br>
+<p class="intro-text center-text">31 mai 2026<br>
+de 10h30 à 12h30 / 14h à 17h<br>
 La Pimenterie<br>
 1789 route du Lac<br>
 71520 Saint Point<br>
