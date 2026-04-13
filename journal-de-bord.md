@@ -773,7 +773,7 @@ Il dit que c’est en brisant les gens qu’on les garde
           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
         </div>
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
+          <img src="https://ik.imagekit.io/eownvzurl/je-reve-de-liberte%CC%81_3uFYe5vcew.jpg">
         </div>
       </div>  
   </div>
