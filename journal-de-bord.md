@@ -41,7 +41,7 @@ Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
   </div>
 </div>
 
-<div class="center-max600-block">
+<div class="center-max300-block">
   <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg">
 </div>
 <h2>mars 2026</h2>
