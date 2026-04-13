@@ -227,15 +227,20 @@ Laurendon<br>
 <p class="intro-text center-text">Vendredi 1er au dimanche 3 mai 2026 à Sivignon<br>résidence de création<br>
 La Limace<br>
 Laurendon<br>
-71220 Sivignon</p></p>
+71220 Sivignon</p>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 
 <div id="25-04-2026"><h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
-    <p class="intro-text">Samedi 25 avril 2026 à la Pimenterie à Saint-Point(71)<br>
+    <p class="intro-text">Samedi 25 avril 2026 à Saint-Point(71)<br>
+      De 10h30 à 12h30 et de 14h à 17h<br>
+      La Pimenterie<br>
+      1789 route du Lac<br>
+    71520 Saint Point<br>
+    écriture et papiers découpés en compagnie de la graphiste Anne De Lagonde<br>
       Gratuit・Participation ponctuelle possible<br>
-      De 10h30 à 12h30 et de 14h à 17h, inscription à la demi-journée possible, pique-nique tiré du sac pour ceux qui souhaitent rester le midi</p>
+      inscription à la demi-journée possible, pique-nique tiré du sac pour ceux qui souhaitent rester le midi</p>
       <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
