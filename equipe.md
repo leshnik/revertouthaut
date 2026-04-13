@@ -194,7 +194,7 @@ Elle développe ainsi autour de son œuvre des concepts liés aux sciences natur
 
 <div id="elsa"></div>
 <h2 style="color: #BE3C31">Elsa Trouche</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1725628059/ElsaTrouche_Portrait_y0rabc.jpg"></div>
+<div class="left-side-block"><img src="https://ik.imagekit.io/eownvzurl/ElsaTrouche%20Portrait_P3r4jVewK.jpg"></div>
 Après plusieurs années à naviguer dans les eaux tumultueuses de la psychiatrie en tant qu'infirmière, Elsa quitte le navire. Changement de cap ! 
 
 
