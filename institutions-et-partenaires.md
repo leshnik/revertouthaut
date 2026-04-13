@@ -146,10 +146,15 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
   <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768316321/ScreenFloat_Shot_560842FC95FE_ig21vj.png">PFG
-</div><br><br><br><br><br><br>
-<hr style="margin:0 auto 2rem; width:50%">
+</div><br><br><br><br><br><br><br>
+<hr style="margin:2rem auto 2rem; width:50%">
 <div class="logo">
   <img src="https://ik.imagekit.io/eownvzurl/cpam-logo_LvKjZaeS0.png">CPAM 71</div><br><br>
+  <hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+  <img src="https://ik.imagekit.io/eownvzurl/a2micile-logo_q8AZ33YNh.jpg">a2micile fonds de dotation
+</div><br><br><br><br><br>
+<hr style="margin:0 auto 2rem; width:50%">
 <h1>nos partenaires</h1>
 <h2>Soutien aux Aidants :</h2>
 <div class="logo">
