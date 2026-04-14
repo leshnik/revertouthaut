@@ -11,7 +11,12 @@ Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidant&middot;es
 
 <p class="intro-text">Soutenus par le Réseau des Aidants 71, nous voilà donc repartis à partir de l’été 2026 à la rencontre de nouveaux jeunes aidant&middot;es. Ils participeront à quelques ateliers artistiques, puis viendront compléter l’équipe, peut-être remplacer certains jeunes ayant participé aux premières représentations et qui ne seront plus disponibles. La nouvelle équipe participera à 4 jours de résidence en septembre 2026 pour réinventer une nouvelle version du spectacle.</p>
 
-<p class="intro-text">Merci à la <strong>Fédération des Acteurs de Solidarité</strong>, à <strong>La Française Des Jeux</strong>, à <strong>AG2R La Mondiale</strong>, à la région <strong>Bourgogne-Franche-Comté</strong> et à la <strong>MSA</strong> qui nous soutiennent pour cette nouvelle partie du projet..
+<p class="intro-text">De part notre première action en 2025, nous avons bien pris conscience, et avec nous, nos partenaires sur le territoire, de l’invisibilté des jeunes aidants et plus particulièrement ceux du milieu rural, sujet à des problématiques de mobilité et d’isolement.</p>
+
+<p class="intro-text">Nous avons donc, à la demande du Réseau des Aidants 71, organisé le prolongement de cette première action, car ces jeunes sont nombreux, et leurs difficultés sont réelles et demandent à être reconnues. Prendre soin de sa mère, son père, frère ou soeur, arrêter ses études parfois pour s’occuper de l’un de ses proches, ne pas oser prendre son envol, sont des freins qui ont des effets à long terme sur la vie et le parcours de ces adultes en devenir.
+</p>
+
+<p class="intro-text">Merci à la <strong>Fédération des Acteurs de Solidarité</strong>, à <strong>La Française Des Jeux</strong>, à <strong>AG2R La Mondiale</strong>, à la région <strong>Bourgogne-Franche-Comté</strong>, à la <strong>MSA</strong> et à <strong>A2micile</strong> qui nous soutiennent pour cette nouvelle partie du projet.
 </p>
 
 <p class="intro-text">Si vous souhaitez accueillir le spectacle à l’automne 2026, ou y participer parce que vous êtes jeune aidant&middot;e, n’hésitez pas à contacter Marina De Lajudie :
