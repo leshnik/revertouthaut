@@ -15,7 +15,13 @@ Le chêne devant l’entrée de la ferme, je le vends pas, je peux pas, c’est 
 <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673783378/IMG_6115_ojnoiz.jpg"></div>
 
 <p class="intro-text">
-<a href="#">Histoires de transmissions</a> est un projet social et artistique,  basé sur des rencontres, des échanges de paroles et d’expériences avec des agriculteurs en âge du départ à la retraite <span style="font-weight:bold">installés en Saône et Loire</span> et se confrontant à la difficile question de trouver un ou des repreneurs.</p>
+<a href="#">Histoires de transmissions</a> est un projet social et artistique,  basé sur des rencontres, des échanges de paroles et d’expériences avec des agriculteurs en âge du départ à la retraite installés en Saône-et-Loire et se confrontant à la difficile question de trouver un ou des repreneurs.</p>
+
+<p class="intro-text">Le projet est soutenu par la MSA, le Conseil Régional Bourgogne Franche-Comté, le Département de Saône-et-Loire, le FDVA 71. Il est co-réalisé avec l’association Ciné-Ressources 71.</p>
+<p class="intro-text">Outre un travail de recueil de témoignages et de paroles rarement exprimées, le projet consiste en la réalisation d’un film photographique, qui rassemble textes, voix-off, portraits et photos de famille.</p>
+
+
+<p class="intro-text">En voici un premier extrait, qui a permis à l’équipe artistique, Lucie Moraillon, photographe, et Valérie Gaudissart, autrice, d’expérimenter leurs idées de portraits filmés et leur manière de raconter les choses en écho. Les époques et les personnes se répondent, la transmission se fait entre les générations, mais aussi entre le monde agricole et le public, qui va prendre conscience, en regardant le futur film des difficultés traversées par les paysan&middot;nes d’aujourd’hui.</p>
 
 <h2>film photographique en cours de réalisation</h2>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/2832e49c-b3a0-473d-be85-581d1d92644b?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
