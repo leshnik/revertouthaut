@@ -12,7 +12,7 @@ summary: Basés sur des témoignages et des traces laissées par les vécus, nos
       <a style="color: #72fc3b" class="nav-list-heading subtlehover" href="/spectacles">●&nbsp;Spectacles</a><br>
       <span class="nav-list-heading-sub">en cours</span><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/les-etres-humaines">●&nbsp;Les êtres humaines 2025 - 2027</a><br>
-      <a style="color: #aafc89" class="nav-list-item subtlehover" style="color: #aafc89" href="les-emmeles">●&nbsp;Les&nbsp;Emmêlé&middot;es 2025 - 2026</a><br>
+      <a style="color: #aafc89" class="nav-list-item subtlehover" style="color: #aafc89" href="les-emmeles">●&nbsp;Les&nbsp;Emmêlé&middot;es 2025 - 2027</a><br>
       <a class="nav-list-item subtlehover" style="color: #aafc89" href="captation_empreintes">●&nbsp;Empreintes sur le chemin 2025 - 2026</a><br>
       <a style="color: #aafc89" class="nav-list-item subtlehover" href="/maintenant-il-y-a">●&nbsp;Maintenant il y a 2023 - 2027</a><br>
       <span class="nav-list-heading-sub">passés</span><br>
