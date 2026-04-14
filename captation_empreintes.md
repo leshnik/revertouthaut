@@ -37,11 +37,13 @@ Plus de 100 personnes, adultes et enfants sont venues participer, certaines ont 
 <p class="intro-text">Avec Abdullah Abdulrahman, Loveth Ayiku, Massangbe Cissé, Sidonie Dubosc, Valérie Gaudissart, Clarine Kinawuidi, Charles Korahi, Romane Lasserre, Bassekou Minte, Mirlène N’Gwe, Magali Ringoot, Tahia Strika</p>
 <p class="intro-text">Lumières Florian Girard<br>
 Captation et montage par Patrice Dubosc</p>
-<p class="intro-text">Avec le soutien de l’Association le Pont, de la Fondation de France, de la Direction Régionale aux Affaires Culturelles BFC, de la Délégation Départementale aux Solidarités (DDETS 71) et de la Fédération des Acteurs de la Solidarité</p>
+<p class="intro-text">Avec le soutien de l’Association le Pont, de la Fondation de France, de la Direction Régionale aux Affaires Culturelles BFC, de la Délégation Départementale aux Solidarités (DDETS 71), de la Région Bourgogne Franche-Comté et de la Fédération des Acteurs de la Solidarité</p>
 
 <div class="center-max600-block">
   <img src="https://ik.imagekit.io/eownvzurl/IMG_0354%20-%20copie_d4vXkic8-.jpg">
 </div>
+<p class="intro-text">Créé en juin 2025, ce spectacle a eu un fort impact sur le public et l’accueil qu’il a reçu nous ont donné l’envie de le reprendre en 2026 et de le diffuser plus largement, moins confidentiellement, et d’aller le jouer en milieu rural.</p>
+
 <p class="intro-text">Nous partons jouer ce spectacle au mois de mai et juin 2026, en villages, et en lycée et collège, afin de faire se rencontrer Kinshasa et Davayé, Abidjan et Matour, Karthoum et la Vineuse…<br>
 Nous participons aussi avec ce spectacle au <a href="https://www.saone-et-loire.gouv.fr/Actions-de-l-Etat/Sante-solidarite-et-cohesion-sociale/Solidarites/Challenge-des-solidarites-2026">Challenge des Solidarités</a> porté par le département.</p>
 <p class="intro-text">Créer des passerelles, des connivences, faire en sorte que solidarité soit le contraire de solitude, en ce monde guerrier, voilà ce que nous pouvons faire, ce que nous pouvons défendre et tenter de protéger.</p>
@@ -77,6 +79,8 @@ Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
 <div class="center-max300-block">
   <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg">
 </div>
+
+<p class="intro-text">Pour aller lire et regarder les comptes-rendus d’ateliers artistiques qui ont nourri le spectacle, c’est ici&nbsp;:&nbsp;<a href="empreintes-sur-le-chemin" rel="noopener noreferrer" target="_blank">empreintes sur le chemin</a></p>
 
 
 
