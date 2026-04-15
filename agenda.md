@@ -211,7 +211,8 @@ Téléphone : 03 85 33 56 00</p>
 <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Dimanche 3 mai 2026 à Sivignon<br>sortie de résidence à La Limace, à 17h<br>
 Laurendon<br>
-71220 Sivignon</p>
+71220 Sivignon<br>
+Réservations: lamalimace@gmail.com</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
