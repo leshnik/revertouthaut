@@ -224,6 +224,7 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <div class="logo">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721580078/logo_ils_scenent_wjbd7o.png">Ils Scènent, Mâcon
 </div>
+<br>
 <hr style="margin:0 auto 2rem; width:50%">
 <br>
 <div class="logo">La Méandre (Chalon-sur-Sâone)</div>
