@@ -16,9 +16,12 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 </div>
 <br><br>
 <hr style="margin:0 auto 2rem; width:50%">
-
-
-
+<!-- <div class="center-max300-block">
+  <figure>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png">
+    <figcaption class="figCap">Fédération des acteurs de la Solidarité (FAS)</figcaption></figure>
+</div>
+ -->
 <h1>les projets de rêver tout haut<br> sont soutenus par&nbsp;:</h1>
 <div class="logo">
         <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721553691/_logo_conseil_de%CC%81partemental_officiel_fnr1lj.png">Le Conseil Départemental de Saône et Loire
@@ -155,6 +158,21 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
   <img src="https://ik.imagekit.io/eownvzurl/a2micile-logo_q8AZ33YNh.jpg">a2micile fonds de dotation
 </div><br><br><br><br><br>
 <hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+  <img src="https://ik.imagekit.io/eownvzurl/mba-logo_ipo6k0G5x.jpg">Mâconnais-Beaujolais AGGLOMERATION</div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+  <img src="https://ik.imagekit.io/eownvzurl/Quartiers2030_logo_400_NNkD1gijzT.png">Quartiers 2030</div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+  <img src="https://ik.imagekit.io/eownvzurl/logo%20FDJ_3A6IDDnaz.jpg">FDJ</div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+
+
+
 <h1>nos partenaires</h1>
 <h2>Soutien aux Aidants :</h2>
 <div class="logo">
@@ -177,14 +195,25 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <div class="logo">
     <img src="">Plateforme de Répit 71
 </div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
 
 <div class="logo">
     <img src="">La Métropole Aidante, Grand Lyon
 </div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
 
 <div class="logo">
     <img src="">Mutualité Française
 </div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+  <img src="https://ik.imagekit.io/eownvzurl/R%C3%A9seau%20des%20Aidants%20Nord%2071_YPRRhaTTt.jpg">Réseau des Aidants Nord 71</div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+
 
  <h2>Structures Socio-Culturelles :</h2>
  <div class="logo">
@@ -197,6 +226,11 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 </div>
 <hr style="margin:0 auto 2rem; width:50%">
 <br>
+<div class="logo">La Méandre (Chalon-sur-Sâone)</div>
+<div class="logo">Le Coing (Blanot)</div>
+<div class="logo">La Limace (Sivignon)</div>
+<div class="logo">Le Palace (Cuisery)</div>
+<div class="logo">Les FRGS (Clunisois)</div>
 <div class="logo">Atelier Pluriel (Chissey-les-Mâcon)</div>
 <div class="logo">Le Centre d'Animation, Bourbon-Lancy</div>
 <div class="logo">Centre Social l’Orange Bleue, Saint Marcel</div>
@@ -216,7 +250,7 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <div class="logo">Les Chevaux Célestes</div>
 <div class="logo">La Cave à Musique, Mâcon</div>
 <div class="logo">Les Ateliers du Jour, Montceau-les-Mines</div>
-<h2>Structures Educatives&nbsp;:</h2>
+<h2>Structures Educatives de et Sociaux-éducatives &nbsp;:</h2>
 <div class="logo">
     Lycée Agricole LPA de Charolles
 </div>
@@ -225,12 +259,21 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 </div>
 <div class="logo">Lycée Général du Sacré Coeur de Paray-le-Monial
 </div>
+<div class="logo">Collège Saint-Cyr à Matour
+</div>
+<div class="logo">Info Jeunes à Marcigny
+</div>
+<div class="logo">Mission Locale du Charolais-Brionnais
+</div>
 
 <h2>Organismes Sociaux :</h2>
 <div class="logo">Chambre d’Agriculture, Mâcon</div>
 <div class="logo">Association le Pont, Mâcon, Chalon-sur-Saône, Paray-le-Monial</div>
 <div class="logo">CCAS Mâcon</div>
 <div class="logo">Adoma (Cada Mâcon Nord)</div>
+<div class="logo">Challenge des Solidarités – Préfecture de Saône-et-Loire</div>
+<div class="logo">Centre Social des Blanchettes et de la Chanay – Mairie de Mâcon</div>
+<div class="logo">Villages Solidaires, entre Charolais et Mâconnais</div>
 
 <h2>Aide à la Parentalité:</h2>
 
@@ -253,6 +296,16 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <div class="logo">Maison des Parents, le Creusot</div>
 <div class="logo">Maison de la Famille, Chalon-sur-Saône</div>
 
+<h2>Droits des femmes</h2>
+<div class="logo">Les déléguées départementales aux droits des femmes et à l’égalité femmes-hommes de Saône-et-Loire, de l’Allier, du Jura.</div>
+<div class="logo">Les Réseaux VIF de Mâcon-Beaujolais-Agglomération, du Clunisois, du Bassin Minier, du Brionnais (71)</div>
+<div class="logo">Les PEP 71</div>
+<div class="logo">Solidarité Femmes Besançon (25)</div>
+<div class="logo">Coop-Agir (39)</div>
+<div class="logo">Collectif Hubertine Auclert de l’Allier (03)</div>
+<div class="logo">Le CIDFF 03</div>
+<div class="logo">Le CDAD 03</div>
+
 <h2>Institutions Médico-Sociales :</h2>
  
 <div class="logo">Centre Hospitalier Spécialisé, Sevrey</div>
@@ -274,3 +327,5 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <div class="logo">Association des Familles de Traumatisés crâniens, AFTC</div>
 <div class="logo">Papillons Blancs d’Entre Saône et Loire</div>
 <div class="logo">PEP 71 et l’Ecluse</div>
+<div class="logo">LAM (Lits d’Accueil Médicalisés) à Montceau les Mines
+</div>
