@@ -73,7 +73,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <hr>
 
 <div id="19-06-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Mardi 23 juin 2026 à 17h au Creusot<br>
 Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, au Technopôle</p>
 </div>
@@ -106,7 +106,7 @@ La Pimenterie<br>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <div id="13-06-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>
 au Coing à 19h</p>
 <div class="flex-container-wrap">
@@ -160,7 +160,7 @@ La Pimenterie<br>
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <div id="12-05-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Mardi 12 mai 2026 à Matour<br>
 Salle du CART à 14h45 <br></p>
 <div class="flex-container-wrap">
@@ -175,7 +175,7 @@ Salle du CART à 14h45 <br></p>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="08-05-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande<br>
 à la Grange de la Dîme, 20h <br>
 avec les FRGS</p>
@@ -191,7 +191,7 @@ avec les FRGS</p>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="05-05-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Mardi 5 mai 2026 à Davayé<br>
 Lycée Agricole Lucie Aubrac, 13h30<br>
 43 rue des Poncétys 71960 DAVAYE<br>
@@ -208,7 +208,7 @@ Téléphone : 03 85 33 56 00</p>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="03-05-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Dimanche 3 mai 2026 à Sivignon<br>sortie de résidence à La Limace, à 17h<br>
 Laurendon<br>
 71220 Sivignon<br>
@@ -225,7 +225,7 @@ Réservations: lamalimace@gmail.com</p>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="01-05-2026">
-<h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin</a></h2>
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Vendredi 1er au dimanche 3 mai 2026 à Sivignon<br>résidence de création<br>
 La Limace<br>
 Laurendon<br>
@@ -636,7 +636,7 @@ Laurendon<br>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
 <div id="21-06-2025">
-    <h2><a href="empreintes-sur-le-chemin">empreintes sur le chemin – spectacle</a></h2>
+    <h2><a href="captation_empreintes">empreintes sur le chemin – spectacle</a></h2>
     <p class="intro-text">
     Vendredi 20 juin 2025 à Mâcon, et Samedi 28 juin 2025 à Saint-Point <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>&nbsp;:&nbsp;Spectacle et restitution publique lors de la Journée Mondiale des Personnes Réfugiées.</p>
         <p class="intro-text">De mai 2024 à juin 2025, sont proposés à des personnes exilées, enfants et adultes, accompagnées par les CADA le Pont et Adoma à Mâcon, des cycles d’ateliers créatifs. A partir des rencontres faites pendant ces ateliers, sera créé un spectacle, qui réunira certaines des personnes exilées et les artistes Sidonie Dubosc, Valérie Gaudissart, Romane Lasserre et Tahia Strika. Le spectacle fera le récit de cette nouvelle vie à construire quand on a dû quitter son pays, ses racines et ses lieux d’enfance.</p>
