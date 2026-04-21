@@ -13,8 +13,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#14-11-2026">Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
 <li><a href="#02-11-2026">Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</a></li>
 
-<li><a href="#15-10-2026">Jeudi 15 octobre 2026 à Matour (71) <span style="color:oklch(75% 30% 359); font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
-<li><a href="#06-10-2026">Mardi 6 octobre 2026 à Mâcon (71) <span style="color:oklch(75% 30% 359); font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#15-10-2026">Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#06-10-2026">Mardi 6 octobre 2026 à Mâcon (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
 
 <li><a href="#19-06-2026">Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</a></li>
 <li><a href="#16-06-2026">Mardi 16 juin 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et musique (en compagnie du compositeur Morton Potash). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</a></li>
@@ -66,8 +66,8 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <li><a href="#16-04-2025">Mercredi 16 au Samedi 19 avril 2025 à Saint-Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#09-04-2025">Mercredi 9 au Samedi 12 avril 2025 à Besançon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
 <li><a href="#19-03-2025">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#11-03-2025">Mercredi 13 mars 2025 à La Clayette – <span style="color:oklch(75% 30% 359); font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
-<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles – <span style="color:oklch(75% 30% 359); font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#11-03-2025">Mercredi 13 mars 2025 à La Clayette – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
 <li><a href="#25-02-2025">Mardi 25 février 2025 à 10h à Saint-Point dernier atelier d'écriture autour du deuil, à la Pimenterie, suivi d'un repas partagé – <span style="color:#CB6120; font-weight:bold;">Une Nouvelle Page à Écrire</span></a></li>
 <li><a href="#09-02-2025">Samedi 15 février 2025 à Cluny</span>  collecte de photos à la Galerie Les Mains Libres – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
 <li><a href="#09-02-2025">Dimanche 9 février 2025 à 16h à Buffières rencontre publique à la Salle du Mille Club – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
