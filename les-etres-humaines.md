@@ -207,9 +207,9 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
   <li>Le 17 novembre 2026 : à Montluçon (03) – MJC – deux représentations </li>
   <li>Le 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – une représentation tout public </li>
   <li>Du 2 au 13 novembre à Chauffailles (71) deux semaines de résidence, répétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</li>
-  <li>Le 2 avril 2026 à Bourbon Lancy (71) – Salle Saint Luc – deux représentations</li>
+  <li>Le 2 avril 2026 à Bourbon Lancy (71) – Espace Culturel Saint-Léger – deux représentations</li>
   <li>le 19 mars 2026 à Besançon (25) – Centre Social Planoise – deux représentations</li>
-  <li>Le 5 mars 2026 à Saint Vallier (71) – l'ECLA – une représentation</li>
+  <li>Le 5 mars 2026 à Saint Vallier (71) – Espace Culturel Louis Aragon – une représentation</li>
   <li>Le 27 février 2026 à Cluny (71) – Théâtre les Arts – deux représentations</li>
 </ul>
 <p class="intro-text">D’autres dates à venir à Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en <span style="color:#5bafb6; font-weight:bold;">bleu</span> sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
