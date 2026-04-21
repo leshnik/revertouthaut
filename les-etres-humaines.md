@@ -19,7 +19,7 @@ summary:
       <li><a href="#media">Vidéos&nbsp;</a></li>
       <li><a href="#photos">Photos&nbsp;</a></li>
       <li><a href="#extraits">Extraits&nbsp;Texte&nbsp;</a></li>
-      <li><a href="#dates">Agenda&nbsp;</a></li>
+      <li><a href="#dates">Tournée&nbsp;</a></li>
       <li><a href="#contribuer">Contribuer&nbsp;</a></li>
       <li><a href="#">&uarr;&nbsp;</a></li>
     </ul>
@@ -201,19 +201,18 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
 <p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
 
 <ul class="bullet">
-  <li>Le 27 février 2026 au Théâtre les Arts à Cluny (71), deux représentations</li>
-  <li>Le 5 mars 2026 à l’ECLA à Saint Vallier (71), une représentation</li>
-  <li>le 19 mars 2026 à Besançon (25), au Centre Social Planoise, deux représentations</li>
-  <li>Le 2 avril 2026 à la Salle Saint Luc à Bourbon Lancy (71), deux représentations</li>
+  <li>Les 3 et 4 décembre 2026 à Mâcon (71) – Le Théâtre, Scène nationale – quatre représentations</li>
+  <li>Le 1 décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – deux représentations</li>
+  <li>Le 24 novembre 2026 à Yzeure (03) – Yzeurespace – deux représentations</li>
+  <li>Le 17 novembre 2026 : à Montluçon (03) – MJC – deux représentations </li>
+  <li>Le 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – une représentation tout public </li>
   <li>Du 2 au 13 novembre à Chauffailles (71) deux semaines de résidence, répétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</li>
-  <li>Le 14 novembre 2026 à Chauffailles (71), une représentation tout public </li>
-  <li>Le 17 novembre 2026 : à Montluçon (03), deux représentations </li>
-  <li>Le 24 novembre 2026 à Yzeure (03) deux représentations</li>
-  <li>Le 25 novembre 2026 à Chalon-sur-Saône (71) à confirmer</li>
-  <li>Le 1 décembre 2026 à Bellerive-sur-Allier (03) deux représentations</li>
-  <li>Les 3 et 4 décembre 2026 à Mâcon (71) quatre représentations</li>
+  <li>Le 2 avril 2026 à Bourbon Lancy (71) – Salle Saint Luc – deux représentations</li>
+  <li>le 19 mars 2026 à Besançon (25) – Centre Social Planoise – deux représentations</li>
+  <li>Le 5 mars 2026 à Saint Vallier (71) – l'ECLA – une représentation</li>
+  <li>Le 27 février 2026 à Cluny (71) – Théâtre les Arts – deux représentations</li>
 </ul>
-<p class="intro-text">D’autres dates à venir à Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en bleu sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
+<p class="intro-text">D’autres dates à venir à Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en <span style="color:#5bafb6; font-weight:bold;">bleu</span> sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
 
 <div id="présentation"></div><br style="margin-bottom:20px">
 <h2>Résumé et présentation</h2>
