@@ -6,11 +6,11 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <h1 id="ag">agenda</h1>
 <p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements. Les liens fonctionnent dès que nous recevons des précisions.</p>
 <ul class="agenda-list">
-<li><a href="#0304-12-2026">Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> Le Théâtre, Scène nationale</a> </li>
-<li><a href="#01-12-2026">Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> Le Geyser</a></li>
-<li><a href="#24-11-2026">Mardi 24 novembre 2026 à Yzeure (03) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> Yzeurespace</a></li>
-<li><a href="#17-11-2026">Mardi 17 novembre 2026 à Montluçon (03) <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> MJC</a></li>
-<li><a href="#14-11-2026">Samedi 14 novembre 2026 à Chauffailles (71) – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> Espace Culturel du Brionnais</a></li>
+<li><a href="#0304-12-2026">Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre, Scène nationale <span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> </a> </li>
+<li><a href="#01-12-2026">Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </a></li>
+<li><a href="#24-11-2026">Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
+<li><a href="#17-11-2026">Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
+<li><a href="#14-11-2026">Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
 <li><a href="#02-11-2026">Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</a></li>
 
 <li><a href="#15-10-2026">Jeudi 15 octobre 2026 à Matour (71) <span style="color:oklch(75% 30% 359); font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
