@@ -40,6 +40,6 @@ summary: Le projet “Accompagner la parentalité” de Rêver Tout Haut a organ
     </p>
  <h2>programme de la journée</h2>   
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1641126917/Parents71p1_dhimdv.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1641126917/Parents71p2_men5e7.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1641126917/Parents71p1_dhimdv.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1641126917/Parents71p2_men5e7.jpg">
 </div>
