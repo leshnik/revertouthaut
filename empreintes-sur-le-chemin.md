@@ -103,7 +103,7 @@ le monde, ce soir,  s’endormira tranquille »</cite></p>
 « «T. aujourd’hui est arrivée maquillée. On la voit faire avec l’argile, elle est très habile et modèle en petit miniature un jardin entouré de rosiers. C’est le sien, celui qu’elle a laissé et dont elle nous montre des photos que sa famille lui a envoyées. C’est un jardin de roses. Comment arriver à quitter un tel endroit ?  Comment en supporter la perte ? je me demande. T. sourit souvent. A la fin de la séance, je lis un poème de Prévert, qui s’appelle Le Bouquet. Et puis elle se met à lire un poème en géorgien dont elle connaît les derniers vers par coeur. Elle aime aussi la poésie, voilà donc une alliée. »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092872/table-expo-clay_z2iqfr.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1776847687/Screenshot_of_Finder_at_5_Nov_2024_at_15_05_55_ndqrys.jpg">
 </div>
 
 <h5>10ème séance, 19 septembre</h5>
