@@ -112,5 +112,5 @@ Ce projet innovant est financé par <strong>Malakoff Humanis, KALIVI-BFC et la F
 <p class="intro-text">
 Le 13 mai aura lieu à la Pimenterie une première rencontre de toute personne, toute institution concernées par le deuil et intéressée par <a href="une-nouvelle-page"> une nouvelle page à écrire</a>.</p>
 <div class="center-max600-block">
-        <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
+        <a href="invitation-une-nouvelle-page-a-ecrire.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168075/une-nouvelle-page-invitation_bd9fiw.png">Cliquer pour voir ou télécharger l'invitation.</a>
     </div>

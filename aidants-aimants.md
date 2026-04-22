@@ -32,9 +32,9 @@ Les lundis de 14h30 à 17H, tous les quinze jours <span style="color: red">à pa
 <p class="intro-text">Date et lieu de restitution publique à confirmer. <br>
 Nous contacter pour inscription</p>
 
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1600142938/flyer-aidants_aimants_hhjoof.jpg" alt="flyer pour Les plus que proches: atelier créatif à destination des aidants"></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142938/flyer-aidants_aimants_hhjoof.jpg" alt="flyer pour Les plus que proches: atelier créatif à destination des aidants"></div>
  
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1600142937/flyer-aidants_aimants-p2_jy2lch.jpg" alt="Atelier créatif à destination des aidants
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1600142937/flyer-aidants_aimants-p2_jy2lch.jpg" alt="Atelier créatif à destination des aidants
 L’association Rêver Tout Haut propose aux aidants et aux proches de personnes souffrant de maladies neuro-évolutives de participer à un cycle d’ateliers conviviaux et de pratiquer en groupe des activités ressourçantes et complémentaires : échanges, écriture, sophrologie et pratique corporelle, composition de chansons, travail photographique et graphique."></div>
 <ul style="text-align:right;list-style-type:none">
     <li>

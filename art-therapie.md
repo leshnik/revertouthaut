@@ -14,7 +14,7 @@ redirect_from:
   <!-- Full-width images with number and caption text -->
   <div class="mySlides">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1562654372/art-therapie-jardin-still-life-rect_nc0p7e.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1562654372/art-therapie-jardin-still-life-rect_nc0p7e.jpg" style="width:100%">
       <figcaption class="figCap"></figcaption>
     </figure>
     <div class="numbertext center-text">1 / 6</div>

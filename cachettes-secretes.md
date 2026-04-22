@@ -11,7 +11,7 @@ summary: Le projet “Cachettes secrètes” de Rêver Tout Haut explore les sou
 <p class="intro-text">Mais peut-être y-t-il dans ces cachettes secrètes autre chose à dévoiler ? Des capacités créatives, un monde imaginaire, des désirs enfouis, jamais exploités ? Une volonté de se reconstruire, de vivre différemment ? Et une façon de se regarder et de se montrer autre ?</p>
 
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1684332779/cachettes-secretes_wijkxz.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1684332779/cachettes-secretes_wijkxz.png">
 </div>
 
 <p class="intro-text">

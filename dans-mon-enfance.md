@@ -181,9 +181,9 @@ Je suis fille et je vaux autant qu'un garçon
 <cite>par Cécile Bouretal-Constant</cite><br>
 <a href="https://www.lejsl.com/culture-loisirs/2021/06/30/elles-ont-quitte-leur-pays-pour-l-avenir-de-leurs-enfants">●&nbsp;article de presse dans le JSL</a>
 </div>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1630662227/jslJeudi1erJuillet2021_s3xrr0.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1630662616/jsl4juillet2021_hsp0je.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1630662946/laRenaissance9juillet2021_k5jpmi.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630662227/jslJeudi1erJuillet2021_s3xrr0.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630662616/jsl4juillet2021_hsp0je.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1630662946/laRenaissance9juillet2021_k5jpmi.jpg"><br>
 
 
 

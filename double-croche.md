@@ -11,7 +11,7 @@ summary: Le projet “Double Croche” de Rêver Tout Haut est une initiative in
 <p class="intro-text">Par des ateliers musicaux, comportant des comptines, des chansons, l’utilisation de petits instruments et de petites percussions, des suites de gestes, des consignes ludiques, les duos grand-parent/petit enfant vont découvrir des sons, des instruments, des mélodies, des rythmes, l’enrichissement de la pratique musicale à plusieurs, l’improvisation, la composition d’histoires chantées et le plaisir du partage. Enfants et grands-parents sont tous actifs pendant ces ateliers et explorent ensemble toute la gamme de ce qui leur sont proposé.</p>
 
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1674226613/accord%C3%A9on_iwlopt.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1674226613/accord%C3%A9on_iwlopt.jpg">
 </div>
 
 <p class="intro-text">Tous ces jeux pratiqués en atelier pourront par la suite être utilisés par les grands-parents et leurs descendants dans le quotidien, et continueront dans le futur de nourrir leurs liens, leur connivence et leurs souvenirs en commun. L’idée étant aussi bien-sûr d’aller rechercher chez les grands-parents les enfants qu’ils ont été, même si leur enfance leur parait loin.</p>

@@ -5,7 +5,7 @@ title: jamais deux sans voix
 ---
 <h1>jamais deux sans voix&nbsp;!</h1>
 <div>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692958567/megaphone-ear-to-ear_tzatsn.png">
 </div>
 <p class="intro-text">Morton et Baptiste, duo improbable, vous proposent une fantaisie poétique pour un piano et une voix.
 
@@ -14,7 +14,7 @@ Ces deux pickpockets de mots tendres vous font part de leur récolte. Des textes
 Un univers un brin lunaire et un poil cocasse.
 </p>
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692959301/le-duel-baptiste-morton-party-hats_bsdi6j.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692959301/le-duel-baptiste-morton-party-hats_bsdi6j.jpg">
 </div>
 <p class="intro-text">Des poèmes inédits par Baptiste Gaubert sont l'inspiration des musiques originales de Morton Potash. Après un conseil de Rilke qu'on ne suivra pas, une plongée dans le métro parisien en compagnie de Georges Perec, sous le spectre d'un Romain Gary qui plane, survivants d'un duel et d'une descente dans l'alconnerie, ils prennent un train qui ne part pas finalement, pour faire face aux voix, ces voix qu'entendent les entendeurs de voix.</p>
 

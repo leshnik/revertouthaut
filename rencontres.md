@@ -11,10 +11,10 @@ summary: Le projet “Rencontres” de Rêver Tout Haut crée des liens à trave
 <p class="intro-text">Ces ateliers, animés par  Estelle Bernigal, musicienne, Sidonie Dubosc, chanteuse et Valérie Gaudissart, parolière, ont réuni autour de la création de chansons, les résidents, des seniors venus de l’extérieur et des enfants de l’école de musique. Un spectacle a été donné en juin 2023.</p>
  <div class="flex-container">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer01_mhxoyi.jpg">
         </div>
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673870704/rencontres-flyer02_sly0h8.jpg">
         </div>      
 </div>
 <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="FLYER-nos-vies-en-chantees.pdf"  target="_blank">●&nbsp;cliquer pour télécharger le flyer </a>
@@ -28,10 +28,10 @@ Car nous avons pris comme point de départ, les récits et les souvenirs des ren
 
 <div class="flex-container">
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692293674/livret-nos-vies_rbt4dq.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692293674/livret-nos-vies_rbt4dq.png">
     </div>
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692293686/nos-vies-p2-thumbs_qt1kbf.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692293686/nos-vies-p2-thumbs_qt1kbf.png">
     </div>
 </div>
 <a style="color:hsl(171,93.5%,36.5%); font-size:30px" href="rencontres-recueil.pdf"  target="_blank">●&nbsp;cliquer pour télécharger le livret "Recueil des textes" </a>

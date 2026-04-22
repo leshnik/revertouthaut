@@ -6,10 +6,10 @@ summary: De mars à décembre 2023, des ateliers créatifs auront lieu dans le B
 <h1>les mains tendues</h1>
 <div class="flex-container">
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688791995/les-mains-tendues-paray2023p1_pbj4i2.png">
             </div>
             <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1688792015/les-mains-tendues-paray2023p2_qurzz0.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1688792015/les-mains-tendues-paray2023p2_qurzz0.png">
             </div>
         </div>
  <ul style="text-align:right;list-style-type:none">
@@ -20,15 +20,15 @@ summary: De mars à décembre 2023, des ateliers créatifs auront lieu dans le B
 <p class="intro-text">De mars à décembre 2023 auront lieu dans le Brionnais, au printemps à Semur-en-Brionnais et à l’automne à Paray-le-Monial, un cycle d’ateliers créatifs pour aidant.es et proches de personnes en perte d’autonomie, qu’il s’agisse de handicap, physique ou psychique, ou de maladies.</p>
 
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692339463/plate-birds-mains-tendues_yc9uau.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692339463/plate-birds-mains-tendues_yc9uau.jpg">
 </div>
 <p class="intro-text">Ensemble, avec des artistes et en groupe, nous proposerons des consignes créatives, comme l’écriture, la peinture, l’argile, la musique, la fabrication de marionnettes, pour transformer le quotidien et le vécu de l’aidant.</p>
 
 <div class="center-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692339476/held-painting-mains-tendues_z3fkad.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692339476/held-painting-mains-tendues_z3fkad.jpg">
 </div>
 
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1683132587/actus-brionnais-2023-05-03_oj2gds.png">
 
 <p class="intro-text">Un spectacle réunissant tout ce qui a été créé et transformé pendant les séances sera proposé en fin de cycle.</p>
  
@@ -37,10 +37,10 @@ Ateliers gratuits pour les participants.<br>
 
 <div class="flex-container">
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1677512592/les-mains-tenduesP1_s4iu55.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1677512592/les-mains-tenduesP1_s4iu55.png">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1677512592/les-mains-tenduesP2_z3c8ms.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1677512592/les-mains-tenduesP2_z3c8ms.png">
   </div>
  </div>
  <ul style="text-align:right;list-style-type:none">

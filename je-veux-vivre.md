@@ -10,12 +10,12 @@ summary: Le projet “Je veux vivre” de Rêver Tout Haut, en collaboration ave
 <p class="intro-text">À la demande de l’Association Atelier Pluriel (Chissey les Macon) qui propose des activités rapprochant personnes valides et invalides, <span class="rever-typog">rever tout haut</span> a conçu un atelier qui revendique de l’énergie et de l’envie de vivre après une année bien déstabilisante et pleine d’empêchements.</p>
 <div class="center-big-block">
 <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632146607/Je-veux-vivre-R_mawpnh.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632146607/Je-veux-vivre-R_mawpnh.png">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
     <br>
      <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1632146605/Je-veux-vivre-V_tfdakn.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1632146605/Je-veux-vivre-V_tfdakn.png">
       <figcaption class="figCapCenter"></figcaption>
     </figure>
 </div>
@@ -29,7 +29,7 @@ Je veux vivre où ? Je veux vivre comment? Avec qui ? Pour qui ? Pour quoi faire
 Valérie Gaudissart, qui coordonne le projet dans sa globalité propose de tenir un journal de bord de ces journées passées ensemble afin de garder traces de ces moments précieux, et de tout ce qui s’y joue, même de manière infime.</p>
 <h2>carnet de stage</h2>
 <div class="center-max600-block">
-<a href="https://fr.calameo.com/read/005110350a2ab4940bb33?view=book&page=1"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1645705568/je-veux-vivre-couverture-carnet_dazir0.jpg"></a><br>
+<a href="https://fr.calameo.com/read/005110350a2ab4940bb33?view=book&page=1"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1645705568/je-veux-vivre-couverture-carnet_dazir0.jpg"></a><br>
 <figcaption class="figCapCenter"><a style="color:hsl(171,93.5%,36.5%); font-size:1.5rem" href="https://fr.calameo.com/read/005110350a2ab4940bb33?view=book&page=1">●&nbsp;cliquer pour voir ou télécharger le carnet</a></figcaption>
 </div>
 

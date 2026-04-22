@@ -11,7 +11,7 @@ summary: Le spectacle “Maintenant, il y a” de Rêver Tout Haut donne la paro
 <p class="intro-text">«Maintenant, il y a» donne la parole et une visibilité à des personnes cérébro-lésées du fait d’un accident de la route, d’une chute ou d’un AVC, et ayant traversé une période de coma leur ayant laissé des séquelles. Se sentant souvent dévalorisées dans leur propre regard, et ayant perdu leur place active dans la société, elles doivent fournir un double effort (même un triple vu le temps passé au quotidien, à remettre un corps plus ou moins d’aplomb, à raviver une mémoire souvent défaillante, à lutter contre la dépression), en se reconnaissant comme personne désormais porteuse d’un handicap, et en créant de nouveaux liens et en trouvant un nouveau sens à leur vie sociale et familiale.</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1692185464/flyer-maintenant-il-y-a_logos_s2doxm.png">
 </div>
 
 <p class="intro-text">Par la création et l’interprétation de chansons personnelles et collectives, le spectacle transmet toute cette intimité, ce parcours de reconstruction, cette énergie pour réapprendre tout de zéro. En ce sens, il est une formidable leçon de vie.</p>
@@ -56,7 +56,7 @@ de la SACEM, du FDVA 71 et de la MMA.
 
 <h2>dans la presse</h2>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1704194432/jsl-2023_12_28-milya_e0wa7a.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704194432/jsl-2023_12_28-milya_e0wa7a.png">
 </div>
 <h2>le teaser</h2>
 <div class="center-max600-block">
@@ -67,5 +67,5 @@ de la SACEM, du FDVA 71 et de la MMA.
 concernant ce fabuleux projet !</p>
 
 <div class="center-max600-block">
-    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
+    <a href="Nouvelline-appel-dons2023.pdf" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1673632549/novelline-appel-a-dons_mzmi1y.png"></a>
     </div>

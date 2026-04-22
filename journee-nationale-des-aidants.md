@@ -8,7 +8,7 @@ summary: Lecture musicale de témoignages d'aidants familiaux et professionnels 
 
 <h2>30 septembre 2020 au Théâtre Sauvageot, Paray-le-Monial</h2>
 
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
 
 <p class="intro-text"><span class="rever-typog" style="font-size: 1.7rem"> rêver tout haut</span> participe pour la 2e fois à la journée nationale des aidants en proposant « Les plus que proches », une lecture musicale en public de témoignages d’aidants familiaux et d’aidants professionnels.
 Cette lecture musicale est une manière de transmettre la parole et le vécu des aidants à d’autres aidants et à leurs proches.

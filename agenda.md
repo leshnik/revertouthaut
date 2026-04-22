@@ -670,7 +670,7 @@ Laurendon<br>
             </div>
             <div class="column">
                 <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
@@ -1010,7 +1010,7 @@ Laurendon<br>
     Recueil de témoignages pour la réalisation d’un film photographique, histoires de transmission, autour de la question des départs à la retraite au sein des familles d'agriculteurs. Avec le soutien du FDVA 71, de la MSA, en partenariat avec Ciné Ressources 71 et l'aide à la création du Conseil Départemental de Saône-et-Loire.</p> 
     <p class="intro-text">Si vous souhaitez témoigner, vous pouvez nous contacter&nbsp;:&nbsp; revertouthaut@gmail.com / 07&nbsp;69&nbsp;29&nbsp;53&nbsp;27</p>
     <div class="center-max600-block" style="border: 1px solid grey">
-<a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
+<a href="histoires-de-transmissions-7pages.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1666174912/histoires-transmissions_title-page_qklqht.jpg"><div class="cite">cliquer pour consulter/télécharger le dossier</div></a>
 </div>
     <p class="intro-text">
     Projet soutenu par la MSA.
@@ -1045,10 +1045,10 @@ Laurendon<br>
     <li>
        <span style="color:red">Automne 2024</span>:démarrage des ateliers pour jeunes aidants <a href="jeunes-aidants">jeunes aidant&middot;es / les emmêlé&middot;es</a>
        <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1704026219/jeunes-aidants-2_oabk5m.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1704026219/jeunes-aidants-2_oabk5m.png">
        </div>
        <div class="center-block">
-        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
     </div> 
     </li>
 <hr>
@@ -1106,7 +1106,7 @@ Laurendon<br>
     <li>
         Tournée de <a href="maintenant-il-y-a">maintenant il y a</a>, spectacle musical avec une formidable troupe de personnes porteuses d’une cérébro-lésion
         <br>
-        <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1706439770/maintenant-bourbon-whole_ueyerl.png" alt="16 heures, espace culturel saint-léger, réservations 03&nbsp;85&nbsp;89&nbsp;33&nbsp;14, gratuit, suivi d'un temps d'échanges"></div>
+        <div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1706439770/maintenant-bourbon-whole_ueyerl.png" alt="16 heures, espace culturel saint-léger, réservations 03&nbsp;85&nbsp;89&nbsp;33&nbsp;14, gratuit, suivi d'un temps d'échanges"></div>
         <ul>
             <li><span style="color: rgb(216, 87, 0);">Le 5 avril 2024 à Montceau les Mines</span>, à 19h aux Ateliers du Jour, 56 quai Jules-Chagot, Gratuit, Suivi d'un temps déchanges. Réservation:03&nbsp;85&nbsp;58&nbsp;73&nbsp;37
             </li>

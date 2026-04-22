@@ -14,7 +14,7 @@ du&nbsp;Charolais-Brionnais/2024-2025</h2>
 
 <div class="content-container-horizontal">
         <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
                 <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
@@ -33,7 +33,7 @@ Et dans cette vie où tout est mêlé, dans laquelle l’autre est souvent prior
 <p class="intro-text">Un premier temps de sensibilisation et d’informations a été organisé lors de la 34e édition des Semaines d'information sur la Santé Mentale du Charolais-Brionnais, le jeudi 9 novembre 2023 au Lycée Professionnel Agricole à Charolles.</p>
 
 <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693660446/jeunes-aidants-9nov_j5kc81.png">
 </div>
 
 <p class="intro-text">L’action, étant entièrement nouvelle dans le département, et même la région, Rêver Tout Haut a ensuite pris contact avec une centaine de structures accompagnant des jeunes (service jeunesse, missions locales, lycées, etc…), et a proposé des journées d’informations au Lycée Agricole et au Lycée Wittmer de Charolles, au Lycée du Sacré Cœur de Paray le Monial, là où des élèves suivent des formations en Aide à la Personne, sachant que dans ces filières, les aidant.es familiaux y sont fortement représentés.</p> 
@@ -95,7 +95,7 @@ Le projet a reçu le soutien de l’AG2R, du Conseil Régional de Bourgogne Fran
 
 <!-- 
 <div class="center-block">
-        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
+        <a href="présentation projet jeunes aidants.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1712168475/les-emmeles-presentation_uanuts.png">Clicquer pour une courte présentation à télécharger.</a>
     </div>
  
 <p class="intro-text">Le projet est ouvert aussi aux jeunes aidants endeuillés, car on ne cesse pas d'être aidant, même quand un décès vous a séparés.</p>
@@ -117,13 +117,13 @@ Par la danse, le corps, le rythme, les sons, les jeunes aidants pourront exprime
 
     
  <div class="center-max600-block" style="border: 1px solid grey">
-            <a href="Flyer SISM 2023 VD.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1693735452/flyerSISM_yimz0j.jpg">cliquer pour consulter/télécharger le flyer</a>
+            <a href="Flyer SISM 2023 VD.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1693735452/flyerSISM_yimz0j.jpg">cliquer pour consulter/télécharger le flyer</a>
 </div>
  
 <p class="intro-text">Des multiples structures du territoire qui œuvrent dans l'accompagnement des jeunes au niveau social, éducatif, familial: Lycées, Maison Familiale Rurale, Mission Locale, CMP, Papillons Blancs,etc...,  seront sollicités pour diffuser l’information autour du projet et pour repérer certaines situations de jeune aidance.</p>
 
 <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1697691393/flyer-les-jeunes-aidants2023_jxewtm.png">
 </div>
 
  

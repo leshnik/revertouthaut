@@ -52,7 +52,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434054/sido_bonhomme_papier_3_800_clxd4a.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434054/sido_bonhomme_papier_3_800_clxd4a.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">1 / 18</div>
       </figure>
@@ -60,7 +60,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434083/sido_fil_%C3%A0_linge_et_coeur_muet_800_uzkire.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434083/sido_fil_%C3%A0_linge_et_coeur_muet_800_uzkire.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">2 / 18</div>
       </figure>
@@ -68,7 +68,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434087/sylvia_sido_nulle_comme_m%C3%A8re_800_obyyeb.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434087/sylvia_sido_nulle_comme_m%C3%A8re_800_obyyeb.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">3 / 18</div>
       </figure>
@@ -76,7 +76,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434075/mariama_sylvia_liste_2_copy_800_jm43xf.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434075/mariama_sylvia_liste_2_copy_800_jm43xf.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">4 / 18</div>
       </figure>
@@ -84,7 +84,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434066/mariama_mon_oncle_2_800_z1zn3e.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434066/mariama_mon_oncle_2_800_z1zn3e.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">5 / 18</div>
       </figure>
@@ -92,7 +92,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1552386097/val_pupitre-re_wepc4e.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1552386097/val_pupitre-re_wepc4e.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">6 / 18</div>
       </figure>
@@ -100,7 +100,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434066/val_et_sido_rite_800_h2l61b.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434066/val_et_sido_rite_800_h2l61b.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">7 / 18</div>
       </figure>
@@ -108,7 +108,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434072/mariama_sido_bain_copy_800_hakjtt.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434072/mariama_sido_bain_copy_800_hakjtt.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">8 / 18</div>
       </figure>
@@ -116,7 +116,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434061/ombre_sido_800_vrtqfv.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434061/ombre_sido_800_vrtqfv.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">9 / 18</div>
       </figure>
@@ -124,7 +124,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434063/sido_mariama_radio_800_txi4ln.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434063/sido_mariama_radio_800_txi4ln.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">10 / 18</div>
       </figure>
@@ -132,7 +132,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434090/sido_et_radio_800_iwtmhn.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434090/sido_et_radio_800_iwtmhn.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">11 / 18</div>
       </figure>
@@ -140,7 +140,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434087/sido_ado_2_800_s4by48.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434087/sido_ado_2_800_s4by48.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">12 / 18</div>
       </figure>
@@ -148,7 +148,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551360515/ils_%C3%A9taient_gros_sylvia_800_ilrqqf.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551360515/ils_%C3%A9taient_gros_sylvia_800_ilrqqf.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">13 / 18</div>
       </figure>
@@ -156,7 +156,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434059/sylvia_et_jumeaux_800px_aopwrx.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434059/sylvia_et_jumeaux_800px_aopwrx.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">14 / 18</div>
       </figure>
@@ -164,7 +164,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551434090/val_sylvia_mariama_elle_me_resemble_800_dhilxq.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551434090/val_sylvia_mariama_elle_me_resemble_800_dhilxq.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">15 / 18</div>
       </figure>
@@ -172,7 +172,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551361607/tambours_d_eau_va_mo_si_800_itspop.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551361607/tambours_d_eau_va_mo_si_800_itspop.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">16 / 18</div>
       </figure>
@@ -180,7 +180,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551361480/val_sido_morton_flou_en_fin_800_fnmisg.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551361480/val_sido_morton_flou_en_fin_800_fnmisg.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">17 / 18</div>
       </figure>
@@ -188,7 +188,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
 
   <div class="mySlides">
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1551361014/ma_sy_mo_va_si_smile_800_sgrj4e.jpg" style="width:100%">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1551361014/ma_sy_mo_va_si_smile_800_sgrj4e.jpg" style="width:100%">
         <figcaption class="figCap">© So Beau-Blache</figcaption>
         <div class="numbertext center-text">18 / 18</div>
       </figure>
@@ -217,7 +217,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           
         </li>
         <div class="center-max600-block">
-          <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1647621043/Spectacle_bercer..._-_10_mai_2022-1_tbqlg3.jpg">
+          <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1647621043/Spectacle_bercer..._-_10_mai_2022-1_tbqlg3.jpg">
           </div>
           <hr>
         <li>20 septembre 2022<br>
@@ -235,7 +235,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           Place de l'Abbaye<br>
           71700 Tournus<br>
           en partenariat avec l’Association Vivre au Féminin<br><br>
-          <img style="width: 40%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg" alt="affiche Tournus">
+          <img style="width: 40%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643288828/affiche_blem_tournus_2022_zsl76x.jpg" alt="affiche Tournus">
         </li>
         <li>
           vendredi 25 juin 2021 à 20h<br>
@@ -268,7 +268,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           28 avenue Charles de Gaulle<br/>
           71600 PARAY-LE-MONIAL<br/>
           03 85 81 11 62<br>
-          <img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601621589/gatsby-cloudinary/blemParay.jpg" alt="flyer Paray-le-Monial le 13 octobre 2020 au Théâtre Sauvageot">
+          <img style="width:40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1601621589/gatsby-cloudinary/blemParay.jpg" alt="flyer Paray-le-Monial le 13 octobre 2020 au Théâtre Sauvageot">
 
         </li>
         <li>
@@ -276,7 +276,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           Salle des fêtes Maurice Ravel<br>
           Avenue Maurice Ravel<br>
           71880 Châtenoy-le-Royal<br>
-          <img style="width: 40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto/v1574259054/flyer-bercer-chateneaP1_lpzjvf.png" alt="Flyer Chatenoy-le-Royal pour 3 decembre à 20h, 2019">
+          <img style="width: 40%" src="https://res.cloudinary.com/dnxcesebo/image/upload/w_800,q_auto,f_auto/v1574259054/flyer-bercer-chateneaP1_lpzjvf.png" alt="Flyer Chatenoy-le-Royal pour 3 decembre à 20h, 2019">
         </li>
         <hr>
         <li>
@@ -415,7 +415,7 @@ summary: Basé sur des témoignages de mères, de sage-femmes, d’obstétricien
           <a href="https://www.lejsl.com/edition-de-chalon/2018/12/10/bercer-l-enfant-manquant-organise-par-adssociation-la-pomme-verte-(en-images)" style="font-family: Crimson Text, serif;
   font-size: 1.3rem;
   color: hsl(0, 0%, 60%);">●&nbsp;le journal de saône et loire</a><br>
-          <img style="margin-left:3px; width:40%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png">
+          <img style="margin-left:3px; width:40%;" src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_250/v1541816962/flyer-bercer-chalon-dec7-2018_vmb2ds.png">
         </li>
         <hr>
         <li>

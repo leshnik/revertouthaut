@@ -8,8 +8,8 @@ summary: Le projet “Familles d’aujourd’hui” de Rêver Tout Haut, initié
 <p class="intro-text">A la demande de la CAF 71 et en prévision d’une journée destinée aux professionnel.les de l’accompagnement parental prévue le 4 octobre 2022, Rêver Tout Haut recueille des témoignages de familles homo-parentales et de familles reconstituées, qui de par l’inventivité de leur parcours ont bien des choses à faire partager.</p>
 <p class="intro-text">Vu la richesse de ces expériences familiales, nous réfléchissons à comment les rendre visibles dans un cercle plus élargi, car oui, ces familles d’aujourd’hui et leurs conceptions des liens d’affection ont des choses très utiles et très émouvantes à faire passer.</p>
  <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"><hr>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"><hr>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/invitation-famille-pluriellesP2_al0dnt.jpg">
 <div>
 <hr>
 <p class="chansons_spoken_title">Aurélie</p>

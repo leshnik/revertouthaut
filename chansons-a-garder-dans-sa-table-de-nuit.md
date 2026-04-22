@@ -11,11 +11,11 @@ summary: Le projet “Chansons à garder dans sa table de nuit” de Rêver Tout
 <p class="intro-text">Notre projet va consister en un accompagnement en musique, en chant et en chambres. Un accompagnement individuel, un temps pour chacun, un temps particulier, un temps intime, apaisant, au chevet, au bord du lit des personnes alitées.</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1672391726/P1010057_compressed_kgqvzu.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672391726/P1010057_compressed_kgqvzu.jpg">
 </div>
 
 <p class="intro-text">Et c’est avec des chansons et des poèmes, qu’il s’agisse d’œuvres déjà écrites, d’œuvres du répertoire ou de textes et de compositions de notre cru, créées pour les personnes que nous allons accompagner, que nous avons pensé ces moments intimes, particuliers. Par une présence, par le chant, par la voix humaine, par l’instrument, par les mots rimés, rythmés et imagés, cette proposition peut permettre, pendant un moment, aux personnes alitées, en perte de mobilité, de liens sociaux, en phase dépressive, voire en détresse de vivre autre chose, d’être dans le ressenti, l’émotion, le bercement et d’être dans l’échange jusqu’au bout.</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662205893/P1010066_1000px_bdilyb.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662205893/P1010066_1000px_bdilyb.jpg">
 </div>

@@ -13,10 +13,10 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     spectacle sur le thème de la monoparentalité
   </h2>
   <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg" alt="affiche, pour toute renseignement contacter  07 69 29 53 27, revertouthaut@gmail.com">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665078240/parent-solo-flyer-recto_nltasj.jpg" alt="affiche, pour toute renseignement contacter  07 69 29 53 27, revertouthaut@gmail.com">
   </div><br>
   <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665059838/parent-solo-flyerP2-no-mistake_iulknq.jpg">
 <!-- <ul>
 <li>Résidence au Réservoir de Saint Marcel du 22 au 25 septembre, avec sortie de résidence le 25 septembre</li>
         Réprésentations 2022&nbsp;:&nbsp;
@@ -217,7 +217,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135669/vite_debout_copy_v6qibo.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135669/vite_debout_copy_v6qibo.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -229,7 +229,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/flore_caddie_copy_hbrmdv.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/flore_caddie_copy_hbrmdv.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -241,7 +241,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135669/usine_copy_rclc2q.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135669/usine_copy_rclc2q.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -253,7 +253,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/sid-micro-table-all-girls_copy_md6fto.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/sid-micro-table-all-girls_copy_md6fto.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -265,7 +265,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/ghizalne_place_a%CC%80_table_copy_hx9qgh.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/ghizalne_place_a%CC%80_table_copy_hx9qgh.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -277,7 +277,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/poings_leve%CC%81s_copy_vfbgup.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/poings_leve%CC%81s_copy_vfbgup.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -289,7 +289,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/flore_boxe_poigne_copy_l28p2h.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/flore_boxe_poigne_copy_l28p2h.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -301,7 +301,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/fautive_copy_lzplpt.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/fautive_copy_lzplpt.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -313,7 +313,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/danse-finale-girl-in-red_copy_iwn53l.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/danse-finale-girl-in-red_copy_iwn53l.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -325,7 +325,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/aicha_eiooxo.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/aicha_eiooxo.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -337,7 +337,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/danse-finale_copy_fimqjy.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/danse-finale_copy_fimqjy.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -349,7 +349,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/deces_groupe_copy_mpznfq.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/deces_groupe_copy_mpznfq.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -361,7 +361,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135667/aicha-shiva_copy_hyqhty.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135667/aicha-shiva_copy_hyqhty.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -373,7 +373,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1665135668/clown_copy_hjcxmm.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1665135668/clown_copy_hjcxmm.jpg">
         <figcaption class="figCap">photo sortie de résidence 25/09/2022 ©Piero Dubosc</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>

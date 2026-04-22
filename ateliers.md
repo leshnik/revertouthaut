@@ -8,7 +8,7 @@ summary: Nos ateliers peuvent avoir lieu sur tout le département de la Saône e
 <p class="intro-text"><span class="rever-typog">rêver tout haut</span>, en réponse à des demandes individuelles, groupales ou institutionnelles conçoit, organise et anime des ateliers divers, souvent complémentaires, et menés par toute une équipe d’intervenant.es qui communiquent entre elles/eux afin de permettre et d’inventer le meilleur accompagnement possible.
 </p>
 <div class="center-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1634185061/val-abo-2021-10-12_rwfi4a.jpg" alt="pastel d'inspiration aborigène">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1634185061/val-abo-2021-10-12_rwfi4a.jpg" alt="pastel d'inspiration aborigène">
 </div>
 
 <p class="intro-text">Nous intervenons à domicile, en cabinet et en institution.
@@ -168,7 +168,7 @@ d’apprendre ce que la conscience de la mort apporte à l’existence.
 <div class="mySlides">
     <div class="numbertext">5 / 8</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601961323/gatsby-cloudinary/hands-drawing-chalk-on-black.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1601961323/gatsby-cloudinary/hands-drawing-chalk-on-black.svg">
       <figcaption class="figCapCenter">-</figcaption>
     </figure>
   </div>
@@ -176,7 +176,7 @@ d’apprendre ce que la conscience de la mort apporte à l’existence.
 <div class="mySlides">
     <div class="numbertext">6 / 8</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601961316/gatsby-cloudinary/five-hands-colors.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1601961316/gatsby-cloudinary/five-hands-colors.svg">
       <figcaption class="figCapCenter">-</figcaption>
     </figure>
   </div>

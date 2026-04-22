@@ -15,13 +15,13 @@ dedans il y a nos mots, nos mots parlés, nos mots écrits, nos mots chantés,
 il y a aussi les mots de quelques poètes dont les courriers qui nous ont inspirés»</em>
 </div>
 
-<div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
+<div class="center-max600-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662965421/affiche_DERRIE%CC%80RE_NOS_PORTES_ijhsco.jpg">
 </div>
 <p class="intro-text">«Derrière nos portes» est un projet artistique, musical et poétique, conçu pour les résidents de l’Établissement d’Accueil Spécialisé Ugecam les Villandières de Charnay les Mâcon, qui a démarré en mars 22 et s’est terminé en novembre 2022. 
 Quatre artistes du spectacle vivant, Sidonie Dubosc, Flore Simon, Valérie Gaudissart et Romane Lasserre ont animé 21 séances d’ateliers créatifs de deux heures, écrit des chansons et un texte théâtral, mis en scène un spectacle, animé une résidence de répétitions de 4 jours, et ont donné avec les résidents deux représentations publiques. Formidable expérience et magnifiques rencontres ! 
 Pour démarrer ce cycle d’ateliers, nous avons d’abord envoyé à chacun des 60 résidents une lettre d’invitation personnelle, en y faisant allusion à un élément biographique qui nous avait été confié par l’animatrice. </p>
 
-<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1642072543/IMG_20211006_113445_-_copie_zud5r5.jpg"></div>
+<div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1642072543/IMG_20211006_113445_-_copie_zud5r5.jpg"></div>
 
 <p class="intro-text">Et nous avons continué sur  le thème de la correspondance et  avons imaginé tout ce travail créatif comme étant une longue lettre envoyée aux proches, une lettre qui évoque l’enfance, les désirs, les secrets,  et des revendications adultes et citoyennes. 
 Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , la fantaisie, la sensibilité poétique, la philosophie de la vie  des résidents était nos objectifs. </p> 
@@ -35,7 +35,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1672746667/cher_Alexis_v74dph.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672746667/cher_Alexis_v74dph.png">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
   </div>
@@ -104,7 +104,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
 <p class="intro-text">Et nous avons avec 17 résidents monté un très beau spectacle, un moment complètement à part, suspendu, étonnant, avec des chansons, des scènes et de la magie visuelle.... </p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1643735368/atelier-correspondances-small_wwb4oj.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1643735368/atelier-correspondances-small_wwb4oj.jpg">
 </div>
 
 
@@ -136,7 +136,7 @@ Il y avait aussi d’autres enfants à qui je faisais peur et qui se réfugiaien
 </div>
 <div class="center-max600-block">
 <figure>
- <video controls width="95%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660481892/j-aime-l-amour-thumb_bekknh.jpg">
+ <video controls width="95%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660481892/j-aime-l-amour-thumb_bekknh.jpg">
     <source src="https://rth8.b-cdn.net/j'aime-l-amour.mp4" type="video/mp4">
 </video>
 <figcaption class="chansons_caption"><em>J'aime l'amour&nbsp;:&nbsp; musique et chant de Sidonie Dubosc</em></figcaption>
@@ -176,7 +176,7 @@ Je suis la chaise à laquelle il manque un pied
 </cite>
 </div>
  <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660478011/rosana_at2z2w.jpg"> 
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660478011/rosana_at2z2w.jpg"> 
 </div>
 <h4 class="h4song-titles">Derrière ma porte il y a&nbsp;:</h4>
  
@@ -216,7 +216,7 @@ Je suis la chaise à laquelle il manque un pied
 –mon papa et mon frère partis au paradis et qui me disent de ne plus avoir peur de la mort, c’est un endroit paisible</cite>
 </div>
  <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660478390/franck_erkyns.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660478390/franck_erkyns.jpg">
  </div>
 <h4 class="h4song-titles">La  météo des sentiments</h4>
  <div class="institutions">
@@ -256,7 +256,7 @@ Coup de tonnerre<br>
  <hr>
 </div> 
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1672752273/1671618741230_mhx31x.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672752273/1671618741230_mhx31x.jpg">
 </div>
 <h4 class="h4song-titles">Je tremble</h4>
 <figure>
@@ -289,7 +289,7 @@ Je n’aime pas t’entendre crier<br>
 Je n’aime pas t’entendre crier</cite>
 </div>> 
  <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660484760/writing-20-ans_h5jpgj.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660484760/writing-20-ans_h5jpgj.jpg">
  </div>
 <h4 class="h4song-titles">Chanson pour Pauline</h4>
 <div class="institutions">
@@ -320,7 +320,7 @@ fragiles, peureuses et indomptées<br>
 <hr>
 </div>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1672752553/1671618741234_ve3iml.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672752553/1671618741234_ve3iml.jpg">
 </div>
 <h4 class="h4song-titles">Les correspondants</h4>
 <div class="institutions">
@@ -333,7 +333,7 @@ Alors ils boivent le café et discutent comme avant.<br>
 <br>
 Raphael écrira peut-être à quelqu’un et je crois bien que ce quelqu’un, c’est lui-même, un lui-même un peu secret mais bien présent<br>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1672752761/1671618741237_ntn8nt.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1672752761/1671618741237_ntn8nt.jpg">
 </div>
  <br>
 Leïla écrit à celui qu’elle aime, en lettres d’or car l’amour, elle pense que c’est ce qu’il y a de plus précieux<br>
@@ -353,7 +353,7 @@ Pauline écrit à ses parents, un long poème plein de trésors, de cachettes, d
 Ludivine écrira plus tard, elle n’est pas pressée, car de toute façon, le courrier, ça part à toutes les heures, même en pleine nuit, quand on pense très fort à quelqu’un<br>
 
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660485581/adrien_gbitnl.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485581/adrien_gbitnl.jpg">
 </div>
 Adrien écrit aux chaussures à crampon de Griezman, au short de Zidane et aux cheveux de Neymar parce que ça le fait marrer, et que pour se marrer, il est très doué<br>
 <br> 
@@ -366,7 +366,7 @@ Pascal, qui est haltérophile écrit des lettres très très lourdes,  et tellem
 Nicolas écrit à des personnages qu’il aime bien, il écrit au Petit Poucet, au Chat Botté, aux trois mousquetaires, aux personnages qui peuplent les enfances et qui leur donnent de la force<br>
 
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660485818/didier_g6rstu.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485818/didier_g6rstu.jpg">
 </div> 
 Didier écrit à sa maison et aux bouts de ferraille qui l’attendent dans son jardin. Le fer, le métal, c’est solide, ça ne se brise pas, comme lui.<br>
 <br> 
@@ -384,7 +384,7 @@ Jonathan écrit à toutes les notes de son piano, tous les fa sol la si do, les 
 <br> 
 Jérémy écrit à un paysage coloré, car pour Jérémy, la gaieté, c’est sacrée et son sourire est comme l’arc en ciel, bien accroché et visible de très loin, même du Mont Blanc qu’on voit des fois depuis Mâcon les jours de beau temps
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto/v1660485320/alexis_c0qb2y.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1660485320/alexis_c0qb2y.jpg">
 </div>
 </cite>
 </div>
