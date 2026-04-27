@@ -13,7 +13,7 @@ summary: Le projet “Les Petites Lucarnes” de Rêver Tout Haut, mené d’oct
   <!-- Full-width images with number and caption text -->
   <div class="mySlides" style="max-width:600px; margin:auto">
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_400/v1601539622/gatsby-cloudinary/photo-comme-miroir.jpg" style="width:100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_400/v1601539622/gatsby-cloudinary/photo-comme-miroir.jpg" style="width:100%">
       <figcaption class="figCap">© Lucie Moraillon</figcaption>
     </figure>
     <div class="numbertext center-text">1 / 9</div>
