@@ -46,7 +46,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/cher_Albano_ymmoht.png" style="width: 100%">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672746667/cher_Albano_ymmoht.png" style="width: 100%">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -56,7 +56,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/chere_nadia_wqnwqs.png">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672746667/chere_nadia_wqnwqs.png">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -67,7 +67,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/cher_Emmanuel_i7rusi.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672746667/cher_Emmanuel_i7rusi.png">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -77,7 +77,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/chere_ludivine_aqkqj4.png">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672746667/chere_ludivine_aqkqj4.png">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>
@@ -87,7 +87,7 @@ Faire émerger et faire reconnaître le monde imaginaire, le monde intérieur , 
   <div class="mySlides">
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
-    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672746667/cher_Adrien_fjzdwp.png">
+    <figure><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672746667/cher_Adrien_fjzdwp.png">
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 60%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
     </div>

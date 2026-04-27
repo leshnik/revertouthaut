@@ -10,7 +10,7 @@ Un CADA, un HUDA, un PRAHDA, un CAES : tous ces mots jargonneux qui vont pourtan
 
 <div class="flex-container-wrap">
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
     </div>
     <div class="column">
         <a href="FLYER Empreintes sur le chemin web.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1707897853/empreintes-back_sc02cr.png">
@@ -46,7 +46,7 @@ De l’empreinte des bons souvenirs à celui des traumas...</p>
 <p class="intro-text">Quelques photos prises un peu au hasard vous donnent aussi une idée de ce qui s’y crée et s’y exprime.</p>
 
 <div class="center-max450-block">
- <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092264/panier-champis-clay_hxbhhu.jpg">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736092264/panier-champis-clay_hxbhhu.jpg">
 </div>
 
 <h5>1ère rencontre, 2 mai 2024</h5>
@@ -64,7 +64,7 @@ N. grimpe sur une échelle qui mène à un nuage qui est sa maison<br>
 BA. garde précieusement dans sa main écrit sur un bout de papier le nom de son village du Sénégal… &nbsp;»</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092413/de-colombia_q2qpyy.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736092413/de-colombia_q2qpyy.jpg">
 </div>
 <h5>2ème rencontre, 16 mai 2024</h5>
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -79,7 +79,7 @@ T. se promène dans le futur jardin de sa future maison, et regarde pousser les 
 V. rêve d’une femme qui le regarderait au fond des yeux<br>
 H.  tient dans ses bras sa grand-mère aimante qui lui manque tant…&nbsp;»</cite></p>
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092540/scott-drawing_pjjure.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736092540/scott-drawing_pjjure.jpg">
 </div>
 <h5>4ème rencontre, 13 juin 2024</h5>
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -94,7 +94,7 @@ de Macon à Kinshasa, de Tournus à Lagos, et de Cluny à Dakar
 le monde, ce soir,  s’endormira tranquille »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736093147/hope_pv9xgj.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736093147/hope_pv9xgj.jpg">
 </div>
 
 <h5>6ème rencontre, 11 juillet 2024</h5>
@@ -103,7 +103,7 @@ le monde, ce soir,  s’endormira tranquille »</cite></p>
 « «T. aujourd’hui est arrivée maquillée. On la voit faire avec l’argile, elle est très habile et modèle en petit miniature un jardin entouré de rosiers. C’est le sien, celui qu’elle a laissé et dont elle nous montre des photos que sa famille lui a envoyées. C’est un jardin de roses. Comment arriver à quitter un tel endroit ?  Comment en supporter la perte ? je me demande. T. sourit souvent. A la fin de la séance, je lis un poème de Prévert, qui s’appelle Le Bouquet. Et puis elle se met à lire un poème en géorgien dont elle connaît les derniers vers par coeur. Elle aime aussi la poésie, voilà donc une alliée. »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1776847687/Screenshot_of_Finder_at_5_Nov_2024_at_15_05_55_ndqrys.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1776847687/Screenshot_of_Finder_at_5_Nov_2024_at_15_05_55_ndqrys.jpg">
 </div>
 
 <h5>10ème séance, 19 septembre</h5>
@@ -114,7 +114,7 @@ le monde, ce soir,  s’endormira tranquille »</cite></p>
 E., comme à son habitude, est concentrée sur ce qu’elle fait et c’est particulièrement le cas aujourd’hui. Les traits de son tableau, sont fins, précis, artistiques. Elle dira qu’elle a commencé par  peindre en noir une forme bien visible, en pensant à ce que t’a dit une amie en parlant d’elle : elle est « tough », dure, solide. Mais E. ne se voit pas comme ça, alors elle a rajouté à son tableau des couleurs dorées, plus douces et plus fragiles. »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736093047/plat-a%CC%80-tarte-pinceau_glntcz.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736093047/plat-a%CC%80-tarte-pinceau_glntcz.jpg">
 </div>
 <h5>12ème séance, 17 octobre 2024</h5>
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -124,7 +124,7 @@ Consigne du jour : on va dessiner sur cette grande feuille la carte d’un mond
 Et vont apparaître très vite chez les unes et les autres, des souvenirs des lieux d’origine. L’enfance est là, tout près. »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736092729/blue-river-red-flowers_osfpqp.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736092729/blue-river-red-flowers_osfpqp.jpg">
 </div>
 
 <h5>15ème séance, 31 octobre 2024</h5>
@@ -138,7 +138,7 @@ L. fait les choses en double : un papillon, et à côté de lui un autre papill
 Céline passe de l’un à l’autre, donnant des conseils et posant sur la feuille des traits qui relient les images et les noms. »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736093398/bare_feet_sofa_table_isgdwy.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736093398/bare_feet_sofa_table_isgdwy.jpg">
 </div>
 <h5>18ème séance, 12 décembre 2024</h5>
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -155,8 +155,8 @@ Puis il s’en va, avant les autres, il a tout donné, on dirait. »</cite></p>
  
 <p class="intro-text"> Empreintes sur le chemin a reçu le soutien de la Foundation de France, de la DRAC Bourgogne Franche-Comté, de la Délégation Départementale aux Solidarités, de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
 
-<img style="width:11rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png"> <img style="width:8rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png"> <img style="width:8rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png">
-<img style="width:6rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png">
-<img style="width:18rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png">
-<img style="width:8rem" src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png">
+<img style="width:11rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011897/Logo_FAS_j3ktfh.png"> <img style="width:8rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1731487890/FiLE-logo_crgpzb.png"> <img style="width:8rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011886/FondationJMBruneau.png">
+<img style="width:6rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png">
+<img style="width:18rem;" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png">
+<img style="width:8rem" src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png">
 

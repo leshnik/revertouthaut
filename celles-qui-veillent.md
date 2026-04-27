@@ -33,7 +33,7 @@ Celles qui éclairent par leur présence et tout leur savoir-faire, la journée 
 <p class="intro-text">Pendant les soins, Estelle Bernigal, accordéoniste va donc jouer, et de par notre expérience et la sienne, nous savons combien la musique jouée en live, est thérapeutique, améliore le quotidien, remet les corps en mouvement, allège la dépression, permet de mieux supporter la douleur, permet l’expression d’émotions parfois longtemps retenues, et permet la création par la présence de la musicienne un nouveau lien social.</p>
 
 <div class="right-side-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562087/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_41_18_udcmor.png" style="width:8rem;">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721562087/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_41_18_udcmor.png" style="width:8rem;">
 </div>
 <p class="intro-text">Projet innovant et expérimental, mené grâce au soutien de la MSA.</p>
 
@@ -43,7 +43,7 @@ Nous sortons de ces séances nourries de tant de choses, qu’il va être diffic
  C’est donc à l’étude !</p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736148719/1722248483620_t0fvqc.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736148719/1722248483620_t0fvqc.jpg">
 </div>
 
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -53,7 +53,7 @@ On part chez Bernard, en défilé, l’accordéon en bandoulière.
 Estelle, Céline, Emilie, Valérie et quatre sourires bien accrochés, arpentant la rue de Beaubery. Personne ne nous regarde mais pour nous, c’est mieux que les champs Élysées le  14 juillet</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736148955/IMG_20240524_144020_tj9yhj.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736148955/IMG_20240524_144020_tj9yhj.jpg">
 </div>
 
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -63,7 +63,7 @@ Quatre femmes, dont une qu’il ne connait pas, plus un accordéon pour ses 89 m
 On reste un bon moment car le moment est bon, y’a de la bonté dans l’air, on va pas s’en priver » </cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736148843/IMG_20240524_144924_adifda.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736148843/IMG_20240524_144924_adifda.jpg">
 </div>
 
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -75,7 +75,7 @@ Un silence en elle s’est installé, les expressions du visage se sont effacée
 Retour dans la voiture, la route est très belle, le paysage intact, lui aussi dans son jus, millénaire et printanier.&nbsp;»</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736159270/IMG_20241011_084802_mhlbn5.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736159270/IMG_20241011_084802_mhlbn5.jpg">
   </div>
 
  <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -85,7 +85,7 @@ Elle est touchante cette dame et sa douceur fait du bien. Elle chante avec nous,
 La dame a pris sa douche, elle est en chemise de nuit, il est 5 heures du soir, elle restera toute seule, pour sa petite soirée. Sa fille, qui habite à côté, ne vient jamais la voir. »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736159672/IMG_20240723_105347_i2ywgp.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736159672/IMG_20240723_105347_i2ywgp.jpg">
 </div>
 
  <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -96,7 +96,7 @@ Accompagnante jusqu’au bout du bout, loyale jusqu’au dernier jour. Coeur ouv
 Le monsieur, de son lit passe sur son fauteuil électrique par la magie et les gestes de l’infirmière et ceux de l’élévateur, et tout ça en musique ! Quel ballet ! »</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736159958/IMG_20240607_112344_drxnak.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736159958/IMG_20240607_112344_drxnak.jpg">
 </div>
 
  <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -107,7 +107,7 @@ La séance est passée comme un songe, et d’ailleurs ne me demandez pour quel 
 Ne reste que le souvenir de cette gaieté, cet accueil qui nous font regretter de ne pas passer la journée chez Robert et sa femme (rencontrée dans un bal pardi!)&nbsp;»</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736160052/IMG_20240524_172010_utt2ku.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736160052/IMG_20240524_172010_utt2ku.jpg">
 </div>
 
  <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">

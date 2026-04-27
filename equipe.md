@@ -58,7 +58,7 @@ Valérie a toujours considéré les rencontres comme étant les moteurs et les p
 
 <div id="morton"></div>
 <h2 class="music-color"> Morton Potash : compositeur, musicien, mime, et danseur</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1567438982/mortonReflectionPiano_jjchwd.png"></div>
 Pianiste, percussionniste, accompagnateur de compagnies et de cours de danse, en France au sein des deux Conservatoires Nationaux Supérieurs et aux Etats-Unis au sein de National Dance Institute, Morton est aussi compositeur et improvisateur. Son style personnel et son approche musicale lui permettent de s’adapter à tout type de danse, de corps, de mouvement et d’univers non-verbal. Il a longtemps été danseur et musicien pour différents chorégraphes, a été formé au mime par Etienne Decroux et a joué dans la compagnie <i>Achille Tonic</i>.  Il accompagne aussi les chanteurs et adore écrire des chansons. Sa présence, son rapport ludique aux instruments et sa réactivité musicale lui permettent d’animer des ateliers musicaux, pour bébés, enfants ou adultes. 
 
 Morton compose les chansons et musiques des spectacles de Rêver Tout Haut et les accompagne, de manière très vivante, en répétitions et représentations. 
@@ -67,19 +67,19 @@ Il vit dans un village de Saône et Loire où il a installé son studio de musiq
 
 <div id="marina"></div>
 <h2 style="color: #75B0C2">Marina de Lajudie&nbsp;: coordinatrice <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés (jeunes aidant.e.s)</a></h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718169024/marina_zoomedin_bmisyv.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718169024/marina_zoomedin_bmisyv.png"></div>
 Titulaire d’une licence en Sciences de l’Education de l’université de Lyon II  et d’un Diplôme d’Etat de Conseillère en Economie Sociale et familiale, Marina a travaillé plusieurs années comme Travailleuse Sociale à la CAF du Jura, puis auprès d’adultes handicapés pour deux associations du Rhône.
 
 Elle est installée en Saône et Loire depuis 2008 où, en parallèle de la création et de la gestion de deux gîtes ruraux, elle a exercé comme assistante maternelle pendant une douzaine d’années.
 En 2018, elle a fait partie de l’équipe créatrice du Festival Boulan’zic à Montmelard dont l’objectif était de présenter des spectacles d’artistes locaux de qualité au cœur d’un monde rural où peu de propositions culturelles existent.
 
 Très sensible au pouvoir de l’art sous toutes ses formes pour toucher, sensibiliser, faire réfléchir, informer, transformer, et grande admiratrice du travail réalisé par Rêver Tout Haut depuis sa création, c’est avec le sentiment de participer à une œuvre utile et nécessaire qu’elle a rejoint l’équipe en 2024 pour coordonner les projets de Rêver Tout Haut, notamment <a href="une-nouvelle-page">une nouvelle page à écrire</a>  et <a href="jeunes-aidants"> les emmêlés / jeunes aidant.e.s</a>.<br>
-<img src="https://res.cloudinary.com/dspnxldi8/image/upload/v1718194512/marina-contact_qiu6wb.png">
+<img src="https://res.cloudinary.com/dspnxldi8/image/upload/f_auto,q_auto/v1718194512/marina-contact_qiu6wb.png">
 
 <div id="patricia"></div>
 ## Patricia Rigo : art-thérapeute et plasticienne
 {: .art-color}
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567419656/patricia_rigo_thumb_bf4v50.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1567419656/patricia_rigo_thumb_bf4v50.jpg"></div>
 
 Après une licence en psychologie à la Faculté des Lettres de Montpellier, Patricia quitte la ville pour s'installer dans un moulin en Saône et Loire. Une rencontre l'amène à découvrir le travail de l'argile dans une poterie artisanale. Sous le regard attentif et les conseils de la céramiste Catherine Vanier, elle s'initie à ce tout nouveau métier. Cet apprentissage suscite le goût de tourner, sculpter ses propres pièces, de participer à des expositions collectives et personnelles, ceci durant quinze ans.
 
@@ -89,7 +89,7 @@ Patricia a d'autres passions qui sont la pratique de la danse contemporaine et d
 <div id="lucie"></div>
 ## Lucie Moraillon : photographe
 {:.lucie-color}
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1568404738/LucieMoraillon_wpy0bc.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1568404738/LucieMoraillon_wpy0bc.jpg"></div>
 
 La photographie est une fidèle et ancienne amie de Lucie. A 9 ans, elle reçoit en cadeau un appareil, puis, encouragée par ses proches et ses rêves, elle chemine et grandit, la photographie à ses côtés.
 Elle en fait son métier qu'elle apprend à Paris de 2004 à 2007 à l’École Louis Lumière puis auprès de ceux et celles qui l'inspirent et l'aident à trouver, à consolider son approche à elle.
@@ -105,7 +105,7 @@ Originaire de Dijon, après quelques voyages et quelques années à Paris puis �
 <div id="florian"></div>
 ## Florian Girard : musicien, parolier, et régisseur
 {: .music-color}
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567612309/florian-portrait-nb_100px_thq8tr.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1567612309/florian-portrait-nb_100px_thq8tr.png"></div>
 
 Florian Girard griffonne depuis plus de vingt ans, des poèmes sur un coin de table, des éditos, des dialogues, des chansons dans le train, des nouvelles dans le camion … car il se déplace sans cesse, pour chanter le plus souvent. Il faut qu’il chante, sinon il étouffe. Il faut qu’il bricole des mots, sinon il rouille. Des mots, il en a déposé dans les titres des Trapettistes, de Fred Radix, d’Amélie les Crayons entre autres, et plus récemment d’Alfonce. Des mots ronds, rouges, ravageurs, rugueux, vivants, odorants, rose et tendres comme les fesses d’un babouin, des mots vengeurs, mordants, des mots sans valeur mais jamais sans saveur…
 Des mots, il en tire du nez de ceux qu’il croise et accueille dans ses ateliers d’écriture, enfants, adultes, professionnels, amateurs, différents, improbables, depuis des années, à leur grande surprise et satisfaction.
@@ -176,7 +176,7 @@ Elle est installée dans le clunisois.
 
 <div id="magali"></div>
 <h2 class="music-color">Magali Ringoot : musicothérapeute en cours de formation</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto/v1718198173/magali-carre%CC%81_ntqqxt.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto,f_auto/v1718198173/magali-carre%CC%81_ntqqxt.png"></div>
 C’est à l’âge de 6 ans que Magali commence à jouer du piano et à découvrir le plaisir de jouer de la musique (ou jouer avec la musique ?). Diplômée de Sciences Po Paris en sociologie et communication, elle se consacre pendant plus de 20 ans à diverses causes écologiques en tant que coordinatrice de projets en ONG et continue, à côté de son métier, à cultiver son jardin musical. En plus du piano, elle apprend l’accordéon chromatique. C’est avec le chant en groupe, en particulier le chant spontané et les chants en cercle, que Magali développe un rapport à la musique plus intuitif, plus libre. Elle se forme à la pédagogie du rythme inspirée de la batucada « O Passo » avec son fondateur, Lucas Ciavatta, à l’éveil musical avec l’ADEM. Au fil des années, elle collecte divers chants du monde lors de stages, en particulier des chants « afropéens » auprès d’Anita Daulne (ex Zap Mama).
 
 Animée du désir de transmettre et de vivre davantage la musique en partage, Magali fonde l’association culturelle « La Marmite » en 2013 à Cluny. Elle y donne des cours de piano, des ateliers de chants du monde et d’éveil musical jusqu’en 2018.  Convaincue que nous sommes tous musiciens, Magali a à cœur de rendre la musique accessible à tous. Elle mène différents projets participatifs d’action culturelle avec des artistes et habitants du territoire (fête de la solidarité, carnaval, festival de la transition écologique, …).
@@ -185,7 +185,7 @@ L’animation d’ateliers auprès de personnes en situation de handicap en 2014
 
 <div id="tahia"></div>
 <h2 class="art-color">Tahía Strika: céramiste</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724924386/ScreenFloat/Screenshot_of_Iridium_at_29_Aug_2024_at_11_39_34_ipttfj.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724924386/ScreenFloat/Screenshot_of_Iridium_at_29_Aug_2024_at_11_39_34_ipttfj.png"></div>
 Tahia Strika née au Chili en 1988, elle a entamé ses études supérieures à l'Université de Concepcion, au elle a fait une licence en Pédagogie en Art. Puis elle arrive en France en 2013 pour poursuivre un Diplôme de Métiers d’art Céramique à Antibes. 
 
 Installée avec un collectif de céramistes (La Fourmilière) dans la campagne bourguignonne depuis 2016, sa voie artistique se construit autour de ses lubies enfantines : biologie, taxidermie, entomologie. 
@@ -221,7 +221,7 @@ Plasticienne, illustratrice, conteuse, autrice, elle propose et partage ses morc
 
 <div id="cambie"></div>
 <h2 style="color: #AF8587">Laure Cambie</h2>
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730717909/laure-cambie-portrait_vi7vyo.jpg"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730717909/laure-cambie-portrait_vi7vyo.jpg"></div>
 Peintre et diplômée de l’école des Beaux-Arts de Saint-Etienne, Laure vit et travaille à Cluny.
 
 Étudiante dans les années 2000, alors que la tendance était à la vidéo et à la performance, elle s’interroge sur la manière d’aborder la peinture, sur le lien entre la peinture classique et contemporaine. La découverte de la peinture primitive flamande et vénitienne lors d’un voyage scolaire à Venise l’amène à  se tourner vers la couleur et la lumière. 
@@ -271,7 +271,7 @@ Elle est chargée de diffusion, au sein de Rêver Tout Haut, du spectacle Les Et
 <!-- <div id="isis"></div>
 ## Isis Philippe-Janon : sophrologue et comédienne
 {:.sophro-color}
-<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1566027596/isis-t%C3%AAte_matha9.png"></div>
+<div class="left-side-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1566027596/isis-t%C3%AAte_matha9.png"></div>
 De formation initiale littéraire et théâtrale (Master 1 de Lettres Modernes, et Formation de comédienne sur Paris), Isis a toujours eu à cœur de transmettre quelque chose : d'une émotion à la passion pour un texte, en passant par la découverte d'une nouvelle facette de soi, et par tous les possibles auxquels il est permis de rêver... L'autre est au cœur de ses préoccupations.
 Avec la sophrologie, Isis s'attache à accompagner chacun dans la (re)découverte de ses ressources pour traverser au mieux tous les moments de vie.
 
