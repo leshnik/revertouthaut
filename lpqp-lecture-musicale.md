@@ -54,7 +54,7 @@ summary: Le projet les plus que proches, lecture musicale de RÃªver Tout Haut mÃ
       Gratuit - Pass sanitaire obligatoire<br>
     </li>
     <div class="center-max600-block">
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
       </div>
 
     <li>
