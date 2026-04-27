@@ -27,10 +27,10 @@ coordination.revertouthaut@gmail.com</p>
 
 <div class="flex-container">
         <div class="column">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1759395861/ScreenFloat_Shot_0B8B4BE89C48_qkgi0i.png">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1759395861/ScreenFloat_Shot_0B8B4BE89C48_qkgi0i.png">
         </div> 
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1759398293/Flyer_Les_Emme%CC%82le%CC%81s_rcgp87.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1759396000/ScreenFloat_Shot_6C034609A0DE_bley2h.png">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1759398293/Flyer_Les_Emme%CC%82le%CC%81s_rcgp87.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1759396000/ScreenFloat_Shot_6C034609A0DE_bley2h.png">Clicquer pour télécharger le flyer.</a>
         </div>
 </div>
 
@@ -67,18 +67,18 @@ Lumières et régie : Florian Girard
 
 <h2>L’équipe 2025 au complet&nbsp;!</h2>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1758259177/l_e%CC%81quipe_ofb0gj.jpg"> 
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1758259177/l_e%CC%81quipe_ofb0gj.jpg"> 
 </div>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1758259442/Renaissance_La_clayette21.03_sans_image_tj2ydb.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1758259442/Renaissance_La_clayette21.03_sans_image_tj2ydb.png">
   <figcaption class="figCapCenter">Journal LA RENAISSANCE, 20/03/2025</figcaption><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1758259958/Renaissance_21.03.2straight_ddplvh.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1758259958/Renaissance_21.03.2straight_ddplvh.jpg">
   <figcaption class="figCapCenter">Journal LA RENAISSANCE, 21/03/2025</figcaption>
 </div>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1758260749/pause-brindille_xgllim.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1758260749/pause-brindille_xgllim.jpg">
   <figcaption class="figCapCenter">Stand du Réseau des Aidants Sud 71 et de l’association La Pause Brindille à Charolles</figcaption>
 </div>
 
