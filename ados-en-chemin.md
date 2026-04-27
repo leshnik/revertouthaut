@@ -5,7 +5,7 @@ summary:
 ---
 <h1>ados et chevaux en chemin</h1>
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724318891/ScreenFloat/ados-et-cheveaux-affiche.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724318891/ScreenFloat/ados-et-cheveaux-affiche.png">
 </div>
 <p class="intro-text">
 Spectacle crée pour et avec la Compagnie Les Chevaux Céleste, Céleste Solsona et ses équipières, à la suite d’une longue randonnée de trois semaines en montagne avec deux chevaux et une mule. Cette rando, qui a vu 3 adolescentes, enfants placés en foyers ou familles d’accueil, et 4 femmes adultes parcourir un long chemin de crête intérieur et montagneux.<br>
@@ -16,7 +16,7 @@ Le spectacle retrace ce parcours, transmet les liens d’attachement créés dur
 Mise en scène et écriture par Valérie Gaudissart. Composition par Sidonie Dubosc.
 </p>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724334966/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_15_55_54_tx40mm.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724334966/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_15_55_54_tx40mm.png">
 </div>
 
 <h5>
@@ -45,7 +45,7 @@ Les chevaux marchent d’un pas décidé, ils nous traineraient presque.
 Ils ont du mal à contenir leur excitation.<br>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736232775/IMG-20240818-WA0003_tboajc.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736232775/IMG-20240818-WA0003_tboajc.jpg">
 </div>
 
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -53,7 +53,7 @@ Ils ont du mal à contenir leur excitation.<br>
 Après deux heures de marche, nous arrivons sur un plateau d’immenses prairies verdoyantes. Nous marchons sur des parterres de fleurs sauvages et multicolores, le soleil nous brûlerait presque la peau. Nos réserves d’eau doivent être rechargées. Ouf, il y a une rivière, les chevaux vont pouvoir boire et nous aussi.</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736232776/IMG-20240818-WA0005_pnfhyo.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736232776/IMG-20240818-WA0005_pnfhyo.jpg">
 </div>
 
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:-1rem;">
@@ -63,7 +63,7 @@ Mais elles ne lâchent rien, n’abandonnent pas et continuent de grimper.<br>
 Nous arrivons au sommet, 2400 mètres d’altitude, la vue du glacier nous coupe le souffle. Nous nous mettons à chanter et nous nous préparons sur notre réchaud un plat de pâtes aux courgettes.</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736232775/IMG-20240818-WA0002_h5lkzu.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736232775/IMG-20240818-WA0002_h5lkzu.jpg">
 </div>
 
 <h5>Portrait de Kelly</h5>
@@ -89,7 +89,7 @@ Et quelle issue&nbsp;? <br>
 Toutes ces questions, garde-les, partage-les, prends en soin, fais les tiennes, et porte-les, comme tu portes, gravé en toi, comme un cœur sur l’écorce d’un arbre, ton prénom.</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736232778/IMG-20240818-WA0008_hdykp5.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736232778/IMG-20240818-WA0008_hdykp5.jpg">
 </div>
 
 <h5>L’eau et le souvenir de la mère</h5>
@@ -98,7 +98,7 @@ Toutes ces questions, garde-les, partage-les, prends en soin, fais les tiennes, 
 L’eau pour moi, ça représente ma mère, parce que voilà… j’ai jamais connu mes vrais parents, et un jour comme ça, j’ai dit que l’eau, c’était ma maman, et puis le vent, c’était mon papa. Et à chaque fois que je vais pas bien, ils m’aident tout le temps en me poussant ou en m’imposant avec de la force et du courage. Ça me fait du bien. Donc pour moi, ce sont mes parents. Et à chaque fois que je vais dans l’eau, j’ai l’impression que ma mère, elle m’entend arriver et donc à chaque fois, elle est douce, elle calme et grâce à elle, j’ai le courage le lendemain, de continuer.</cite></p> 
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736252527/3heads_pldwoq.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736252527/3heads_pldwoq.png">
 </div>
 
 <h5>Le lien avec les chevaux</h5>
@@ -107,7 +107,7 @@ L’eau pour moi, ça représente ma mère, parce que voilà… j’ai jamais co
 Ça m’a beaucoup fait changer, les chevaux. D’être avec les chevaux pendant tout ce séjour. Ça m’a fait beaucoup de plaisir, ça m’a rendu heureuse, ça m’a apporté du bonheur. A chaque fois que je suis triste, je vais le voir et quand je reviens, j’ai toujours le sourire grâce çà lui. Il m’aide tout le temps, quand je me sens pas bien ou quand je me sens bien, il est toujours là pour moi comme moi je serai toujours là pour lui. C’est l’amour entre mon cheval et moi.</cite></p> 
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736252526/2heads_flsfka.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736252526/2heads_flsfka.png">
 </div>
 
 <h5>Le loup blanc et le loup noir</h5>
