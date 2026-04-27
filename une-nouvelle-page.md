@@ -97,10 +97,10 @@ Ce projet innovant est financé par <strong>Malakoff Humanis, KALIVI-BFC et la F
 
 <div class="flex-container-wrap">
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429188/ScreenFloat_Shot_662E47588752_dg2smo.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1760429188/ScreenFloat_Shot_662E47588752_dg2smo.jpg">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
   </div>
 </div>
 
