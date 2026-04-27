@@ -21,7 +21,7 @@ Le spectacle dure 1 heure 15 et est interprété par onze personnes.
 Le travail de création et de représentation est encadré et animé par Valérie Gaudissart, autrice, Morton Potash, compositeur, Sidonie Dubosc, chanteuse, Flore Simon, metteuse en scène.</p>
 
 <h2>les textes des chansons</h2>
-<div class="center-block"><a href="https://rth8.b-cdn.net/2024_Maintenant%20il%20y%20a_pagesBD-2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1712537212/daniel-moitie%CC%81_yzhnfi.png">Textes des chansons en BD&nbsp;!</a></div>
+<div class="center-block"><a href="https://rth8.b-cdn.net/2024_Maintenant%20il%20y%20a_pagesBD-2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1712537212/daniel-moitie%CC%81_yzhnfi.png">Textes des chansons en BD&nbsp;!</a></div>
 
 <h2>captation maintenant il y a<br>16 décembre 2023<br>théâtre les arts, cluny</h2>
 <p class="intro-text">
