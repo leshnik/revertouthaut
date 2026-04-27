@@ -6,7 +6,7 @@ summary: Le projet “4 fois 20 ans” de Rêver Tout Haut valorise la parole et
 <h1>4 fois 20 ans</h1>
 <div class="center-max600-block">
 
-<video controls="controls" width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/v1631985559/ehpad-nevers-clap-uku_rhdmy3.jpg" alt="Scènes des ateliers à l'EHPAD">
+<video controls="controls" width="100%" poster="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1631985559/ehpad-nevers-clap-uku_rhdmy3.jpg" alt="Scènes des ateliers à l'EHPAD">
 <source src="https://rth8.b-cdn.net/reportage-FR3-ehpad-nevers.mp4"></video>
 
 <figcaption class="figCapCenter">Reportage France3/Bourgogne, Juin 2021</figcaption>
@@ -62,7 +62,7 @@ On dit qu'on a toujours vingt ans...»</em></div>
     <figcaption class="figCapCenter">Chanson: Les yeux clairs de Monique</figcaption>
   </div>
   <div>
-    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/v1666438834/josianne_maurice_thumb_tfcr7q.jpg">
+    <video controls poster="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1666438834/josianne_maurice_thumb_tfcr7q.jpg">
       <source src="https://rth8.b-cdn.net/josiane&mauriceHndBrVertical_trimmed.mp4">
     </video>
     <figcaption class="figCapCenter">Poème pour Josiane et Maurice</figcaption>
