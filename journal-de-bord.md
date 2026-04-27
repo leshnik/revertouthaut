@@ -110,10 +110,10 @@ En lâcher-prise, en acceptant de te laisser partir
 <p class="intro-text">Et nous, eh bien, nous continuons sur notre lancée et préparons la tournée de ce printemps.</p>
 <p class="intro-text">Des photos de répétition par Lucie Moraillon&nbsp;:&nbsp;
   <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560067/ScreenFloat_Shot_7D3F455F8BE7_oluizk.png"><br>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560550/ScreenFloat_Shot_99484D96A583_qq8jf1.png"><br>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560687/ScreenFloat_Shot_FDBD40E797E5_d30yu6.png"><br>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772560791/ScreenFloat_Shot_A0FF4C1FBB72_dwe4gv.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772560067/ScreenFloat_Shot_7D3F455F8BE7_oluizk.png"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772560550/ScreenFloat_Shot_99484D96A583_qq8jf1.png"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772560687/ScreenFloat_Shot_FDBD40E797E5_d30yu6.png"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772560791/ScreenFloat_Shot_A0FF4C1FBB72_dwe4gv.png">
   </div>
 </p>
 <p class="intro-text">Reportage France3&nbsp;:&nbsp;</p>
@@ -121,12 +121,12 @@ En lâcher-prise, en acceptant de te laisser partir
 
 <p class="intro-text">Articles de presse&nbsp;:&nbsp;
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772009642/ScreenFloat_Shot_54A047D8BE36_lvuqlp.png">
 </div>
 <p class="intro-text"><a href="https://www.lejsl.com/culture-loisirs/2026/02/25/c-est-une-therapie-des-femmes-victimes-de-violences-conjugales-montent-sur-scene">paru dans Le Journal de Sâone-et-Loire le 25/02/2026</a> Article, et photos prises lors des répétitions au théâtre de Cluny, par Adrien Wagnon.</p>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772561804/ScreenFloat_Shot_11CE492183C8_isdom5.png">
 </div>
 <p class="intro-text">
   <a href="https://www.lejsl.com/culture-loisirs/2026/03/01/le-spectacle-les-etres-humaines-en-images" rel="noreferrer noopener" target="_blank"> paru dans le Journal de Sâone-et-Loire le 01/03/2026 </a> Le spectacle «&nbsp;Les êtres humaines&nbsp;», "un formidable projet artistique pour raconter et faire comprendre le fléau de la violence intrafamiliale" en 25 images par Jean-Claude Vouillon. Son article paru le 03/03/2026&nbsp;:&nbsp;</p>
@@ -141,11 +141,11 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
 <p class="intro-text">Février a aussi été pour Rêver Tout Haut l’aboutissement de son action <a href="sur-le-seuil">sur le seuil</a>, cycle d’ateliers artistiques pour les résident.es du LAM de Montceau les Mines.</p>
 <p class="intro-text">Ici, quelques souvenirs des œuvres créées&nbsp;:&nbsp;portraits photographiques faits par Lucie Moraillon, fresques qui décorent maintenant le long couloir, encadrées par Laure Cambi, chansons composées pour les résidents par Florian Girard et textes écrits pour le lieu par Valérie Gaudissart.
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772562807/ScreenFloat_Shot_803B4FA6B27D_r2yqd6.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772562898/ScreenFloat_Shot_546747138289_ttvi0g.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772563024/ScreenFloat_Shot_254944ED9591_juobfp.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772562807/ScreenFloat_Shot_803B4FA6B27D_r2yqd6.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772562898/ScreenFloat_Shot_546747138289_ttvi0g.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772563024/ScreenFloat_Shot_254944ED9591_juobfp.png"><br>
   <figure>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772563146/ScreenFloat_Shot_A1EA4691B636_yszu3r.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772563146/ScreenFloat_Shot_A1EA4691B636_yszu3r.png">
       <figcaption class="figCapCenter">© Lucie Moraillon</figcaption>
   </figure><br>
   <figure><audio controls src="https://rth8.b-cdn.net/Michel..m4a"></audio><figcaption class="figCapCenter">chanson de Florian Girard</figcaption></figure>
@@ -220,7 +220,7 @@ Bravo à Keith, Marie-Adeline, Jenny, Hayate, Inga, Lydie qui sont montées pour
 Avons-nous des photos de cette journée ? Eh bien, non même pas, tant tout le monde était absorbé.<br>
 Juste ce petit souvenir tout flou ! que l’on vous donne quand même.</p>
 
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768044780/ScreenFloat_Shot_E3314EE4B9DE_ftk5ao.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768044780/ScreenFloat_Shot_E3314EE4B9DE_ftk5ao.png">
  
 <p class="intro-text">Les Etres Humaines en décembre, ça a aussi été le lancement de notre financement participatif pour nous aider à jouer le spectacle le plus largement possible.<br>
 Car il faut, cela est une évidence, faire de la prévention. Les actualités, les agressions envers les femmes, les féminicides nous percutent si souvent, que les bras, les bouches, nous en tombent. Il faut qu’on continuer d’avancer, d’y croire et accompagner qui on peut.</p>
@@ -249,9 +249,9 @@ Magali et Larissa qui tape sur un petit tambour avec sa main valide&#8230;
 </div>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045121/ScreenFloat_Shot_D36D45758D8E_wfveio.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768045121/ScreenFloat_Shot_D36D45758D8E_wfveio.png">
   <br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045330/ScreenFloat_Shot_128444A491EA_hdgsoq.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768045330/ScreenFloat_Shot_128444A491EA_hdgsoq.png">
 </div>
 
 <hr>
@@ -261,8 +261,8 @@ Ces ateliers sont toujours des moments de partages très forts, agréables, dont
 <h2>Quelques images gravées&nbsp;:&nbsp;</h2>
  
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045484/1767971693486_kvrpkl.png"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045637/ScreenFloat_Shot_89C14ACBAE80_rmzhoh.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768045484/1767971693486_kvrpkl.png"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768045637/ScreenFloat_Shot_89C14ACBAE80_rmzhoh.png">
 </div>
 
 <hr> 
@@ -271,7 +271,7 @@ Ces ateliers sont toujours des moments de partages très forts, agréables, dont
  
  
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768045799/Capture_d_e%CC%81cran_2026-01-09_a%CC%80_15.50.18_rvj9yj.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768045799/Capture_d_e%CC%81cran_2026-01-09_a%CC%80_15.50.18_rvj9yj.png">
 </div>
  
 <h2>Extrait d’un témoignage&nbsp;:&nbsp;</h2>
@@ -312,10 +312,10 @@ Rêver Tout Haut
 
 <div class="flex-container-wrap">
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046178/ScreenFloat_Shot_4B704B90860E_kgdnwu.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1765046178/ScreenFloat_Shot_4B704B90860E_kgdnwu.png">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765046465/ScreenFloat_Shot_CACD4993B3DA_zsw8wx.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1765046465/ScreenFloat_Shot_CACD4993B3DA_zsw8wx.png">
   </div>
 </div>
 
@@ -324,10 +324,10 @@ Rêver Tout Haut
 <p class="intro-text">Et puis, nous avons bien avancé notre film <a href="histoires-de-transmission">histoires de transmissions</a>. Nous avons passé une semaine à collecter des sons et créer de nouveaux portraits photographiques auprès de paysannes et paysans du Clunysois et du Charolais qui ont bien voulu nous partager leurs difficultés face à leur départ à la retraite. Et en cette période de maladie bovine et de directives qui l’accompagnent,  la question est encore plus poignante.</p>
  
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047055/ScreenFloat_Shot_802B48C98A5F_ohkxx8.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1765047055/ScreenFloat_Shot_802B48C98A5F_ohkxx8.png">
 </div>
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765047414/ScreenFloat_Shot_51104C36A816_gpzaoh.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1765047414/ScreenFloat_Shot_51104C36A816_gpzaoh.png">
 <figcaption class="figCapCenter">prise de son et d'image in situ par Lola Corps et Lucie Moraillon</figcaption>
 </div>
 <hr>
@@ -335,10 +335,10 @@ Rêver Tout Haut
 Elle reviendra en 2026.</p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765105891/IMG20251109124642_gj2ztn.jpg"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1765105891/IMG20251109124642_gj2ztn.jpg"><br>
 </div>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1765105892/IMG20251109124758_guis7g.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1765105892/IMG20251109124758_guis7g.jpg">
 </div>
  
 <p class="intro-text">Et nous avançons aussi au grand galop vers les projets de 2026 avec l’organisation de la tournée de <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a> en mai et juin, et la reprise de notre spectacle autour de la jeune aidance <a href="les-emmeles">les&nbsp;emmêlé&middot;es</a> en octobre.</p>
@@ -366,22 +366,22 @@ Et comme j’avais une estime de moi en dessous de zéro, il y avait forcément 
 J’avais sûrement fait, dit, quelque chose de pas bien. Je méritais les punitions.</cite></p>
 </div>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0055_zr7kly.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0054_hyrr9y.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207182/IMG-20251026-WA0059_yyic9m.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763207182/IMG-20251026-WA0055_zr7kly.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763207182/IMG-20251026-WA0054_hyrr9y.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763207182/IMG-20251026-WA0059_yyic9m.jpg">
 </div>
 <hr>
 <p class="intro-text">Et puis octobre nous a permis aussi de rejouer notre spectacle <a href="maintenant-il-y-a">maintenant il y a</a> avec notre troupe de personnes porteuses de cérébro-lésion lors de la journée festive des <i>10 ans de la Noveline, habitant inclusif de Cluny</i>. Toujours autant de plaisir partagé et sans cesse renouvelé. Il est même possible que nous repartions sur les routes en 2026. Ben oui, pourquoi s’arrêter en si bon chemin&nbsp;? </p>
 
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763207010/la-novelline-a-dix-ans_wluapk.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763207010/la-novelline-a-dix-ans_wluapk.png">
 </div>
 <hr>
 <p class="intro-text">Et nos ateliers d’écriture <a href="une-nouvelle-page">Une nouvelle page à écrire</a> ont repris, faisant la part belle à nos inspirations du moment et à un travail graphique accompagné par Anne De Lagonde, habile artiste du papier découpé et Céline Thoué, graveuse de mots colorés.
 Par ici, pour avoir les dates de l’automne&nbsp;:&nbsp;</p>
 
 <div class="center-big-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1760429360/ScreenFloat_Shot_622D4976BE01_b6qw4n.jpg">
 </div>
 <hr>
 
@@ -416,24 +416,24 @@ Nous avons passé la semaine du 9 septembre à Macon, et collages, argiles, typo
 </p>
 <div class="flex-container">
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757605985/IMG-20250910-WA0008_sqtrta.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757605985/IMG-20250910-WA0008_sqtrta.jpg">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757606254/IMG20250910134130_d5pwo2.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757606254/IMG20250910134130_d5pwo2.jpg">
   </div>
 </div>
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757607807/IMG-20250910-WA0019_qpxl0p.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757607807/IMG-20250910-WA0019_qpxl0p.jpg">
 </div>
 
 <p class="intro-text">Au passage, nous remercions La CPAM 7 de soutenir le projet&nbsp;!</p>
 
 <div class="flex-container">
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757608340/ScreenFloat_Shot_390C452FB590_iohabj.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757608340/ScreenFloat_Shot_390C452FB590_iohabj.jpg">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757610155/ScreenFloat_Shot_08574FB59481_gyc4bd.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757610155/ScreenFloat_Shot_08574FB59481_gyc4bd.jpg">
   </div>
 </div>
 
@@ -444,18 +444,18 @@ Nous avons passé la semaine du 9 septembre à Macon, et collages, argiles, typo
 Superbe et très encourageant impact sur le public ! 
 </p>
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611314/Louton-4_x99ipy.jpg"><br>
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611426/052_1937.Charret_e_d_enfants_avec_Papa_Denis_et_marraine_Marie_Polo._temigw.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757611314/Louton-4_x99ipy.jpg"><br>
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757611426/052_1937.Charret_e_d_enfants_avec_Papa_Denis_et_marraine_Marie_Polo._temigw.jpg">
 </div>
 <hr>
 <p class="intro-text">Et septembre voit nos ateliers d’écriture autour du deuil se préparer. Le nouveau cycle d’ateliers de <a href="une-nouvelle-page">Une Nouvelle page à écrire</a> aura lieu à la Pimenterie, comme vous pouvez le lire sur ce flyer de rentrée. </p>
 
 <div class="flex-container">
   <div class="column">
-     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611755/ScreenFloat_Shot_2324429D8667_zapdww.png">
+     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757611755/ScreenFloat_Shot_2324429D8667_zapdww.png">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1757611881/ScreenFloat_Shot_8CA043A0BAB9_pgcgt6.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1757611881/ScreenFloat_Shot_8CA043A0BAB9_pgcgt6.png">
   </div>
 </div>
 
@@ -501,7 +501,7 @@ par ce que tes mains ont exprimé et par les battements de ton cœur.&nbsp;»
 CHARLES&nbsp;:&nbsp;<br>
 Dans mon bagage, il y avait mon grand-père et sa sagesse<br></cite>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0439_tnzyxj.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754406537/IMG_0439_tnzyxj.jpg">
 </div></p>
 <p class="intro-text"><cite>    
 MASSANGBE&nbsp;:&nbsp;<br>
@@ -513,7 +513,7 @@ Dans mon bagage, il y avait des nuits sans sommeil<br>
 MIRLENE&nbsp;:&nbsp; <br>
 Dans mon bagage, il y avait la tristesse d’avoir quitté mon pays</cite>
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406538/IMG_0441_zu5tex.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754406538/IMG_0441_zu5tex.jpg">
 </div>
 </p>
     
@@ -542,7 +542,7 @@ Il y avait les contes et les proverbes partagés par les enfants<br>
 MASSANGBE&nbsp;:&nbsp;<br>
 Dans mon bagage, il y avait les conséquences de l’excision sur ma vie</cite>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0399_xtwnd9.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754406537/IMG_0399_xtwnd9.jpg">
 </div></p>
 <p class="intro-text"><cite>
 LOVETH&nbsp;:&nbsp;<br>
@@ -584,14 +584,14 @@ Mais au milieu de la mer, les marins du Maroc les ont interceptés et les ont ra
 
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0386_tnbdzt.jpg">  
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754406537/IMG_0386_tnbdzt.jpg">  
 </div>
 <div class="flex-container">
             <div class="column">
-              <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406537/IMG_0431_rj4vhk.jpg">
+              <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754406537/IMG_0431_rj4vhk.jpg">
             </div>
             <div class="column">
-              <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754406521/IMG_0306_blocph.jpg">
+              <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754406521/IMG_0306_blocph.jpg">
             </div>
 </div>
 
@@ -628,9 +628,9 @@ J’étais sortie de prison. J’étais sortie de l’orage. J’étais sortie d
 Le mieux est de vous faire partager quelques unes de nos créations. En voici :</p>
  
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749377414/plus-moi-meme_oafxxq.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749377414/plus-moi-meme_oafxxq.jpg">
 <br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749377572/Lucie_IMG_8643_etxbd2.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749377572/Lucie_IMG_8643_etxbd2.jpg">
 
 <p class="intro-text">
 <cite>
@@ -675,7 +675,7 @@ Nous avançons bien sur l’organisation de la tournée 2026.</p>
 <p class="intro-text">Et la presse est venue à Bourbon&nbsp;!</p>
  
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749377922/presse-bourbon_eathal.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749377922/presse-bourbon_eathal.jpg">
 </div>
 <hr>
 <p class="intro-text">Et puis, nous avons commencé à écrire notre spectacle <a href="empreintes-sur-le-chemina">empreintes sur le chemin</a> qui va tenter de raconter le temps suspendu de l’exil, l’énergie à déployer pour s’enraciner à nouveau. Quelques mots et une image des instruments de musique que nous créons à partir de tout ce qui se ramasse en chemin.</p>
@@ -688,13 +688,13 @@ Le pays où tu es n’a pas encore de nom<br>
 Et celui que tu as quitté n’est déjà plus le tien »
 </cite></p>
 
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749378922/coquillages-empreintes_p1txhg.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749378922/coquillages-empreintes_p1txhg.jpg">
 </div>
  
 <p class="intro-text">Attention, petite jauge, il vaut mieux réserver&nbsp;!</p>
  
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
 </div>
  
  
@@ -770,14 +770,14 @@ Il dit que c’est en brisant les gens qu’on les garde
 
 <div>
   <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747294518/poing_leve_argile_rkuxtg.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747294518/poing_leve_argile_rkuxtg.jpg">
       <figure>
           <figcaption>Besançon&nbsp;:&nbsp;2025-04-09</figcaption>
           <audio controls src="https://rth8.b-cdn.net/podcast%20Besancon.mp3"></audio>
       </figure>
       <div class="flex-container">
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1744708098/IMG20250412130248_av8s64.jpg">
         </div>
         <div class="column">
           <img src="https://ik.imagekit.io/eownvzurl/je-reve-de-liberte%CC%81_3uFYe5vcew.jpg">
@@ -788,12 +788,12 @@ Il dit que c’est en brisant les gens qu’on les garde
 <div></div>
 <div>
   <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747294709/IMG20250410114227_-_copie_vlotwp.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747294709/IMG20250410114227_-_copie_vlotwp.jpg">
     <figure>
       <figcaption>Saint Vallier&nbsp;:&nbsp;2025-04-19</figcaption>
       <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
     </figure>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
   </div>
 </div>
 <div id="2025-04-27">
@@ -804,10 +804,10 @@ Il dit que c’est en brisant les gens qu’on les garde
     </figure>
     <div class="flex-container">
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747067316/IMG20250426180852_mky5gm.jpg">
         </div>
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747067485/IMG20250425104614_bfssgd.jpg">
         </div>
       </div>
   </div>
@@ -822,17 +822,17 @@ Il dit que c’est en brisant les gens qu’on les garde
 <p class="intro-text">Nous prolongeons cette action par la création d’un spectacle qui réunira une huitaine de nos participant‧es et une équipe artistique composée de Romane Lasserre, Valérie Gaudissart, Sidonie Dubosc, Tahia Strika et Magali Ringoot. Nous vous en reparlerons car nous serons en écriture dès la fin mai et nous jouerons en juin.</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
 </div>
  
 <p class="intro-text">Ici, quelques photos et vidéos des créations d’avril</p>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/0e2bac7b-f6b9-498c-8066-5bfa33a0533d?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747296186/ScreenFloat_Shot_of_WhatsApp_at_15_May_2025_at_10_02_45_sa31cf.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747296186/ScreenFloat_Shot_of_WhatsApp_at_15_May_2025_at_10_02_45_sa31cf.png">
 </div>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/eeb6882f-b411-448c-b4c5-3157dbc08e18?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747296519/ScreenFloat_Shot_of_WhatsApp_at_15_May_2025_at_10_08_23_mdj3do.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747296519/ScreenFloat_Shot_of_WhatsApp_at_15_May_2025_at_10_08_23_mdj3do.png">
 </div>
  
 <hr>
@@ -847,7 +847,7 @@ Il dit que c’est en brisant les gens qu’on les garde
 <p class="intro-text"><a href="lesemmelescapta">Captation du spectacle.</a></p>
  
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747297596/les-emmeles-chanson_re4xqy.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747297596/les-emmeles-chanson_re4xqy.png">
 </div>
 
 <h2>janvier/mars 2025</h2>
@@ -880,13 +880,13 @@ Donc moi, je vais être le dernier de ma lignée, et j’aime pas cette idée.</
  
 <p class="intro-text">Quelques photos :</p>
 <div class="center-max450-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743434845/048_.1937._Fenaisons_et_chapeaux_hca0uq.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743434845/048_.1937._Fenaisons_et_chapeaux_hca0uq.jpg">
 </div>
  <div class="center-max800-block">
- <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743434418/dyptique_lucie-9fe%CC%81v25_lvkqxt.png">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743434418/dyptique_lucie-9fe%CC%81v25_lvkqxt.png">
  </div>
  <div class="center-max450-block">
- <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743434635/50BD_e4rnxa.jpg">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743434635/50BD_e4rnxa.jpg">
  </div>
 
 <hr>
@@ -912,8 +912,8 @@ Plus tard, je sais qu’il faudra que j’aide aussi mes deux oncles et ma tante
  
 <h3>Et quelques articles de presse :</h3>
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743424516/presse:emmeles-charolles.jpg"><br>
-<a href="https://www.lejsl.com/societe/2025/02/23/les-emmeles-un-spectacle-avec-des-jeunes-aidants-bientot-sur-scene"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743433967/JSL_31_Mar_2025_kgpj45.jpg"><br>Article dans le JSL</a>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743424516/presse:emmeles-charolles.jpg"><br>
+<a href="https://www.lejsl.com/societe/2025/02/23/les-emmeles-un-spectacle-avec-des-jeunes-aidants-bientot-sur-scene"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743433967/JSL_31_Mar_2025_kgpj45.jpg"><br>Article dans le JSL</a>
 </div>
 
 <hr>
@@ -927,8 +927,8 @@ Marie Quentrec – illustratrice, et Valérie Gaudissart – art-thérapeute.
 <p class="intro-text">Quelques photos des créations&nbsp;:&nbsp;</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743433474/empreintes-drawing-2025-03-26_oapi34.jpg"><br>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743433680/empreintes-clay-2025-03-26_ze4hns.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743433474/empreintes-drawing-2025-03-26_oapi34.jpg"><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743433680/empreintes-clay-2025-03-26_ze4hns.jpg">
 </div>
 
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/4da1c296-b80c-4f2d-a2fe-044afe024006?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
@@ -943,8 +943,8 @@ Marie Quentrec – illustratrice, et Valérie Gaudissart – art-thérapeute.
  
 <p class="intro-text">Quelques images :</p>
  <div class="center-max450-block">
- <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743440833/deuil-gravure1_xfv3ac.jpg"><br>
- <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743440904/deuil-gravure2_xar5k5.jpg">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743440833/deuil-gravure1_xfv3ac.jpg"><br>
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743440904/deuil-gravure2_xar5k5.jpg">
  </div>
  <hr>
  
@@ -966,10 +966,10 @@ Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terr
 <p class="intro-text">Et quelques photos bien parlantes&nbsp;:&nbsp;</p>
 
 <div class="center-max450-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441493/collage_les_couleurs_du_bonheur_dxzzfy.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441576/la_femme_qui_fait_un_pas_eiukfb.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441689/poing_ferme%CC%81-chalon_dqvwvn.jpg"><br>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1743441799/portrait_G-chalon_xvug5b.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743441493/collage_les_couleurs_du_bonheur_dxzzfy.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743441576/la_femme_qui_fait_un_pas_eiukfb.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743441689/poing_ferme%CC%81-chalon_dqvwvn.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1743441799/portrait_G-chalon_xvug5b.jpg">
 </div>
 
 <p class="intro-text">Aurélie Loutan réalise des podcasts pendant les ateliers&nbsp;:&nbsp;
@@ -980,7 +980,7 @@ Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terr
             </figcaption>
                 <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
         </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1742546893/IMG_7452_p0nre6.jpg">
     </div>
 <div class="center-max450-block">
         <figure>
@@ -989,7 +989,7 @@ Aujourd’hui, j’ai besoin de beauté, alors souvent je m’assois à une terr
             </figcaption>
                 <audio controls src="https://TWpull.b-cdn.net/samedi%2022%20mars%202eme%20episode.mp3"></audio>
         </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
         </div>
 </p>
  
@@ -1008,7 +1008,7 @@ Bonne écoute&nbsp;!<br>
 A l’invitation du département, nous sommes allés chanter quelques unes de nos chansons lors de la soirée des trophées de l’inclusion le 21 novembre, et là aussi, belle énergie sur scène et très belle réception !</p>
 
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735407900/DSC_6954_trophe%CC%81es-inclusion_cqmfez.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735407900/DSC_6954_trophe%CC%81es-inclusion_cqmfez.jpg">
 </div>
 <hr>
 <p class="intro-text">
@@ -1034,7 +1034,7 @@ J’ai vingt ans. J’ai un père, une mère, une grande sœur, une petite sœur
 Si je me revois petite, je dirais que je me suis toujours occupé de quelqu’un. D’abord de mon père, qui était en fauteuil roulant. Puis de mes sœurs et de mon frère. Et encore aujourd’hui je m’occupe de tout le monde, tout le temps, je fais tout.<br>
 C’est moi qui me lève la nuit, c’est moi qui regarde mes sœurs et mon frère dormir le matin, c’est moi qui leur dis de se lever, c’est moi qui leur demande si ils ont faim, c’est moi qui les amène aux lycées, aux activités, c’est moi qui fait les papiers, les rendez-vous. J’ai grandi en pensant que c’était normal. » </cite></p>
 <div class="center-max600-block">
- <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+ <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
  </div>
 <hr>
 <p class="intro-text"><a href="empreintes-sur-le-chemin">EMPREINTES SUR LE CHEMIN</a>, notre action destinée à des personnes exilées, résidant dans le Maconnais en est elle aussi à son mi-parcours, ce qui nous a fait faire un petit décompte : 
@@ -1052,28 +1052,28 @@ A. se lève d’un bond, avec déjà une idée en tête : son totem, ce sera sa
 P. est dans son élément avec les éléments, voici donc un croissant de lune et le soleil, se rencontrant pour une fois, sur son totem jaune, vert et bleu.<br>
 B., sa voisine de table, transforme son totem et celui ci devient un bateau à voile, voguant sous un soleil ardent., B. était très active, et a d’elle-même demander une feuille pour rajouter une voile à son bateau. Avec une voile, on va plus vite et plus loin.</cite>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735409665/1732870660750_mabufv.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735409665/1732870660750_mabufv.jpg">
 </div>
 <p class="intro-text">
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 BA. réfléchit longtemps, et scie des petits bouts de bois en diagonale. Il prend son temps et laisse toujours passer son tour pour avoir les outils. BA dont je me dis, tant il est expert pour ne rien réclamer, qu’il a dû souvent manger le dernier et manger ce qui restait aux fonds des plats quand il était enfant. R. et ses nerfs en pelote, et son impatience devant le temps, devant les outils, se sont lancés dans une structure qui tient debout et qui ressemble mi à une croix, mi à un humain, qu’il visse avec acharnement et qu’il entoure de laine, presque à l’étouffer…</cite></p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774867918/ScreenFloat_Shot_48554050AA5A_vqsadz.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1774867918/ScreenFloat_Shot_48554050AA5A_vqsadz.png">
 </div>
 <p class="intro-text"> Et bonne nouvelle ! <a href="empreintes-sur-le-chemin">Empreintes sur le chemin</a> a reçu le soutien de la Fédération des Acteurs de la Solidarité (FAS) et le Fonds Initiatives Locales contre l’Exclusion (FILE). Un grand merci !</p>
 
 <div class="center-max600-block">
     <div class="flex-container">
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png"></div>
-        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011897/Logo_FAS_j3ktfh.png"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1731487890/FiLE-logo_crgpzb.png"></div>
+        <div class="column"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011886/FondationJMBruneau.png"></div>
     </div>
 </div>
 <hr>
 <p class="intro-text">
 <a href="une-nouvelle-page">UNE NOUVELLE PAGE A ECRIRE</a>, nos ateliers d’écriture autour du deuil eux aussi sont des très bons moments d’échanges et de création personnelle, collective, lue, gardée, secrète, retravaillée plus tard. Des liens s’y nouent. Ce ne sera pas un atelier facile à arrêter, c’est sûr, tant ce qui s’y joue est sincère, léger, profond, unique. Heureusement nous avons encore des séances début 2025. Les voici, et elles sont toujours ouvertes à des personnes nouvelles.</p>
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
 </div> 
 <hr>
 <p class="intro-text">
@@ -1102,7 +1102,7 @@ Voici les premières dates et lieux organisés des ateliers.</p>
 N’hésitez pas à nous contacter si vous êtes intéressées par LES ÊTRES HUMAINES.</p>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735412353/leh-affiche-2025_ujyjgx.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735412353/leh-affiche-2025_ujyjgx.png">
 </div>
 
 
@@ -1119,10 +1119,10 @@ N’hésitez pas à nous contacter si vous êtes intéressées par LES ÊTRES HU
 </div>
 <div class="flex-container">
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730801177/1730725647897web_zvrmjq.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730801177/1730725647897web_zvrmjq.png">
     </div>
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730801420/1730725711951web_o5tfva.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730801420/1730725711951web_o5tfva.jpg">
     </div>
 
 </div>
@@ -1184,14 +1184,14 @@ entre arcs en ciel et poissons volants
 <p class="intro-text">Quelques images de notre traversée</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730803150/1728021113432web_b4ydpa.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730803150/1728021113432web_b4ydpa.png">
 </div>
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730815568/Screenshot_of_Finder_at_5_Nov_2024_at_15_05_55_ndqrys.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730815568/Screenshot_of_Finder_at_5_Nov_2024_at_15_05_55_ndqrys.png">
 </div>
 
 <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730815715/Screenshot_of_Finder_at_5_Nov_2024_at_15_08_24_dmxgim.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730815715/Screenshot_of_Finder_at_5_Nov_2024_at_15_08_24_dmxgim.png">
 </div>
 
 
@@ -1205,13 +1205,13 @@ Arrivées à Mâcon, bien en avance, nous installons tout ça, et B. et A. étan
 </cite>
 <div class="flex-container">
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730812916/WhatsApp_Image_2024-10-19_at_18.01.38_1_web_eojsjp.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730812916/WhatsApp_Image_2024-10-19_at_18.01.38_1_web_eojsjp.png">
     </div>
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730813223/WhatsApp_Image_2024-10-19_at_18.01.38_10_web_w7gwym.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730813223/WhatsApp_Image_2024-10-19_at_18.01.38_10_web_w7gwym.png">
     </div>
     <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730813406/WhatsApp_Image_2024-10-19_at_18.01.39_2_web_jbhjt8.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730813406/WhatsApp_Image_2024-10-19_at_18.01.39_2_web_jbhjt8.png">
     </div>    
 </div>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
@@ -1220,7 +1220,7 @@ Apparaissent les premières images sur la grande feuille : une vague jaune sur u
 Une oeuvre collective sur laquelle chacun, chacune viendra poser sa marque. La salle devient une ruche, ça va, ça vient, ça circule, ça bosse finalement et ça rit. Ce travail aura été le premier vrai travail collectif où des choses posées, écrites vont appeler des réponses : </cite>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730817855/Screenshot_of_Finder_at_5_Nov_2024_at_15_44_04_jv7p0r.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730817855/Screenshot_of_Finder_at_5_Nov_2024_at_15_44_04_jv7p0r.png">
 </div>
 
 
@@ -1234,7 +1234,7 @@ B. écrit son prénom en petites lettres, F. en grosses lettres<br>
 </cite>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730821850/Screenshot_of_Finder_at_5_Nov_2024_at_16_50_39_zpskeu.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730821850/Screenshot_of_Finder_at_5_Nov_2024_at_16_50_39_zpskeu.png">
 </div>
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
 Céline passe de l’un à l’autre, donnant des conseils et posant sur la feuille des traits qui relient les images et les noms<br>
@@ -1243,21 +1243,21 @@ Après-midi pleine d’échanges et de conversations. Les couleurs ont donné le
 La fresque est accrochée au mur, souvenir de notre après-midi commune, entre un Hello et un « Je veux être libre » en grosses lettres visibles de loin. 
 </cite>
 <div class="center-max-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730818980/Screenshot_of_Affinity_Designer_2_at_5_Nov_2024_at_16_02_42_usyf16.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730818980/Screenshot_of_Affinity_Designer_2_at_5_Nov_2024_at_16_02_42_usyf16.png">
 </div>
 
 <hr>
 <p class="intro-text"><a href="jeunes-aidants">Les jeunes aidants / les emmêlés</a>&nbsp;:&nbsp; énorme projet de territoire à la rencontre des jeunes aidants, ados, et jeunes adultes ayant la charge plus ou moins quotidienne d’un proche fragilisé par une maladie ou une dépendance, un handicap. Nous avons rencontré 300 lycéens de Charolles et de Paray et plusieurs dizaines de jeunes du territoire et nous voilà parties pour plusieurs mois d’ateliers artistiques qui nous mèneront à la création d’un spectacle en mars. On se découvre, entre secrets bien gardés, paroles dévoilées, entre envies de rencontres et besoin de transformer son futur. Ateliers menés par 7 artistes et Marina De Lajudie, indispensable à la coordination de ce gros projet nécessaire.</p>
 
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730812329/Screenshot_of_Finder_at_5_Nov_2024_at_14_11_56_zcya5w.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730812329/Screenshot_of_Finder_at_5_Nov_2024_at_14_11_56_zcya5w.png">
 </div>
 <hr>
 <p class="intro-text"><a href="celles-qui-veillent">Celles qui veillent</a>&nbsp;:&nbsp; on continue de veiller et de visiter en musique avec accordéon des patient.es accompagné.es par nos deux formidables infirmières de Beaubery. Matinées incroyables de réaction, et d’émotions palpables lors de ces concerts personnels, transformant le quotidien. </p>
 
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730805679/Screenshot_of_Finder_at_5_Nov_2024_at_12_21_07_dtkxda.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730805679/Screenshot_of_Finder_at_5_Nov_2024_at_12_21_07_dtkxda.png">
 </div>
 
 <p class="intro-text">Un extrait de notre journal de bord&nbsp;:&nbsp;</p>
@@ -1295,7 +1295,7 @@ Il est midi passé, elle est sur les routes depuis 6 heures ce matin. Et il s’
 <p class="intro-text">Les ateliers sont libres, on vient quand on veut, quand on peut et nous sommes si bien accueillies par la Pimenterie. Encore merci pour cet accueil tellement chaleureux !</p>
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730805403/Screenshot_of_ScreenFloat_at_5_Nov_2024_at_12_16_31_h8ska3.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730805403/Screenshot_of_ScreenFloat_at_5_Nov_2024_at_12_16_31_h8ska3.png">
 </div>
 <hr>
 <p class="intro-text"><a href="les-etres-humaines">Les Êtres Humaines</a> vont bientôt prendre la route, car le projet a maintenant de multiples partenaires en Bourgogne Franche-Comté avec lesquels nous allons mener des ateliers artistiques ouverts à des personnes victimes de violences conjugales: Les PEP 71 à Chalon sur Saône, Coop—Agir à Dôle, Solidarité Femmes à Besançon, le Centre Social et l’ECLA et le réseau ViF de Saint-Vallier, le Centre Social de Bourbon-Lancy et encore plein d’autres  venir. La délégation aux Territoires et à la Solidarité (DDETS) de Saône et Loire soutient le projet : un grand merci !</p>
@@ -1330,7 +1330,7 @@ Le spectacle retrace ce parcours, transmet les liens d’attachement créés dur
 
 Mise en scène et écriture par Valérie Gaudissart. Composition par Sidonie Dubosc.
 </p>
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724334966/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_15_55_54_tx40mm.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724334966/ScreenFloat/Screenshot_of_Preview_at_22_Aug_2024_at_15_55_54_tx40mm.png">
 <h3 style="font-size:32px; color:#7551e1; text-align:left;">
         texte d'introduction au spectacle&nbsp;:
       </h3>
@@ -1358,7 +1358,7 @@ Avalanche de bonnes nouvelles et de soutiens pour nos projets. L’été sera do
 
 
 <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
 </div>
 <hr>
 
@@ -1371,7 +1371,7 @@ N’hésitez pas à nous contacter si vous êtes jeune aidant et que vous désir
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
-                <a href="Flyer quiz Les jeunes aidants ados.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
+                <a href="Flyer quiz Les jeunes aidants ados.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
         </div>
 </div>
 
@@ -1382,7 +1382,7 @@ Ateliers de tressages, et de fabrications d’objets colorés, qui prendront for
 
 
 <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721485378/brins-d-histoire-1_eyelzq.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721485378/brins-d-histoire-1_eyelzq.png">
 <figcaption class="figCapCenter">Un petit aperçu des premières créations</figcaption>
 </div>
 <hr>
@@ -1390,7 +1390,7 @@ Ateliers de tressages, et de fabrications d’objets colorés, qui prendront for
 <p class="intro-text">Allons maintenant passer du temps à Mâcon, dans les locaux du Pont où nous recevons toutes les deux semaines et ce jusqu’en juin 25, une vingtaine de personnes exilées par séance pour le projet <a href="empreintes-sur-le-chemin">empreintes sur le chemin</a>. Voyages dans les histoires de chacun.e, frontières franchies entre imaginaire, intime et dureté du monde réel, couleurs bariolées qui redonnent de la vitalité au quotidien, mains dans l’argile qui laissent apparaitre des visages…</p>
 
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721486678/1721478935032_vsrwxr.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721486678/1721478935032_vsrwxr.jpg">
 </div>
 
 <h3>Extrait d’un compte-rendu de séance</h3>
@@ -1402,7 +1402,7 @@ M.  dit qu’il ne veut pas faire de visage, il a une idée arrêtée et en effe
 
 <p class="quote">S. modèle une sorte de petite tête sympathique mi-homme mi-cochon qui lui demande de la concentration et lui provoque de l’amusement aussi. Une fois la séance commencée, S. demande si elle peut proposer à son fils de venir. Bien-sûr que oui. Arrive donc 10 minutes plus tard, P. qui n’a jamais touché d’argile encore mais qui se plonge tout de suite dans la matière. Il me dit tout de suite qu’il va faire une marmite. Puis il modèle des petites chaussures, taille homme. Et finalement, la marmite disparaît et c’est un salon qui apparaît, canapé et table. Un endroit pour se poser, où on se sent bien et en sécurité.</p>
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721487584/petits-pieds_iilcr9.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721487584/petits-pieds_iilcr9.png">
 </div>
 
 <p class="quote">D. modèle un a-plat, et le voilà à essayer de modeler une montre plate, alors qu’il en a une belle dorée à son poignet. Puis la montre se transformera en baguette de pain avec à ses côtés, des beignets de petit déjeuner.</p>
@@ -1415,7 +1415,7 @@ Lui aussi modèle un salon, des chaises pour se reposer. Décidément. La maison
 <p class="quote">O. qui n’a jamais touché l’argile modèle un très beau visage de femme, elle dit que c’est le sien. Pourtant leurs formes en sont différentes, mais cela n’a aucune importance. La ressemblance est intérieure.</p>
 
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721487150/te%CC%82te_colombienne_agyxqp.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721487150/te%CC%82te_colombienne_agyxqp.png">
 </div>
 
 <p class="quote">S. modèle une tête qui ressemble à celle d’un hérisson jovial. J. modèle un hérisson, tout entier, celui de son jardin. Seraient-elles reliées toutes les deux ou c’est moi qui les relie ?</p>
@@ -1437,7 +1437,7 @@ On se quitte, on se revoit dans deux semaines.
 « la vie ne me fait pas peur du tout », voilà une phrase à se répéter dans les jours à venir… »</p>
 
 <div class="center-max450-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721487584/jardin-peruvien_lazpjh.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721487584/jardin-peruvien_lazpjh.png">
 </div>
 
 <hr>
@@ -1446,7 +1446,7 @@ On se quitte, on se revoit dans deux semaines.
 
 <p class="intro-text">Ça guinche dans les cuisines ! Nous voici, avec Estelle, son accordéon et Emilie et Cécile, géniales infirmières de Beaubery à aller rendre visite à leurs patients en musique et par surprise. Quel cadeau, cette joie de vivre partagée ! Nous en repartons convaincues que le soin, c’est bel et bien du lien humain.</p>
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721488794/1721487945987_wie2yp.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721488794/1721487945987_wie2yp.jpg">
 </div>
 <h3>Extrait d’un compte-rendu de matinée</h3>
 
@@ -1458,7 +1458,7 @@ Accompagnante jusqu’au bout du bout, loyale jusqu’au dernier jour. Coeur ouv
 <p class="quote">On boit le café, rituel du matin après la toilette, on parle du potager, du temps qu’il fait, et de comment mari et femme  se sont rencontrés, au bal à Saint Bonnet, comme il se doit. On parle donc de la vie et du temps qui file entre les doigts.</p>
 <p class="quote">Hop, retour dans la voiture après cette visite pleines d’émotions pour tout le monde et ce n’est pas terminé.</p>
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721489168/photo_celles_qui_veillent_2_tz6rlk.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721489168/photo_celles_qui_veillent_2_tz6rlk.jpg">
 </div>
 <p class="quote">Nous voici chez une dame que nous connaissons pour être déjà allées chez elle. Elle nous reconnait, et ferme le journal de Saône et Loire qu’elle était en train d’éplucher. 
 C’est l’heure de la douche, la pile de linge propre est déjà préparé. Et de nouveau elle se met à chanter sous la douche et en revient, toute fraiche. « Etoile des neiges » est sa chanson préférée. 
@@ -1469,7 +1469,7 @@ Et c’est parti pour « emmenez-moi au bout de la terre ». Nous y allons, to
 La dame danse une valse avec l’infirmière. Le chat roule sur le sol et se frotte à nos jambes. Puis nous avons une grande conversation sur l’amour, le couple, la fidélité. 
 Avant de nous quitter, cette dame  nous dit qu’elle mourra chez elle, d’une manière ou d’une autre. Voilà un message qui est dit, qui est entendu. Elle n’en dira pas plus, et nous non plus."</p>
 <div class="center-max450-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721488920/photo_celles_qui_veillent_1_c1cuuq.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721488920/photo_celles_qui_veillent_1_c1cuuq.jpg">
 </div>
 <h2>juin 2024</h2>
 <p class="intro-text">On remercie Clara Desmottes pour son article du 14 juin dans L'Exploitant Agricole de Saône-et-Loire. <a href="EXPAG_P32_S24.pdf" target="_blank"><img src="https://res.cloudinary.com/dspnxldi8/image/upload/q_auto/v1718648017/article-clara-desmottes_tcwssa.png">cliquer ici pour lire l'article</a></p>
@@ -1498,7 +1498,7 @@ Encore une dizaine d’interventions à domicile d’ici Noël.</p>
 
 <div class="center-max600-block">
     <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732959420/Screenshot_of_Finder_at_30_Nov_2024_at_10_36_23_xtavm2.png">Clicquer pour télécharger le flyer.</a>">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732959420/Screenshot_of_Finder_at_30_Nov_2024_at_10_36_23_xtavm2.png">Clicquer pour télécharger le flyer.</a>">
 </div>
 
 <h3>extraits</h3>
@@ -1844,7 +1844,7 @@ les choses les plus précieuses sont celles qu’on ne peut déménager</p>
     <hr>
     <p class="intro-text">le dimanche 18 juin à 15h, à Saint Bonnet de Joux, représentation publique, en partenariat avec les élèves en création musicale de l'Ecole de Musique du Grand Charolais
         <div class="center-block">
-            <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/v1685633605/nos-vies-en-chantees_bicaxf.png">
+            <img  src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1685633605/nos-vies-en-chantees_bicaxf.png">
         </div></p>
     <p class="intro-text">La programme du spectacle avec portraits des participant.es et recueil des textes crées, offerte à tous les résident.es et aux nombreux spectateurs&nbsp;:<br><br>
 
@@ -1951,7 +1951,7 @@ Des nouvelles très bientôt des partenariats qui se mettent en place avec plusi
     <p class="intro-text">Une captation live de «Derrière nos portes» a été réalisée et la voici sur le site. Nous espérons que les émotions et l’intensité des représentations seront palpables pour ceux qui vont découvrir ce travail sur la vidéo.</p>
     <div style="position: relative; padding-top: 56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/284dc2ae-2881-43d7-91bb-8cebfe3e3053?autoplay=false" loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="true"></iframe></div>
     <hr>
-    <p class="intro-text">Suivre le lien <a href="aidantes-aimantes-le-livret">Aidantes Aimantes</a> pour visionner le livret qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers, ou le télécharger en cliquant sur l'image&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a></p>
+    <p class="intro-text">Suivre le lien <a href="aidantes-aimantes-le-livret">Aidantes Aimantes</a> pour visionner le livret qui regroupe textes, chansons et photographies composés pendant les deux ans d’ateliers, ou le télécharger en cliquant sur l'image&nbsp;: <a href="Aidantes Aimantes_compressed.pdf" download="Aidantes Aimantes_Le livret"><div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672376092/le_livret_aidantes_aimantes_p1_rehewk.png"></div></a></p>
     <hr>
     <p class="intro-text">Décembre est aussi un gros mois d’écriture de dossiers car les projets ne manquent pas pour 2023 et 2024: outre des dépôts et demandes de subventions tout azimut pour <a href="histoires-de-transimission">histoires de transmission</a> et <a href="#">maintenant il y a&hellip;</a>,  nous lançons de nouvelles idées et nouvelles initiatives, dont un projet de concert privé et de composition de chansons en chambres ou à domicile pour des personnes en perte d’autonomie et sujettes au découragement. Ça s’appelle <a href="chansons-a-garder-dans-sa-table-de-nuit">chansons à garder dans sa table de nuit</a>.</p>
 <h2>Novembre 2022</h2>
@@ -2145,14 +2145,14 @@ nuit.</p><hr>
 <p class="intro-text">
     Et le 10 décembre, lecture musicale <a href="/lpqp-lecture-musicale">Les Plus que Proches</a>, pour la Métropole Aidante de Lyon. Là aussi, l’occasion de rencontres sincères, pendant lesquelles nos propositions prennent tout leur sens.</p>
     <div class="center-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1636634607/Rever_tout_haut__visuel_RS_2_bgqkks.jpg">
     </div>
 
 
 <h2>Novembre 2021</h2>
 
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1636139611/lucet-gOkeeffe_lkg2ld.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1636139611/lucet-gOkeeffe_lkg2ld.jpg">
 </div>
 <p class="intro-text"> Nous voilà mi-novembre, alors que s’est-il passé ces derniers temps pour Rêver Tout Haut&nbsp;? Ce fut une rentrée bien chargée avec des projets qui se terminent ou qui démarrent, et des idées qui se développent de partout. Tant mieux&nbsp;! 
 </p>
