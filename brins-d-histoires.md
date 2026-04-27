@@ -11,20 +11,20 @@ summary: Le projet “Brins d’histoires” de Rêver Tout Haut propose des ate
 <p class="intro-text">Animés par deux artistes vanniers, Erik Barray =><a href="https://www.atelier-erik-barray.com/" rel="noopener noreferrer" target="_blank">voir le site d'eric</a>, et Richard Le Guezennec et Valérie Gaudissart, autrice, nos ateliers ont accueillis les résidents, restés au Foyer pendant l’été.</p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730801420/1730725711951web_o5tfva.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730801420/1730725711951web_o5tfva.jpg">
 </div>
 
 <p class="intro-text">Et c’est avec beaucoup d’amusement et de concentration, que toute cette troupe s’est transformée en bricoleurs jardiniers, jongleurs de couleurs, et fabriqueurs d’objets, d’histoires et de liens.</p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736230857/photo_brins_d_histoire_qfxjv6.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736230857/photo_brins_d_histoire_qfxjv6.jpg">
 </div>
 
 <p class="intro-text">
 Durant trois mois, l’été 2025, nous avons donc imaginé, puis créé un espace dans le parc qui soit une invitation à la promenade et à l’imaginaire. Nous avons aussi fabriqué des objets en osier, des attrapes-rêves et des poissons imaginaires. </p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730801177/1730725647897web_zvrmjq.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730801177/1730725647897web_zvrmjq.png">
 </div>
 
 <p class="intro-text">
@@ -33,7 +33,7 @@ Ce projet s’est tenu de de juin à septembre 2024 en partenariat avec plusieur
 Voici donc, nos grands bâtons bariolés, chemin balisé, hors des sentiers battus, création personnelle à chacun.e, et voici le texte que nous avons écrit pour le jour de notre vernissage.</p> 
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1726482897/inauguration-brins_z88ugs.png">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1726482897/inauguration-brins_z88ugs.png">
 </div>
 
 <p style="margin-left:2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -101,7 +101,7 @@ attrapent dans leur filet à idées.<br><br>
 Le voici :</cite></p>
 
 <div class="center-max600-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736230616/okIMG_20240928_143028_ptba0u.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736230616/okIMG_20240928_143028_ptba0u.jpg">
 </div>
 
  <p style="margin-left:2.2rem; margin-right:1.5rem; margin-top:1rem;">
@@ -168,5 +168,5 @@ je rêve de revoir mes cousines<br>
 le soleil redeviendrait jaune et brillant</cite></p>
 
 <div class="center-max450-block">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1736230701/1726840321820_ziiqeh.jpg">
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1736230701/1726840321820_ziiqeh.jpg">
 </div>
