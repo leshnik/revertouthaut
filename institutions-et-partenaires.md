@@ -6,90 +6,53 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <h1>rêver tout haut est membre de&nbsp;:&nbsp;</h1>
 <div class="logo">
   <a href="https://www.federationsolidarite.org/regions/bourgogne-franche-comte/" rel="noopener noreferrer" target="_blank">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png">Fédération des acteurs de la Solidarité (FAS)</a>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011897/Logo_FAS_j3ktfh.png">Fédération des acteurs de la Solidarité (FAS)</a>
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
   <a href="https://www.federation-apcp.org" rel="noopener noreferrer" target="_blank">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774348332/ScreenFloat_Shot_B6D045C78EAD_ehkfww.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1774348332/ScreenFloat_Shot_B6D045C78EAD_ehkfww.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
 </div>
 <br><br>
 <hr style="margin:0 auto 2rem; width:50%">
 <!-- <div class="center-max300-block">
   <figure>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011897/Logo_FAS_j3ktfh.png">
     <figcaption class="figCap">Fédération des acteurs de la Solidarité (FAS)</figcaption></figure>
 </div>
  -->
 <h1>les projets de rêver tout haut<br> sont soutenus par&nbsp;:</h1>
 <div class="logo">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721553691/_logo_conseil_de%CC%81partemental_officiel_fnr1lj.png">Le Conseil Départemental de Saône et Loire
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721553691/_logo_conseil_de%CC%81partemental_officiel_fnr1lj.png">Le Conseil Départemental de Saône et Loire
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721557014/logo_conference_des_financeurs_f0mqqs.png">La Conférence des Financeurs
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721557014/logo_conference_des_financeurs_f0mqqs.png">La Conférence des Financeurs
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721557226/logo-FDVA-1_oprt6u.jpg" style="width:400px;height:auto">Le Fonds de Développement de la Vie Associative
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721557226/logo-FDVA-1_oprt6u.jpg" style="width:400px;height:auto">Le Fonds de Développement de la Vie Associative
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png">La Direction Départementale de l’Emploi, du Travail et des Solidarités (DDETS)
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721560498/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_14_49_ugayez.png">La Direction Départementale de l’Emploi, du Travail et des Solidarités (DDETS)
 </div>
-<br>
-<br>
-<br>
-<hr style="margin:0 auto 2rem; width:50%">
-<div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721560985/ScreenFloat/Screenshot_of_Affinity_Publisher_2_at_21_Jul_2024_at_13_22_55_lzcys8.png">Le Conseil Régional de Bourgogne Franche Comté
-</div>
-<br>
-<br>
-<hr style="margin:0 auto 2rem; width:50%">
-<div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png" style="width:300px; height:auto;">La Direction Régionale des Affaires Culturelles de Bourgogne-Franche-Comté (DRAC BFC)
-</div>
-<br>
 <br>
 <br>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721561689/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_34_33_mwse2r.png" style="width:300px;">L'Agence Régionale de Santé de Bourgogne-Franche-Comté (ARS BFC)
-</div>
-<br>
-<hr style="margin:0 auto 2rem; width:50%">
-<div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png" style="width:400px;">Le Fonds Social Européen
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721560985/ScreenFloat/Screenshot_of_Affinity_Publisher_2_at_21_Jul_2024_at_13_22_55_lzcys8.png">Le Conseil Régional de Bourgogne Franche Comté
 </div>
 <br>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562087/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_41_18_udcmor.png">La Mutuelle Sociale Agricole (MSA)
-</div>
-<br>
-<hr style="margin:0 auto 2rem; width:50%">
-<div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562321/ScreenFloat/Screenshot_of_Finder_at_21_Jul_2024_at_13_45_12_m5ubpi.png">La CAF 71
-</div>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr style="margin:0 auto 2rem; width:50%">
-<div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721562488/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_48_00_vuik3s.png">Parents 71
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721561290/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_27_48_cozk9p.png" style="width:300px; height:auto;">La Direction Régionale des Affaires Culturelles de Bourgogne-Franche-Comté (DRAC BFC)
 </div>
 <br>
 <br>
@@ -97,7 +60,44 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576058/kalivi___logo_couleur_qt4jzx.png">Kalivi (Ex GIE-IMPA)
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721561689/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_13_34_33_mwse2r.png" style="width:300px;">L'Agence Régionale de Santé de Bourgogne-Franche-Comté (ARS BFC)
+</div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png" style="width:400px;">Le Fonds Social Européen
+</div>
+<br>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721562087/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_41_18_udcmor.png">La Mutuelle Sociale Agricole (MSA)
+</div>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721562321/ScreenFloat/Screenshot_of_Finder_at_21_Jul_2024_at_13_45_12_m5ubpi.png">La CAF 71
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721562488/ScreenFloat/Screenshot_of_Preview_at_21_Jul_2024_at_13_48_00_vuik3s.png">Parents 71
+</div>
+<br>
+<br>
+<br>
+<br>
+<hr style="margin:0 auto 2rem; width:50%">
+<div class="logo">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721576058/kalivi___logo_couleur_qt4jzx.png">Kalivi (Ex GIE-IMPA)
 </div>
 <br>
 <br>
@@ -106,7 +106,7 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png">La Fondation de France
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721576380/FDF_Projet-soutenu_Quadri_2_agoveq.png">La Fondation de France
 </div>
 <br>
 <br>
@@ -116,39 +116,39 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576668/logo_MH_Agirc-arrco_logo_horizontal_1_-2_grfa4q.jpg" style="width:400px;">Malakoff Humanis
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721576668/logo_MH_Agirc-arrco_logo_horizontal_1_-2_grfa4q.jpg" style="width:400px;">Malakoff Humanis
 </div>
 <br>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011897/Logo_FAS_j3ktfh.png" style="width:200px;">La Fédération des Acteurs de la Solidarité (FAS)</div><br><br><br>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011897/Logo_FAS_j3ktfh.png" style="width:200px;">La Fédération des Acteurs de la Solidarité (FAS)</div><br><br><br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1731487890/FiLE-logo_crgpzb.png">Fonds Initiatives Locales Contre l'Exclusion financé par la Fondation Bruneau</div>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1731487890/FiLE-logo_crgpzb.png">Fonds Initiatives Locales Contre l'Exclusion financé par la Fondation Bruneau</div>
 <br>
 <br>
 <br>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1732011886/FondationJMBruneau.png">Fondation JM.Bruneau sous l'égide de Fondations de France
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1732011886/FondationJMBruneau.png">Fondation JM.Bruneau sous l'égide de Fondations de France
 </div>
 <br><br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721576911/ALM_1_RGB2400_2C_Format_Office_365_gbzddx.jpg" style="width:300px;">AG2R La Mondiale
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721576911/ALM_1_RGB2400_2C_Format_Office_365_gbzddx.jpg" style="width:300px;">AG2R La Mondiale
 </div>
 <br>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577269/SACEM_SIGNATURE_FR_2L_4C_2020_ht6lku.jpg">La Sacem
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721577269/SACEM_SIGNATURE_FR_2L_4C_2020_ht6lku.jpg">La Sacem
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1768316321/ScreenFloat_Shot_560842FC95FE_ig21vj.png">PFG
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1768316321/ScreenFloat_Shot_560842FC95FE_ig21vj.png">PFG
 </div><br><br><br><br><br><br><br>
 <hr style="margin:2rem auto 2rem; width:50%">
 <div class="logo">
@@ -176,19 +176,19 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 <h1>nos partenaires</h1>
 <h2>Soutien aux Aidants :</h2>
 <div class="logo">
-  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1767864866/Logo_La_Pause_Brindille_pmuixk.png">Association La Pause Brindille
+  <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1767864866/Logo_La_Pause_Brindille_pmuixk.png">Association La Pause Brindille
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577828/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_18_03_39_svkbbo.png">Association Nationale France Répit
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721577828/ScreenFloat/Screenshot_of_Firefox_Developer_Edition_at_21_Jul_2024_at_18_03_39_svkbbo.png">Association Nationale France Répit
 </div>
 <br>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
  <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721577416/Re%CC%81seau_des_Aidants_Sud_71_uk9pa6.jpg">Réseau des Aidants 71
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721577416/Re%CC%81seau_des_Aidants_Sud_71_uk9pa6.jpg">Réseau des Aidants 71
  </div>
  <br>
  <hr style="margin:0 auto 2rem; width:50%">
@@ -217,12 +217,12 @@ summary: La page “Institutions et partenaires” de Rêver Tout Haut met en lu
 
  <h2>Structures Socio-Culturelles :</h2>
  <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721578793/Pimenterie_Logo_rougevif-RVB-HD_q49d1k.jpg">La Pimenterie (Saint Point)
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721578793/Pimenterie_Logo_rougevif-RVB-HD_q49d1k.jpg">La Pimenterie (Saint Point)
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
 <div class="logo">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721580078/logo_ils_scenent_wjbd7o.png">Ils Scènent, Mâcon
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721580078/logo_ils_scenent_wjbd7o.png">Ils Scènent, Mâcon
 </div>
 <br>
 <hr style="margin:0 auto 2rem; width:50%">
