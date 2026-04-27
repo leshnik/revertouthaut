@@ -120,10 +120,10 @@ La Pimenterie<br>
 
 <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
@@ -174,10 +174,10 @@ La Pimenterie<br>
 
 <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
@@ -268,10 +268,10 @@ Laurendon<br>
       inscription à la demi-journée possible, pique-nique tiré du sac pour ceux qui souhaitent rester le midi</p>
       <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
@@ -293,11 +293,11 @@ Laurendon<br>
 
     </p>
     <div class="center-max600-block">
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1773128768/leh2_bourbon_fn1awb.jpg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1773128768/leh2_bourbon_fn1awb.jpg">
     </div>
     <div class="center-max450-block">
       <a href="https://www.federation-apcp.org/printemps-des-arts-participatifs/" rel="noopener noreferrer" target="_blank">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
     </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -308,10 +308,10 @@ Laurendon<br>
       De 17h à 19h</p>
       <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
@@ -332,10 +332,10 @@ Laurendon<br>
 </div>
 <div class="flex-container-wrap">
   <div class="column">
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769771278/ScreenFloat_Shot_874E4DBE9CBB_ft8apu.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769771278/ScreenFloat_Shot_874E4DBE9CBB_ft8apu.png">
   </div>
   <div class="column">
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769771568/ScreenFloat_Shot_12364C0296F6_aqpjjw.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769771568/ScreenFloat_Shot_12364C0296F6_aqpjjw.png">
   </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
@@ -349,10 +349,10 @@ Laurendon<br>
       De 10h30 à 12h30</p>
       <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
     </div>
 </div>
@@ -370,7 +370,7 @@ Laurendon<br>
         03&nbsp;85&nbsp;67&nbsp;78&nbsp;20 / admi.ecla@mairie-saintvallier.fr
     </p>
     <div class="center-max600-block">
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769769623/ScreenFloat_Shot_E36E40498940_kytf5r.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769769623/ScreenFloat_Shot_E36E40498940_kytf5r.png">
     </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
@@ -391,7 +391,7 @@ Laurendon<br>
     Réservations tout public&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a>
     </p>
     <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769502069/ScreenFloat_Shot_57C84210BF10_xyy8oq.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769502069/ScreenFloat_Shot_57C84210BF10_xyy8oq.png">
     </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
@@ -411,10 +411,10 @@ Laurendon<br>
       De 18h à 20h</p>
       <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -430,7 +430,7 @@ Laurendon<br>
   (sur le site du centre hospitalier Jean Bouveri - ancien SSR 1er étage)
   </p>
   <div class="center-max600-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1769769881/ScreenFloat_Shot_A06D4442A451_uwqnq4.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769769881/ScreenFloat_Shot_A06D4442A451_uwqnq4.png">
   </div>
 </div>
 <a href="#ag">retourner à l'agenda</a>
@@ -442,10 +442,10 @@ Laurendon<br>
     De 15h00 à 17h00</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -458,10 +458,10 @@ Laurendon<br>
     De 18h00 à 20h00</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -475,10 +475,10 @@ Laurendon<br>
     De 10h30 à 12h30</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1763487238/ScreenFloat_Shot_F2714613A692_vosqp6.png">
         </div>
     </div>
 </div>
@@ -491,10 +491,10 @@ Laurendon<br>
     De 10h30 à 13h00</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
 </div>
@@ -510,10 +510,10 @@ Laurendon<br>
     De 10h30 à 12h30</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
 </div>
@@ -540,10 +540,10 @@ Laurendon<br>
     De 15h à 17h</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
 </div>
@@ -556,10 +556,10 @@ Laurendon<br>
     De 10h30 à 12h30</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
 </div>
@@ -579,10 +579,10 @@ Laurendon<br>
     De 16h à 19h</p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
         </div>
         <div class="column" style="margin-left:5px;">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725654/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_54_01_fdvn7s.png">
         </div>
     </div>
 </div>
@@ -600,7 +600,7 @@ Laurendon<br>
     <p class="intro-text">Samedi 4 octobre 2025 à Cluny, à La Novelline, spectacle musical autour de la cérébro-lésion avec les habitants de La Novelline. <br>
     Horaires à déterminer.</p>
     <div class="center-max450-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744710034/annonce-10ans-lanovelline_kxnfdp.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1744710034/annonce-10ans-lanovelline_kxnfdp.jpg">
     </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -636,10 +636,10 @@ Laurendon<br>
     </p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1755500221/ScreenFloat_Shot_D698496BA3F7_lribcc.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1755500221/ScreenFloat_Shot_D698496BA3F7_lribcc.png">
         </div>
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1755500300/Flyer_Les_Etres_humaines_Ma%CC%82con_-_Web_stbvdh.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1755498620/ScreenFloat_Shot_88BC45B09A51_islswz.png">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1755500300/Flyer_Les_Etres_humaines_Ma%CC%82con_-_Web_stbvdh.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1755498620/ScreenFloat_Shot_88BC45B09A51_islswz.png">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
@@ -666,7 +666,7 @@ Laurendon<br>
         <p class="intro-text">Action soutenue par la Fondation de France, la Direction Départementale aux Solidarités, la DRAC Bourgogne Franche-Comté et la Fédération des Acteurs de la Solidarité,</p>
         <div class="flex-container-wrap">
             <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747227025/ScreenFloat_Shot_of_Finder_at_14_May_2025_at_14_50_06_ftmuqt.png">
             </div>
             <div class="column">
                 <a href="FLYER Empreintes sur le chemin web.pdf" rel="noopener noreferrer" target="_blank">
@@ -699,10 +699,10 @@ Laurendon<br>
     </p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228727/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_51_57_qg14mv.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740228727/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_51_57_qg14mv.jpg">
         </div>
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228853/Flyer_Les_Etres_humaines_Bourbon-Lancy_eynm11.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740228795/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_53_03_gn973h.jpg">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740228853/Flyer_Les_Etres_humaines_Bourbon-Lancy_eynm11.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740228795/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_53_03_gn973h.jpg">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
@@ -712,7 +712,7 @@ Laurendon<br>
         <figcaption>21 mai 2025 à l'Espace Josephine Baker</figcaption>
         <audio controls src="https://rth8.b-cdn.net/podcast%20bourbon%20lancy.mp3"></audio>
     </figure>
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754679138/au-bord-du-gouffrez7g5yp.png">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754679138/au-bord-du-gouffrez7g5yp.png">
 </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -737,10 +737,10 @@ Laurendon<br>
     </p>
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227134/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_21_05_xwcmw1.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740227134/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_21_05_xwcmw1.jpg">
         </div>
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227390/Flyer_Les_Etres_humaines_Dole_n1kjdu.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740227215/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_26_36_tieihm.jpg">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740227390/Flyer_Les_Etres_humaines_Dole_n1kjdu.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740227215/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_13_26_36_tieihm.jpg">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
@@ -750,7 +750,7 @@ Laurendon<br>
             <figcaption>17 mai 2025 à Coop agir, Dole</figcaption>
             <audio controls src="https://rth8.b-cdn.net/podcast%20dole.mp3"></audio>
         </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1754680588/ScreenFloat_Shot_of_Firefox_at_8_Aug_2025_at_21_16_07_g7ovny.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1754680588/ScreenFloat_Shot_of_Firefox_at_8_Aug_2025_at_21_16_07_g7ovny.png">
     </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -780,7 +780,7 @@ Laurendon<br>
             <figcaption>19 avril 2025 à l'ECLA, Espace Culturel Louis Aragon à Saint Vallier</figcaption>
             <audio controls src="https://rth8.b-cdn.net/poscast%20st%20vallier.mp3"></audio>
         </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1745257639/SaintVallier_2025-04-19_fznotm.jpg">
     </div>
 <a href="#ag">retourner à l'agenda</a>
 <hr>
@@ -813,21 +813,21 @@ Laurendon<br>
         </figure>
         <div class="flex-container-wrap">
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708098/IMG20250412130248_av8s64.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1744708098/IMG20250412130248_av8s64.jpg">
         </div>
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1774863624/IMG20250411164456_490KB_serrq5.jpg">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1744708911/IMG20250411164456_bcyqt1.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1774863624/IMG20250411164456_490KB_serrq5.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1744708911/IMG20250411164456_bcyqt1.jpg">
         </div>
       </div> 
     </div>
 
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215733/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_15_15_vmyuoy.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740215733/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_15_15_vmyuoy.jpg">
         </div>
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215901/Flyer_Les_Etres_humaines_Besanc%CC%A7on_Web_k2idbm.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740215811/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_16_37_vwee8r.jpg">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740215901/Flyer_Les_Etres_humaines_Besanc%CC%A7on_Web_k2idbm.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740215811/ScreenFloat_Shot_of_Skim_at_22_Feb_2025_at_10_16_37_vwee8r.jpg">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
@@ -860,7 +860,7 @@ Laurendon<br>
             </figcaption>
                 <audio controls src="https://rth8.b-cdn.net/19%20mars%202025%20Les%20%C3%AAtres%20humaines.mp3"></audio>
         </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742546893/IMG_7452_p0nre6.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1742546893/IMG_7452_p0nre6.jpg">
         </div>
 
         <div class="center-max450-block">
@@ -870,7 +870,7 @@ Laurendon<br>
             </figcaption>
                 <audio controls src="https://TWpull.b-cdn.net/samedi%2022%20mars%202eme%20episode.mp3"></audio>
         </figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1742922991/22Mar2025photos-lucie_lwhax0.jpg">
         </div>
 
             <div class="center-max600-block">
@@ -882,10 +882,10 @@ Laurendon<br>
         </figure>
         <div class="flex-container-wrap">
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067316/IMG20250426180852_mky5gm.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747067316/IMG20250426180852_mky5gm.jpg">
         </div>
         <div class="column">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1747067485/IMG20250425104614_bfssgd.jpg">
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1747067485/IMG20250425104614_bfssgd.jpg">
         </div>
       </div>
   </div>
@@ -894,10 +894,10 @@ Laurendon<br>
 
     <div class="flex-container-wrap">
         <div class="column">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740147563/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_18_53_pgenhy.jpg">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740147563/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_18_53_pgenhy.jpg">
         </div>
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1740152263/Flyer_Les_Etres_humaines_Cha%CC%82lon_om2ewu.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1740147611/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_19_58_iobtuy.jpg">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740152263/Flyer_Les_Etres_humaines_Cha%CC%82lon_om2ewu.pdf" target="_blank" rel="noopener noreferrer"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1740147611/ScreenFloat_Shot_of_Skim_at_21_Feb_2025_at_15_19_58_iobtuy.jpg">Clicquer pour télécharger le flyer.</a>
         </div>
     </div>
 </div>
@@ -919,11 +919,11 @@ Laurendon<br>
       </p>
       <div class="flex-container-wrap">
         <div class="column">
-           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
         </div>
         <div class="column">
           <a href="Flyer-Les-Emmeles.pdf" rel="noopener noreferrer" target="_blank">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
         </div>
       </div>
 </div>
@@ -942,7 +942,7 @@ Laurendon<br>
         coordination.revertouthaut@gmail.com
         </p>
       <div class="center-max600-block">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735410641/une-nouvelle-page-dates2025_umcoux.png">
       </div>
     </p>
 </div>
@@ -958,10 +958,10 @@ Laurendon<br>
     Lecture de témoignages, projection de photographies, discussion suivis du verre de l'amitié et d'une collecte de photographies représentant le monde paysan.</p>
     <div class="flex-container-wrap">
       <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1738321546/rencontre_buffieres_rdolq6.jpg">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1738321546/rencontre_buffieres_rdolq6.jpg">
       </div>
       <div class="column">
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737638224/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_14_16_46_lg4xmf.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1737638224/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_14_16_46_lg4xmf.png">
       </div>     
     </div>
     <p class="intro-text">Projet soutenu par le MSA.</p>
@@ -999,7 +999,7 @@ Laurendon<br>
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/w_300,q_auto/v1721475550/Embl%C3%A8me_UE_base_Mentions_Cofinanc%C3%A9_Bleu_jx2jny.png">
             </div>
             <div class="center-max600-block">
-                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
+                <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1721479633/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_14_46_40_cx9qsl.jpg">
             </div>
  -->
 <!-- <li><span style="color:red">2022 - 2025</span>&nbsp;:&nbsp; <a href="histoires-de-transmission">histoires de transmission</a>
@@ -1026,7 +1026,7 @@ Laurendon<br>
         Contact réservation: coordination.revertouthaut@gmail.com / 07 82 16 11 16
         </p>
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1730711052/Screenshot_of_Finder_at_4_Nov_2024_at_10_03_25_iwtdol.png">      
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730711052/Screenshot_of_Finder_at_4_Nov_2024_at_10_03_25_iwtdol.png">      
         </div>
         
         <br>
@@ -1037,7 +1037,7 @@ Laurendon<br>
         <span style="color:red">Samedi 28 septembre 2024</span>, à 14h&nbsp;:&nbsp; <a href="brins-d-histoires">Brins D’Histoire</a> Inauguration publique
         <p class="intro-text">L'inauguration aura lieu dans le cadre enchanteur du parc du site de Ferreuil, au sein des Papillons Blancs, à Paray-le-Monial.</p>
         <div class="center-max600-block">
-            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1726482897/inauguration-brins_z88ugs.png">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1726482897/inauguration-brins_z88ugs.png">
         </div>
 
     </li>
@@ -1070,7 +1070,7 @@ Laurendon<br>
       <span style="color:red">Samedi 17 août 2024</span> à Saint Ythaire&nbsp;:&nbsp; <a href="ados-en-chemin">Ados et Chevaux en Chemin</a>
       <p class="intro-text"> Spectacle crée pour et avec la Compagnie Les Chevaux Céleste, Céleste Solsona et ses équipières, à la suite d’une longue randonnée de trois semaines en montagne avec deux chevaux et une mule. Cette rando, qui a vu 3 adolescentes, enfants placés en foyers ou familles d’accueil, et 4 femmes adultes parcourir un long chemin de crête intérieur et montagneux.</p>
       <div class="center-max600-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724318891/ScreenFloat/ados-et-cheveaux-affiche.png">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724318891/ScreenFloat/ados-et-cheveaux-affiche.png">
 </div>
     </li>
     <hr>
