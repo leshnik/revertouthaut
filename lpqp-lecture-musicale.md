@@ -65,9 +65,9 @@ summary: Le projet les plus que proches, lecture musicale de Rêver Tout Haut m�
       03 85 81 11 62<br>
       avec le Réseau des Aidants Sud 71
     </li>
-    <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
+    <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193751/journe%CC%81eNationaleAidants2020p1_g9ybvp.jpg" alt="flyer journée nationale des aidants, mercredi, 30 septembre 2020 de 15h00 à 17h, contact: 0385216210"></div>
 
-  <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1599193760/joune%CC%81eNationaleAidants2020p2_hkeflc.jpg" alt="flyer p2: masque obligatoire, conditions sanitaires respectées, 15h lecture théàtralisée Les Plus Que Proches avec 2 comédiennes et un musicien de l'association rêver tout haut. 16h échanges avec la salle. Organisé par le Réseaux des Aidants SUD 71."></div>
+  <div class="center-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1599193760/joune%CC%81eNationaleAidants2020p2_hkeflc.jpg" alt="flyer p2: masque obligatoire, conditions sanitaires respectées, 15h lecture théàtralisée Les Plus Que Proches avec 2 comédiennes et un musicien de l'association rêver tout haut. 16h échanges avec la salle. Organisé par le Réseaux des Aidants SUD 71."></div>
     
     <hr>
     <li>
