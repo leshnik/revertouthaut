@@ -168,7 +168,7 @@ d’apprendre ce que la conscience de la mort apporte à l’existence.
 <div class="mySlides">
     <div class="numbertext">5 / 8</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1601961323/gatsby-cloudinary/hands-drawing-chalk-on-black.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601961323/gatsby-cloudinary/hands-drawing-chalk-on-black.svg">
       <figcaption class="figCapCenter">-</figcaption>
     </figure>
   </div>
@@ -176,7 +176,7 @@ d’apprendre ce que la conscience de la mort apporte à l’existence.
 <div class="mySlides">
     <div class="numbertext">6 / 8</div>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,f_auto,w_800/v1601961316/gatsby-cloudinary/five-hands-colors.svg">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto,w_800/v1601961316/gatsby-cloudinary/five-hands-colors.svg">
       <figcaption class="figCapCenter">-</figcaption>
     </figure>
   </div>
