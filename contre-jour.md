@@ -25,7 +25,7 @@ summary: Le projet “Contre-jour” de Rêver Tout Haut explore l’intimité d
 </div>
 
 <p class="intro-text">En plus des ateliers qui auront lieu en journée, seront proposés trois concerts en chambre et en couloir le soir à la tombée du jour. Ces concerts se veulent des expériences aussi bien pour les résidents que pour les soignants qui se verront là accompagner dans leurs missions du coucher, et de la tombée de la nuit.</p>
-<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1662205893/P1010066_1000px_bdilyb.jpg">
+<div class="center-big-block"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1662205893/P1010066_1000px_bdilyb.jpg">
 <figcaption class="figCap">© Médéric Roquesalane</figcaption>
 </div>
 
@@ -191,7 +191,7 @@ Dans les cours d’eau de Bourgvillain
 </cite>
 </div>
 <div class="center-big-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1672661669/raymond_se_souvient_bsonmj.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1672661669/raymond_se_souvient_bsonmj.jpg">
 </div>
 
 <h4 class="h4song-titles">dans les yeux clairs de Thérèse</h4>
