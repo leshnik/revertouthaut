@@ -17,7 +17,7 @@ du&nbsp;Charolais-Brionnais/2024-2025</h2>
                 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1721481049/ScreenFloat/Screenshot_of_Preview_at_20_Jul_2024_at_15_10_30_tsmri5.jpg">
         </div> 
         <div class="column"> 
-                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
+                <a href="Les jeunes aidantsFlyer2.pdf" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1724399876/ScreenFloat/Screenshot_of_Skim_at_23_Aug_2024_at_09_57_47_jga4y0.png">Cliquer pour télécharger le flyer</a>
         </div>
 </div>
 
@@ -44,10 +44,10 @@ Ce projet collectif a aussi permis aussi aux jeunes de partager leur expérience
 
 <div class="flex-container">
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1758279239/leo_mel_thzdlt.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1758279239/leo_mel_thzdlt.jpg">
   </div>
   <div class="column">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1758279371/groupe-pensif_ammlj2.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1758279371/groupe-pensif_ammlj2.jpg">
   </div>
 </div>
 
@@ -71,11 +71,11 @@ coordination.revertouthaut@gmail.com</p>
 
 <div class="flex-container">
         <div class="column">
-           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
+           <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1735408946/les-emm%C3%AAl%C3%A9s-afficheA4web.png">
         </div>
         <div class="column">
           <a href="Flyer-Les-Emmeles.pdf" rel="noopener noreferrer" target="_blank">
-          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
+          <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1737619807/ScreenFloat_Shot_of_Finder_at_23_Jan_2025_at_09_08_51_qaycq8.png"> Clicquer pour télécharger le flyer.</a>
         </div>
       </div>
 
