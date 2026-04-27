@@ -78,7 +78,7 @@ redirect_from:
 <h2>Le rôle et la position de l’art-thérapeute</h2>
 
 <div class="center-block">
-<img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1526489453/décapsulette_gxq8bb.jpg">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1526489453/décapsulette_gxq8bb.jpg">
 </div>
 <p class="intro-text">L’art-thérapeute, formée à des méthodes d’écoute et d’analyse bienveillantes,  accompagne le cheminement des personnes, leur offre un cadre rassurant, et des dispositifs créatifs favorables à l’imaginaire et à la transformation de soi.</p>
 
