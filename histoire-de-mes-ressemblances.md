@@ -92,10 +92,10 @@ summary: Le projet “Histoire de mes ressemblances” de Rêver Tout Haut explo
 
 
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567428674/2019-08-_Pass_age_v1_xgygqk.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1567428674/2019-08-_Pass_age_v1_xgygqk.jpg">
 </div>
 
 <div class="center-block">
-    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1567428869/pass_age_p2_atsyim.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1567428869/pass_age_p2_atsyim.jpg">
 </div>
 
