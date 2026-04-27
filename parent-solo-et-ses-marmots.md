@@ -35,7 +35,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
     <div class="content-container-horizontal">
       <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
       <figure>
-        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630685080/ahmed-danse-tous_jabm9x.png">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630685080/ahmed-danse-tous_jabm9x.png">
         <figcaption class="figCap">©Frédéric Dechelotte</figcaption>
       </figure>
       <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
@@ -193,7 +193,7 @@ summary: Cycle d'ateliers gratuits utilisant le théâtre, l'écriture, le chant
   <div class="content-container-horizontal">
   <a  class="prev" onclick="plusSlides(-1)" style="cursor:pointer; padding-top:30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem">&#10094;</a>
     <figure>
-      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/v1630684467/sid_ghiz_aich-hands-on-ears_jrozbd.png">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1630684467/sid_ghiz_aich-hands-on-ears_jrozbd.png">
       <figcaption class="figCap">©Lucie Moraillon</figcaption>
     </figure>
     <a  class="next" onclick="plusSlides(1)" style="cursor:pointer; padding-top: 30%; color: hsl(30.4,31.2%,48.4%); font-size:2rem;">&#10095;</a>
