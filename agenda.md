@@ -201,7 +201,8 @@ Salle du CART à 14h45 <br></p>
 <h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
 <p class="intro-text center-text">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande<br>
 à la Grange de la Dîme, 20h <br>
-avec les FRGS</p>
+avec les FRGS<br>
+Repas partagé à l'issue de la représentation.</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
