@@ -6,30 +6,31 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <h1 id="ag">agenda</h1>
 <p class="intro-text center-text">décembre 2026</p>
 <ul class="agenda-list">
-<li><details><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre, Scène nationale<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span></summary><p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
+<li><details><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre, Scène nationale<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span></summary><p class="intro-text">
+<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
 </details><hr></li>
 <li><details><summary>Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
+<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
 </details><hr></li>
 </ul>
 <p class="intro-text center-text">novembre 2026</p>
 <ul class="agenda-list">
 <li><details><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
+<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
 </details><hr></li>
 <li><details><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
+<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
 </details><hr></li>
 <li><details><summary>Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
+<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
 </details><hr></li>
 <li><details><summary>Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
+<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
 </details><hr></li>
 </ul>
