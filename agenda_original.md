@@ -4,76 +4,120 @@ title: agenda
 summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
-<p class="intro-text center-text">décembre 2026</p>
+<p class="intro-text">Cliquez sur les liens pour plus d'infos sur chacun des évènements. Les liens fonctionnent dès que nous recevons des précisions.</p>
 <ul class="agenda-list">
-<li><details><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre, Scène nationale<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span></summary><p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
-</details><hr></li>
-<li><details><summary>Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
-</details><hr></li>
+<li><a href="#0304-12-2026">Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre, Scène nationale <span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> </a> </li>
+<li><a href="#01-12-2026">Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </a></li>
+<li><a href="#24-11-2026">Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
+<li><a href="#17-11-2026">Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
+<li><a href="#14-11-2026">Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></a></li>
+<li><a href="#02-11-2026">Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</a></li>
+
+<li><a href="#15-10-2026">Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#06-10-2026">Mardi 6 octobre 2026 à Mâcon (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+
+<li><a href="#19-06-2026">Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</a></li>
+<li><a href="#16-06-2026">Mardi 16 juin 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et musique (en compagnie du compositeur Morton Potash). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</a></li>
+
+<li><a href="#13-06-2026">Samedi 13 juin 2026 à Blanot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, 19h</a></li>
+<li><a href="#12-06-2026">Vendredi 12 juin à Chalon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Méandre, 20h</a></li>
+<li><a href="#31-05-2026">Dimanche 31 mai 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et gravure (en compagnie de l’artiste typographe Céline Thoué). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li>
+
+<li><a href="#12-05-2026">Mardi 12 mai 2026 à Matour – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, Salle du CART, 14h45</a></li>
+<li><a href="#08-05-2026">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à la Grange de la Dîme, 20h, avec les FRGS</a> </li>
+<li><a href="#05-05-2026">Mardi 5 mai 2026 à Davayé – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, Lycée Agricole Lucie Aubrac, à 13h30</a></li>
+<li><a href="#03-05-2026">Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Limace, 17h</a></li>
+<li><a href="#01-05-2026">Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</a></li>
+<li><a href="#25-04-2026">Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h, écriture et papiers découpés (en compagnie de la graphiste Anne De Lagonde). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</a></li> 
+<li><a href="#2-04-2026">Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</a></li>
+<li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span> à 14h et à 19h, à la Maison de quartier Planoise</a></li>
+<li><a href="#15-03-2026">Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
+<li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, à l'ECLA à 14h30, tout public et scolaires.</a></li>
+<li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
+<li><a href="#23-02-2026">Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
+<li><a href="#19-02-2026">Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+
+<li><a href="#13-02-2026">Vendredi 13 février 2026 à Saint-Vallier – Sur le seuil</a></li>
+
+<li><a href="#9-02-2026">Lundi 9 février 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#30-01-2026">Vendredi 30 janvier 2026 à Saint Point -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
+<li><a href="#11-01-2026">Dimanche 11 janvier 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#21-12-2025">Dimanche 21 décembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#9-12-2025">Mardi 9 décembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#5-12-2025">Vendredi 5 décembre 2025 à Charnay-les-Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, avant-première</a></li>
+<li><a href="#24-11-2025">Lundi 24 au vendredi 28 novembre 2025 à Cuisery – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
+<li><a href="#17-11-2025">Lundi 17 novembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#9-11-2025">Dimanche 9 novembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#30-10-2025">Jeudi 30 octobre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#20-10-2025">Lundi 20 au vendredi 25 octobre 2025 à Saint Point – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
+<li><a href="#6-10-2025">Lundi 6 au vendredi 10 octobre 2025 à Cuisery – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
+<li><a href="#4-10-2025">Samedi 4 octobre 2025 à Cluny – <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</a></li>
+<li><a href="#22-09-2025">Lundi 22 septembre au vendredi 26 septembre 2025 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
+<li><a href="#23-09-2025">Mardi 23 septembre 2025 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, présentation du spectacle autour de la violence conjugale</a></li>
+<li><a href="#09-09-2025">Vendredi 12 et Samedi 13 septembre 2025 à Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#09-09-2025">Mardi 9 et Mercredi 10 septembre 2025 à Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#2-08-2025">Samedi 2 août 2025 à Donzy-le-National – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmissions</span>, présentation publique du projet de film photographique lors du Festival Ciné-Pause</a></li>
+<li><a href="#21-06-2025">Samedi 28 juin 2025 à Saint-Point – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil et de l'enfance</a></li>
+<li><a href="#21-06-2025">Vendredi 20 juin 2025 à Mâcon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil et de l'enfance</a></li>
+<li><a href="#19-05-2025">Lundi 19 au Mercredi 21 mai 2025 à Bourbon-Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#14-05-2025">Mercredi 14 au Samedi 17 mai 2025 à DOLE – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#19-03-2025">Jeudi 24 au Dimanche 27 avril 2025 à Châlon-sur-Sâone – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#16-04-2025">Mercredi 16 au Samedi 19 avril 2025 à Saint-Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#09-04-2025">Mercredi 9 au Samedi 12 avril 2025 à Besançon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#19-03-2025">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
+<li><a href="#11-03-2025">Mercredi 13 mars 2025 à La Clayette – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
+<li><a href="#25-02-2025">Mardi 25 février 2025 à 10h à Saint-Point dernier atelier d'écriture autour du deuil, à la Pimenterie, suivi d'un repas partagé – <span style="color:#CB6120; font-weight:bold;">Une Nouvelle Page à Écrire</span></a></li>
+<li><a href="#09-02-2025">Samedi 15 février 2025 à Cluny</span>  collecte de photos à la Galerie Les Mains Libres – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
+<li><a href="#09-02-2025">Dimanche 9 février 2025 à 16h à Buffières rencontre publique à la Salle du Mille Club – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
 </ul>
-<p class="intro-text center-text">novembre 2026</p>
-<ul class="agenda-list">
-<li><details><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
-</details><hr></li>
-<li><details><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
-</details><hr></li>
-<li><details><summary>Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
-</details><hr></li>
-<li><details><summary>Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural </summary>
-<p class="intro-text"><a href="les-etres-humaines">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
-</details><hr></li>
-</ul>
-<p class="intro-text center-text">octobre 2026</p>
-<ul class="agenda-list">
-<li><details><summary>Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es </summary>
-<p class="intro-text center-text">
+<hr>
+
+<div id="15-10-2026">
+<h2><a href="les-emmeles" rel="noopener noreferrer" target="_blank">les emmêlé&middot;es</a></h2>
+<p class="intro-text center-text">Jeudi 15 octobre 2026 à Matour (71)<br>
 A la salle de cinéma du CART<br>
 Deux séances<br>
-Lien de réservation à venir<br>
-<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
-</details><hr></li>
+Lien de réservation à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
 
-<li><details><summary>Mardi 6 octobre 2026 à Mâcon (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es </summary>
-<p class="intro-text center-text">
+<div id="06-10-2026">
+<h2><a href="les-emmeles" rel="noopener noreferrer" target="_blank">les emmêlé&middot;es</a></h2>
+<p class="intro-text center-text">Mardi 6 octobre 2026 à Mâcon (71)<br>
 A la MJC de l'Héritan<br>
 Organisé par le Réseau des Aidants dans le cadre de la Journée Nationale des Aidants.<br>
 Deux séances<br>
-Lien de réservation à venir<br>
-<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
-</details><hr></li>
-</ul>
-<p class="intro-text center-text">juin 2026</p>
-<ul class="agenda-list">
-<li><details><summary>Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span> spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</summary>
-<p class="intro-text center-text">Château de la Verrerie<br>
-71200 Le Creusot<br>03 85 73 92 00<br>
-Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com<br>
-07&nbsp;82&nbsp;16&nbsp;11&nbsp;16</p>
+Lien de réservation à venir</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="19-06-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Mardi 23 juin 2026 à 17h au Creusot<br>
+Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, au Technopôle</p>
+</div>
 <div class="flex-container-wrap">
   <div class="column">
-    <a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg?updatedAt=1775991283705">cliquez pour ouvrir la page d'Empreintes sur le chemin</a>
+    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg?updatedAt=1775991283705">
   </div>
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg?updatedAt=1775997501377">
   </div>
 </div>
-</details><hr></li>
-<li><details><summary> Mardi 16 juin 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et musique (en compagnie du compositeur Morton Potash). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</summary>
-<p class="intro-text center-text">
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="16-06-2026">
+<h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+<p class="intro-text center-text">Mardi 16 juin 2026 à Saint Point<br>de 10h30 à 12h30 / 14h à 17h<br>
 La Pimenterie<br>
 1789 route du Lac<br>
 71520 Saint Point<br>
 écriture et musique (en compagnie du compositeur Morton Potash)<br>Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent</p>
+
 <div class="flex-container-wrap">
         <div class="column">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
@@ -81,15 +125,13 @@ La Pimenterie<br>
         <div class="column" style="margin-left:5px;">
             <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
         </div>
+    </div>
 </div>
-<p class="intro-text center-text"><a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank">cliquer pour ouvrir la page du projet</a></p>
-</details><hr></li>
-<li><details><summary>Samedi 13 juin 2026 à Blanot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, au Coing, 19h </summary>
-<p class="intro-text center-text">Le Coing<br>
-3 Chemin de Brosse Ronde<br>
-71250 Blanot
-<br>
-<a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
+<a href="#ag">retourner à l'agenda</a>
+<div id="13-06-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Samedi 13 juin 2026 à Blanot<br>
+au Coing à 19h</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -98,13 +140,16 @@ La Pimenterie<br>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-</details><hr></li>
-<li><details><summary>Vendredi 12 juin à Chalon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Méandre, 20h </summary>
-<p class="intro-text center-text">La Méandre<br>
+
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="12-06-2026">
+<p class="intro-text center-text">Vendredi 12 juin 2026 à Chalon-sur-Saône<br>
+à La Méandre à 20h<br>
 Port Nord<br>
 1 rue Denis Papin<br>
-71100 Chalon-sur-Saône<br>
-<a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
+71100 Chalon-sur-Saône </p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -113,31 +158,34 @@ Port Nord<br>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-</details><hr></li>
-</ul>
-<p class="intro-text center-text">mai 2026</p>
-<ul class="agenda-list">
-<li><details><summary>Dimanche 31 mai 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h : écriture et gravure (en compagnie de l’artiste typographe Céline Thoué). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi </summary>
-<p class="intro-text center-text">
+</div>
+<hr>
+<a href="#ag">retourner à l'agenda</a>
+<div id="31-05-2026">
+<h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+<p class="intro-text center-text">31 mai 2026<br>
+de 10h30 à 12h30 / 14h à 17h<br>
 La Pimenterie<br>
 1789 route du Lac<br>
 71520 Saint Point<br>
-<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
-</details><hr></li>
-<li><details><summary>Lundi 18 mai à Buffières – Assemblée générale de l'association Rêver Tout Haut, 18h30 </summary>
-<p class="intro-text center-text">chez Valérie et Morton<br>
-580 rte de la Croix Montchanin<br>
-71250 Buffières<br>
-<a href="https://www.revertouthaut.fr/nous-soutenir" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page «&nbsp;nous soutenir&nbsp;»</i></a></p>
-</details><hr></li>
-<li><details><summary>Mardi 12 mai 2026 à Matour – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil</summary>
-<p class="intro-text center-text">
-au C.A.R.T. à 14h45<br>
-Centre d'Animation Rurale et Touristique<br>
-Route de La Clayette<br>
-71520 Matour<br>
-<a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a>
-</p>
+écriture et gravure (en compagnie de l’artiste typographe Céline Thoué) 
+<br>Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</p>
+
+
+<div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<div id="12-05-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Mardi 12 mai 2026 à Matour<br>
+Salle du CART à 14h45 <br></p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -146,15 +194,15 @@ Route de La Clayette<br>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-</details><hr></li>
-<li><details><summary>Vendredi 8 mai 2026 à La Vineuse-sur-Fregande – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil </summary>
-<p class="intro-text center-text">
-à La Grange de la Dîme, 20h <br>
-La Vineuse<br>
-71250 LA VINEUSE SUR FREGANDE<br>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="08-05-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Vendredi 8 mai 2026 à La Vineuse-sur-Fregande<br>
+à la Grange de la Dîme, 20h <br>
 avec les Foyer Ruraux de Grand Secteur Clunysois<br>
-Repas partagé à l'issue de la représentation.<br>
-<a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
+Repas partagé à l'issue de la représentation.</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -163,13 +211,15 @@ Repas partagé à l'issue de la représentation.<br>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-</details><hr></li>
-<li><details><summary>Mardi 5 mai 2026 à Davayé – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, Lycée Agricole Lucie Aubrac, à 13h30</summary>
-<p class="intro-text center-text">
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="05-05-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Mardi 5 mai 2026 à Davayé<br>
 Lycée Agricole Lucie Aubrac, 13h30<br>
 43 rue des Poncétys 71960 DAVAYE<br>
-Téléphone : 03 85 33 56 00<br>
-<a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
+Téléphone : 03 85 33 56 00</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -178,13 +228,15 @@ Téléphone : 03 85 33 56 00<br>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-</details><hr></li>
-<li><details><summary>Dimanche 3 mai 2026 à Sivignon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, à La Limace, 17h</summary>
-<p class="intro-text center-text">sortie de résidence<br>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="03-05-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Dimanche 3 mai 2026 à Sivignon<br>sortie de résidence à La Limace, à 17h<br>
 Laurendon<br>
 71220 Sivignon<br>
-Réservations: lamalimace@gmail.com<br>
-<a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
+Réservations: lamalimace@gmail.com</p>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
@@ -193,28 +245,53 @@ Réservations: lamalimace@gmail.com<br>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
   </div>
 </div>
-</details><hr></li>
-<li><details><summary>Vendredi 1er au dimanche 3 mai 2026 à Sivignon - <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil, résidence de création</summary>
-</details><hr></li>
-</ul>
-<p class="intro-text center-text">avril 2026</p>
-<ul class="agenda-list">
-<li><details><summary>Samedi 25 avril 2026 à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 10h30 à 12h30 / 14h à 17h, écriture et papiers découpés (en compagnie de la graphiste Anne De Lagonde). Inscription à la demi-journée possible, pique-nique pour ceux qui souhaitent rester le midi</summary>
-<p class="intro-text center-text">
-La Pimenterie<br>
-1789 route du Lac<br>
-71520 Saint Point<br>
-<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
-</details><hr></li>
-<li><details><summary>Jeudi 2 avril 2026 à Bourbon Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir)</summary>
-<p class="intro-text center-text">
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+<div id="01-05-2026">
+<h2><a href="captation_empreintes">empreintes sur le chemin</a></h2>
+<p class="intro-text center-text">Vendredi 1er au dimanche 3 mai 2026 à Sivignon<br>résidence de création<br>
+La Limace<br>
+Laurendon<br>
+71220 Sivignon</p>
+</div>
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+<div id="25-04-2026"><h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
+    <p class="intro-text">Samedi 25 avril 2026 à Saint-Point(71)<br>
+      De 10h30 à 12h30 et de 14h à 17h<br>
+      La Pimenterie<br>
+      1789 route du Lac<br>
+    71520 Saint Point<br>
+    écriture et papiers découpés en compagnie de la graphiste Anne De Lagonde<br>
+      Gratuit・Participation ponctuelle possible<br>
+      inscription à la demi-journée possible, pique-nique tiré du sac pour ceux qui souhaitent rester le midi</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</div>
+
+<a href="#ag">retourner à l'agenda</a>
+<hr>
+
+
+
+<div id="2-04-2026">
+<h2><a href="les-etres-humaines">les êtres humaines – spectacles</a></h2>
+    <p class="intro-text center-text">Jeudi 2 avril 2026, à Bourbon-Lancy<br>
     Espace Culturel Saint Léger<br>
     Rue du Parc<br>
     71140 BOURBON LANCY<br>
     Séance scolaire et professionnels à 14h30 – GRATUIT<br>
     Séance tout public à 20h – GRATUIT<br>
-    Réservations auprès du Centre social&nbsp;:&nbsp;03&nbsp;76&nbsp;15&nbsp;00&nbsp;95<br>
-    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page de Les Êtres Humaines</i></a>
+    Réservations auprès du Centre social&nbsp;:&nbsp;03&nbsp;76&nbsp;15&nbsp;00&nbsp;95
+
     </p>
     <div class="center-max600-block">
       <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1773128768/leh2_bourbon_fn1awb.jpg">
@@ -223,89 +300,8 @@ La Pimenterie<br>
       <a href="https://www.federation-apcp.org/printemps-des-arts-participatifs/" rel="noopener noreferrer" target="_blank">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1774341232/Fe%CC%81de%CC%81ration_APCP_-_VIGNETTE_soutien_APCP_Printemps_-_1_nyjhck.png">Fédération des Arts Participatifs et Créations Partagées (Fédération-APCP)</a>
     </div>
-</details><hr></li>
-</ul>
-<p class="intro-text center-text">mars 2026</p>
-<ul class="agenda-list">
-<li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span> à 14h et à 19h, à la Maison de quartier Planoise</a></li>
-<li><a href="#15-03-2026">Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
-<li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, à l'ECLA à 14h30, tout public et scolaires.</a></li>
-</ul>
-<p class="intro-text center-text">fevrier 2026</p>
-<ul class="agenda-list">
-<li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
-<li><a href="#23-02-2026">Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#19-02-2026">Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#13-02-2026">Vendredi 13 février 2026 à Saint-Vallier – Sur le seuil</a></li>
-<li><a href="#9-02-2026">Lundi 9 février 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-</ul>
-<p class="intro-text center-text">janvier 2026</p>
-<ul class="agenda-list">
-<li><a href="#30-01-2026">Vendredi 30 janvier 2026 à Saint Point -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
-<li><a href="#11-01-2026">Dimanche 11 janvier 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-</ul>
-<p class="intro-text center-text">décembre 2025</p>
-<ul class="agenda-list">
-<li><a href="#21-12-2025">Dimanche 21 décembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#9-12-2025">Mardi 9 décembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#5-12-2025">Vendredi 5 décembre 2025 à Charnay-les-Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, avant-première</a></li>
-</ul>
-<p class="intro-text center-text">novembre 2025</p>
-<ul class="agenda-list">
-<li><a href="#24-11-2025">Lundi 24 au vendredi 28 novembre 2025 à Cuisery – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#17-11-2025">Lundi 17 novembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#9-11-2025">Dimanche 9 novembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-</ul>
-<p class="intro-text center-text">octobre 2025</p>
-<ul class="agenda-list">
-<li><a href="#30-10-2025">Jeudi 30 octobre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#20-10-2025">Lundi 20 au vendredi 25 octobre 2025 à Saint Point – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#6-10-2025">Lundi 6 au vendredi 10 octobre 2025 à Cuisery – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#4-10-2025">Samedi 4 octobre 2025 à Cluny – <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</a></li>
-</ul>
-<p class="intro-text center-text">septembre 2025</p>
-<ul class="agenda-list">
-<li><a href="#22-09-2025">Lundi 22 septembre au vendredi 26 septembre 2025 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#23-09-2025">Mardi 23 septembre 2025 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, présentation du spectacle autour de la violence conjugale</a></li>
-<li><a href="#09-09-2025">Vendredi 12 et Samedi 13 septembre 2025 à Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#09-09-2025">Mardi 9 et Mercredi 10 septembre 2025 à Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-</ul>
-<p class="intro-text center-text">août 2025</p>
-<ul class="agenda-list">
-<li><a href="#2-08-2025">Samedi 2 août 2025 à Donzy-le-National – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmissions</span>, présentation publique du projet de film photographique lors du Festival Ciné-Pause</a></li>
-</ul>
-<p class="intro-text center-text">juin 2025</p>
-<ul class="agenda-list">
-<li><a href="#21-06-2025">Samedi 28 juin 2025 à Saint-Point – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil et de l'enfance</a></li>
-<li><a href="#21-06-2025">Vendredi 20 juin 2025 à Mâcon – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span>, spectacle autour de l'exil et de l'enfance</a></li>
-</ul>
-<p class="intro-text center-text">mai 2025</p>
-<ul class="agenda-list">
-<li><a href="#19-05-2025">Lundi 19 au Mercredi 21 mai 2025 à Bourbon-Lancy – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#14-05-2025">Mercredi 14 au Samedi 17 mai 2025 à DOLE – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-</ul>
-<p class="intro-text center-text">avril 2025</p>
-<ul class="agenda-list">
-<li><a href="#19-03-2025">Jeudi 24 au Dimanche 27 avril 2025 à Châlon-sur-Sâone – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#16-04-2025">Mercredi 16 au Samedi 19 avril 2025 à Saint-Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#09-04-2025">Mercredi 9 au Samedi 12 avril 2025 à Besançon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-</ul>
-<p class="intro-text center-text">mars 2025</p>
-<ul class="agenda-list">
-<li><a href="#19-03-2025">Mercredi 19 au Samedi 22 mars 2025 à Châlon-sur-Sâone – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, ateliers artistiques autour de la violence conjugale</a></li>
-<li><a href="#11-03-2025">Mercredi 13 mars 2025 à La Clayette – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
-<li><a href="#11-03-2025">Mardi 11 mars 2025 à Charolles – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es</a></li>
-</ul>
-<p class="intro-text center-text">février 2025</p>
-<ul class="agenda-list">
-<li><a href="#25-02-2025">Mardi 25 février 2025 à 10h à Saint-Point dernier atelier d'écriture autour du deuil, à la Pimenterie, suivi d'un repas partagé – <span style="color:#CB6120; font-weight:bold;">Une Nouvelle Page à Écrire</span></a></li>
-<li><a href="#09-02-2025">Samedi 15 février 2025 à Cluny</span>  collecte de photos à la Galerie Les Mains Libres – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
-<li><a href="#09-02-2025">Dimanche 9 février 2025 à 16h à Buffières rencontre publique à la Salle du Mille Club – <span style="color:#3bd03b; font-weight:bold;">Histoires de Transmission</span></a></li>
-</ul>
+<a href="#ag">retourner à l'agenda</a>
 <hr>
-
-
 
 <div id="25-03-2026"><h2><a href="une-nouvelle-page">une nouvelle page à écrire</a></h2>
     <p class="intro-text">Mercredi 25 mars 2026 à la Pimenterie à Saint-Point(71)<br>
