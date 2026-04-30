@@ -11,7 +11,7 @@ summary:
 <p class="start"></p>
 <div class="sticky-div">
   <nav class="horizontal-list horizontal-list-color">
-    <ul style="margin-top:0px; margin-bottom:0px; margin-right:20px; display:flex; flex-wrap:wrap; white-space:normal; justify-content: space-evenly;">
+    <ul style="margin-top:10px; margin-bottom:0px; margin-right:5px; display:flex; flex-wrap:wrap; white-space:normal; justify-content: space-evenly;">
       <li><a href="#présentation">Présentation&nbsp;</a></li>
       <li><a href="#genèse">Genèse&nbsp;</a></li>
       <li><a href="#presse">Presse&nbsp;</a></li>
