@@ -303,16 +303,116 @@ Gratuit・Participation ponctuelle possible</p>
 <hr>
 <p class="intro-text center-text">fevrier 2026</p>
 <ul class="agenda-list">
-<li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
-<li><a href="#23-02-2026">Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#19-02-2026">Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#13-02-2026">Vendredi 13 février 2026 à Saint-Vallier – Sur le seuil</a></li>
-<li><a href="#9-02-2026">Lundi 9 février 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><details><summary>Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, au Théâtre des Arts, deux représentations (après-midi et soir) </summary>
+<p class="intro-text center-text">Théâtre des Arts<br>
+    Place du Marché<br>
+    71250 Cluny</p>
+    <p class="intro-text center-text"><strong>Séance scolaire et professionnels à 14h30 – GRATUIT</strong><br>
+    Réservation pour les scolaires&nbsp;:&nbsp;<br>
+    secretariat-culture@cluny.fr, 03&nbsp;85&nbsp;59&nbsp;89&nbsp;49<br>
+    Réservation pour les professionnels&nbsp;:&nbsp;<br>
+    coordination.revertouthaut@gmail.com, 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
+    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page de Les Êtres Humaines</i></a></p>
+    
+    <p class="intro-text center-text"><strong>Séance tout public à 20h – GRATUIT</strong> <span style="color:red">COMPLETE</span><br>
+    Réservations tout public&nbsp;:&nbsp; <a href="https://www.billetweb.fr/les-etres-humaines" rel="noopener noreferrer" target="_blank">billet web - les êtres humaines</a>
+    </p>
+    <div class="center-max600-block">
+        <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769502069/ScreenFloat_Shot_57C84210BF10_xyy8oq.png">
+    </div>
+</details></li>
+<li><details><summary>Lundi 23 au jeudi 26 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</summary>
+<p class="intro-text center-text">
+Au Théâtre des Arts à Cluny, 9h - 17h<br>
+    Place du Marché<br>
+    71250 Cluny
+</p>
+</details></li>
+
+<li><details><summary>Jeudi 19 février 2026 à Saint Point – <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 18h à 20h </summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</details></li>
+
+<li><details><summary>Vendredi 13 février 2026 à Saint-Vallier – Sur le seuil</summary>
+<p class="intro-text center-text">
+  Les associations Le Pont et Rêver Tout Haut vous invitent à une restitution publique&nbsp;:&nbsp;<br>
+ <strong>15h – GRATUIT</strong><br>
+  Association Le Pont ・ LAM ・ Galuzot<br>
+  71230 SAINT-VALLIER<br>
+  (sur le site du centre hospitalier Jean Bouveri - ancien SSR 1er étage)<br>
+  <a href="sur-le-seuil" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a>
+  </p>
+  <div class="center-max600-block">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769769881/ScreenFloat_Shot_A06D4442A451_uwqnq4.png">
+  </div>
+</details></li>
+
+<li><details><summary>Lundi 9 février 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 15h à 17h</summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</details></li>
 </ul>
 <p class="intro-text center-text">janvier 2026</p>
 <ul class="agenda-list">
-<li><a href="#30-01-2026">Vendredi 30 janvier 2026 à Saint Point -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
-<li><a href="#11-01-2026">Dimanche 11 janvier 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+
+<li><details><summary>Vendredi 30 janvier 2026 à Saint Point -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 18h à 20h</summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</details></li>
+
+<li><details><summary>Dimanche 11 janvier 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 10h30 à 12h30</summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</details></li>
 </ul>
 <p class="intro-text center-text">décembre 2025</p>
 <ul class="agenda-list">
