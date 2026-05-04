@@ -84,6 +84,7 @@ RÊVONS<br>
 
 <p class="intro-text">
 Ce projet innovant est financé par <strong>Malakoff Humanis, KALIVI-BFC et la Fondation PFG</strong>.</p> 
+<h2> dates en 2026</h2>
 <div class="flex-container-wrap">
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/flyer_une-nouvelle-page_p1_XzZuMAy8Bh.jpg">
