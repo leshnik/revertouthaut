@@ -228,11 +228,79 @@ La Pimenterie<br>
 </ul>
 <p class="intro-text center-text">mars 2026</p>
 <ul class="agenda-list">
-<li><a href="#25-03-2026">Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#19-03-2026">Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span> à 14h et à 19h, à la Maison de quartier Planoise</a></li>
-<li><a href="#15-03-2026">Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span></a></li>
-<li><a href="#5-03-2026">Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, à l'ECLA à 14h30, tout public et scolaires.</a></li>
+<li><details><summary>Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span> </summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible<br>
+      De 17h à 19h</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</details>
+</li>
+
+
+
+<li><details><summary>Jeudi 19 mars 2026 à Besançon –<span style="color:#5bafb6; font-weight:bold;"> Les êtres humaines</span> à 14h et à 19h, à la Maison de quartier Planoise</summary>
+<p class="intro-text center-text">Jeudi 19 mars 2026, à Besançon<br>
+      Maison de quartier Planoise<br>
+      13, avenue Ile de France<br>
+      25000 BESANCON<br>
+      Séance scolaire et professionnels à 14h – GRATUIT<br>
+      Séance tout public à 19h – GRATUIT<br>
+      Réservations auprès de Solidarité&nbsp;Femmes&nbsp;:&nbsp;chrs@solidaritefemmes25.org<br>
+      ou de la Maison de Quartier Planoise&nbsp;:&nbsp;03&nbsp;81&nbsp;87&nbsp;81&nbsp;20
+    </p>
+<div class="flex-container-wrap">
+  <div class="column">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769771278/ScreenFloat_Shot_874E4DBE9CBB_ft8apu.png">
+  </div>
+  <div class="column">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769771568/ScreenFloat_Shot_12364C0296F6_aqpjjw.png">
+  </div>
+</div>
+</details>
+</li>
+
+<li><details><summary>Dimanche 15 mars à Saint Point –<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span> de 10h30 à 12h00</summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible</p>
+      <div class="flex-container-wrap">
+        <div class="column">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749725557/ScreenFloat_Shot_of_Finder_at_12_Jun_2025_at_12_52_19_gmnudy.png">
+        </div>
+        <div class="column" style="margin-left:5px;">
+            <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1772540173/flyer_Une_nouvelle_page_a%CC%80_e%CC%81crire_03_a%CC%80_06_2026_page-0002_owwrpp.jpg">
+        </div>
+    </div>
+</details></li>
+<li><details><summary>Jeudi 5 mars 2026 à Saint Vallier – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, à l'ECLA à 14h30</summary>
+<p class="intro-text center-text">
+         Espace Culturel Louis Aragon (ECLA)<br>
+         22, rue Victor Hugo<br>
+         71230 SAINT-VALLIER<br>
+        <strong>Séance scolaire et tout public à 14h30 – 6 à 10€</strong><br>
+        <a href="https://mairie-saintvallier.notre-billetterie.fr/billets?kld=2526" rel="noopener noreferrer" target="_blank">billetterie ECLA </a><br>
+        03&nbsp;85&nbsp;67&nbsp;78&nbsp;20 / admi.ecla@mairie-saintvallier.fr
+    </p>
+    <div class="center-max600-block">
+      <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1769769623/ScreenFloat_Shot_E36E40498940_kytf5r.png">
+    </div>
+</details></li>
 </ul>
+<hr>
 <p class="intro-text center-text">fevrier 2026</p>
 <ul class="agenda-list">
 <li><a href="#27-02-2026">Vendredi 27 février 2026 à Cluny – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, deux représentations (après-midi et soir).</a></li>
