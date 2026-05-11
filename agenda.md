@@ -44,12 +44,26 @@ Lien de réservation à venir<br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
 </details><hr></li>
 
-<li><details name="notes"><summary>Mardi 6 octobre 2026 à Mâcon (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es </summary>
+<li><details name="notes"><summary>Jeudi 8 octobre 2026 à Bourbon-Lancy – Espace Culturel Saint Léger – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, après-midi</summary>
 <p class="intro-text center-text">
-A la MJC de l'Héritan<br>
+Espace Culturel Saint Léger<br>
+Rue du Parc<br>
+71140 Bourbon Lancy<br>
+Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
+Horaire et lien de réservation à venir<br>
+<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p></details><hr>
+</li>
+
+<li><details name="notes"><summary>Mardi 6 octobre 2026 à Mâcon (71) – MJC de l'Héritan – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 14h30 & 20h </summary>
+<p class="intro-text center-text">
+MJC de l'Héritan<br>
+24, rue de l'Héritan<br>
+71000 Mâcon<br>
 Organisé par le Réseau des Aidants dans le cadre de la Journée Nationale des Aidants.<br>
-Deux séances<br>
-Lien de réservation à venir<br>
+14h30 et 20h<br>
+Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
+<a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es" rel="noopener noreferrer" target="_blank">
+&#9654;<i>cliquer ici pour réserver</i></a><br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
 </details><hr></li>
 </ul>
