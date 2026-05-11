@@ -58,7 +58,7 @@ Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
 
 <h2>dates de tournée</h2>
 <ul class="bullet">
-  <li>Mardi 23 juin 2026 au Creusot –  Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</li>
+  <li>Mardi 23 juin 2026 au Creusot –  Château de la Verrerie, en clôture du Challenge Départemental des Solidarités, 17h40</li>
   <li>Samedi 13 juin 2026 à Blanot –  au Coing, 19h</li>
   <li>Vendredi 12 juin en soirée à à Chalon – à La Méandre, 20h</li>
   <li>Mardi 12 mai 2026 à Matour – Salle du CART, 14h45</li>

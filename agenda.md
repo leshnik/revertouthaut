@@ -55,11 +55,14 @@ Lien de réservation à venir<br>
 </ul>
 <p class="intro-text center-text">juin 2026</p>
 <ul class="agenda-list">
-<li><details name="notes"><summary>Mardi 23 juin 2026 au Creusot – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span> spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, au Technopôle, 17h</summary>
+<li><details name="notes"><summary>Mardi 23 juin 2026 au Creusot – Château de la Verrerie – <span style="color:#AD8301; font-weight:bold;">Empreintes sur le chemin</span> spectacle autour de l'exil, en clôture du Challenge Départemental des Solidarités, 17h40</summary>
 <p class="intro-text center-text">Château de la Verrerie<br>
-71200 Le Creusot<br>03 85 73 92 00<br>
+rue Jules Guesde<br>
+71200 Le Creusot<br>
 Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com<br>
-07&nbsp;82&nbsp;16&nbsp;11&nbsp;16</p>
+07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
+<a href="https://www.billetweb.fr/challenge-des-solidarites" rel="noopener noreferrer" target="_blank">
+&#9654;Cliquer ici pour réserver et voir la carte</a></p>
 <div class="flex-container-wrap">
   <div class="column">
     <a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg?updatedAt=1775991283705">cliquez pour ouvrir la page d'Empreintes sur le chemin</a>
