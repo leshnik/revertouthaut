@@ -72,7 +72,7 @@ Je te prête mon pays comme tu me prêtes le tien&nbsp;»</p>
     <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p1_tCA44F_j6.jpg">
   </div>
   <div class="column">
-    <img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg">
+    <img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1778507038/flyer_2026_Empreintes_sur_le_chemin_Web_page-0002_t0y43v.jpg">
   </div>
 </div>
 

@@ -62,10 +62,10 @@ rue Jules Guesde<br>
 Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com<br>
 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
 <a href="https://www.billetweb.fr/challenge-des-solidarites" rel="noopener noreferrer" target="_blank">
-&#9654;Cliquer ici pour réserver et voir la carte</a></p>
+&#9654;Cliquer ici pour réserver et plus d'infos</a></p>
 <div class="flex-container-wrap">
   <div class="column">
-    <a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/empreintes-flyer-printemps2026_p2_OXI-iOA-W.jpg?updatedAt=1775991283705">cliquez pour ouvrir la page d'Empreintes sur le chemin</a>
+    <a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1778507038/flyer_2026_Empreintes_sur_le_chemin_Web_page-0002_t0y43v.jpg">cliquez pour ouvrir la page d'Empreintes sur le chemin</a>
   </div>
   <div class="column">
     <img src="https://ik.imagekit.io/eownvzurl/journe%CC%81es-solidarite%CC%81-flyer_iWQii51nr.jpg?updatedAt=1775997501377">
