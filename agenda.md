@@ -17,6 +17,22 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </ul>
 <p class="intro-text center-text">novembre 2026</p>
 <ul class="agenda-list">
+    <li><details name="notes">
+        <summary>Vendredi 27 novembre 2026 à Besançon (25) – Les deux scènes – Théâtre Ledoux – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, 14h et 20h</summary>
+        <p class="intro-text center-text">
+            Théâtre Ledoux<br>
+            49 rue Mégevand<br>
+            25000 Besançon<br>
+            Tram lignes T1*, T2* – stations Révolution ou Chamars<br>
+            Bus lignes L4*, L6*, 10 – arrêt Granvelle et ligne L3* – arrêt Carmes (*lignes disponibles également en soirée ainsi que le dimanche)<br>
+            Voiture parking de la mairie, place Saint-Jacques (1 € la nuit, de 19h à 9h)<br>
+            Places PMR place du Théâtre, accès à l’arrière du bâtiment<br>
+            
+            <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a>
+        </p>
+</details><hr></li>
+
+
 <li><details name="notes"><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
 <p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
  dès que nous recevons des précisions</i></p>
@@ -122,6 +138,11 @@ La Pimenterie<br>
 Port Nord<br>
 1 rue Denis Papin<br>
 71100 Chalon-sur-Saône<br>
+Ouverture du bar et petite restauration (Tajine et desserts) à partir de 19h<br>
+Pour cette date, merci de réserver avec le lien suivant. Celà nous aidera à choisir l'espace de jeux&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-empreintes-sur-le-chemin" rel="noopener noreferrer" target="_blank" style="text-decoration: underline;">Réservations Empreintes sur le chemin CHALON</a><br>
+Contact : coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
+
+
 <a href="captation_empreintes" rel="noopener noreferrer" target="_blank"><i>cliquez pour ouvrir la page du projet</i></a></p>
 <div class="flex-container-wrap">
   <div class="column">
