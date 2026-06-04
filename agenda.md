@@ -32,6 +32,13 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
         </p>
 </details><hr></li>
 
+<li><details name="notes"><summary>Jeudi 26 novembre 2026 à Mulhouse (68) – Maison de la Culture Populaire – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, 2 séances</summary>
+
+<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br>
+<i>plus d'infos
+ dès que nous recevons des précisions</i></p>
+</details><hr></li>
+
 
 <li><details name="notes"><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
 <p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
@@ -138,7 +145,7 @@ La Pimenterie<br>
 Port Nord<br>
 1 rue Denis Papin<br>
 71100 Chalon-sur-Saône<br>
-Ouverture du bar et petite restauration (Tajine et desserts) à partir de 19h<br>
+Ouverture du bar et petite restauration (Tajine et desserts) à partir de 18h30<br>
 Pour cette date, merci de réserver avec le lien suivant. Celà nous aidera à choisir l'espace de jeux&nbsp;:&nbsp;<a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-empreintes-sur-le-chemin" rel="noopener noreferrer" target="_blank" style="text-decoration: underline;">Réservations Empreintes sur le chemin CHALON</a><br>
 Contact : coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
 
