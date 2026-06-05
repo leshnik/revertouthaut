@@ -67,6 +67,16 @@ Lien de réservation à venir<br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
 </details><hr></li>
 
+<li><details name="notes"><summary>Lundi 12 octobre 2026 à Saint-Marcel – Salle Alfred Jarot – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, deux séances</summary>
+<p class="intro-text center-text">
+Salle Alfred Jarot<br>
+Allee Thirode<br>
+71380 Saint-Marcel<br>
+Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
+Horaire et lien de réservation à venir<br>
+<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p></details><hr>
+</li>
+
 <li><details name="notes"><summary>Jeudi 8 octobre 2026 à Bourbon-Lancy – Espace Culturel Saint Léger – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, après-midi</summary>
 <p class="intro-text center-text">
 Espace Culturel Saint Léger<br>
