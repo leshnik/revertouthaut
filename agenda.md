@@ -59,31 +59,33 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </ul>
 <p class="intro-text center-text">octobre 2026</p>
 <ul class="agenda-list">
-<li><details name="notes"><summary>Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es </summary>
+<li><details name="notes"><summary>Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 13h45 et 18h30</summary>
 <p class="intro-text center-text">
 A la salle de cinéma du CART<br>
-Deux séances<br>
-Lien de réservation à venir<br>
+Deux représentations: 13h45 et 18h30<br>
+Durée: 1h15 + échanges avec le public<br>
+<a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-matour" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour réserver</i></a><br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
 </details><hr></li>
 
-<li><details name="notes"><summary>Lundi 12 octobre 2026 à Saint-Marcel – Salle Alfred Jarot – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, deux séances</summary>
+<li><details name="notes"><summary>Lundi 12 octobre 2026 à Saint-Marcel – Salle Alfred Jarot – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 14h30 et 20h</summary>
 <p class="intro-text center-text">
 Salle Alfred Jarot<br>
 Allee Thirode<br>
 71380 Saint-Marcel<br>
 Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
-Horaire et lien de réservation à venir<br>
+<a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-chalon" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour réserver</i></a><br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p></details><hr>
 </li>
-
-<li><details name="notes"><summary>Jeudi 8 octobre 2026 à Bourbon-Lancy – Espace Culturel Saint Léger – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, après-midi</summary>
+<li><details name="notes"><summary>Jeudi 8 octobre 2026 à Bourbon-Lancy – Espace Culturel Saint Léger – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 14h30</summary>
 <p class="intro-text center-text">
 Espace Culturel Saint Léger<br>
 Rue du Parc<br>
 71140 Bourbon Lancy<br>
 Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
-Horaire et lien de réservation à venir<br>
+<a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-bourbon-lancy" rel="noopener noreferrer" target="_blank">&#9654;<i>cliquer ici pour réserver</i></a><br>
+
+
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p></details><hr>
 </li>
 

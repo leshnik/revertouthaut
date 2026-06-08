@@ -6,6 +6,17 @@ summary:
 <h1 style="color: #7c0a25;">Le spectacle les&nbsp;emmêlé&middot;es<br>
 Tournée 2026 - 2027</h1>
 
+
+<p class="start"></p>
+<p class="intro-text"><i>pour réserver vos places gratuites, cliquer sur la ville qui vous intéresse</i></p>
+  <ul class="bullet">
+    <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es" rel="noopener noreferrer" target="_blank">Mâcon&nbsp;:&nbsp;Mardi 6 octobre 2026</a></li>
+      <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-bourbon-lancy" rel="noopener noreferrer" target="_blank">Bourbon-Lançy&nbsp;:&nbsp;Jeudi 8 octobre 2026</a></li>
+      <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-chalon" rel="noopener noreferrer" target="_blank">Saint-Marcel&nbsp;:&nbsp;Lundi 12 octobre 2026</a></li>
+      <li><a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-matour" rel="noopener noreferrer" target="_blank">Matour&nbsp;:&nbsp;Jeudi 15 octobre 2026</a></li>
+  </ul>
+
+
 <p class="intro-text">Le spectacle Les Emmêlés repart sur les routes à l’automne 2026&nbsp;!
 Créé en 2025 pour et avec des <a href="jeunes-aidants">jeunes aidant&middot;es du charolais-brionnais</a>, le spectacle est un formidable outil de sensibilisation. Sur scène, ils sont quatre, accompagnés par six artistes professionnels (+ un technicien et une coordinatrice).</p>
 
