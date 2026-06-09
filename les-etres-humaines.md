@@ -203,6 +203,8 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
 <ul class="bullet">
   <li>Les 3 et 4 décembre 2026 à Mâcon (71) – Le Théâtre, Scène nationale – quatre représentations</li>
   <li>Le 1 décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – deux représentations</li>
+  <li>Le 27 novembre 2026 à Besançon (25) – Les deux scènes – Théâtre Ledoux, deux représentations</li>
+  <li>Le 26 novembre 2026 à Mulhouse (68) – Maison de la Culture Populaire, deux représentations</li>
   <li>Le 24 novembre 2026 à Yzeure (03) – Yzeurespace – deux représentations</li>
   <li>Le 17 novembre 2026 : à Montluçon (03) – MJC – deux représentations </li>
   <li>Le 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – une représentation tout public </li>

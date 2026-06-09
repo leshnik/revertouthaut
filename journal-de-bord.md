@@ -4,6 +4,30 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>mai 2026</h2>
+<p class="intro-text">Cher journal de bord,</p>
+
+<p class="intro-text">Nous revoilà pour te parler de notre mois de mai qui fut un voyage sur les routes de l’exil. Nous avons fait étape avec notre spectacle <a href="empreintes-sur-le-chemin" rel="noopener noreferrer" target="_blank">empreintes sur le chemin</a>, dans des villages, à la Vineuse sous Frégande, à Matour, à Sivignon, Davayé. Nous avons rencontré beaucoup de monde, des collégiens, des lycéens, répondu à beaucoup de questions : qu’est-ce que ça fait de quitter son pays, de tout recommencer ? quels métiers exerciez-vous avant de quitter votre pays ? qu’est-ce qui vous choque ici ?<br>
+Des moment suspendus où les rencontres se font vraiment, laissent des traces dans les mémoires, et ont fait l’indispensable pas de côté pour se mettre à la place de l’autre.<br>
+Avec en sus, des heures de répétitions, l’adrénaline des représentations, la fantaisie d’une vie de troupe qui donnent aux personnes exilées une sorte de nouvelle famille, solidaire, légère et bien vivante.<br>
+Nous reprendrons la route en juin, avec le même entrain et la même ligne de mire&nbsp;:&nbsp;je te donne mon histoire, tu me donnes ton écoute, je te donne le récit de mon exil, toi tu te déplaces aussi. </p>
+
+<p class="intro-text">Ici un article de presse et des photos&nbsp;:&nbsp;<a href="https://c.lejsl.com/culture-loisirs/2026/05/11/le-spectacle-empreintes-sur-le-chemin-en-images" rel="noopener noreferrer" target="_blank">le spectacle empreintes sur le chemin en images</a>
+<hr>
+<p class="intro-text">Ce mois de Mai a aussi été le mois de nouvelles rencontres avec des jeunes aidants du département, dont les témoignages vont nourrir la reprise de notre spectacle « Les emmêlés » en septembre et octobre. Ces jeunes aidants, encore enfants et déjà adultes, qui vivent au rythme de leur proche en situation de handicap ou de maladie&nbsp;:&nbsp; </p>
+
+<p class="quote">«&nbsp;moi je suis comme une montre déréglée, je suis très lent, comme ma maman, qui vit en fauteuil et à qui il faut beaucoup de temps pour faire les choses. Moi je suis comme elle,  je ne sais pas aller vite, les autres ont une montre qui donne l’heure exacte, moi non, car je vis au rythme de ma maman&nbsp;»</p>
+
+<p class="intro-text">Si vous êtes ou avez été dans cette situation de jeune aidance et que vous voulez témoigner pour enrichir notre propos, vous pouvez nous contacter&nbsp;!</p>
+<hr>
+<p class="intro-text">Nous avons aussi multiplié les rendez-vous pour concocter une belle tournée de <a href="les-etres-humaines">les êtres humaines</a> en novembre et décembre 2026&nbsp;:&nbsp;nous serons accueillies deux semaines en résidence à Chauffailles où nous proposerons aussi des ateliers artistiques autour des violences intra-familiales et conjugales, puis nous jouerons à Chauffailles, Montluçon, Yzeure, Mulhouse, Besançon, Bellerive-sur-Allier et Mâcon. Encore de fortes rencontres en perspective&nbsp;!  Et nous avons la conviction profonde qu’il faut vraiment faire ce travail de prévention auprès des publics, et notamment des jeunes, car la réalité des faits et des chiffres nous heurte chaque jour.</p>
+<hr>
+<p class="intro-text">Et enfin, le tout dernier du mois, le 31, nous avons vécu une très belle journée <a href="une-nouvelle-page">une nouvelle page à écrire</a>, autour du deuil, de l’écriture et de la gravure et de cette consigne&nbsp;:&nbsp;qu’est-ce que nos défunts ont gravé en nous&nbsp;? qu’est-ce qui s’est inscrit dans nos corps&nbsp;? quelles sensations&nbsp;? Et cela a donné lieu à des échanges peu communs, des textes très forts et des images très parlantes.</p>
+
+<div class="center-max600-block">
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1781020669/gravure_oiseau_cc8nup.jpg"><br>
+<img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1781020767/gravure_deuil_partout_toujours_tilppe.jpg">
+</div>
 <h2>avril 2026</h2>
 <p class="intro-text">Les valises des Etres Humaines sont à peine rangées, que nous voici à refaire nos bagages pour la tournée de <a href="empreintes-sur-le-chemin">Empreintes sur le Chemin</a>, notre spectacle autour des traces laissées par l’enfance et l’exil et interprété par 7 personnes exilées et une équipe artistique.</p>
 <div class="center-max600-block">
