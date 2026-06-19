@@ -59,6 +59,18 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 </ul>
 <p class="intro-text center-text">octobre 2026</p>
 <ul class="agenda-list">
+<li><details name="notes"><summary>Mardi et Mercredi, 27 & 28 octobre 2026 à Paris (75), Lecture musicale de témoignages d’aidants</summary>
+<p class="intro-text center-text">à l’Université Sorbonne Nouvelle<br>
+8 rue de Saint Mandé<br>
+75012 Paris<br>
+dans le cadre du <a href="https://congres-aidants.fr/le-congres-2026/" rel="noopener noreferrer" target="_blank" style="text-decoration:underline">4ème Congrès francophone sur l’accompagnement des aidants</a>,<br>organisé par France Répit et l’Association Française des Aidants<br>
+
+</p>
+</details><hr></li>
+
+
+
+
 <li><details name="notes"><summary>Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 13h45 et 18h30</summary>
 <p class="intro-text center-text">
 A la salle de cinéma du CART<br>
