@@ -41,7 +41,7 @@ coordination.revertouthaut@gmail.com</p>
                 <img src="https://ik.imagekit.io/eownvzurl/Flyer%202%20Les%20Emme%CC%82le%CC%81s%20-Web-2_page-0001_58n89O2UM.jpg">
         </div> 
         <div class="column">
-            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1759398293/Flyer_Les_Emme%CC%82le%CC%81s_rcgp87.pdf" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/Flyer%202%20Les%20Emme%CC%82le%CC%81s%20-Web-2_page-0002_-O1kcQd2m-.jpg">Clicquer pour télécharger le flyer.</a>
+            <a href="https://res.cloudinary.com/dnxcesebo/image/upload/v1782202529/Flyer_2_Les_Emme%CC%82le%CC%81s_-Web-2_pq10z7.pdf" rel="noopener noreferrer" target="_blank"><img src="https://ik.imagekit.io/eownvzurl/Flyer%202%20Les%20Emme%CC%82le%CC%81s%20-Web-2_page-0002_-O1kcQd2m-.jpg">Clicquer pour télécharger le flyer.</a>
         </div>
 </div>
 
