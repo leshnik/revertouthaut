@@ -6,13 +6,27 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <h1 id="ag">agenda</h1>
 <p class="intro-text center-text">décembre 2026</p>
 <ul class="agenda-list">
-<li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre, Scène nationale<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span></summary><p class="intro-text">
-<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
+<li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 20h</summary>
+<p class="intro-text center-text">
+    Théâtre de Mâcon<br>
+    1511 avenue Charles de Gaule<br>
+    71000 MACON<br>
+    Deux représentations par jour&nbsp;:&nbsp;14h et 20h<br>
+    Durée&nbsp;:&nbsp;1h25 + échanges avec le public<br>
+    Lien de réservation à venir<br>
+    Organisé en partenariat avec le Réseau VIF du Maconnais-Beaujolais-Agglomération<br>
+<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a><br></p>
 </details><hr></li>
-<li><details name="notes"><summary>Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
+
+<li><details name="notes"><summary>Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> 14h15 </summary>
+<p class="intro-text center-text">
+    Le Geyser<br>
+43, Rue Jean Baptiste Burlot<br>
+03700 Bellerive-sur-Allier<br>
+Une représentation : 14h15<br>
+Lien de réservation à venir<br>
+Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large collectif de partenaires sur tout le département de l’Allier (coordination Collectif Hubertine Auclert).<br>
+<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
 </ul>
 <p class="intro-text center-text">novembre 2026</p>
@@ -23,38 +37,85 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
             Théâtre Ledoux<br>
             49 rue Mégevand<br>
             25000 Besançon<br>
-            Tram lignes T1*, T2* – stations Révolution ou Chamars<br>
-            Bus lignes L4*, L6*, 10 – arrêt Granvelle et ligne L3* – arrêt Carmes (*lignes disponibles également en soirée ainsi que le dimanche)<br>
-            Voiture parking de la mairie, place Saint-Jacques (1 € la nuit, de 19h à 9h)<br>
-            Places PMR place du Théâtre, accès à l’arrière du bâtiment<br>
+            Deux représentations&nbsp;:&nbsp;14h et 20h<br>
+            <a href="https://www.helloasso.com/associations/solidarite-femmes-besancon/evenements/spectacle-des-etres-humaines" rel="noopener noreferrer" target="_blank">
+            => cliquez ici pour réserver</a><br>
+            Organisé en partenariat avec Solidarité Femmes 25<br>
             
-            <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a>
+            <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a>
         </p>
 </details><hr></li>
 
-<li><details name="notes"><summary>Jeudi 26 novembre 2026 à Mulhouse (68) – Maison de la Culture Populaire – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, 2 séances</summary>
+<li><details name="notes"><summary>Jeudi 26 novembre 2026 à Mulhouse (68) – Maison de la Culture Populaire – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, 14h et 18h30</summary>
 
-<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br>
-<i>plus d'infos
- dès que nous recevons des précisions</i></p>
+<p class="intro-text center-text">
+    Maison de la Culture et du Peuple<br>
+    Foyer & Union St Joseph<br>
+    29 Rue du Chanoine Henri Cetty<br>
+    68200 Mulhouse<br>
+    Deux représentations&nbsp;:&nbsp;14h et 18h30<br>
+    Lien de réservation à venir<br>
+    Organisé en partenariat avec la Ville de Mulhouse<br>
+    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a><br>
+</p>
 </details><hr></li>
 
 
-<li><details name="notes"><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
-<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
+<li><details name="notes"><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> matin et 20h</summary>
+<p class="intro-text center-text">
+    Yzeurespace<br>
+
+        Route de Montbeugny<br>
+
+        03321 YZEURE<br>
+
+        Deux représentations : matin (séance réservée aux professionnels) et 20h<br>
+
+        Lien de réservation à venir<br>
+
+        Organisé en partenariat avec le CDAD 03 (conseil départemental de l'accès aux droits)
+et un large collectif de partenaires sur tout le département de l’Allier<br> 
+    (coordination Collectif Hubertine Auclert)<br>
+    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
-<li><details name="notes"><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
+
+
+<li><details name="notes"><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> après-midi et soirée </summary>
+<p class="intro-text center-text">
+    MJC de Montluçon<br>
+    8, Rue du Général Emile Mairal<br>
+    03100 Montluçon<br>
+    Deux représentations : après-midi et soirée<br>
+    Lien de réservation à venir<br>
+    Organisé en partenariat avec le CIDFF 03 et un large collectif de partenaires sur tout le département de l’Allier <br>
+    (coordination Collectif Hubertine Auclert)<br>
+    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
-<li><details name="notes"><summary>Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> </summary>
-<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
+
+<li><details name="notes"><summary>Samedi 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> 20h30 </summary>
+<p class="intro-text center-text">
+    Espace Culturel du Brionnais<br>
+    2ter, rue Gambetta<br>
+    71170 CHAUFFAILLES<br>
+    Une représentation : 20h30<br>
+    Lien de réservation à venir<br>
+    Organisé en partenariat avec la Ville de Chauffailles.<br>
+    Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
+    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
-<li><details name="notes"><summary>Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation pour les victimes de violences en milieu rural </summary>
-<p class="intro-text"><a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">cliquez ici pour ouvrir la page de Les Êtres Humaines</a><br><i>plus d'infos
- dès que nous recevons des précisions</i></p>
+
+<li><details name="notes"><summary>Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation, répétition publique </summary>
+<p class="intro-text center-text">
+    Espace Culturel du Brionnais<br>
+    2ter, rue Gambetta<br>
+    71170 CHAUFFAILLES<br>
+    Ateliers pour les victimes de violences en milieu rural,
+pour des adultes avec déficience mentale et pour des collégiens.<br>
+    Répétition publique ouverte à tous le samedi 7 novembre à 15h.<br>
+    Lien de réservation à venir.<br>
+    Organisé en partenariat avec la Ville de Chauffailles.<br>
+    Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
+    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
 </ul>
 <p class="intro-text center-text">octobre 2026</p>
