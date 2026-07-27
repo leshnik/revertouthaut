@@ -4,6 +4,67 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>juillet 2026</h2>
+<p class="intro-text">Ecriture ! et concentration&nbsp;!<br>
+En ce mois d’été, et de vie moins agitée, c’est au tour des mots, des déroulés, des agencements, des compositions, des narrations d’être au travail.</p>
+ 
+<p class="intro-text">Nous travaillons donc sur le nouveau déroulé de <a href="les-emmeles">les emmelé&middot;és</a> en transformant la version de 2025, en rajoutant des scènes, et en enlevant. Le spectacle vivant, c’est du vivant, donc ça bouge, il y a du mouvement, rien n’est figé.</p>
+<hr>
+<p class="intro-text">Et nous travaillons suite à une demande de l’association France Répit, sur des lectures musicales de témoignages d’aidants que nous présenterons lors du <a href="https://congres-aidants.fr/" rel="noopener noreferrer" target="_blank"> 4e colloque francophone sur l’accompagnement des aidants</a>, à la Sorbonne Nouvelle à Paris les 27 et 28 octobre.<br>
+Ces nouveaux témoignages vont mettre en avant tout ce que l’aidance complexifie dans les relations familiales et ses impacts sur le long terme.</p>
+
+<h2>juin 2026</h2>
+<p class="intro-text">Rêver Tout Haut termine ce premier semestre et en tire un petit bilan&nbsp;:&nbsp;</p>
+<ul class="intro-text" style="list-style-type: disc;">
+<li>1100 spectateurs pour <a href="les-etres-humaines">les êtres humaines</a></li>
+<li>600 pour <a href="captation_empreintes">empreintes sur le chemin</a></li>
+<li>21 participants écrivain.es pour <a href="une-nouvelle-page">une nouvelle page à écrire</a><p </li>
+</ul>
+<p class="intro-text">Et on ne compte pas le nombre d’heures, de rendez-vous, de dépôts de dossiers  pour préparer la rentrée&nbsp;!</p>
+ 
+<p class="intro-text">Voici déjà un petit aperçu de juin.</p>
+ 
+<p class="intro-text">Juin fut le mois « Empreintes sur le chemin » qui a fait escale à la Méandre à Chalon, au Coing à Blanot et au Château de la Verrerie au Creusot.<br>
+Nous garderons tous de cette tournée les souvenirs lumineux des rencontres, et la nécessité d’être sur scène et de raconter ce que l’exil fait traverser.<br>
+Peut-être allons-nous reprendre ce spectacle l’an prochain qui sait&nbsp;?<br>
+Il se pourrait bien que le monde ait encore besoin de ce genre d’échanges et de paroles&nbsp;?</p>
+ 
+<p class="intro-text">Un grand merci à la DILCRAH (Délégation interministérielle à la lutte contre le racisme, l'antisémitisme et la haine anti-LGBT) pour son soutien&nbsp;!</p>
+ 
+<p class="intro-text">Voici un extrait&nbsp;:&nbsp;</p>
+<p class="quote"> 
+L’exil n’est pas un voyage<br>
+L’exil n’a pas de retour, et n’aura jamais de fin<br>
+Car l’exil se fait à l’intérieur de toi<br>
+L’exil est une traduction : tu dois pour chaque mot, chaque geste, chaque regard, chaque odeur, chaque injonction, donner une nouvelle définition<br>
+L’exil n’a pas de mode d’emploi<br>
+L’exil est une brisure entre toi et toi<br>
+L’exil oublie ton prénom parfois<br>
+L’exil se découvre en même temps que tu te découvres toi-même<br>
+L’exil se conjugue toujours au présent<br>
+L’exil est une image gravée en toi<br>
+Une image qui marque le début de ton histoire, ici, sur un nouveau territoire<br>
+Alors te voici, c’est ton premier matin, et avec toi, nous écoutons le son de tes premiers pas sur un trottoir de France</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/P2660882_Nik_DxO%20-%20copie_X7ePxlMCv.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/P2660945_Nik_DxO%20-%20copie_G8ASUbKvN.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/P2670050_Nik_DxO%20-%20copie_5Ru6z-FI0.jpg"><br>
+  <img src="https://ik.imagekit.io/eownvzurl/P2670012_Nik_DxO%20-%20copie_UEpmqmxAf.jpg">
+</div>
+
+<figure>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/551ef105-6ff6-4c1f-91db-8a4b953df374?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe></div>
+<figcaption class="figCap">Captation de la représentation du 13 juin 2026 à Blanot (Saône-et-Loire)</figcaption>
+</figure>
+<hr> 
+<p class="intro-text">Les rencontres faites avec des jeunes aidant.es ont continué tout ce mois et nourrissent notre futur spectacle <a href="les-emmeles">les emmêlé&middot;es</a> Merci à elles et eux pour leur confiance et de nous avoir confié ce qui est tu la plupart du temps.</p>
+ 
+<p class="quote">«&nbsp;Moi j’ai l’impression d’avoir vécu trop de trucs pour mes 19 ans, je me sens déjà vieille et je pense que ma vie va s’arrêter demain. J’arrive pas à me dire que j’ai que 19 ans et que j’ai toute la vie devant moi.<br>
+Faut dire que ma mère me donne beaucoup de soucis.<br>
+Ma mère, elle boit. C’est le chaos dans sa vie, ma mère, elle a 15 ans dans sa tête.&nbsp;»</p>
+<hr> 
+<p class="intro-text">Juin fut aussi la dernière séance du printemps pour <a href="une-nouvelle-page">une nouvelle page à écrire</a> en musique toute une journée. Les ateliers d’écriture reprendront en fin d’année 26 et de toutes ces magnifiques et intenses créations sortira un spectacle en 2027.</p>
+
 <h2>mai 2026</h2>
 <p class="intro-text">Cher journal de bord,</p>
 
