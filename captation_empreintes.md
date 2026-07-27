@@ -25,6 +25,12 @@ par ce que tes mains ont exprimé et par les battements de ton cœur. »
 </cite></p>
 
 <h1>empreintes sur le chemin – spectacle</h1>
+
+<figure>
+<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/551ef105-6ff6-4c1f-91db-8a4b953df374?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;fullscreen;" allowfullscreen="true"></iframe></div>
+<figcaption class="figCap">Captation de la représentation du 13 juin 2026 à Blanot (Saône-et-Loire)</figcaption>
+</figure>
+<hr>
 <figure>
 <div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/13613/d2ba91e5-4588-4081-abb3-e25af26e6b58?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>
 <figcaption class="figCap">Captation de la représentation du 20 juin 2025 à 17h30 dans les locaux de l’association le Pont (Macon).</figcaption>
