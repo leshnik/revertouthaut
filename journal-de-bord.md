@@ -64,6 +64,11 @@ Faut dire que ma mère me donne beaucoup de soucis.<br>
 Ma mère, elle boit. C’est le chaos dans sa vie, ma mère, elle a 15 ans dans sa tête.&nbsp;»</p>
 <hr> 
 <p class="intro-text">Juin fut aussi la dernière séance du printemps pour <a href="une-nouvelle-page">une nouvelle page à écrire</a> en musique toute une journée. Les ateliers d’écriture reprendront en fin d’année 26 et de toutes ces magnifiques et intenses créations sortira un spectacle en 2027.</p>
+<hr>
+<p class="intro-text">Et aussi, le 28 juin, nous sommes allées à la clôture du Festival des Arts Participatifs et des Créations Partagées dont nos deux spectacles Empreintes sur le Chemin et Les Etres Humaines faisaient partie.<br>
+Voici une vidéo sur le site Vimeo&nbsp;:&nbsp;<a href="https://vimeo.com/1214195743?fl=tl&fe=ec" rel="noopener noreferrer" target="_blank">2026 ACPC LE PRINTEMPS</a>
+
+
 
 <h2>mai 2026</h2>
 <p class="intro-text">Cher journal de bord,</p>
