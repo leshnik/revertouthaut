@@ -6,6 +6,9 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <h1 id="ag">agenda</h1>
 <p class="intro-text center-text">décembre 2026</p>
 <ul class="agenda-list">
+<li><details name="notes"><summary>Samedi 12 décembre à Ameugny (71) - à la bibliothèque - atelier artistique 9h30 à 12h</summary>
+<p class="intro-text center-text">Pour grands-parents et petits enfants. Dessins, papiers découpés et poèmes pour raconter les ressemblances et dissemblances dans les familles.</p></details><hr></li>
+
 <li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 20h</summary>
 <p class="intro-text center-text">
     Théâtre de Mâcon<br>
@@ -23,10 +26,13 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
     Le Geyser<br>
 43, Rue Jean Baptiste Burlot<br>
 03700 Bellerive-sur-Allier<br>
-Une représentation : 14h15<br>
-Lien de réservation à venir<br>
+Séance scolaire&nbsp;:&nbsp;14h15<br>
+Réservations aux 04&nbsp;70&nbsp;58&nbsp;43&nbsp;80<br>
 Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large collectif de partenaires sur tout le département de l’Allier (coordination Collectif Hubertine Auclert).<br>
 <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/ScreenFloat%20Shot%20A4284359835F_zor7Dh2uc.jpg">
+</div>
 </details><hr></li>
 </ul>
 <p class="intro-text center-text">novembre 2026</p>
@@ -38,6 +44,8 @@ Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large colle
             49 rue Mégevand<br>
             25000 Besançon<br>
             Deux représentations&nbsp;:&nbsp;14h et 20h<br>
+            14h - Séance scolaire<br>
+            20h - Séance tout public
             <a href="https://www.helloasso.com/associations/solidarite-femmes-besancon/evenements/spectacle-des-etres-humaines" rel="noopener noreferrer" target="_blank">
             => cliquez ici pour réserver</a><br>
             Organisé en partenariat avec Solidarité Femmes 25<br>
@@ -61,7 +69,7 @@ Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large colle
 </details><hr></li>
 
 
-<li><details name="notes"><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> matin et 20h</summary>
+<li><details name="notes"><summary>Mardi 24 novembre 2026 à Yzeure (03) – Yzeurespace – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> 9h15 et 20h</summary>
 <p class="intro-text center-text">
     Yzeurespace<br>
 
@@ -69,7 +77,7 @@ Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large colle
 
         03321 YZEURE<br>
 
-        Deux représentations : matin (séance réservée aux professionnels) et 20h<br>
+        Deux représentations&nbsp;:&nbsp; 9h15 (séance réservée aux professionnels) et 20h<br>
 
         Lien de réservation à venir<br>
 
@@ -79,14 +87,17 @@ et un large collectif de partenaires sur tout le département de l’Allier<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
 
+<li><details name="notes"><summary>Lundi 23 novembre à Mâcon (71) - lecture de <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
+<p class="intro-text">Lecture de «&nbsp;Les êtres humaines&nbsp;», lors de la journée de lutte contre les violences intra-familiales organisée par le Conseil&nbsp;Départemental&nbsp;71</p></details><hr></li>
 
-<li><details name="notes"><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> après-midi et soirée </summary>
+<li><details name="notes"><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> 14h et 20h </summary>
 <p class="intro-text center-text">
     MJC de Montluçon<br>
     8, Rue du Général Emile Mairal<br>
     03100 Montluçon<br>
-    Deux représentations : après-midi et soirée<br>
-    Lien de réservation à venir<br>
+    Deux représentations : 14h et 20h<br>
+    14h – Séance scolaire – Réservations Scolaire : nadege.varin@allier.gouv.fr – 06 70 22 08 30 / direction@egalité-allier.fr – 04 70 35 10 69<br>
+    20h – Séance tout public : lien de réservation à venir<br>
     Organisé en partenariat avec le CIDFF 03 et un large collectif de partenaires sur tout le département de l’Allier <br>
     (coordination Collectif Hubertine Auclert)<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
@@ -98,21 +109,56 @@ et un large collectif de partenaires sur tout le département de l’Allier<br>
     2ter, rue Gambetta<br>
     71170 CHAUFFAILLES<br>
     Une représentation : 20h30<br>
-    Lien de réservation à venir<br>
+    Réservation sur place : du lundi au jeudi
+14h/17h30, le vendredi 8h30/12h et 14h/17h30<br>
+Ou en ligne www.ecb-chauffailles.fr<br>
     Organisé en partenariat avec la Ville de Chauffailles.<br>
     Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
 
-<li><details name="notes"><summary>Du Lundi 2 novembre au Vendredi 13 novembre à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence repétitions et interventions de sensibilisation, répétition publique </summary>
+<li><details name="notes"><summary>Samedi 7 novembre 2026 à Chauffailles (71) - Espace Culturel du Brionnais - répétition publique <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, 15h </summary>
+<p class="intro-text center-text">
+Espace Culturel du Brionnais<br>
+2ter, rue Gambetta<br>
+71170 CHAUFFAILLES<br>
+Répétition en public ouverte à tous : 15h<br>
+<br>
+GRATUIT - pas de réservation<br>
+<br>
+Organisé en partenariat avec la Ville de Chauffailles.<br>
+Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
+
+<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
+</details><hr></li>
+
+<li><details name="notes"><summary>Mardi 3 novembre 2026 à Chaufailles (71) - Espace Culturel du Brionnais - <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> - Journée d'ateliers créatifs pour les personnes concernées par les violences intra-familiales, 9h30 à 17h</summary>
+<p class="intro-text center-text">
+Espace Culturel du Brionnais<br>
+2ter, rue Gambetta<br>
+71170 CHAUFFAILLES<br>
+GRATUIT<br>
+<br>
+A l’occasion de notre séjour à Chauffailles, nous invitons toutes les personnes intéressées, concernées, à participer à une journée d’ateliers animée par plusieurs artistes qui proposeront peinture, chansons, dessins, collages, écriture… La journée est conçue comme un temps de rencontres détendues et conviviales. Il n’est pas obligatoire d’y être présent·e sur toute la durée. On peut juste passer y boire un thé !<br>
+
+Repas partagé le midi pour les personnes qui souhaitent manger sur place.<br>
+
+Informations : 07 82 16 11 16 / coordination.revertouthaut@gmail.com<br>
+
+Organisé en partenariat avec la Ville de Chauffailles et le Réseau VIF du Brionnais.<br>
+Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
+<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a>
+</p>
+
+</details><hr></li>
+
+<li><details name="notes"><summary>Du Lundi 2 novembre au Vendredi 13 novembre 2026 à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> résidence&nbsp;:&nbsp; repétitions et interventions de sensibilisation</summary>
 <p class="intro-text center-text">
     Espace Culturel du Brionnais<br>
     2ter, rue Gambetta<br>
-    71170 CHAUFFAILLES<br>
-    Ateliers pour les victimes de violences en milieu rural,
-pour des adultes avec déficience mentale et pour des collégiens.<br>
-    Répétition publique ouverte à tous le samedi 7 novembre à 15h.<br>
-    Lien de réservation à venir.<br>
+    71170 CHAUFFAILLES<br><br>
+    Nous profitons de notre séjour à Chauffailles pour proposer des ateliers artistiques pour des adultes avec déficience mentale (en partenariat avec Convergence 71), ainsi qu’une journée d‘ateliers ouverte à toute personnes concernées par les violences intra-familiales en milieu rural (en partenariat avec le réseau VIF du Brionnais). <br>
+    Nous ouvrirons aussi les portes de l’ECB aux jeunes du Brionnais Sud Bourgogne (collégiens, élèves des MFR, jeunes accompagnés par les Missions Locales et Info-Jeunes) pour assister à des répétitions et venir échanger avec l’équipe.<br>
     Organisé en partenariat avec la Ville de Chauffailles.<br>
     Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
@@ -148,7 +194,11 @@ Allee Thirode<br>
 71380 Saint-Marcel<br>
 Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nbsp;11&nbsp;16<br>
 <a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-chalon" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour réserver</i></a><br>
-<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p></details><hr>
+<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p><div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/Affiche%20JNA%20Saint-Marcel%2012.10.26_rMWQfXRnp.jpg">
+</div></details>
+
+<hr>
 </li>
 <li><details name="notes"><summary>Jeudi 8 octobre 2026 à Bourbon-Lancy – Espace Culturel Saint Léger – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 14h30</summary>
 <p class="intro-text center-text">
@@ -159,7 +209,11 @@ Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nb
 <a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-bourbon-lancy" rel="noopener noreferrer" target="_blank">&#9654;<i>cliquer ici pour réserver</i></a><br>
 
 
-<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p></details><hr>
+<a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/Affiche%20JNA%20Bourbon%20Lancy%208.10.26_egNIEcoOyB.jpg">
+</div>
+</details><hr>
 </li>
 
 <li><details name="notes"><summary>Mardi 6 octobre 2026 à Mâcon (71) – MJC de l'Héritan – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 14h30 & 20h </summary>
