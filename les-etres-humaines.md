@@ -201,13 +201,13 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
 <p class="intro-text">Les représentations auront lieu&nbsp;:&nbsp;</p>
 
 <ul class="bullet">
-  <li>Les 3 et 4 décembre 2026 à Mâcon (71) – Le Théâtre, Scène nationale – quatre représentations</li>
-  <li>Le 1 décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser – deux représentations</li>
-  <li>Le 27 novembre 2026 à Besançon (25) – Les deux scènes – Théâtre Ledoux, deux représentations</li>
-  <li>Le 26 novembre 2026 à Mulhouse (68) – Maison de la Culture Populaire, deux représentations</li>
-  <li>Le 24 novembre 2026 à Yzeure (03) – Yzeurespace – deux représentations</li>
-  <li>Le 17 novembre 2026 : à Montluçon (03) – MJC – deux représentations </li>
-  <li>Le 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais – une représentation tout public </li>
+  <li>Les 3 et 4 décembre 2026 à Mâcon (71) – Théâtre de Mâcon</li>
+  <li>Le 1 décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser</li>
+  <li>Le 27 novembre 2026 à Besançon (25) – Les deux scènes – Théâtre Ledoux</li>
+  <li>Le 26 novembre 2026 à Mulhouse (68) – Maison de la Culture Populaire</li>
+  <li>Le 24 novembre 2026 à Yzeure (03) – Yzeurespace</li>
+  <li>Le 17 novembre 2026 : à Montluçon (03) – MJC</li>
+  <li>Le 14 novembre 2026 à Chauffailles (71) – Espace Culturel du Brionnais</li>
   <li>Du 2 au 13 novembre à Chauffailles (71) deux semaines de résidence, répétitions et interventions de sensibilisation pour les victimes de violences en milieu rural</li>
   <li>Le 2 avril 2026 à Bourbon Lancy (71) – Espace Culturel Saint-Léger – deux représentations</li>
   <li>le 19 mars 2026 à Besançon (25) – Centre Social Planoise – deux représentations</li>

@@ -111,7 +111,7 @@ et un large collectif de partenaires sur tout le département de l’Allier<br>
     Une représentation : 20h30<br>
     Réservation sur place : du lundi au jeudi
 14h/17h30, le vendredi 8h30/12h et 14h/17h30<br>
-Ou en ligne www.ecb-chauffailles.fr<br>
+Ou en ligne&nbsp;:&nbsp; <a href="https://ecb-chauffailles.mapado.com/event/788707-les-etres-humaines"><strong>=> cliquez ici pour réserver</strong></a><br>
     Organisé en partenariat avec la Ville de Chauffailles.<br>
     Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
