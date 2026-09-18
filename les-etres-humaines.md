@@ -216,6 +216,15 @@ Basé sur un long travail de recueil de témoignages, mené en 2025 auprès d'un
 </ul>
 <p class="intro-text">D’autres dates à venir à Chalon sur Saône, Besançon, Dole, Cuisery, etc… Voir les dates en <span style="color:#5bafb6; font-weight:bold;">bleu</span> sur la <a href="http://www.revertouthaut.fr/agenda">page agenda</a> pour plus d'informations.</p>
 
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Les%20Etres%20humaines%20Tourne%CC%81e%20Automne%202026%20-%20Web_page-0001_vVGbpPcyx.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Les%20Etres%20humaines%20Tourne%CC%81e%20Automne%202026%20-%20Web_page-0002_2s0v658qC.jpg">
+  </div>
+</div>
+
 <div id="présentation"></div><br style="margin-bottom:20px">
 <h2>Résumé et présentation</h2>
 

@@ -149,7 +149,14 @@ Organisé en partenariat avec la Ville de Chauffailles et le Réseau VIF du Brio
 Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
 <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a>
 </p>
-
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Les%20Etres%20humaines%20Chauffailles%20Web-1_page-0001_lquY5Ft1R.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Les%20Etres%20humaines%20Chauffailles%20Web-1_page-0002_Akos5PFPZ.jpg">
+  </div>
+</div>
 </details><hr></li>
 
 <li><details name="notes"><summary>Du Lundi 2 novembre au Vendredi 13 novembre 2026 à Chauffailles (71) –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> résidence&nbsp;:&nbsp; repétitions et interventions de sensibilisation</summary>
