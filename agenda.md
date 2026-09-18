@@ -192,6 +192,14 @@ Deux représentations: 13h45 et 18h30<br>
 Durée: 1h15 + échanges avec le public<br>
 <a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-matour" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour réserver</i></a><br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20journee%20aidants%20matour_page-0001_VMvRJqoDk.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20journee%20aidants%20matour_page-0002_bvGa51M27.jpg">
+  </div>
+</div>
 </details><hr></li>
 
 <li><details name="notes"><summary>Lundi 12 octobre 2026 à Saint-Marcel – Salle Alfred Jarot – <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 14h30 et 20h</summary>
@@ -234,6 +242,14 @@ Contact&nbsp;:&nbsp;coordination.revertouthaut@gmail.com / 07&nbsp;82&nbsp;16&nb
 <a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es" rel="noopener noreferrer" target="_blank">
 &#9654;<i>cliquer ici pour réserver</i></a><br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Journee%20aidants%20macon_page-0001_LUOJLciFN.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Journee%20aidants%20macon_page-0002_Aj4rdp9Yg.jpg">
+  </div>
+</div>
 </details><hr></li>
 </ul>
 <p class="intro-text center-text">juin 2026</p>
