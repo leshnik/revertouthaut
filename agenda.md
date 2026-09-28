@@ -7,7 +7,18 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <p class="intro-text center-text">décembre 2026</p>
 <ul class="agenda-list">
 <li><details name="notes"><summary>Samedi 12 décembre à Ameugny (71) - à la bibliothèque - atelier artistique 9h30 à 12h</summary>
-<p class="intro-text center-text">Pour grands-parents et petits enfants. Dessins, papiers découpés et poèmes pour raconter les ressemblances et dissemblances dans les familles.</p></details><hr></li>
+<p class="intro-text center-text">Pour grands-parents et petits enfants. Dessins, papiers découpés et poèmes pour raconter les ressemblances et dissemblances dans les familles.</p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/ameugny_2026-12-12p1_tOlwV6D1e.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/ameugny_2026-12-12p2_vBama05dJ.jpg">
+  </div>
+</div>
+<a href="https://ik.imagekit.io/eownvzurl/A%CC%80%20quoi%20tient%20le%20lien%20entre%20les%20ge%CC%81ne%CC%81rations%20_j0of5RDa-.pdf" rel="noreferrer noopener" target="_blank">=> cliquez ici pour télécharger la présentation complète</a>
+
+</details><hr></li>
 
 <li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 20h</summary>
 <p class="intro-text center-text">
@@ -79,16 +90,23 @@ Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large colle
 
         Deux représentations&nbsp;:&nbsp; 9h15 (séance réservée aux professionnels) et 20h<br>
 
-        Lien de réservation à venir<br>
+        <a href="https://www.billetweb.fr/spectacle-les-etres-humaines" rel="noopener noreferrer" target="_blank"><strong>=> cliquez ici pour réserver</strong></a><br>
 
         Organisé en partenariat avec le CDAD 03 (conseil départemental de l'accès aux droits)
 et un large collectif de partenaires sur tout le département de l’Allier<br> 
     (coordination Collectif Hubertine Auclert)<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/Affiche%20Les%20Etres%20Humaines%20Yzeure_dQ_349yS1D.png">
+</div>
 </details><hr></li>
 
 <li><details name="notes"><summary>Lundi 23 novembre à Mâcon (71) - lecture de <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
-<p class="intro-text">Lecture de «&nbsp;Les êtres humaines&nbsp;», lors de la journée de lutte contre les violences intra-familiales organisée par le Conseil&nbsp;Départemental&nbsp;71</p></details><hr></li>
+<p class="intro-text">Lecture de «&nbsp;Les êtres humaines&nbsp;», lors de la journée de lutte contre les violences intra-familiales organisée par le Conseil&nbsp;Départemental&nbsp;71</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/S&L-forum-2026-11-23_w52kxMBWq.jpg">
+</div>
+</details><hr></li>
 
 <li><details name="notes"><summary>Mardi 17 novembre 2026 à Montluçon (03) – MJC – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> 14h et 20h </summary>
 <p class="intro-text center-text">
@@ -97,7 +115,7 @@ et un large collectif de partenaires sur tout le département de l’Allier<br>
     03100 Montluçon<br>
     Deux représentations : 14h et 20h<br>
     14h – Séance scolaire – Réservations Scolaire : nadege.varin@allier.gouv.fr – 06 70 22 08 30 / direction@egalité-allier.fr – 04 70 35 10 69<br>
-    20h – Séance tout public : lien de réservation à venir<br>
+    20h – Séance tout public, cliquez ici pour réserver <a href="https://www.billetweb.fr/les-etres-humaines1" rel="noreferrer noopener" target="_blank"><strong>=> Billetterie : Les Êtres Humaines à Montluçon - Billetweb</strong></a><br>
     Organisé en partenariat avec le CIDFF 03 et un large collectif de partenaires sur tout le département de l’Allier <br>
     (coordination Collectif Hubertine Auclert)<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
@@ -111,7 +129,7 @@ et un large collectif de partenaires sur tout le département de l’Allier<br>
     Une représentation : 20h30<br>
     Réservation sur place : du lundi au jeudi
 14h/17h30, le vendredi 8h30/12h et 14h/17h30<br>
-Ou en ligne&nbsp;:&nbsp; <a href="https://ecb-chauffailles.mapado.com/event/788707-les-etres-humaines"><strong>=> cliquez ici pour réserver</strong></a><br>
+Ou en ligne&nbsp;:&nbsp; <a href="https://ecb-chauffailles.mapado.com/event/788707-les-etres-humaines" rel="noopener noreferrer" target="_blank"><strong>=> cliquez ici pour réserver</strong></a><br>
     Organisé en partenariat avec la Ville de Chauffailles.<br>
     Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
     <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
@@ -126,8 +144,9 @@ Répétition en public ouverte à tous : 15h<br>
 <br>
 GRATUIT - pas de réservation<br>
 <br>
-Organisé en partenariat avec la Ville de Chauffailles.<br>
-Soutenu par l’Espace Culturel du Brionnais – Chauffailles<br>
+Organisé en partenariat avec la Ville de Chauffailles. <br>
+Soutenu par l’Espace Culturel du Brionnais – Chauffailles. <br>
+<a href="https://www.ecb-chauffailles.fr/events/les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page de l'espace culturel du Brionnais</a>.<br>
 
 <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a></p>
 </details><hr></li>
@@ -185,20 +204,15 @@ dans le cadre du <a href="https://congres-aidants.fr/le-congres-2026/" rel="noop
 
 
 
-<li><details name="notes"><summary>Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 13h45 et 18h30</summary>
+<li><details name="notes"><summary>Jeudi 15 octobre 2026 à Matour (71) <span style="color:#fd599d; font-weight:bold;">Les Emmêlé‧es</span>, spectacle autour des jeunes aidant‧es, 13h45 (COMPLET) et 18h30</summary>
 <p class="intro-text center-text">
 A la salle de cinéma du CART<br>
-Deux représentations: 13h45 et 18h30<br>
+Deux représentations: 13h45 (COMPLET) et 18h30<br>
 Durée: 1h15 + échanges avec le public<br>
 <a href="https://www.helloasso.com/associations/association-rever-tout-haut/evenements/spectacle-les-emmele-es-a-matour" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour réserver</i></a><br>
 <a href="les-emmeles" rel="noopener noreferrer" target="_blank"><i>cliquez ici pour ouvrir la page du projet</i></a> </p>
-<div class="flex-container-wrap">
-  <div class="column">
-    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20journee%20aidants%20matour_page-0001_VMvRJqoDk.jpg">
-  </div>
-  <div class="column">
-    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20journee%20aidants%20matour_page-0002_bvGa51M27.jpg">
-  </div>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/Affiche%20journee%20aidants%20matour%20(2)_page-0001_krC6ULxQbS.jpg">
 </div>
 </details><hr></li>
 
