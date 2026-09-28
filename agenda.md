@@ -101,8 +101,11 @@ et un large collectif de partenaires sur tout le département de l’Allier<br>
 </div>
 </details><hr></li>
 
-<li><details name="notes"><summary>Lundi 23 novembre à Mâcon (71) - lecture de <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
-<p class="intro-text">Lecture de «&nbsp;Les êtres humaines&nbsp;», lors de la journée de lutte contre les violences intra-familiales organisée par le Conseil&nbsp;Départemental&nbsp;71</p>
+<li><details name="notes"><summary>Lundi 23 novembre à Viré (71) - lecture de <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span></summary>
+<p class="intro-text center-text">Lecture de «&nbsp;Les êtres humaines&nbsp;», lors de la journée de lutte contre les violences intra-familiales organisée par le Conseil&nbsp;Départemental&nbsp;71<br>
+Salle des Fêtes de Viré<br>
+De 13h30 à 17h30
+</p>
 <div class="center-max600-block">
   <img src="https://ik.imagekit.io/eownvzurl/S&L-forum-2026-11-23_w52kxMBWq.jpg">
 </div>
