@@ -18,7 +18,7 @@ Ces nouveaux témoignages vont mettre en avant tout ce que l’aidance complexif
 <ul class="intro-text" style="list-style-type: disc;">
 <li>1100 spectateurs pour <a href="les-etres-humaines">les êtres humaines</a></li>
 <li>600 pour <a href="captation_empreintes">empreintes sur le chemin</a></li>
-<li>21 participants écrivain.es pour <a href="une-nouvelle-page">une nouvelle page à écrire</a><p </li>
+<li>21 participants écrivain.es pour <a href="une-nouvelle-page">une nouvelle page à écrire</a> </li>
 </ul>
 <p class="intro-text">Et on ne compte pas le nombre d’heures, de rendez-vous, de dépôts de dossiers  pour préparer la rentrée&nbsp;!</p>
  
