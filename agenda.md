@@ -4,9 +4,20 @@ title: agenda
 summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
+<p class="intro-text center-text">février 2027</p>
+  <ul class="agenda-list">
+    <li><details name="notes"><summary>Jeudi 4 février 2027 à Cluny (71), à l'ENSAM - <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</summary></details></li>
+  </ul>
+<p class="intro-text center-text">janvier 2027</p>
+<ul class="agenda-list">
+  <li><details name="notes"><summary>Mardi 19 janvier 2027 à Davayé (71) au Lycée Agricole - <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</summary>
+  </details>
+  </li>
+</ul>
+
 <p class="intro-text center-text">décembre 2026</p>
 <ul class="agenda-list">
-<li><details name="notes"><summary>Samedi 12 décembre à Ameugny (71) - à la bibliothèque - atelier artistique 9h30 à 12h</summary>
+<li><details name="notes"><summary>Samedi 12 décembre 2026 à Ameugny (71) - à la bibliothèque - atelier artistique 9h30 à 12h</summary>
 <p class="intro-text center-text">Pour grands-parents et petits enfants. Dessins, papiers découpés et poèmes pour raconter les ressemblances et dissemblances dans les familles.</p>
 <div class="flex-container-wrap">
   <div class="column">
@@ -20,7 +31,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 
 </details><hr></li>
 
-<li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 20h</summary>
+<li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre 2026 à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 20h</summary>
 <p class="intro-text center-text">
     Théâtre de Mâcon<br>
     1511 avenue Charles de Gaule<br>
