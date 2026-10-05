@@ -4,6 +4,83 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>septembre 2026</h2>
+<p class="intro-text">Ça bosse, ça crée, ça remue, ça tourbillonne&nbsp;!
+</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_4514%20copy_01IF2gp83.jpg">
+</div>
+
+<p class="intro-text">
+Nous voici en pleine répétition de notre nouvelle création <a href="les-emmeles">les emmêlé&middot;es</a>, avec ses chansons, ses scènes et ses jeunes acteur&middot;ices et jeunes aidant&middot;es qui viennent rendre public leurs expériences singulières de vie auprès d’un.e proche fragile.<br>
+ 
+Beaucoup d’émotions émergent de leurs interprétations, et nous avons le sentiment de faire jaillir à la lumière des situations familiales douloureuses, complexes, souterraines qui méritent amplement de sortir de l’invisibilité.
+</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/siby_left_z51Y-AXTC.jpg">
+</div>
+
+<p class="intro-text">
+Nous sommes du coup en pleine organisation de la tournée du mois d’octobre dont le démarrage aura lieu le 6 octobre, lors de la Journée Nationale des Aidants.
+</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/antone_left_S_4Qjo8xNX.jpg">
+</div>
+<p class="intro-text">
+En attendant, un court extrait&nbsp;:&nbsp;</p>
+<p class="quote">
+ 
+«&nbsp;Ma mère ne m’a jamais demandé de m’occuper de mon père malade, ou de faire des repas, des lessives, des choses qu’on n’a pas à porter normalement quand on est enfant.
+Elle me disait « c’est pas ton rôle, va jouer. »
+Et en effet j’allais jouer et j’étais très souvent chez des copines, ma mère ne m’a rien volé de mon enfance.
+Donc moi, ce n’est pas l’aidance qui m’a marquée.
+C’est la maladie de mon père qui m’a pourri la vie.
+C’est de voir mon père qui se dégradait pendant que moi je grandissais qui m’a pourri la vie.
+Et j’avais peur de grandir car plus ça allait, et plus il se dégradait et plus je faisais des choses que lui n’arrivait plus à faire…&nbsp;»
+</p>
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%202%20Les%20Emme%CC%82le%CC%81s%20-Web-2_page-0001_3YuEJ68XD.jpg">
+  </div>
+  <div class="column">  
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%202%20Les%20Emme%CC%82le%CC%81s%20-Web-2_page-0002_MrTAgrMjf.jpg">
+  </div>
+</div>
+ 
+<p class="intro-text">Certaines séances sont déjà complètes. =>
+<a href="https://www.helloasso.com/associations/association-rever-tout-haut" rel="noopener noreferrer" target="_blank">Merci de réserver sur ce lien&nbsp;!</a></p>
+<hr>
+<p class="intro-text">Et nous sommes aussi en pleine préparation de la reprise des Êtres Humaines en novembre. Nous serons à Chauffailles durant deux semaines et y proposerons des ateliers artistiques ouverts aux personnes concernées par les violences intrafamiliales, notamment lors de la journée du 3 novembre.<br>
+Des répétitions publiques ouvertes aux scolaires et aux professionnel.les du travail social, aux élu.es, auront lieu durant notre résidence.<br>
+La représentation publique aura lieu le 14 novembre.</p>
+
+<p class="intro-text">Ces deux semaines à Chauffailles, où la ville et les services d’accompagnement de victimes sont très engagés, vont nous faire encore rencontrer beaucoup de monde, beaucoup de situations et particulièrement de situations de violences intra-familiales vécues en milieu rural. Pas facile de trouver de l’aide quand tout le monde connait tout le monde, quand les premiers voisins sont loin, et quand s’y ajoutent des problèmes de mobilité.<br>
+Merci d’en parler autour de vous.
+</p>
+
+<div class="flex-container-wrap">
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Les%20Etres%20humaines%20Chauffailles%20Web-1_page-0001_lquY5Ft1R.jpg">
+  </div>
+  <div class="column">
+    <img src="https://ik.imagekit.io/eownvzurl/Flyer%20Les%20Etres%20humaines%20Chauffailles%20Web-1_page-0002_Akos5PFPZ.jpg">
+  </div>
+</div>
+<hr>
+<p class="intro-text">Et puis, nous avons trouvé le temps de concevoir un nouveau projet, Accueillir la nuit, qui est une action qui se tiendra au printemps 2027, pour les usagers de l’Accueil de Jour des PEP 71 de Paray le Monial, à leur invitation. Nous y explorerons par le masque, la photographie, la peinture et la poésie, ce qui habite la nuit. Car le jour, il y a l’Accueil de Jour, mais la nuit ? Que faire des insomnies, de ce que l’on rumine ? De ce qui fait peur&nbsp;?<br> 
+Ce poème de Prévert va nous servir de point de départ&nbsp;:&nbsp;
+</p>
+<p class="quote"> 
+Depuis toujours<br>
+Toute la nuit<br>
+La nuit a rendez-vous avec le jour<br>
+Mais chaque nuit<br>
+Elle est obligée<br>
+De partir avant lui
+</p>
+<p class="cite">
+Jacques Prévert, dans Soleil de Nuit
+</p>
 <h2>juillet 2026</h2>
 <p class="intro-text">Ecriture ! et concentration&nbsp;!<br>
 En ce mois d’été, et de vie moins agitée, c’est au tour des mots, des déroulés, des agencements, des compositions, des narrations d’être au travail.</p>
