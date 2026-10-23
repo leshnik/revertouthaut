@@ -4,15 +4,158 @@ title: agenda
 summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
+<p class="intro-text center-text">avril 2027</p>
+<ul class="agenda-list">
+    <li><details name="notes"><summary> Dimance 4 avril 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 + sortie de résidence à 16h  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 + sortie de résidence à 16h </p>
+        </details>
+    </li>
+    <li><details name="notes"><summary> Samedi 3 avril 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 16h30  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 à 16h30 </p>
+        </details>
+    </li>
+    <li><details name="notes"><summary> Vendredi 2 avril 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 16h30  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 à 16h30 </p>
+        </details>
+    </li>
+</ul>
+<p class="intro-text center-text">mars 2027</p>
+
+<ul class="agenda-list">
+    <li><details name="notes"><summary> Dimanche 21 mars 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 16h30  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 à 16h30 </p>
+        </details>
+    </li>
+    <li><details name="notes"><summary> Samedi 20 mars 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 16h30  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 à 16h30 </p>
+        </details>
+    </li>
+    <li><details name="notes"><summary> Samedi 14 mars 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 16h30  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 à 16h30 </p>
+        </details>
+    </li>
+    <li><details name="notes"><summary> Samedi 13 mars 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 16h30  </summary>
+            <p class="intro-text center-text">
+                La Pimenterie<br>
+                1789 route du Lac<br>
+                71520 Saint Point<br>
+                <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+                Gratuit・Participation ponctuelle possible<br>
+                      De 10h30 à 16h30 </p>
+        </details>
+    </li>
+</ul>
+
 <p class="intro-text center-text">février 2027</p>
   <ul class="agenda-list">
-    <li><details name="notes"><summary>Jeudi 4 février 2027 à Cluny (71), à l'ENSAM - <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</summary></details></li>
+    <li><details name="notes"><summary> Dimanche 21 fevrier 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 à 12h30  </summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible<br>
+      De 10h30 à 12h30 </p>
+</details>
+</li>  
+    <li><details name="notes"><summary> Lundi 8 fevrier 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  14h30 à 16h30  </summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible<br>
+      De 14h30 à 16h30 </p>
+</details>
+</li>
+<li>
+  <details>
+    <summary>Vendredi 5 février 2027 à Dompierre-les-Ormes (71), au Lab71 - <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion
+    </summary>
+    <p class="intro-text center-text">
+    Lab 71<br>
+    2 chemin le Molard<br>
+71520 DOMPIERRE-LES-ORMES <br>
+<i>horaire à confirmer</i>
+</p>
+  </details>
+</li>
+<li><details name="notes"><summary>Jeudi 4 février 2027 à Cluny (71), à l'ENSAM - <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</summary></details></li>
   </ul>
 <p class="intro-text center-text">janvier 2027</p>
+
 <ul class="agenda-list">
+
+  <li><details name="notes"><summary>Samedi 23 janvier 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  14h30 à 16h30 </summary>
+    <p class="intro-text center-text">
+    La Pimenterie<br>
+    1789 route du Lac<br>
+    71520 Saint Point<br>
+    <a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page     du projet</i></a><br>
+    Gratuit・Participation ponctuelle possible<br>
+          De  14h30 à 16h30 </p>
+    </details>
+</li>
   <li><details name="notes"><summary>Mardi 19 janvier 2027 à Davayé (71) au Lycée Agricole - <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</summary>
   </details>
   </li>
+  <li><details name="notes"><summary>Mardi 12 janvier 2027 à Saint Point (71) - lecture musicale et présentation de <span style="color:#48cd33; font-weight:bold;">Celles Qui Veillent</span> avec Estelle Bernigal et Valérie Gaudissart, à 20h</summary>
+  <p class="intro-text center-text">
+    Avec Estelle Bernigal à l'accordéon <br>
+    et Valérie Gaudissart au journal de bord<br>
+    La Pimenterie<br>
+    1789 route du Lac<br>
+    71520 Saint Point<br>
+    <a href="celles-qui-veillent" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page     du projet</i></a><br>
+    </p>
+    </details>
+  </li>
+  <li><details name="notes"><summary>Dimanche 10 janvier 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 10h30 à 12h30 </summary>
+<p class="intro-text center-text">
+La Pimenterie<br>
+1789 route du Lac<br>
+71520 Saint Point<br>
+<a href="une-nouvelle-page" rel="noopener noreferrer" target="_blank"><i>=> cliquez pour ouvrir la page du projet</i></a><br>
+Gratuit・Participation ponctuelle possible<br>
+      De 10h30 à 12h30</p>
+</details>
+</li>
 </ul>
 
 <p class="intro-text center-text">décembre 2026</p>
@@ -463,7 +606,7 @@ La Pimenterie<br>
 </ul>
 <p class="intro-text center-text">mars 2026</p>
 <ul class="agenda-list">
-<li><details><summary>Mercredi 25 mars 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span> </summary>
+<li><details><summary>Mercredi 25 mars 2026 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span> </summary>
 <p class="intro-text center-text">
 La Pimenterie<br>
 1789 route du Lac<br>
@@ -595,7 +738,7 @@ Gratuit・Participation ponctuelle possible</p>
   </div>
 </details></li>
 
-<li><details><summary>Lundi 9 février 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 15h à 17h</summary>
+<li><details><summary>Lundi 9 février 2026 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 15h à 17h</summary>
 <p class="intro-text center-text">
 La Pimenterie<br>
 1789 route du Lac<br>
@@ -615,7 +758,7 @@ Gratuit・Participation ponctuelle possible</p>
 <p class="intro-text center-text">janvier 2026</p>
 <ul class="agenda-list">
 
-<li><details><summary>Vendredi 30 janvier 2026 à Saint Point -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 18h à 20h</summary>
+<li><details><summary>Vendredi 30 janvier 2026 à Saint Point (71) -<span style="color:#CB6120; font-weight:bold;"> Une nouvelle page à écrire</span>, de 18h à 20h</summary>
 <p class="intro-text center-text">
 La Pimenterie<br>
 1789 route du Lac<br>
@@ -632,7 +775,7 @@ Gratuit・Participation ponctuelle possible</p>
     </div>
 </details></li>
 
-<li><details><summary>Dimanche 11 janvier 2026 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 10h30 à 12h30</summary>
+<li><details><summary>Dimanche 11 janvier 2026 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de 10h30 à 12h30</summary>
 <p class="intro-text center-text">
 La Pimenterie<br>
 1789 route du Lac<br>
@@ -651,19 +794,19 @@ Gratuit・Participation ponctuelle possible</p>
 </ul>
 <p class="intro-text center-text">décembre 2025</p>
 <ul class="agenda-list">
-<li><a href="#21-12-2025">Dimanche 21 décembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#9-12-2025">Mardi 9 décembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#21-12-2025">Dimanche 21 décembre 2025 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#9-12-2025">Mardi 9 décembre 2025 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#5-12-2025">Vendredi 5 décembre 2025 à Charnay-les-Mâcon – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, avant-première</a></li>
 </ul>
 <p class="intro-text center-text">novembre 2025</p>
 <ul class="agenda-list">
 <li><a href="#24-11-2025">Lundi 24 au vendredi 28 novembre 2025 à Cuisery – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
-<li><a href="#17-11-2025">Lundi 17 novembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
-<li><a href="#9-11-2025">Dimanche 9 novembre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#17-11-2025">Lundi 17 novembre 2025 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#9-11-2025">Dimanche 9 novembre 2025 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 </ul>
 <p class="intro-text center-text">octobre 2025</p>
 <ul class="agenda-list">
-<li><a href="#30-10-2025">Jeudi 30 octobre 2025 à Saint Point - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
+<li><a href="#30-10-2025">Jeudi 30 octobre 2025 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span></a></li>
 <li><a href="#20-10-2025">Lundi 20 au vendredi 25 octobre 2025 à Saint Point – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
 <li><a href="#6-10-2025">Lundi 6 au vendredi 10 octobre 2025 à Cuisery – <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span>, résidence de création</a></li>
 <li><a href="#4-10-2025">Samedi 4 octobre 2025 à Cluny – <span style="color:#7551e1; font-weight:bold;">Maintenant Il Y A</span>, spectacle musical autour de la cérébro-lésion</a></li>
