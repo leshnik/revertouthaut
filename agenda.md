@@ -227,9 +227,9 @@ Organisé en partenariat avec la Ville de Bellerive-sur-Allier et un large colle
     29 Rue du Chanoine Henri Cetty<br>
     68200 Mulhouse<br>
     Deux représentations&nbsp;:&nbsp;14h et 18h30<br>
-    Lien de réservation/inscription&nbsp;:&nbsp;<a href="https://e-consult.mulhouse.fr" rel="noopener noreferrer" target="_blank">=> cliquez e-consult.mulhouse.fr</a>, puis sélectionner «&nbsp;Formulaire d’inscription au spectacle Les êtres humaines&nbsp;» <br>
+    Lien de réservation/inscription&nbsp;:&nbsp;<a class="decorated" href="https://e-consult.mulhouse.fr" rel="noopener noreferrer" target="_blank">=> cliquez e-consult.mulhouse.fr</a>, puis sélectionner «&nbsp;Formulaire d’inscription au spectacle Les êtres humaines&nbsp;» <br>
     Organisé en partenariat avec la Ville de Mulhouse<br>
-    <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a><br>
+    <a class="decorated" href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a><br>
 </p>
 <div class="flex-container">
   <div class="column">
