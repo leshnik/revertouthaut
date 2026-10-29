@@ -4,6 +4,54 @@ title: journal de bord
 summary: 
 ---
 <h1>journal de bord</h1>
+<h2>octobre 2026</h2>
+<p class="intro-text">
+Mission accomplie pour ce mois d’octobre !<br>
+Nous avons réussi à mettre en lumière des vécus invisibles : ceux des jeunes aidant.es, ces jeunes qui ont ou ont eu la charge d’un parent, d’un frère ou d’une sœur en situation de handicap, de maladie, d’addiction et qui, bien souvent, se taisent, se terrent pour ne pas peser, pour ne pas en rajouter, et parce que tout bonnement, c’est leur normalité. Mais cette «&nbsp;normalité&nbsp;» leur donne des responsabilités que n’ont pas les autres enfants, les font grandir vite, parfois trop vite et au-delà de l’aspect positif de l’aidance, à savoir une empathie et une maturité précoces, le fait d’être aidant.e crée souvent des empêchements de vivre pour soi-même.<br>
+Basé sur de nombreux témoignages, notre spectacle musical <a href="les-emmeles" rel="noopener noreferrer" target="_blank">les emmêlé&middot;es</a> réunissait sur scène une équipe artistique professionnelle, des jeunes aidant.es et aussi des jeunes futurs comédien.nes et danseuse.<br>
+Et leurs paroles ont été entendues, reçues.<br>
+Nous avons eu l’impression de défricher une terre encore inconnue du grand public, des proches, des enseignants, des soignants, et de participer, à notre manière à rendre visible une problématique de la jeunesse d’aujourd’hui.<br>
+</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_4323_CMedcC6vh.jpg">
+</div>
+<p class="intro-text">
+Après une très dynamique, efficace et joyeuse résidence de création, avec 10 personnes sur scène&nbsp;!, nous avons donné 7 représentations à Macon, Saint Marcel, Bourbon Lancy, Matour et joué devant plus de 1100 personnes. Beaucoup de rencontres, beaucoup de jeunes et d’adultes qui se sont reconnus dans cette situation.
+</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_4349_eJmGLEeGS.jpg"><br>
+</div>
+<p class="intro-text">
+Et pourquoi pas, une tournée 2027 ? Car le travail sur cette thématique pourtant essentielle ne fait que commencer…
+</p>
+<div class="center-max600-block">
+  <img src="https://ik.imagekit.io/eownvzurl/okDSC_4519_Ese4amPo1.jpg">
+</div>
+<p class="intro-text">
+Merci à toute l’équipe pour son engagement, les Réseau des Aidants Nord et Sud 71 et tous nos partenaires et financeurs qui ont permis ces intenses journées.
+</p>
+<hr>
+<p class="intro-text">
+Octobre est aussi le mois des préparatifs intensifs de la tournée de <a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">Les Êtres Humaines</a>, de toute son organisation, car nous sommes 13 adultes et un bébé&nbsp;! à partir sur les routes dans quelques jours. Alors on dort où ? on mange où&nbsp;?  on part à quelle heure&nbsp;? qui garde le bébé&nbsp;?<br>
+Et aussi la com, les publics, les partenaires, le budget, tant de choses à gérer mais aussi l’impatience de se retrouver toutes et de commencer cette tournée…<br>
+ <br>
+Et bonne nouvelle : merci au Conseil Régional de Bourgogne Franche-Comté de soutenir la tournée et les rencontres qu’elle va permette par deux aides : une aide à la résidence de création et une aide de la Direction à l’Egalite Femme/Homme !
+</p>
+<hr>
+<p class="intro-text">
+Et en octobre, nous avons répété une lecture musicale de témoignages d’aidants pour le 4ème Congrès Francophone pour l’Accompagnement des Aidants, qui était prévu pour les 27 et 28 octobre à Paris à la Sorbonne Nouvelle. Le Congrès a été repoussé de quelques mois.<br>
+En attendant ses nouvelles dates, voici un extrait d’un témoignage  que nous aurions lu, accompagné au piano&nbsp;:
+</p>
+<p class="quote">
+«&nbsp;Ma femme est décédée il y a tout juste deux ans.
+On a vraiment eu une belle vie, beaucoup d’amour, une grande famille. Quand on s’est rencontré, j’étais assez désespéré par mes choix de vie, et elle m’a sauvé, son amour m’a sauvé. Ma femme m’a redonné goût à la vie
+C’était une femme et une mère très dynamique, très joviale, elle faisait plein de choses, elle chantait toute la journée.
+Et puis au bout d’une trentaine d’années, Alzheimer est arrivé, et des années pas franchement drôles ni pour elle, ni pour nous tous. 
+ 
+Moi je l’aidais dans toutes les choses du quotidien, mais surtout j’essayais de l’aider à supporter, à oublier sa déchéance. C’était mon travail, faire en sorte que chaque jour, elle trouve malgré tout quelque chose de beau, quelque chose qui lui redonne le sourire, qui la fasse rire. Je lisais des histoires, de la poésie, je me déguisais, je faisais le clown, je cuisinais des bonnes choses, je mettais l’ambiance dans sa chambre. 
+ 
+Je lui devais ça, elle m’avait sauvé en me choisissant, alors c’était normal que j’essaie de la sauver de l’angoisse de la démence…&nbsp;»
+</p>
 <h2>septembre 2026</h2>
 <p class="intro-text">Ça bosse, ça crée, ça remue, ça tourbillonne&nbsp;!
 </p>
@@ -31,7 +79,7 @@ En attendant, un court extrait&nbsp;:&nbsp;</p>
 <p class="quote">
  
 «&nbsp;Ma mère ne m’a jamais demandé de m’occuper de mon père malade, ou de faire des repas, des lessives, des choses qu’on n’a pas à porter normalement quand on est enfant.
-Elle me disait « c’est pas ton rôle, va jouer. »
+Elle me disait «&nbsp;c’est pas ton rôle, va jouer.&nbsp;»
 Et en effet j’allais jouer et j’étais très souvent chez des copines, ma mère ne m’a rien volé de mon enfance.
 Donc moi, ce n’est pas l’aidance qui m’a marquée.
 C’est la maladie de mon père qui m’a pourri la vie.
@@ -101,7 +149,7 @@ Ces nouveaux témoignages vont mettre en avant tout ce que l’aidance complexif
  
 <p class="intro-text">Voici déjà un petit aperçu de juin.</p>
  
-<p class="intro-text">Juin fut le mois « Empreintes sur le chemin » qui a fait escale à la Méandre à Chalon, au Coing à Blanot et au Château de la Verrerie au Creusot.<br>
+<p class="intro-text">Juin fut le mois «&nbsp;Empreintes sur le chemin&nbsp;» qui a fait escale à la Méandre à Chalon, au Coing à Blanot et au Château de la Verrerie au Creusot.<br>
 Nous garderons tous de cette tournée les souvenirs lumineux des rencontres, et la nécessité d’être sur scène et de raconter ce que l’exil fait traverser.<br>
 Peut-être allons-nous reprendre ce spectacle l’an prochain qui sait&nbsp;?<br>
 Il se pourrait bien que le monde ait encore besoin de ce genre d’échanges et de paroles&nbsp;?</p>
@@ -849,10 +897,10 @@ Nous avançons bien sur l’organisation de la tournée 2026.</p>
 
 <div class="center-max600-block">
 <p class="intro-text"><cite>
-« Voilà, tu es arrivé.e quelque part<br>
+«&nbsp;Voilà, tu es arrivé.e quelque part<br>
 Et tu ne sais plus trop d’où tu viens<br>
 Le pays où tu es n’a pas encore de nom<br>
-Et celui que tu as quitté n’est déjà plus le tien »
+Et celui que tu as quitté n’est déjà plus le tien&nbsp;»
 </cite></p>
 
 <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1749378922/coquillages-empreintes_p1txhg.jpg">
@@ -877,7 +925,7 @@ Et celui que tu as quitté n’est déjà plus le tien »
 <hr>
 
  
-<p class="intro-text">Et puis bonne nouvelle, la DRAC de Bourgogne Franche-Comté soutient notre action « SUR LE SEUIL », qui sera faite en partenariat avec le LAM (Lits d’Accueil Médicalisé) de Montceau les Mines, géré par l’association le PONT. Un grand merci !</p>
+<p class="intro-text">Et puis bonne nouvelle, la DRAC de Bourgogne Franche-Comté soutient notre action «&nbsp;SUR LE SEUIL&nbsp;», qui sera faite en partenariat avec le LAM (Lits d’Accueil Médicalisé) de Montceau les Mines, géré par l’association le PONT. Un grand merci !</p>
  
 <p class="intro-text">Et dernière info : l’Assemblée Générale de Rêver Tout Haut aura lieu le mardi 10 juin à 18h à Buffières, 580 route de la Croix Montchanin, et nous donnera l’occasion de vous résumer toute l’année 24 qui fut bien chargée. (25 n’est pas mal non plus !)</p>
 
@@ -890,7 +938,7 @@ Et celui que tu as quitté n’est déjà plus le tien »
 
 <h2>avril 2025</h2>
 <p class="intro-text">
-Avril et ses trente jours bien remplis de rencontres, de mots, de récits, de dessins, de tâches de couleurs, de boules d’argile, de photographies, de chansoons, de yeux humides, de sourires soulagés, de « à très bientôt ».</p>
+Avril et ses trente jours bien remplis de rencontres, de mots, de récits, de dessins, de tâches de couleurs, de boules d’argile, de photographies, de chansoons, de yeux humides, de sourires soulagés, de «&nbsp;à très bientôt&nbsp;».</p>
  
 <p class="intro-text"><a href="les-etres-humaines">les êtres humaines</a>, sont parties sur les routes, se sont arrêtées à Besançon, à Saint Vallier et à Chalon-sur-Saône. Comment résumer ces journées où tant d’histoires se croisent, résonnent entre elles tout en étant à chaque fois singulières ? Les êtres humaines, ces femmes victimes de violence conjugale, qui viennent participer aux ateliers créatifs sont des femmes debout, des femmes qui ont osé dire non, osé partir et tout recommencer.
 Nous accueillons aussi durant ces journées les femmes, travailleuses sociales ou psychologiques qui sont à leurs côtés.</p>
@@ -1006,7 +1054,7 @@ Il dit que c’est en brisant les gens qu’on les garde
  
 <p class="intro-text">Notre action <a href="jeunes-aidants">les emmêlé&middot;es</a>, destinée à des jeunes aidants, continue son chemin. Nous étudions des propositions de reprendre notre spectacle en 2026. Voilà qui serait une belle perspective !</p>
  
-<p class="intro-text">Et nous sommes finalistes des <a href="https://kerialis.fr/les-trophees-kerialis">Trophées Kérialis</a>, qui récompense des initiatives innovantes qui font avancer notre société vers un avenir plus juste et équitable ». Merci beaucoup !</p>
+<p class="intro-text">Et nous sommes finalistes des <a href="https://kerialis.fr/les-trophees-kerialis">Trophées Kérialis</a>, qui récompense des initiatives innovantes qui font avancer notre société vers un avenir plus juste et équitable&nbsp;». Merci beaucoup !</p>
 
  
 <p class="intro-text">Un grand merci aussi à la Caisse Primaire d’Assurance Maladie 71 de nous avoir accordé son soutien financier ce mois-ci !</p>
@@ -1314,7 +1362,7 @@ avec nos doigts tressant des bouts de laine<br>
 avec nos yeux choisissant des couleurs<br>
 avec nos dos penchés sur les tables<br>
 avec nos rires traversant la grande salle<br>
-avec nos « bonjours et à la semaine prochaine ! » lancées à la cantonade<br>
+avec nos «&nbsp;bonjours et à la semaine prochaine !&nbsp;» lancées à la cantonade<br>
 avec notre bonne humeur que rien ne vient entacher<br>
 car nous sommes sages et savons profiter des bons moments<br>
 <br>
@@ -1392,8 +1440,8 @@ Une oeuvre collective sur laquelle chacun, chacune viendra poser sa marque. La s
 
 
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
-« je veux être libre » posé par A., appelle le « Joy » posé par S. <br>
-« La vie est belle » posée par C. appelle « la vita est troppo bella » posée par T. <br>
+«&nbsp;je veux être libre&nbsp;» posé par A., appelle le «&nbsp;Joy&nbsp;» posé par S. <br>
+«&nbsp;La vie est belle&nbsp;» posée par C. appelle «&nbsp;la vita est troppo bella&nbsp;» posée par T. <br>
 A. écrit son prénom, puis celui de sa fille, en perpendiculaire, <br>
 FR. commence par poser un Peace and Love en haut de la feuille, à côté d’une étoile posée par quelqu’un d’autre. <br>
 M. fait les choses en double : un papillon, et à côté de lui un autre papillon plus pâle, comme une trace, une ombre, un effacé. <br>
@@ -1407,7 +1455,7 @@ B. écrit son prénom en petites lettres, F. en grosses lettres<br>
 Céline passe de l’un à l’autre, donnant des conseils et posant sur la feuille des traits qui relient les images et les noms<br>
 Après-midi pleine d’échanges et de conversations. Les couleurs ont donné le ton de l’après-midi. Les images proposées par Céline ont aussi facilité la mise en œuvre, il fallait choisir (image, couleur et emplacement). Et il n’était pas demander de partir de zéro et de tout créer. Mais choisir, c’est déjà tout un mouvement, un premier pas vers une expression. <br>
 <br>
-La fresque est accrochée au mur, souvenir de notre après-midi commune, entre un Hello et un « Je veux être libre » en grosses lettres visibles de loin. 
+La fresque est accrochée au mur, souvenir de notre après-midi commune, entre un Hello et un «&nbsp;Je veux être libre&nbsp;» en grosses lettres visibles de loin. 
 </cite>
 <div class="center-max-block">
     <img src="https://res.cloudinary.com/dnxcesebo/image/upload/f_auto,q_auto/v1730818980/Screenshot_of_Affinity_Designer_2_at_5_Nov_2024_at_16_02_42_usyf16.png">
@@ -1434,19 +1482,19 @@ Rendez-vous 8 heures à Beaubery, l’aube n’a pas ouvert l’œil et pourtant
 <br>
 8h10, nous voilà chez H. qui part à la douche, montant ses escaliers qui mènent à la salle de bain et pour lequel elle a tout une technique : en bas je pose mes cannes, je m’agrippe aux deux rambardes, je compte les 7 marches, en haut je récupère une canne et une canne trépied et le tour est joué.<br>
 <br>
-H. nous amuse en chantant dans l’escalier « Etoile des neiges », accompagnée de l’accordéon qui encourage l’ascension. Elle sort de la douche, pimpante, après avoir chanté « histoire d’un amour » Nous sommes admiratives Estelle et moi devant l’efficacité d’Emilie : déshabillage, douche, habillage, tout ça en 10 minutes mais fait en prenant son temps.<br>
+H. nous amuse en chantant dans l’escalier «&nbsp;Etoile des neiges&nbsp;», accompagnée de l’accordéon qui encourage l’ascension. Elle sort de la douche, pimpante, après avoir chanté «&nbsp;histoire d’un amour&nbsp;» Nous sommes admiratives Estelle et moi devant l’efficacité d’Emilie : déshabillage, douche, habillage, tout ça en 10 minutes mais fait en prenant son temps.<br>
 <br>
 J’admire aussi comment Emilie prépare les piluliers, car aujourd’hui, on est vendredi, c’est le jour des pilules. <br>
 <br>
-Nous voici maintenant chez B., en semaine de récupération après celle de sa chimio. Elle dit que maintenant elle repleure, alors qu’il y a quelques temps, elle était sans émotion, anesthésiée. Nous chantons avec elle et l’accordéon, la Bombe Humaine, et « faudrait pas que j’me laisse aller » chanté par Téléphone a résonné fort dans les murs de cette maison.<br>
+Nous voici maintenant chez B., en semaine de récupération après celle de sa chimio. Elle dit que maintenant elle repleure, alors qu’il y a quelques temps, elle était sans émotion, anesthésiée. Nous chantons avec elle et l’accordéon, la Bombe Humaine, et «&nbsp;faudrait pas que j’me laisse aller&nbsp;» chanté par Téléphone a résonné fort dans les murs de cette maison.<br>
 <br>
-Nous revoici en voiture et nous nous arrêtons chez Mme M., qui parait-il peut parfois être sèche et envoyer des piques aux infirmières, du genre « c’est à cette heure que tu te lèves ?!»<br>
+Nous revoici en voiture et nous nous arrêtons chez Mme M., qui parait-il peut parfois être sèche et envoyer des piques aux infirmières, du genre «&nbsp;c’est à cette heure que tu te lèves ?!»<br>
 <br>
-Mais aujourd’hui, avec l’accordéon et la bonne humeur qui entre dans sa cuisine, elle est accueillante et souriante. Elle dira même à Emilie à la fin du petit concert auquel elle a pris plaisir: « ça doit te changer de toutes ces vieilles qui grognent ! » Une manière inconsciente de s’excuser de sa méchante humeur parfois ou de dire qu’elle s’en rend compte ?<br>
+Mais aujourd’hui, avec l’accordéon et la bonne humeur qui entre dans sa cuisine, elle est accueillante et souriante. Elle dira même à Emilie à la fin du petit concert auquel elle a pris plaisir: «&nbsp;ça doit te changer de toutes ces vieilles qui grognent !&nbsp;» Une manière inconsciente de s’excuser de sa méchante humeur parfois ou de dire qu’elle s’en rend compte ?<br>
 <br>
 Nous partons chez L. où nous allons passer un peu de temps. Car elle s’est beaucoup confiée et a certainement besoin d’un changement de vie. Elle dira d’elle-même, alors qu’elle fut très active toute sa vie, qu’elle est trop vieille et n’aime plus rien, qu’elle n’a plus de désir et qu’elle est submergée par des bouffées d’angoisses.<br>
 <br>
-Dame très touchante et pour laquelle je suis sûre, nous pourrions faire plus. Et si elle n’était pas freinée par ses conflits de loyauté envers la terre des ancêtres (elle est revenue au village pour s’occuper de ses parents vieillissants), elle pourrait vivre ailleurs, moins isolée et retrouver un gout pour l’existence. Nous avons chanté avec elle « pourtant comme la montagne est belle », qui raconte le voyage qu’elle-même a fait l’envers : la chanson raconte ceux qui ont quitté le village, J. et sa solitude racontent plutôt ceux qui y sont revenus.<br>
+Dame très touchante et pour laquelle je suis sûre, nous pourrions faire plus. Et si elle n’était pas freinée par ses conflits de loyauté envers la terre des ancêtres (elle est revenue au village pour s’occuper de ses parents vieillissants), elle pourrait vivre ailleurs, moins isolée et retrouver un gout pour l’existence. Nous avons chanté avec elle «&nbsp;pourtant comme la montagne est belle&nbsp;», qui raconte le voyage qu’elle-même a fait l’envers : la chanson raconte ceux qui ont quitté le village, J. et sa solitude racontent plutôt ceux qui y sont revenus.<br>
 <br>
 Nous passons chez JJ, que nous connaissons aussi et avec lequel nous avions passé un bon moment en chansons la dernière fois. Et bien aujourd’hui, c’est niet. JJ. ne veut pas entendre parler d’accordéon. Sa porte nous est fermée.<br>
 C’est un jour sans. <br>
@@ -1503,11 +1551,11 @@ Mise en scène et écriture par Valérie Gaudissart. Composition par Sidonie Dub
       </h3>
 
 <cite style="line-height: 1.5rem;letter-spacing:.13rem;">
-« Bienvenue à toi chère spectatrice, cher spectateur, toi qui es assis au bord de notre pré.<br>
+«&nbsp;Bienvenue à toi chère spectatrice, cher spectateur, toi qui es assis au bord de notre pré.<br>
 Ce spectacle est notre journal de bord, notre journal de bord de route, de chemins escarpés et de lignes de crêtes. Notre journal avance au pas de nos chevaux et de notre mule, et au pas de nous-mêmes, humaines, 4 femmes et 3 filles.<br>
 Imagine nous sur des sentiers de montagne, imagine nous dormant à la belle étoile, imagine nous préparant le bivouac, imagine nous fatiguées par l’ascension, imagine nous nageant dans les rivières glacées, imagine nous partageant nos secrets, nos blessures et nos histoires.<br>
 Tu découvriras les paysages que nous avons traversés, les paysages des sommets des Écrins mais aussi les paysages que nous avons au fond de nous-mêmes, nos paysages avec leurs vallons calmes, leurs sommets orageux, leurs ravins, leurs glaciers éternels, leurs précipices à contourner.<br>
-Écrin est dont le nom du massif qui a accueilli notre aventure mais c’est aussi celui où l’on cache nos bijoux les plus précieux. Et sache, spectatrice, spectateur, que ce nous avons vécu, sera gardé longtemps, et peut-être pendant toute notre vie dans cette boite à souvenirs les plus précieux »</cite>
+Écrin est dont le nom du massif qui a accueilli notre aventure mais c’est aussi celui où l’on cache nos bijoux les plus précieux. Et sache, spectatrice, spectateur, que ce nous avons vécu, sera gardé longtemps, et peut-être pendant toute notre vie dans cette boite à souvenirs les plus précieux&nbsp;»</cite>
 
 
 
@@ -2174,7 +2222,7 @@ Charnay-les-Mâcon.</p>
     <p class="intro-text">Et une autre idée qui vient de jaillir: proposer à des jeunes aidants, voire très jeunes, un atelier créatif danse/écriture/musique qui les réunirait autour de leurs expériences d’enfant, de frère, de sœur d’un proche porteur d’une maladie ou d’un handicap. Idée à creuser mais bien partie !
     </p>
     <hr>
-    <p class="intro-text">Le mardi 4 octobre, salle « Le Moderne » à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</p>
+    <p class="intro-text">Le mardi 4 octobre, salle «&nbsp;Le Moderne&nbsp;» à Montchanin: participation à la Journée des professionnels Parents71 sous forme d'une lecture de témoignages <a href="familles-d-aujourd-hui">familles d'aujourd'hui</a> autour des nouvelles façons de faire famille.</p>
     <div class="flex-container">
         <div class="column">
             <a href="familles-d-aujourd-hui"><img src="https://res.cloudinary.com/dnxcesebo/image/upload/q_auto,f_auto/v1662540623/Invitation-famille-pluriellesP1_orqwxz.jpg"></a>
