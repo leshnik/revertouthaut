@@ -4,9 +4,15 @@ title: agenda
 summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Haut.
 ---
 <h1 id="ag">agenda</h1>
+<p class="intro-text center-text">novembre 2027</p>
+<ul class="agenda-list">
+    <li><details name="notes"><summary>Vendredi 26 novembre à Tournus (71) - <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> - Salle Polyvalente</summary>
+    <p class="intro-text center-text"><i>plus d'infos à venir</i></p>
+    </details></li>
+</ul>
 <p class="intro-text center-text">avril 2027</p>
 <ul class="agenda-list">
-    <li><details name="notes"><summary> Dimance 4 avril 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 + sortie de résidence à 16h  </summary>
+    <li><details name="notes"><summary> Dimanche 4 avril 2027 à Saint Point (71) - <span style="color:#CB6120; font-weight:bold;">Une nouvelle page à écrire</span>, de  10h30 + sortie de résidence à 16h  </summary>
             <p class="intro-text center-text">
                 La Pimenterie<br>
                 1789 route du Lac<br>
