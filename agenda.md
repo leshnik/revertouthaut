@@ -187,9 +187,9 @@ Gratuit・Participation ponctuelle possible<br>
     71000 MACON<br>
     Deux représentations par jour&nbsp;:&nbsp;14h et 20h<br>
     Durée&nbsp;:&nbsp;1h25 + échanges avec le public<br>
-    Lien de réservation à venir<br>
+    Lien de réservation&nbsp;:&nbsp; <a class="decorated" href="https://www.mb-agglo.com/actualites/les-etres-humaines-un-spectacle-propose-par-le-reseau-de-lutte-contre-les-violences-intrafamiliales/" rel="noopener noreferrer" target="_blank"><i>=> cliquez ici pour réserver/s'inscrire</i></a><br>
     Organisé en partenariat avec le Réseau VIF du Maconnais-Beaujolais-Agglomération<br>
-<a href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a><br></p>
+<a class="decorated" href="les-etres-humaines" rel="noopener noreferrer" target="_blank">=> cliquez ici pour ouvrir la page «&nbsp;Les Êtres Humaines&nbsp;»</a><br></p>
 </details><hr></li>
 
 <li><details name="notes"><summary>Mardi 1er décembre 2026 à Bellerive-sur-Allier (03) – Le Geyser –  <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> 14h15 </summary>
