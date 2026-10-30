@@ -6,7 +6,7 @@ summary: Calendrier d'ateliers et de présentations publiques de Rêver Tout Hau
 <h1 id="ag">agenda</h1>
 <p class="intro-text center-text">novembre 2027</p>
 <ul class="agenda-list">
-    <li><details name="notes"><summary>Vendredi 26 novembre à Tournus (71) - <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> - Salle Polyvalente</summary>
+    <li><details name="notes"><summary>Vendredi 26 novembre 2027 à Tournus (71) - <span style="color:#5bafb6; font-weight:bold;">Les êtres humaines</span> - Salle Polyvalente</summary>
     <p class="intro-text center-text"><i>plus d'infos à venir</i></p>
     </details></li>
 </ul>
@@ -180,12 +180,12 @@ Gratuit・Participation ponctuelle possible<br>
 
 </details><hr></li>
 
-<li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre 2026 à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 20h</summary>
+<li><details name="notes"><summary>Jeudi et Vendredi 3 et 4 décembre 2026 à Mâcon (71) – Le Théâtre<span style="color:#5bafb6; font-weight:bold;"> – Les êtres humaines</span> 14h et 19h</summary>
 <p class="intro-text center-text">
     Théâtre de Mâcon<br>
     1511 avenue Charles de Gaule<br>
     71000 MACON<br>
-    Deux représentations par jour&nbsp;:&nbsp;14h et 20h<br>
+    Deux représentations par jour&nbsp;:&nbsp;14h et 19h<br>
     Durée&nbsp;:&nbsp;1h25 + échanges avec le public<br>
     Lien de réservation&nbsp;:&nbsp; <a class="decorated" href="https://www.mb-agglo.com/actualites/les-etres-humaines-un-spectacle-propose-par-le-reseau-de-lutte-contre-les-violences-intrafamiliales/" rel="noopener noreferrer" target="_blank"><i>=> cliquez ici pour réserver/s'inscrire</i></a><br>
     Organisé en partenariat avec le Réseau VIF du Maconnais-Beaujolais-Agglomération<br>
